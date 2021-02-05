@@ -1,0 +1,3239 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1.0, user-scalable = no" name = "viewport" />
+  <title>
+   mobilforum group: your premium dealer for vehicles. - Mobile forum group
+  </title>
+  <script>
+   var et_site_url = 'https: //www.mobilforum-gruppe.de'; var et_post_id = '5'; function et_core_page_resource_fallback (a, b) {"undefined" === typeof b && (b = a.sheet.cssRules && 0 == = a.sheet.cssRules.length); b && (a.onerror = null, a.onload = null, a.href? a.href = et_site_url + "/? et_core_page_resource =" + a.id + et_post_id: a.src && ( a.src = et_site_url + "/? et_core_page_resource =" + a.id + et_post_id))}
+  </script>
+  <! - This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ ->
+  <meta content = "The mobilforum group stands for mobile passion and vehicles with character. We look after you at six locations in Saxony and southern Brandenburg. Our brands: BMW, Cadillac, Corvette, Chevrolet, Infiniti and MINI." name = "description">
+   <meta content = "index, follow, max-snippet: -1, max-image-preview: large, max-video-preview: -1" name = "robots">
+    <link href = "https://www.mobilforum-gruppe.de/" rel = "canonical" />
+    <meta content = "de_DE" property = "og: locale" />
+    <meta content = "website" property = "og: type" />
+    <meta content = "mobilforum group: Your premium dealer for vehicles." property = "og: title" />
+    <meta content = "The mobilforum group stands for mobile passion and vehicles with character. We look after you at six locations in Saxony and southern Brandenburg. Our brands: BMW, Cadillac, Corvette, Chevrolet, Infiniti and MINI." property = "og: description" />
+    <meta content = "https://www.mobilforum-gruppe.de/" property = "og: url" />
+    <meta content = "Mobilforum Gruppe" property = "og: site_name" />
+    <meta content = "2019-04-17T13: 10: 47 + 00: 00" property = "article: modified_time" />
+    <meta content = "summary_large_image" name = "twitter: card" />
+    <meta content = "Posted by" name = "twitter: label1" />
+    <meta content = "ah" name = "twitter: data1" />
+    <meta content = "Estimated reading time" name = "twitter: label2" />
+    <meta content = "1 minute" name = "twitter: data2" />
+    <script class = "yoast-schema-graph" type = "application / ld + json">
+     {"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://www.mobilforum-gruppe.de/ #website "," url ":" https://www.mobilforum-gruppe.de/ "," name ":" Mobilforum Gruppe "," description ":" "," potentialAction ": [{" @ type ": "SearchAction", "target": "https://www.mobilforum-gruppe.de/?s=font>search_term_string}", "query-input": "required name = search_term_string"}], "inLanguage": "de -DE "}, {" @type ":" WebPage "," @id ":" https://www.mobilforum-gruppe.de/#webpage "," url ":" https: //www.mobilforum- gruppe.de/","name":"mobilforum Gruppe: Your premium dealer for vehicles. "," isPartOf ": {" @id ":" https://www.mobilforum-gruppe.de/ #website "}," datePublished ":" 2017-11-06T10: 46: 30 + 00: 00 "," dateModified ":" 2019-04-17T13: 10: 47 + 00: 00 "," description ":" The mobilforum group stands for mobile passion and vehicles with character. We support you at six locations in Saxony and S \ u00fcdbrandenburg. Our brands: BMW, Cadillac, Corvette, Chevrolet, Infiniti and MINI. "," InLanguage ":" de -DE "," potentialAction ": [{"@type": "ReadAction", "target": ["https://www.mobilforum-gruppe.de/"]}]}]}
+    </script>
+    <meta content = "0nRS7FDv2pRMdOS0OsqNjT5BkVoqco6C0xOOMyJByLc" name = "google-site-verification">
+     <! - / Yoast SEO plugin. ->
+     <link href = "// www.google.com" rel = "dns-prefetch" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/plugins/wordpress-plugin-car-advertisement/assets/css/style.css" id = "wpca-advertisement-css" media = "all" rel = "stylesheet" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/plugins/wordpress-plugin-location/assets/css/app.css" id = "wpl-location-css" media = "all "rel =" stylesheet "/>
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/plugins/wordpress-plugin-staff/assets/css/app.css" id = "wps-staff-css" media = "all "rel =" stylesheet "/>
+     <link href = "https://www.mobilforum-gruppe.de/wp-includes/css/dist/block-library/style.min.css" id = "wp-block-library-css" media = "all "rel =" stylesheet "/>
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/plugins/contact-form-7/includes/css/styles.css" id = "contact-form-7-css" media = "all" rel = "stylesheet" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/themes/mobilforum-gruppe-de/style.css" id = "wp-style-css" media = "all" rel = " stylesheet "/>
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/themes/mobilforum-gruppe-de/assets/dist/css/app.css?1604827299" id = "style-css" media = "all" rel = "stylesheet" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css" id = "borlabs-cookie-css" media = "all" rel = " stylesheet "/>
+     <script id = "jquery-core-js" src = "https://www.mobilforum-gruppe.de/wp-includes/js/jquery/jquery.js">
+     </script>
+     <script id = "wp-hide-post-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/wp-hide-post/public/js/wp-hide-post- public.js ">
+     </script>
+     <script id = "es6-promise-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/core/admin/js/es6-promise.auto.min.js" >
+     </script>
+     <script id = "et-core-api-spam-recaptcha-js-extra" type = "text / javascript">
+      / * <! [CDATA [* /
+var et_core_api_spam_recaptcha = {"site_key": "", "page_action": {"action": "www_mobilforum_gruppe_de"}};
+/ *]]> * /
+     </script>
+     <script id = "et-core-api-spam-recaptcha-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/core/admin/js/recaptcha.js" >
+     </script>
+     <script id = "borlabs-cookie-prioritize-js-extra" type = "text / javascript">
+      / * <! [CDATA [* /
+var borlabsCookiePrioritized = {"domain": "www.mobilforum-gruppe.de", "path": "\ /", "version": "2", "bots": "", "optInJS": {"external- media ": {" google maps "," PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg == '}}};
+/ *]]> * /
+     </script>
+     <script id = "borlabs-cookie-prioritize-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie-prioritize.min.js" >
+     </script>
+     <link href = "https://www.mobilforum-gruppe.de/wp-json/" rel = "https://api.w.org/" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-json/wp/v2/pages/5" rel = "alternate" type = "application / json" />
+     <link href = "https://www.mobilforum-gruppe.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+     <link href = "https://www.mobilforum-gruppe.de/" rel = "shortlink" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mobilforum-gruppe.de%2F" rel = "alternate" type = "application / json + oembed" />
+     <link href = "https://www.mobilforum-gruppe.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mobilforum-gruppe.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+     <style id = "et-bloom-custom-css" type = "text / css">
+      .et_bloom .et_bloom_optin_8 .et_bloom_form_content {background-color: #ededed! important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_container .et_bloom_form_header {background-color: #ffffff! important; } .et_bloom .et_bloom_optin_8 .curve_edge .curve {fill: #ffffff} .et_bloom .et_bloom_optin_8 .et_bloom_form_content button {background-color: # 3b3b3b! important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content .et_bloom_fields i {color: # 3b3b3b! important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content .et_bloom_custom_field_radio i: before {background: # 3b3b3b! important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content button {background-color: # 3b3b3b! important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2 strong {font-family: "Open Sans", serial; } .et_bloom .et_bloom_optin_8 .et_bloom_form_container p, .et_bloom .et_bloom_optin_8 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_8 .et_bloom_form_container p strong, .et_bloom_form_container p strong, .et_bloom-button. "Open Sans", Helvetica, Arial, Lucida, sans-serif; }
+     </style>
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/uploads/2018/01/cropped-2018-01_mfg_favicon_512x512-1-32x32.jpg" rel = "icon" sizes = "32x32" / >
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/uploads/2018/01/cropped-2018-01_mfg_favicon_512x512-1-192x192.jpg" rel = "icon" sizes = "192x192" / >
+     <link href = "https://www.mobilforum-gruppe.de/wp-content/uploads/2018/01/cropped-2018-01_mfg_favicon_512x512-1-180x180.jpg" rel = "apple-touch-icon" />
+     <meta content = "https://www.mobilforum-gruppe.de/wp-content/uploads/2018/01/cropped-2018-01_mfg_favicon_512x512-1-270x270.jpg" name = "msapplication-TileImage">
+      <style id = "wp-custom-css" type = "text / css">
+       .wp-block-button__link {
+font-size: 14px;
+letter-spacing: 0px;
+}
+
+.button-gutenberg-ram {
+  background-color: white! important;
+color: black! important;
+  border: 2px solid black! important;
+text-align: center! important;
+  text-decoration: none;
+  display: inline-block! important;
+-webkit-transition-duration: 0.4s; / * Safari * /
+  transition duration: 0.4s;
+font-family: Roboto, sans-serif! important;
+font-weight: 700! important;
+}
+
+.wp-block-button.button-gutenberg-ram: hover {
+  background: # 000000! important;
+  color: #ffffff! important;
+}
+
+.button-gutenberg-ram .wp-block-button__link: hover {
+  background: # 000000! important;
+  color: #ffffff! important;
+}
+
+.wp-block-button.post_btn_cadillac {
+background: # b6a36b;
+color: #fff;
+  text-align: center! important;
+  text-decoration: none! important;
+display: inline-block! important;
+-webkit-transition-duration: 0.4s; / * Safari * /
+  transition duration: 0.4s;
+}
+
+.news-detail-text a {
+text-decoration: none! important;
+}
+
+.post_btn_cadillac .wp-block-button__link {
+font-family: cad-reg, Arial, Helvetica, sans-serif! important;
+}
+
+.wp-block-button.post_btn_cadillac: hover {
+background: # 4b4b4b! important;
+}
+
+.post_btn_cadillac .wp-block-button__link: hover {
+background: # 4b4b4b! important;
+}
+
+.wp-block-button.post_btn_bmw {
+background: # 00a5e6! important;
+display: inline-block! important;
+font-family: bmwbold, Arial, sans-serif! important;
+}
+
+.post_btn_bmw .wp-block-button__link: hover {
+background: # 0078A7! important;
+}
+
+.btn_post_chevrolet {
+border: 2px solid # f2bf24! important;
+color: # 4d4d4d! important;
+font-family: Roboto, sans-serif! important;
+font-weight: 700! important;
+display: inline-block! important;
+}
+
+.btn_post_chevrolet: hover {
+background: # f2bf24! important;
+}
+
+.btn_post_chevrolet .wp-block-button__link: hover {
+background: # f2bf24! important;
+}
+
+.btn_post_dodge {
+border: 2px solid red! important;
+display: inline-block! important;
+font-weight: 700! important;
+font-family: Roboto, sans-serif! important;
+}
+
+.btn_post_dodge: hover {
+background: red! important;
+}
+
+.btn_post_dodge .wp-block-button__link: hover {
+background: red! important;
+}
+
+code {
+    font-size: 65.5%;
+    color: # 6c757d;
+}
+
+/* Location */
+@media (min-width: 992px)
+{.col-lg-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 41.66667%;
+    flex: 0 0 100%! important;
+    max-width: 100%! important;
+}}
+@media (min-width: 992px)
+{.col-lg-7 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 58.33333%;
+    flex: 0 0 100%! important;
+    max-width: 100%! important;
+}}
+
+img,
+iframe {
+max-width: 100%;
+}
+
+.embed-container {
+  position: relative;
+  padding bottom: 56.25%; / * ratio 16x9 * /
+  height: 0;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
+.embed-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/ * ratio 4x3 * /
+.embed-container.ratio4x3 {
+  padding bottom: 75%;
+}
+      </style>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class = "home page-template-default page page-id-5 et_bloom">
+  <div class = "top-nav">
+   <div class = "container-fluid">
+    <div class = "logo-nav">
+     <div class = "logo-mfg pull-left">
+      <a href="https://www.mobilforum-gruppe.de" title="To the homepage">
+       <img alt = "Logo Mobilforum Gruppe" src = "https://www.mobilforum-gruppe.de/wp-content/themes/mobilforum-gruppe-de/assets/img/logo-mobilforum-gruppe.png" />
+      </a>
+     </div>
+     <nav class = "navbar no-padding pull-right">
+      <button aria-controls = "mainnav" aria-expanded = "false" aria-label = "Toggle navigation" class = "navbar-toggler no-padding" data-target = "# mainnav" data-toggle = "collapse" type = "button">
+       <i aria-hidden = "true" class = "fa fa-bars">
+       </i>
+      </button>
+     </nav>
+     <div class = "clearfix">
+     </div>
+    </div>
+   </div>
+   <div class = "collapse" id = "mainnav">
+    <div class = "container-fluid main-nav">
+     <ul>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-80" id = "menu- item-80 ">
+       <a class="active" href="https://www.mobilforum-gruppe.de/">
+        mobilforum group
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1163" id = "menu-item-1163">
+       <a data-target=".submenu-1163" data-toggle="collapse" href="https://www.mobilforum-gruppe.de/unternehmen/">
+        <i aria-hidden = "true" class = "fa fa-angle-down">
+        </i>
+        Companies
+       </a>
+       <ul class = "collapse submenu-1163">
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-1185" id = "menu-item-1185">
+         <a href="https://www.mobilforum-gruppe.de/unternehmen/ueber-uns/">
+          about us
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-1648" id = "menu-item-1648">
+         <a href="https://www.mobilforum-gruppe.de/unternehmen/unsere-standorte/">
+          Locations
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-4373" id = "menu-item-4373">
+         <a href="https://www.mobilforum-gruppe.de/dienstleistungen/">
+          Services
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1761" id = "menu-item-1761">
+         <a href="https://www.mobilforum-gruppe.de/category/karriere/">
+          Training & amp; Career
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-3056" id = "menu-item-3056">
+         <a href="https://www.mobilforum-gruppe.de/unternehmen/presse/">
+          Press
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-1165" id = "menu-item-1165">
+         <a href="https://www.mobilforum-gruppe.de/unternehmen/impressum/">
+          imprint
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81" id = "menu-item-81">
+       <a data-target=".submenu-81" data-toggle="collapse" href="#">
+        <i aria-hidden = "true" class = "fa fa-angle-down">
+        </i>
+        Brands
+       </a>
+       <ul class = "collapse submenu-81">
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-79" id = "menu-item-79">
+         <a href="https://www.mobilforum-gruppe.de/bmw/">
+          BMW
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-76" id = "menu-item-76">
+         <a href="https://www.mobilforum-gruppe.de/cadillac/">
+          Cadillac
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-74" id = "menu-item-74">
+         <a href="https://www.mobilforum-gruppe.de/chevrolet/">
+          Chevrolet
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-75" id = "menu-item-75">
+         <a href="https://www.mobilforum-gruppe.de/corvette/">
+          Corvette
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-77" id = "menu-item-77">
+         <a href="https://www.mobilforum-gruppe.de/infiniti/">
+          Infiniti
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-15051" id = "menu-item-15051">
+         <a href="https://www.mobilforum-gruppe.de/dodge/">
+          Dodge
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-15050" id = "menu-item-15050">
+         <a href="https://www.mobilforum-gruppe.de/ram-trucks/">
+          Ram trucks
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-78" id = "menu-item-78">
+         <a href="https://www.mobilforum-gruppe.de/mini/">
+          MINI service
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-4379" id = "menu-item-4379">
+         <a href="https://www.mobilforum-gruppe.de/leistungen/saab-service/">
+          Saab service
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1895" id = "menu-item-1895">
+       <a href="https://www.mobilforum-gruppe.de/category/news/">
+        News
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1856" id = "menu-item-1856">
+       <a href="https://www.mobilforum-gruppe.de/category/events/">
+        Events
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class = "content">
+   <div class = "brand-intro container-fluid">
+    <div class = "row">
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 12" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2020/06 / intro_bmw_2020.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        BMW
+       </h2>
+       <p>
+        Follow your own rules and challenge your senses
+
+
+
+
+
+
+
+It's the rough edges that sharpen the character: Let the iconic design of the new BMW 4 Series Coupé f ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/bmw/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 18" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2019/04 / intro_cadillac.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Cadillac
+       </h2>
+       <p>
+        The new Cadillac XT4 with full service leasing from € 399 per month
+
+
+
+- Available with 350D (2.0 l turbodiesel), 350D AWD (2.0 l turbodiesel) or 350T AWD (2.0 l ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/cadillac/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 16" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2020/06 / intro_infiniti-service.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Infiniti
+       </h2>
+       <p>
+        Via the authorized INFINITI workshop network, we continue to comply with all service and guarantee agreements and with our specially trained service ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/infiniti/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 20" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2020/04 / 2020_kachel_corvette.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Corvette
+       </h2>
+       <p>
+        Eagerly awaited: the Corvette C8 will be available across Europe from mid-2021
+
+
+
+- More than the next generation - A new era has begun with the Corvette C8 V ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/corvette/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 22" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2019/04 / intro_chevrolet.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Chevrolet
+       </h2>
+       <p>
+        Eagerly awaited: the Corvette C8 will be available across Europe from mid-2021
+
+
+
+- More than the next generation - A new era has begun with the Corvette C8 V ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/chevrolet/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 14" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2018/09 / intro_mini-service.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        MINI service
+       </h2>
+       <p>
+        Visit us at one of our MINI service locations. Our branches in Freiberg, Bischofswerda and Senftenberg can be reached during regular opening times
+
+
+...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/mini/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 14135" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2018/11 / intro_dodge.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Dodge
+       </h2>
+       <p>
+        Drive the American Dream!
+With Dodge and Ram Trucks, we expanded our product family of American dream cars by two members in 2018.Dodge has been around since ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/dodge/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+     <div class = "col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 intro-box 14137" style = "background-image: url ('https: // www .mobilforum-gruppe.de / wp-content / uploads / 2018/11 / intro_ram.jpg ') ">
+      <div class = "intro-text">
+       <h2>
+        Ram trucks
+       </h2>
+       <p>
+        HARLEY DAYS DRESDEN 2019
+
+
+
+Harley Days Dresden - We were there The mobilforum Dresden GmbH presented itself as the main sponsor at its stand in the Ostragehege with a ...
+       </p>
+       <a aria-disabled="false" class="btn btn-primary" href="https://www.mobilforum-gruppe.de/ram-trucks/" role="button">
+        to the brand page
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "container-fluid scroll-down">
+    <a href="#">
+     <i aria-hidden = "true" class = "fa fa-angle-down animated infinite pulse">
+     </i>
+    </a>
+   </div>
+   <div class = "car-search" style = "background-image: url (https://www.mobilforum-gruppe.de/wp-content/uploads/2019/04/2019_16k_vray_dresden_5_ Montage_inf-cad_breit_vorschau_2.jpg)">
+    <div class = "container-fluid">
+     <div class = "headline">
+      <h2>
+       Find vehicles
+      </h2>
+      <p>
+       Here you will find our current vehicle offers
+      </p>
+     </div>
+     <div class = "container">
+      <form action = "https://www.mobilforum-gruppe.de/suchverbindungen/" class = "form" id = "wpca-advanced-search" method = "get">
+       <input name = "action" type = "hidden" value = "wpca-advertisements-results" />
+       <div class = "row">
+        <div class = "form-group col-md-12 wpca-condition">
+         <div class = "form-check form-check-inline">
+          <label class = "form-check-label">
+           <input class = "form-check-input" name = "wpca-condition []" type = "checkbox" value = "16" />
+           used cars
+          </label>
+         </div>
+         <div class = "form-check form-check-inline">
+          <label class = "form-check-label">
+           <input class = "form-check-input" name = "wpca-condition []" type = "checkbox" value = "114" />
+           Car of the year
+          </label>
+         </div>
+         <div class = "form-check form-check-inline">
+          <label class = "form-check-label">
+           <input class = "form-check-input" name = "wpca-condition []" type = "checkbox" value = "40" />
+           New car
+          </label>
+         </div>
+         <div class = "form-check form-check-inline">
+          <label class = "form-check-label">
+           <input class = "form-check-input" name = "wpca-condition []" type = "checkbox" value = "33" />
+           Demonstration car
+          </label>
+         </div>
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-manufacturer" data-visibility-toggle = "false">
+         <select class = "form-control" name = "wpca-manufacturer">
+          <option value = "0">
+           brand
+          </option>
+          <option value = "21">
+           BMW
+          </option>
+          <option value = "67">
+           Cadillac
+          </option>
+          <option value = "71">
+           Chevrolet
+          </option>
+          <option value = "73">
+           Corvette
+          </option>
+          <option value = "141">
+           Dodge
+          </option>
+          <option value = "89">
+           GMC
+          </option>
+          <option value = "77">
+           Infiniti
+          </option>
+          <option value = "232">
+           Lancia
+          </option>
+          <option value = "49">
+           MINI
+          </option>
+          <option value = "147">
+           VW
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-model" data-visibility-toggle = "false">
+         <select class = "form-control" disabled = "" name = "wpca-model">
+          <option value = "0">
+           model
+          </option>
+          <option data-parent = "21" value = "45">
+           118
+          </option>
+          <option data-parent = "21" value = "61">
+           120
+          </option>
+          <option data-parent = "21" value = "48">
+           218
+          </option>
+          <option data-parent = "21" value = "64">
+           218 Active Tourer
+          </option>
+          <option data-parent = "21" value = "60">
+           218 Gran Tourer
+          </option>
+          <option data-parent = "21" value = "82">
+           220
+          </option>
+          <option data-parent = "21" value = "42">
+           220 Active Tourer
+          </option>
+          <option data-parent = "21" value = "63">
+           220 Gran Tourer
+          </option>
+          <option data-parent = "21" value = "235">
+           225 Active Tourer
+          </option>
+          <option data-parent = "21" value = "30">
+           318
+          </option>
+          <option data-parent = "21" value = "39">
+           320
+          </option>
+          <option data-parent = "21" value = "22">
+           330
+          </option>
+          <option data-parent = "21" value = "31">
+           420
+          </option>
+          <option data-parent = "21" value = "96">
+           420 Gran Coupe
+          </option>
+          <option data-parent = "21" value = "28">
+           435
+          </option>
+          <option data-parent = "21" value = "46">
+           520
+          </option>
+          <option data-parent = "21" value = "62">
+           525
+          </option>
+          <option data-parent = "21" value = "32">
+           530
+          </option>
+          <option data-parent = "21" value = "38">
+           535
+          </option>
+          <option data-parent = "21" value = "194">
+           540
+          </option>
+          <option data-parent = "21" value = "104">
+           730
+          </option>
+          <option data-parent = "21" value = "37">
+           740
+          </option>
+          <option data-parent = "21" value = "115">
+           750
+          </option>
+          <option data-parent = "73" value = "358">
+           C8
+          </option>
+          <option data-parent = "71" value = "100">
+           Camaro
+          </option>
+          <option data-parent = "141" value = "309">
+           Challenger
+          </option>
+          <option data-parent = "71" value = "101">
+           Colorado
+          </option>
+          <option data-parent = "49" value = "54">
+           cooper
+          </option>
+          <option data-parent = "49" value = "92">
+           Cooper S
+          </option>
+          <option data-parent = "49" value = "103">
+           Cooper S Clubman
+          </option>
+          <option data-parent = "67" value = "70">
+           CTS
+          </option>
+          <option data-parent = "232" value = "373">
+           delta
+          </option>
+          <option data-parent = "67" value = "377">
+           Deville
+          </option>
+          <option data-parent = "147" value = "203">
+           Golf GTI VII
+          </option>
+          <option data-parent = "21" value = "302">
+           i3
+          </option>
+          <option data-parent = "21" value = "374">
+           M2
+          </option>
+          <option data-parent = "21" value = "314">
+           M5
+          </option>
+          <option data-parent = "21" value = "271">
+           M850
+          </option>
+          <option data-parent = "49" value = "108">
+           One
+          </option>
+          <option data-parent = "77" value = "80">
+           Q50
+          </option>
+          <option data-parent = "141" value = "260">
+           R.A.M.
+          </option>
+          <option data-parent = "89" value = "90">
+           Sierra
+          </option>
+          <option data-parent = "71" value = "72">
+           Silverado
+          </option>
+          <option data-parent = "21" value = "44">
+           X1
+          </option>
+          <option data-parent = "21" value = "204">
+           X2
+          </option>
+          <option data-parent = "21" value = "84">
+           X3
+          </option>
+          <option data-parent = "21" value = "85">
+           X4
+          </option>
+          <option data-parent = "21" value = "35">
+           X5
+          </option>
+          <option data-parent = "21" value = "370">
+           X5 M50d
+          </option>
+          <option data-parent = "21" value = "378">
+           X6 M
+          </option>
+          <option data-parent = "21" value = "289">
+           X7
+          </option>
+          <option data-parent = "67" value = "353">
+           XT4
+          </option>
+          <option data-parent = "67" value = "109">
+           XT5
+          </option>
+          <option data-parent = "73" value = "74">
+           Z06
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-mileage" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-mileage">
+          <option value = "0">
+           kilometre
+          </option>
+          <option value = "10000">
+           up to 10,000 km
+          </option>
+          <option value = "25000">
+           up to 25,000 km
+          </option>
+          <option value = "50000">
+           up to 50,000 km
+          </option>
+          <option value = "75000">
+           up to 75,000 km
+          </option>
+          <option value = "100000">
+           up to 100,000 km
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-registration-date" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-registration-year">
+          <option value = "0">
+           Construction year
+          </option>
+          <option value = "2012">
+           from 2012
+          </option>
+          <option value = "2013">
+           from 2013
+          </option>
+          <option value = "2014">
+           since 2014
+          </option>
+          <option value = "2015">
+           from 2015
+          </option>
+          <option value = "2016">
+           from 2016
+          </option>
+          <option value = "2017">
+           from 2017
+          </option>
+          <option value = "2018">
+           from 2018
+          </option>
+          <option value = "2019">
+           from 2019
+          </option>
+          <option value = "2020">
+           from 2020
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-price" data-visibility-toggle = "false">
+         <select class = "form-control" name = "wpca-price">
+          <option value = "0">
+           price
+          </option>
+          <option value = "10000">
+           up to € 10,000
+          </option>
+          <option value = "20000">
+           up to € 20,000
+          </option>
+          <option value = "30000">
+           up to € 30,000
+          </option>
+          <option value = "40000">
+           up to € 40,000
+          </option>
+          <option value = "50000">
+           up to € 50,000
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-fuel" data-visibility-toggle = "false">
+         <select class = "form-control" name = "wpca-fuel">
+          <option value = "0">
+           fuel
+          </option>
+          <option value = "19">
+           petrol
+          </option>
+          <option value = "25">
+           diesel
+          </option>
+          <option value = "303">
+           Electric
+          </option>
+          <option value = "91">
+           Hybrid gasoline
+          </option>
+          <option value = "257">
+           LPG
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-financing-rate" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-financing-rate">
+          <option value = "0">
+           Monthly rate
+          </option>
+          <option value = "50">
+           € 50 - € 200
+          </option>
+          <option value = "200">
+           € 200 - € 400
+          </option>
+          <option value = "400">
+           € 400 - € 600
+          </option>
+          <option value = "600">
+           € 600- € 800
+          </option>
+          <option value = "800">
+           & gt; € 800
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-horse-power" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-horse-power">
+          <option value = "0">
+           power
+          </option>
+          <option value = "50">
+           from 50 hp
+          </option>
+          <option value = "100">
+           from 100 hp
+          </option>
+          <option value = "150">
+           from 150 hp
+          </option>
+          <option value = "200">
+           from 200 hp
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-gearbox" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-gearbox">
+          <option value = "0">
+           transmission
+          </option>
+          <option value = "17">
+           Automatic
+          </option>
+          <option value = "23">
+           Manual transmission
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-body-shape" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-body-shape">
+          <option value = "0">
+           Vehicle type
+          </option>
+          <option value = "27">
+           Convertible / Roadster
+          </option>
+          <option value = "53">
+           Small car
+          </option>
+          <option value = "18">
+           Station wagon
+          </option>
+          <option value = "34">
+           limousine
+          </option>
+          <option value = "24">
+           Sports car / coupe
+          </option>
+          <option value = "36">
+           SUV / off-road vehicle
+          </option>
+          <option value = "43">
+           Van / minibus
+          </option>
+         </select>
+        </div>
+        <div class = "form-group pull-left col-md-3 wpca-detail-dropdown wpca-dealer" data-visibility-toggle = "true">
+         <select class = "form-control" name = "wpca-dealer">
+          <option value = "0">
+           Location
+          </option>
+          <option value = "mobilforum-Pirna">
+           Pirna
+          </option>
+          <option value = "mobilforum-Senftenberg">
+           Senftenberg
+          </option>
+          <option value = "mobilforum-Bischofswerda">
+           Bischofswerda
+          </option>
+          <option value = "mobilforum-Freiberg">
+           Freiberg
+          </option>
+          <option value = "mobilforum-Dresden-CCC">
+           Dresden CCC
+          </option>
+          <option value = "mobilforum-Dresden-Infiniti">
+           Dresden Infiniti
+          </option>
+         </select>
+        </div>
+       </div>
+       <div id = "wpca-advanced-search-details">
+        <div class = "container">
+         <div class = "row">
+          <h3>
+           Interior
+          </h3>
+         </div>
+         <div class = "row">
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-bluetooth" type = "checkbox" value = "1" />
+            Bluetooth
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-cd" type = "checkbox" value = "1" />
+            CD
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-headup-display" type = "checkbox" value = "1" />
+            Head-Up Display
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-mp3" type = "checkbox" value = "1" />
+            Mp3
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-navigation-system" type = "checkbox" value = "1" />
+            navigation system
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-rain-sensor" type = "checkbox" value = "1" />
+            rain sensor
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-seat-heater" type = "checkbox" value = "1" />
+            Seat heating
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-pre-heating" type = "checkbox" value = "1" />
+            Auxiliary heating
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-cruise-control" type = "checkbox" value = "1" />
+            Cruise control
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-central-locking" type = "checkbox" value = "1" />
+            central locking system
+           </label>
+          </div>
+         </div>
+        </div>
+        <div class = "container">
+         <div class = "row">
+          <h3>
+           security
+          </h3>
+         </div>
+         <div class = "row">
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-bending-light" type = "checkbox" value = "1" />
+            Cornering light
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-light-sensor" type = "checkbox" value = "1" />
+            Light sensor
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-foglight" type = "checkbox" value = "1" />
+            Fog lights
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-daytime-lights" type = "checkbox" value = "1" />
+            Daytime running lights
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-xenon-headlamps" type = "checkbox" value = "1" />
+            Xenon headlights
+           </label>
+          </div>
+         </div>
+        </div>
+        <div class = "container">
+         <div class = "row">
+          <h3>
+           Parking aid
+          </h3>
+         </div>
+         <div class = "row">
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-parking-sensors-rear" type = "checkbox" value = "1" />
+            Rear parking aid sensors
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-parking-sensors-front" type = "checkbox" value = "1" />
+            Parking aid sensors in front
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-parking-sensors-camera" type = "checkbox" value = "1" />
+            Parking aid camera
+           </label>
+          </div>
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-parking-sensors-self-guiding" type = "checkbox" value = "1" />
+            Parking aid self-steering system
+           </label>
+          </div>
+         </div>
+        </div>
+        <div class = "container">
+         <div class = "row">
+          <h3>
+           Extras
+          </h3>
+         </div>
+         <div class = "row">
+          <div class = "form-check col-md-3">
+           <label class = "form-check-label">
+            <input class = "form-check-input" name = "wpca-coupling-device" type = "checkbox" value = "1" />
+            trailer hitch
+           </label>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "form-group col-md-6 text-left">
+         <span class = "btn send pull-left" data-text = "Hide further details" id = "wpca-advanced-search-toggle-details">
+          Select more details
+         </span>
+        </div>
+        <div class = "form-group col-md-6 text-right">
+         <button class = "btn btn-primary send" type = "submit">
+          <span class = "badge">
+           Show 207 vehicles
+          </span>
+         </button>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div class = "news">
+    <div class = "container-fluid">
+     <div class = "headline">
+      <h2>
+       News & amp; Events
+      </h2>
+      <p>
+       All the news and events
+      </p>
+     </div>
+     <div class = "news-container news-slider row">
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "300ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/dodge/jetzt-bei-uns-dodge/">
+          <img alt = "With us since 2018: Dodge!" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2018/11/2018-11_dodge_bei-mfg_news_1170x780_1.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          05.
+         </span>
+         <span class = "month">
+          Nov
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/dodge/jetzt-bei-uns-dodge/">
+         <h3>
+          With us since 2018: Dodge!
+         </h3>
+        </a>
+        <p>
+         Drive the American Dream! With Dodge and Ram Trucks, we expanded our product family of American dream cars by two members in 2018. Dodge stands ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/dodge/jetzt-bei-uns-dodge/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/dodge/jetzt-bei-uns-dodge/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/dodge/jetzt-bei-uns-dodge/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "600ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/cadillac-news/attraktiv-leasingangebote-cadillac-xt4/">
+          <img alt = "Attractive leasing offers - Cadillac XT4" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/09/Cadillac-XT4-309151-1-scaled.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          30th
+         </span>
+         <span class = "month">
+          Oct.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/cadillac-news/attraktiv-leasingangebote-cadillac-xt4/">
+         <h3>
+          Attractive leasing offers - Cadillac XT4
+         </h3>
+        </a>
+        <p>
+         We've managed to pack the essence of Cadillac into a really clever sports package. The new Cadillac XT4 with full service leasing from € 399 per month ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/cadillac-news/attraktiv-leasingangebote-cadillac-xt4/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/cadillac-news/attraktiv-leasingangebote-cadillac-xt4/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/cadillac-news/attraktiv-leasingangebote-cadillac-xt4/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "900ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/corvette-news/c8-bestellstart/">
+          <img alt = "Corvette C8 Stingray - available to order now." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/03/2020-03_corvette-c8_rapid-blue_news_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          29
+         </span>
+         <span class = "month">
+          Oct.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/corvette-news/c8-bestellstart/">
+         <h3>
+          Corvette C8 Stingray - available to order now.
+         </h3>
+        </a>
+        <p>
+         Eagerly awaited: the Corvette C8 will be available across Europe from mid-2021. - More than the next generation - With ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/corvette-news/c8-bestellstart/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/corvette-news/c8-bestellstart/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/corvette-news/c8-bestellstart/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "1200ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/cadillac-news/ariv-das-kompakte-e-bike/">
+          <img alt = "ARIV - the compact e-bike" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/10/1I1A1157-scaled.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          16.
+         </span>
+         <span class = "month">
+          Oct.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/cadillac-news/ariv-das-kompakte-e-bike/">
+         <h3>
+          ARIV - the compact e-bike
+         </h3>
+        </a>
+        <p>
+         Use the power of the powerful motor and let yourself be relaxed and brought to your destination. The ARIV bike supports you wherever the path may lead you. State-of-the-art technology and individually adapted features create countless possibilities to satisfy your mobility needs. ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/cadillac-news/ariv-das-kompakte-e-bike/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/cadillac-news/ariv-das-kompakte-e-bike/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/cadillac-news/ariv-das-kompakte-e-bike/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "1500ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/cadillac-news/markteinfuehrung-des-neuen-cadillac-xt4-event/">
+          <img alt = "Market launch of the new Cadillac XT4 - on October 10th from 9 am-1pm" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/10/xt4-wir- laden-ein_1170x780-1.jpg "/>
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          10.
+         </span>
+         <span class = "month">
+          Oct.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/cadillac-news/markteinfuehrung-des-neuen-cadillac-xt4-event/">
+         <h3>
+          Launch of the new Cadillac XT4 - October 10th, 9 am-1pm
+         </h3>
+        </a>
+        <p>
+         The Cadillac XT4 Crossover is a real luxury SUV, which as a Launch Edition comes standard with numerous features for maximum comfort ....
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/cadillac-news/markteinfuehrung-des-neuen-cadillac-xt4-event/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/cadillac-news/markteinfuehrung-des-neuen-cadillac-xt4-event/" href = "# ">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/cadillac-news/markteinfuehrung-des-neuen-cadillac-xt4-event/" href = "# ">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "1800ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/bmw-news/the-4-das-neue-bmw-4er-coupe/">
+          <img alt = "THE 4. The new BMW 4 Series Coupé." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/09/4er-GC_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          30th
+         </span>
+         <span class = "month">
+          Sep
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/bmw-news/the-4-das-neue-bmw-4er-coupe/">
+         <h3>
+          THE 4. The new BMW 4 Series Coupé.
+         </h3>
+        </a>
+        <p>
+         Follow your own rules and challenge your senses. There are rough edges that sharpen the character: Let yourself be ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/bmw-news/the-4-das-neue-bmw-4er-coupe/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/bmw-news/the-4-das-neue-bmw-4er-coupe/" href = "#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/bmw-news/the-4-das-neue-bmw-4er-coupe/" href = "#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "2100ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href = "https://www.mobilforum-gruppe.de/bmw-news/the-2-das-bmw-2er-gran-coupe-auch-als-modell-m-sport-zu-attraktiv-kondbedingungen / ">
+          <img alt = "THE 2. The BMW 2 Series Gran Coupé. Also as the M Sport model at attractive conditions." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/09/200817_BMW_2er_Gran_Coupé_MSport_Stageteaser_bmw.de_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          22nd
+         </span>
+         <span class = "month">
+          Sep
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href = "https://www.mobilforum-gruppe.de/bmw-news/the-2-das-bmw-2er-gran-coupe-auch-als-modell-m-sport-zu-attraktiv-kondbedingungen / ">
+         <h3>
+          THE 2. The BMW 2 Series Gran Coupé. Also as the M Sport model at attractive conditions.
+         </h3>
+        </a>
+        <p>
+         Discover a sporty and independent lifestyle - with the BMW 2 Series Gran Coupé as the M Sport * model at attractive ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class = "link-btn" href = "https://www.mobilforum-gruppe.de/bmw-news/the-2-das-bmw-2er-gran-coupe-auch-als-modell-m- sport-at-attractive-conditions / ">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/bmw-news/the-2-das-bmw-2er-gran-coupe-auch-als -model-m-sport-at-attractive-conditions / "href =" # ">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/bmw-news/the-2-das-bmw-2er-gran-coupe-auch-als -model-m-sport-at-attractive-conditions / "href =" # ">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "2400ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/cadillac-news/ab-10-10-2020-bestellbar-erster-premium-crossover-cadillac-xt4-crossover/">
+          <img alt = "From 10.10.2020 - The Cadillac XT4 from 399, - EUR per month." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2019/09/2019-09_cadillac_xt4_news_1170x78_neu.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          02.
+         </span>
+         <span class = "month">
+          Sep
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/cadillac-news/ab-10-10-2020-bestellbar-erster-premium-crossover-cadillac-xt4-crossover/">
+         <h3>
+          From 10.10.2020 - The Cadillac XT4 from 399, - EUR per month.
+         </h3>
+        </a>
+        <p>
+         The active sports suspension with continuous damping control installed as standard in the XT4 Launch Edition Sport uses sensors to record the road contours in real time.
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class = "link-btn" href = "https://www.mobilforum-gruppe.de/cadillac-news/ab-10-10-2020-bestellbar-erster-premium-crossover-cadillac-xt4-crossover/ ">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/cadillac-news/ab-10-10-2020-bestellbar-erster-premium-crossover-cadillac -xt4-crossover / "href =" # ">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/cadillac-news/ab-10-10-2020-bestellbar-erster-premium-crossover-cadillac -xt4-crossover / "href =" # ">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "2700ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/chevrolet-news/der-neue-2021-camaro-ab-jetzt-bestellbar/">
+          <img alt = "The new 2021 Camaro - available to order now." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/08/2020-camaro-design-02_1170x780pix.gif" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          27
+         </span>
+         <span class = "month">
+          Aug
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/chevrolet-news/der-neue-2021-camaro-ab-jetzt-bestellbar/">
+         <h3>
+          The new 2021 Camaro - available to order now.
+         </h3>
+        </a>
+        <p>
+         The 2020 Camaro is here to deliver the kind of bold design, precise thrill and advanced performance technology that can only be experienced behind the wheel of this iconic sports car.
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/chevrolet-news/der-neue-2021-camaro-ab-jetzt-bestellbar/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/chevrolet-news/der-neue-2021-camaro-ab-jetzt-bestellbar/" href = "#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/chevrolet-news/der-neue-2021-camaro-ab-jetzt-bestellbar/" href = "#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "3000ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/bmw-news/bmw-3er-mit-leasingratenversicherung/">
+          <img alt = "THE BMW 3 SERIES. OPTIONAL WITH LEASE RATE INSURANCE * AND THE SERVICE PACKAGE MAINTENANCE AND REPAIR **." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/06/newsbeitrag_3er-heromotiv_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          10.
+         </span>
+         <span class = "month">
+          Jul.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/bmw-news/bmw-3er-mit-leasingratenversicherung/">
+         <h3>
+          THE BMW 3 Series. OPTIONAL WITH LEASE RATE INSURANCE * AND THE SERVICE PACKAGE MAINTENANCE AND REPAIR **.
+         </h3>
+        </a>
+        <p>
+         There is nothing better than being happy in the moment. Get into the BMW 3 Series and enjoy ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/bmw-news/bmw-3er-mit-leasingrechner/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/bmw-news/bmw-3er-mit-leasingratenversicherung/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/bmw-news/bmw-3er-mit-leasingratenversicherung/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "3300ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/bmw-news/die-neue-bmw-leasingratesversicherung/">
+          <img alt = "The new BMW leasing installment insurance" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/06/newsbeitrag_leasingrate_1170x780-1.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          01.
+         </span>
+         <span class = "month">
+          Jul.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/bmw-news/die-neue-bmw-leasingratesversicherung/">
+         <h3>
+          The new BMW leasing installment insurance
+         </h3>
+        </a>
+        <p>
+         There for you when you need support. For the first time in the history of BMW Bank, we are providing you with payment default protection in ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/bmw-news/die-neue-bmw-leasingratesversicherung/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/bmw-news/die-neue-bmw-leasingätzeversicherung/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/bmw-news/die-neue-bmw-leasingrateversicherung/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "3600ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/events/unser-steuertipp-faehrt-elektisch-2/">
+          <img alt = "OUR TAX TIP IS ELECTRIC." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/06/x1-PHEV_beitragsbild_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          25th
+         </span>
+         <span class = "month">
+          Jun.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/events/unser-steuertipp-faehrt-elektisch-2/">
+         <h3>
+          OUR TAX TIP DRIVES ELECTRICALLY.
+         </h3>
+        </a>
+        <p>
+         Discounted company car taxation *. Now for all electrified BMWs. Enduring, low-emission and with electrifying driving pleasure.The BMW plug-in hybrids and BMW i models offer ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/events/unser-steuertipp-faehrt-elektisch-2/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/events/unser-steuertipp-faehrt-elektisch-2/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/events/unser-steuertipp-faehrt-elektisch-2/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "3900ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/bmw-news/der-neue-bmw-1er/">
+          <img alt = "The new BMW 1 Series." src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2019/08/2019-08_bmw_1er_q3-marketingbonus_news_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          07.
+         </span>
+         <span class = "month">
+          May.
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/bmw-news/der-neue-bmw-1er/">
+         <h3>
+          The new BMW 1 Series.
+         </h3>
+        </a>
+        <p>
+         He attracts attention. He is the perfect companion. It impresses with its outstanding design, innovative technologies and driver assistance systems *. ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/bmw-news/der-neue-bmw-1er/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/bmw-news/der-neue-bmw-1er/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/bmw-news/der-neue-bmw-1er/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "4200ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/bmw-news/bmw-standorte-wieder-regulaer-geoeffnet/">
+          <img alt = "We are there for you again at our BMW locations" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/03/2020-03_bmw_sonderoeffnungszewiten_verbindung_news_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          30th
+         </span>
+         <span class = "month">
+          Apr
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/bmw-news/bmw-standorte-wieder-regulaer-geoeffnet/">
+         <h3>
+          We are there for you again at our BMW locations
+         </h3>
+        </a>
+        <p>
+         We look forward to welcoming you again at our BMW locations from Monday, May 4th, 2020 during the regular opening times ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/bmw-news/bmw-standorte-wieder-regulaer-geoeffnet/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class="share-button share-mail" data-url="https://www.mobilforum-gruppe.de/bmw-news/bmw-standorte-wieder-regulaer-geoeffnet/" href="#">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="share-button share-facebook" data-url="https://www.mobilforum-gruppe.de/bmw-news/bmw-standorte-wieder-regulaer-geoeffnet/" href="#">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "news-teaser wow fadeInUp" data-wow-delay = "4500ms">
+       <div class = "news-top">
+        <div class = "news-img">
+         <div class = "overlay">
+         </div>
+         <a href="https://www.mobilforum-gruppe.de/allgemein/ein-frohes-wenn-auch-etwas-anderes-osterfest/">
+          <img alt = "Happy, albeit different, Easter!" src = "https://www.mobilforum-gruppe.de/wp-content/uploads/2020/04/2020-04_mfg-bmw_ostergruss_news_1170x780.jpg" />
+         </a>
+        </div>
+        <div class = "news-date">
+         <span class = "day">
+          09.
+         </span>
+         <span class = "month">
+          Apr
+         </span>
+         <span class = "year">
+          2020
+         </span>
+        </div>
+       </div>
+       <div class = "news-content">
+        <a href="https://www.mobilforum-gruppe.de/allgemein/ein-frohes-wenn-auch-etwas-anderes-osterfest/">
+         <h3>
+          Happy, albeit different, Easter!
+         </h3>
+        </a>
+        <p>
+         Dear customers, friends and interested parties, we wish you a happy Easter - even if everything is a little different this time ...
+        </p>
+       </div>
+       <div class = "news-footer">
+        <a class="link-btn" href="https://www.mobilforum-gruppe.de/allgemein/ein-frohes-wenn-auch-etwas-anderes-osterfest/">
+         Continue reading
+        </a>
+        <ul class = "share-icons">
+         <li>
+          <a class = "share-button share-mail" data-url = "https://www.mobilforum-gruppe.de/allgemein/ein-frohes-wenn-auch-etwas-anderes-osterfest/" href = "# ">
+           <i aria-hidden = "true" class = "fa fa-envelope-o">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class = "share-button share-facebook" data-url = "https://www.mobilforum-gruppe.de/allgemein/ein-frohes-wenn-auch-etwas-anderes-osterfest/" href = "# ">
+           <i aria-hidden = "true" class = "fa fa-facebook">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class = "news-controls">
+      <ul>
+       <li>
+        <a class="std-btn ghost news-control-previous" href="#">
+         <i aria-hidden = "true" class = "fa fa-angle-left">
+         </i>
+        </a>
+       </li>
+       <li>
+        <a class="std-btn ghost" href="https://www.mobilforum-gruppe.de/category/news/">
+         Show all news
+        </a>
+       </li>
+       <li>
+        <a class="std-btn ghost news-control-next" href="#">
+         <i aria-hidden = "true" class = "fa fa-angle-right">
+         </i>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class = "about bg-white">
+    <div class = "container-fluid">
+     <div class = "headline">
+      <h2>
+       mobilforum group
+      </h2>
+      <p>
+      </p>
+     </div>
+     <p class = "text-justify wow fadeInUp">
+      <p>
+       The mobilforum group stands for mobile passion and vehicles with character. We are contractual partners of the brands
+       <a href="https://www.mobilforum-gruppe.de/bmw/">
+        BMW
+       </a>
+       ,
+       <span class = "st">
+        <a href="https://www.mobilforum-gruppe.de/cadillac/">
+         Cadillac
+        </a>
+        ,
+        <a href="https://www.mobilforum-gruppe.de/corvette/">
+         Corvette
+        </a>
+        ,
+        <a href="https://www.mobilforum-gruppe.de/chevrolet/">
+         Chevrolet
+        </a>
+        ,
+       </span>
+       <span class = "st">
+        <a href="https://www.mobilforum-gruppe.de/infiniti/">
+         Infiniti
+        </a>
+        ,
+        <a href="https://www.mobilforum-gruppe.de/dodge/">
+         Dodge
+        </a>
+        and
+        <a href="https://www.mobilforum-gruppe.de/ram-trucks/">
+         RAM trucks
+        </a>
+        .
+       </span>
+       We also offer for the brands
+       <a href="https://www.mobilforum-gruppe.de/mini/">
+        MINI
+       </a>
+       and
+       <a href="https://www.mobilforum-gruppe.de/leistungen/saab-service/">
+        Saab
+       </a>
+       various services. Whether selling or buying a vehicle or visiting a workshop - we take care of everything to do with your vehicle. Lovers of historic and classic vehicles will also find a competent contact person at the mobilforum group. Our classic trade
+       <a href="http://www.mobilforum-classic.de/" rel="noopener noreferrer" target="_blank">
+        mobilforum Classic
+       </a>
+       specializes in all topics related to classic and youngtimers. Whether in Kesselsdorf near Dresden, Bischofswerda, Freiberg, Senftenberg or Pirna - we are there for you to make your automotive dream come true.
+      </p>
+      <span class = "et_bloom_bottom_trigger">
+      </span>
+     </p>
+     <div class = "row">
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/kontakt/" title="Kontakt">
+        <i aria-hidden = "true" class = "fa fa-envelope">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          Do you have a concern?
+         </span>
+         make contact
+        </span>
+       </a>
+      </div>
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/unternehmen/unsere-standorte/" title="Findort">
+        <i aria-hidden = "true" class = "fa fa-map-marker">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          5 x in Saxony and Brandenburg
+         </span>
+         Find location
+        </span>
+       </a>
+      </div>
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/newsletter-abonnieren/" title="newsletter subscription">
+        <i aria-hidden = "true" class = "fa fa-newspaper-o">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          Actions, offers, events
+         </span>
+         Subscribe to Newsletter
+        </span>
+       </a>
+      </div>
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/fahrzeugankauf/" title="Selling a vehicle">
+        <i aria-hidden = "true" class = "fa fa-car">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          Do you want to get rid of your vehicle?
+         </span>
+         Sell ​​vehicle
+        </span>
+       </a>
+      </div>
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/werkstatt/" title="Book a service appointment">
+        <i aria-hidden = "true" class = "fa fa-calendar">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          Arrange your workshop appointment.
+         </span>
+         Book a service appointment
+        </span>
+       </a>
+      </div>
+      <div class = "col-lg-4 md-12 col-12 wow flipInY" data-wow-delay = "300ms">
+       <a class="big-btn" href="https://www.mobilforum-gruppe.de/probefahrt/" title=" Arrange a test drive">
+        <i aria-hidden = "true" class = "fa fa-car">
+        </i>
+        <span class = "big-btn-inner">
+         <span class = "big-btn-pretext">
+          Would you like to test drive a vehicle?
+         </span>
+         Arrange test drive
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer>
+   <div class = "container-fluid full-width">
+    <div class = "row">
+     <div class = "col-xl-6 col-lg-12 col-md-12 col-sm-12 no-padding">
+      <div id = "wpl-location-map">
+      </div>
+     </div>
+     <div class = "col-xl-6 col-lg-12 col-md-12 col-sm-12 meta" data-wow-delay = "300ms">
+      <div class = "row">
+       <div class = "col-md-4 col-sm-12 meta-menu">
+        <ul>
+         <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2010" id = "menu-item-2010">
+          <a href="#">
+           Companies
+          </a>
+          <ul class = "sub-menu">
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2004" id = "menu-item-2004">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/ueber-uns/">
+             about us
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2008" id = "menu-item-2008">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/unsere-standorte/">
+             Locations
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2020" id = "menu-item-2020">
+            <a href="https://www.mobilforum-gruppe.de/kontakt/">
+             Contact
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2030" id = "menu-item-2030">
+            <a href="https://www.mobilforum-gruppe.de/category/karriere/">
+             Career
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2007" id = "menu-item-2007">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/impressum/">
+             imprint
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-11929" id = "menu-item-11929">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/datenschutz/">
+             data protection
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2025" id = "menu-item-2025">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/haftungsausschluss/">
+             Disclaimer of liability
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+       <div class = "col-md-4 col-sm-12 meta-menu">
+        <ul>
+         <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-70" id = "menu-item-70">
+          <a href="#">
+           Brands
+          </a>
+          <ul class = "sub-menu">
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2012" id = "menu-item-2012">
+            <a href="https://www.mobilforum-gruppe.de/bmw/">
+             BMW
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2013" id = "menu-item-2013">
+            <a href="https://www.mobilforum-gruppe.de/cadillac/">
+             Cadillac
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2014" id = "menu-item-2014">
+            <a href="https://www.mobilforum-gruppe.de/chevrolet/">
+             Chevrolet
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2015" id = "menu-item-2015">
+            <a href="https://www.mobilforum-gruppe.de/corvette/">
+             Corvette
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2016" id = "menu-item-2016">
+            <a href="https://www.mobilforum-gruppe.de/infiniti/">
+             Infiniti
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-15049" id = "menu-item-15049">
+            <a href="https://www.mobilforum-gruppe.de/dodge/">
+             Dodge
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-15048" id = "menu-item-15048">
+            <a href="https://www.mobilforum-gruppe.de/ram-trucks/">
+             Ram trucks
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2017" id = "menu-item-2017">
+            <a href="https://www.mobilforum-gruppe.de/mini/">
+             MINI service
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+       <div class = "col-md-4 col-sm-12 meta-menu">
+        <ul>
+         <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69" id = "menu-item-69">
+          <a href="#">
+           public relations
+          </a>
+          <ul class = "sub-menu">
+           <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2022" id = "menu-item-2022">
+            <a href="https://www.mobilforum-gruppe.de/category/news/">
+             News
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2027" id = "menu-item-2027">
+            <a href="https://www.mobilforum-gruppe.de/category/events/">
+             Events
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-3057" id = "menu-item-3057">
+            <a href="https://www.mobilforum-gruppe.de/unternehmen/presse/">
+             Press
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "row">
+       <div class = "col-12">
+        <ul class = "meta-social-links">
+         <li>
+          <span>
+           <i aria-hidden = "true" class = "fa fa-copyright">
+           </i>
+          </span>
+          2017 - 2020 mobilforum group
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "notes">
+       <p>
+        * Information on the consumption data
+        <br/>
+        The specified (combined) values ​​were determined in accordance with the prescribed measuring procedure (VO (EG) 715/2007 in the
+                        currently applicable version). The information does not relate to a single vehicle and is not part of the offer, but rather
+                        serve
+                        solely for purposes of comparison between the various vehicle types. A vehicle's fuel consumption and CO2 emissions don't just depend on it
+                        the
+                        efficient use of fuel by the vehicle, but are also influenced by driving behavior and other non-technical factors.
+                        Note according to Directive 1999/94 / EC. Further information on the official fuel consumption and the official specific CO2 emissions are new
+                        Passenger cars can be found in the "Guide to the fuel consumption and CO2 emissions of new passenger cars", which is available at all
+                        Sales outlets and from "Deutsche Automobil Treuhand GmbH" at www.dat.de free of charge.
+       </p>
+       <p>
+        The CO2 emissions specified for this vehicle are the values ​​that were determined during the type approval of this vehicle.
+                        These values ​​may be incorrect. We try to clear up the process as soon as possible and, if necessary, will save the values ​​in
+                        Correct coordination with the responsible authorities.
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <div class = "et_bloom_popup et_bloom_optin et_bloom_resize et_bloom_optin_8 et_bloom_auto_popup et_bloom_trigger_idle et_bloom_auto_close" data-cookie_duration = "1" data-delay = "20" data-idle_timeout = "15"
+   <div class = "et_bloom_form_container et_bloom_popup_container et_bloom_form_bottom with_edge curve_edge et_bloom_rounded_corners et_bloom_rounded et_bloom_form_text_dark et_bloom_animation_slideup">
+    <div class = "et_bloom_form_container_wrapper clearfix">
+     <div class = "et_bloom_header_outer">
+      <div class = "et_bloom_form_header et_bloom_header_text_dark">
+       <div class = "et_bloom_form_text">
+        <h2>
+         <span style = "color: # 333333;">
+          <em>
+           More vehicles, more events?
+          </em>
+         </span>
+        </h2>
+        <h2>
+         <span style = "color: # 333333;">
+          Subscribe to the newsletter now!
+         </span>
+        </h2>
+        <p>
+         <br/>
+         News, promotions, offers or events - we will keep you informed on a regular basis.
+         <br/>
+         Sign up for our newsletter!
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class = "et_bloom_form_content et_bloom_1_field et_bloom_bottom_inline et_bloom_custom_html_form" data-account = "custom_form" data-list_id = "custom_form" data-optin_id = "optin_8" data-page_id = "- 1" data-service = "custom_form">
+      <script>
+       function loadjQuery (e, t) {var n = document.createElement ("script"); n.setAttribute ("src", e); n.onload = t; n.onreadystatechange = function () {if (this.readyState == "complete" || this.readyState == "loaded") t ()}; document.getElementsByTagName ("head") [0] .appendChild (n)} function main () {
+var $ cr = jQuery.noConflict (); var old_src; $ cr (document) .ready (function () {$ cr (". cr_form"). submit (function () {$ cr (this) .find ('. clever_form_error '). removeClass (' clever_form_error '); $ cr (this) .find ('. clever_form_note '). remove (); $ cr (this) .find (". musthave"). find (' input, textarea ' ) .each (function () {if (jQuery.trim ($ cr (this) .val ()) == "" || ($ cr (this) .is (': checkbox')) || ($ cr (this) .is (': radio'))) {if ($ cr (this) .is (': checkbox') || ($ cr (this) .is (': radio'))) {if ( ! $ cr (this) .parent (). find (": checked"). is (": checked")) {$ cr (this) .parent (). addClass ('clever_form_error')}} else {$ cr (this) .addClass ('clever_form_error')}}}); if ($ cr (this) .attr ("action"). search (document.domain)> 0 && $ cr (". cr_form"). attr (" action "). search (" wcs ")> 0) {var cr_email = $ cr (this) .find ('input [name = email]'); var unsub = false; if ($ cr (" input ['name = cr_subunsubscribe '] [value =' false '] "). length) {if ($ cr (" input [' name = cr_subunsubscribe '] [value =' false '] "). is (": checked ")) { unsub = true}} if (cr_email.val () &&! unsub) {$ cr.ajax ({type: "GET", url: $ cr (". cr_form"). attr ("action"). replace ( "wcs", "check_email") + $ cr (this) .find ('input [name = email]'). val (), success: function (data) {if (data) {cr_email.addClass ('clever_form_error' ) .before ("<div class = 'clever_form_note cr_font'>" + data + "</div>"); return false}}, async: false})} var cr_captcha = $ cr (this) .find ('input [ name = captcha] '); if (cr_captcha.val ()) {$ cr.ajax ({type: "GET", url: $ cr (". cr_form"). attr ("action"). replace ("wcs "," check_captcha ") + $ cr (this) .find ('input [name = captcha]'). val (), success: function (data) {if (data) {cr_captcha.addClass ('clever_form_error'). after ("<div class = 'clever_form_note cr_font'>" + data + "</div>"); return false}}, async: false})}} if ($ cr (this) .find ('. clever_form_error') .length) {return false} return true}); $ cr ('input [class * = "cr_number"]'). change (function () {if (isNaN ($ cr (this) .val ())) { $ cr (this) .val (1)} if ($ cr (this) .attr ("min")) {if (($ cr (this) .val () * 1) <($ cr (this). attr ("min") * 1)) {$ cr (this) .val ($ cr (this) .attr ("min"))}} if ($ cr (this) .attr ("max")) { if (($ cr (this) .val () * 1)> ($ cr (this) .attr ("max") * 1)) {$ cr (this) .val ($ cr (this) .attr ( "max"))}}}); ol d_src = $ cr ("div [rel = 'captcha'] img: not (.captcha2_reload)"). attr ("src"); if ($ cr ("div [rel = 'captcha'] img: not (. captcha2_reload) "). length! = 0) {captcha_reload ()}}); function captcha_reload () {var timestamp = new Date (). getTime (); $ cr (" div [rel = 'captcha'] img: not (.captcha2_reload) "). attr (" src "," "); $ cr (" div [rel = 'captcha'] img: not (.captcha2_reload) "). attr (" src ", old_src +"? t = "+ timestamp); return false}
+
+}
+if (typeof jQuery === "undefined") {loadjQuery ("// ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js", main)} else {main ()}
+      </script>
+      <form action = "https://eu2.cleverreach.com/f/223358-219551/wcs/" class = "layout_form cr_form cr_font" method = "post" target = "_ blank">
+       <div class = "cr_body cr_page cr_font formbox">
+        <div class = "non_sortable">
+        </div>
+        <div class = "editable_content">
+         <div class = "cr_ipe_item ui-sortable musthave" id = "4709358" rel = "email">
+          <label class = "itemname" for = "text4709358">
+           E-mail*
+          </label>
+          <input id = "text4709358" name = "email" type = "text" value = "">
+          </input>
+         </div>
+         <div class = "cr_ipe_item ui-sortable" id = "4709384" rel = "mce_text">
+          <div class = "mce_text">
+           <p>
+            <br/>
+           </p>
+           <p>
+            I am interested in the following brand:
+           </p>
+          </div>
+         </div>
+         <div class = "cr_ipe_item ui-sortable" id = "4709362" rel = "checkbox">
+          <label class = "itemname">
+          </label>
+          <div>
+           <input class = "cr_ipe_checkbox" id = "BMW4709362" name = "1122401 []" type = "checkbox" value = "BMW">
+            BMW
+            <input class = "cr_ipe_checkbox" id = "Cadillac, Chevrolet, Corvette4709362" name = "1122401 []" type = "checkbox" value = "Cadillac, Chevrolet, Corvette">
+             Cadillac, Chevrolet, Corvette
+            </input>
+           </input>
+          </div>
+          <br>
+          </br>
+         </div>
+         <div class = "cr_ipe_item ui-sortable submit_container" id = "4709360" rel = "button">
+          <button class = "cr_button" type = "submit">
+           register
+          </button>
+         </div>
+        </div>
+       </div>
+      </form>
+      <div class = "et_bloom_success_container">
+       <span class = "et_bloom_success_checkmark">
+       </span>
+      </div>
+      <h2 class = "et_bloom_success_message">
+       Thank you so much! To complete the registration, please click on the link in the e-mail that we have just sent you - only then is the newsletter registration successfully completed.
+      </h2>
+      <div class = "et_bloom_form_footer">
+       <p>
+        * By entering your e-mail address and clicking the "Register" button, you consent to the mobilforum group contacting you by e-mail. You can revoke your consent at any time. In this case, your data will be deleted in compliance with data protection regulations. You can find more information in our privacy policy.
+       </p>
+      </div>
+     </div>
+    </div>
+    <span class = "et_bloom_close_button">
+    </span>
+   </div>
+  </div>
+  <! - googleoff: all ->
+  <div data-nosnippet = "">
+   <script id = "BorlabsCookieBoxWrap" type = "text / template">
+    <div
+    id = "BorlabsCookieBox"
+    class = "BorlabsCookie"
+    role = "dialog"
+    aria-labelledby = "CookieBoxTextHeadline"
+    aria-describedby = "CookieBoxTextDescription"
+    aria-modal = "true"
+>
+    <div class = "bottom-center" style = "display: none;">
+        <div class = "_ brlbs-bar-wrap">
+            <div class = "_ brlbs-bar _brlbs-bar-advanced">
+                <div class = "cookie-box">
+                    <div class = "container">
+                        <div class = "row align-items-center">
+                            <div class = "col-12 col-sm-9">
+                                <div class = "row">
+                                    
+                                    <div class = "col-12">
+                                        <span role = "heading" aria-level = "3" class = "_ brlbs-h3" id = "CookieBoxTextHeadline">
+                                            Privacy settings </span>
+                                        <p id = "CookieBoxTextDescription">
+                                            We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience. </p>
+                                    </div>
+                                </div>
+
+                                                                    <ul
+                                                                            >
+                                                                                                                                    <li>
+                                                    <label class = "_ brlbs-checkbox">
+                                                        Essential <input
+                                                            id = "checkbox-essential"
+                                                            tabindex = "0"
+                                                            type = "checkbox"
+                                                            name = "cookieGroup []"
+                                                            value = "essential"
+                                                             checked disabled data-borlabs-cookie-checkbox
+                                                        >
+                                                        <span class = "_ brlbs-checkbox-indicator"> </span>
+                                                    </label>
+                                                </li>
+                                                                                                                                                                                <li>
+                                                    <label class = "_ brlbs-checkbox">
+                                                        External media <input
+                                                            id = "checkbox-external-media"
+                                                            tabindex = "0"
+                                                            type = "checkbox"
+                                                            name = "cookieGroup []"
+                                                            value = "external-media"
+                                                                                                                                                                                    data-borlabs-cookie-checkbox
+                                                        >
+                                                        <span class = "_ brlbs-checkbox-indicator"> </span>
+                                                    </label>
+                                                </li>
+                                                                                                                                                                                <li>
+                                                    <label class = "_ brlbs-checkbox">
+                                                        Statistics <input
+                                                            id = "checkbox-statistics"
+                                                            tabindex = "0"
+                                                            type = "checkbox"
+                                                            name = "cookieGroup []"
+                                                            value = "statistics"
+                                                                                                                                                                                    data-borlabs-cookie-checkbox
+                                                        >
+                                                        <span class = "_ brlbs-checkbox-indicator"> </span>
+                                                    </label>
+                                                </li>
+                                                                                                                                                                                                            </ul>
+                                                            </div>
+
+                            <div class = "col-12 col-sm-3">
+                                                                    <p class = "_ brlbs-accept">
+                                        <a
+                                            href = "#"
+                                            tabindex = "0"
+                                            role = "button"
+                                            class = "_ brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all </a>
+                                    </p>
+
+                                    <p class = "_ brlbs-accept">
+                                        <a
+                                            href = "#"
+                                            tabindex = "0"
+                                            role = "button"
+                                            id = "CookieBoxSaveButton"
+                                            class = "_ brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Save </a>
+                                    </p>
+                                
+                                                                    <p class = "_ brlbs-refuse-btn">
+                                        <a
+                                            href = "#"
+                                            tabindex = "0"
+                                            role = "button"
+                                            class = "_ brlbs-btn _brlbs-cursor"
+                                            data-cookie-refuse
+                                        >
+                                            Accept only essential cookies </a>
+                                    </p>
+                                
+                                <p class = "_ brlbs-manage">
+                                    <a
+                                        href = "#"
+                                        tabindex = "0"
+                                        role = "button"
+                                        class = "_ brlbs-cursor"
+                                        data-cookie-individual
+                                    >
+                                        Individual data protection settings </a>
+                                </p>
+
+                                <p class = "_ brlbs-legal">
+                                    <a
+                                        href = "#"
+                                        tabindex = "0"
+                                        role = "button"
+                                        class = "_ brlbs-cursor"
+                                        data-cookie-individual
+                                    >
+                                        Cookie details </a>
+
+                                                                            <span class = "_ brlbs-separator"> </span>
+                                        <a
+                                            tabindex = "0"
+                                            href = "https://www.mobilforum-gruppe.de/unternehmen/datenschutz/"
+                                        >
+                                            Privacy policy </a>
+                                    
+                                                                            <span class = "_ brlbs-separator"> </span>
+                                        <a
+                                            tabindex = "0"
+                                            href = "https://www.mobilforum-gruppe.de/unternehmen/impressum/"
+                                        >
+                                            Imprint </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class = "cookie-preference"
+    aria-hidden = "true"
+    role = "dialog"
+    aria-describedby = "CookiePrefDescription"
+    aria-modal = "true"
+>
+    <div class = "container not-visible">
+        <div class = "row no-gutters">
+            <div class = "col-12">
+                <div class = "row no-gutters align-items-top">
+                    
+                    <div class = "col-12">
+                        <span role = "heading" aria-level = "3" class = "_ brlbs-h3"> Privacy settings </span>
+
+                        <p id = "CookiePrefDescription">
+                            Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and only select certain cookies. </p>
+
+                        <div class = "row no-gutters align-items-center">
+                            <div class = "col-12 col-sm-7">
+                                <p class = "_ brlbs-accept">
+                                                                            <a
+                                            href = "#"
+                                            class = "_ brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex = "0"
+                                            role = "button"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all </a>
+                                    
+                                    <a
+                                        href = "#"
+                                        id = "CookiePrefSave"
+                                        tabindex = "0"
+                                        role = "button"
+                                        class = "_ brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Save </a>
+                                </p>
+                            </div>
+
+                            <div class = "col-12 col-sm-5">
+                                <p class = "_ brlbs-refuse">
+                                    <a
+                                        href = "#"
+                                        class = "_ brlbs-cursor"
+                                        tabindex = "0"
+                                        role = "button"
+                                        data-cookie-back
+                                    >
+                                        Back </a>
+
+                                                                            <span class = "_ brlbs-separator"> </span>
+                                        <a
+                                            href = "#"
+                                            class = "_ brlbs-cursor"
+                                            tabindex = "0"
+                                            role = "button"
+                                            data-cookie-refuse
+                                        >
+                                            Accept only essential cookies </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                                                                                        <div class = "bcac-item">
+                                    <div class = "d-flex flex-row">
+                                        <label for = "borlabs-cookie-group-essential" class = "w-75">
+                                            <span role = "heading" aria-level = "4" class = "_ brlbs-h4"> Essential (3) </ span>
+                                        </label>
+
+                                        <div class = "w-25 text-right">
+                                                                                    </div>
+                                    </div>
+
+                                    <div class = "d-block">
+                                        <p> Essential cookies enable basic functions and are necessary for the website to function properly. </p>
+
+                                        <p class = "text-center">
+                                            <a
+                                                href = "#"
+                                                class = "_ brlbs-cursor d-block"
+                                                tabindex = "0"
+                                                role = "button"
+                                                data-cookie-accordion-target = "essential"
+                                            >
+                                                <span data-cookie-accordion-status = "show">
+                                                    Show cookie information </span>
+
+                                                <span data-cookie-accordion-status = "hide" class = "borlabs-hide">
+                                                    Hide cookie information </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class = "borlabs-hide"
+                                        data-cookie-accordion-parent = "essential"
+                                    >
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-borlabs-cookie">
+                                                            Borlabs Cookie </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Owner of this website </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Saves the settings of the visitors selected in the Borlabs Cookie cookie box. </td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> borlabs-cookie </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> 1 year </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-bloomoptin">
+                                                            Bloom </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> elegantthemes.com </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Essential session cookie that helps manage and display our opt-in forms. </td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> et_bloom_optin_ *, etBloomCookie_optin_ * </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> Session </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-phpsession">
+                                                            Session cookie </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Website operator </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> The so-called session ID. is a randomly selected key of the CMS system that uniquely identifies the session data on the server. This key can e.g. be transferred to a subsequent script via cookies or as part of the URL so that it can find the session data on the server. </td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> PHPSESSID </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> after closing the session </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                <div class = "bcac-item">
+                                    <div class = "d-flex flex-row">
+                                        <label for = "borlabs-cookie-group-external-media" class = "w-75">
+                                            <span role = "heading" aria-level = "4" class = "_ brlbs-h4"> External media (3) </ span>
+                                        </label>
+
+                                        <div class = "w-25 text-right">
+                                                                                            <label class = "_ brlbs-btn-switch">
+                                                    <input
+                                                        tabindex = "0"
+                                                        id = "borlabs-cookie-group-external-media"
+                                                        type = "checkbox"
+                                                        name = "cookieGroup []"
+                                                        value = "external-media"
+                                                                                                                data-borlabs-cookie-switch
+                                                    />
+                                                    <span class = "_ brlbs-slider"> </span>
+                                                    <span
+                                                        class = "_ brlbs-btn-switch-status"
+                                                        data-active = "On"
+                                                        data-inactive = "Off">
+                                                    </span>
+                                                </label>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class = "d-block">
+                                        <p> Content from video platforms and social media platforms is blocked by default. If cookies from external media are accepted, access to this content no longer requires manual consent. </p>
+
+                                        <p class = "text-center">
+                                            <a
+                                                href = "#"
+                                                class = "_ brlbs-cursor d-block"
+                                                tabindex = "0"
+                                                role = "button"
+                                                data-cookie-accordion-target = "external-media"
+                                            >
+                                                <span data-cookie-accordion-status = "show">
+                                                    Show cookie information </span>
+
+                                                <span data-cookie-accordion-status = "hide" class = "borlabs-hide">
+                                                    Hide cookie information </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class = "borlabs-hide"
+                                        data-cookie-accordion-parent = "external-media"
+                                    >
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th> Accept </th>
+                                                        <td>
+                                                            <label class = "_ brlbs-btn-switch _brlbs-btn-switch - textRight">
+                                                                <input
+                                                                    id = "borlabs-cookie-facebook"
+                                                                    tabindex = "0"
+                                                                    type = "checkbox" data-cookie-group = "external-media"
+                                                                    name = "cookies [external-media] []"
+                                                                    value = "facebook"
+                                                                                                                                        data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class = "_ brlbs-slider"> </span>
+
+                                                                <span
+                                                                    class = "_ brlbs-btn-switch-status"
+                                                                    data-active = "On"
+                                                                    data-inactive = "Off"
+                                                                    aria-hidden = "true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-facebook">
+                                                            Facebook </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Facebook </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Is used to unblock Facebook content. </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Privacy Policy </th>
+                                                        <td class = "_ brlbs-pp-url">
+                                                            <a
+                                                                href = "https://www.facebook.com/privacy/explanation"
+                                                                target = "_ blank"
+                                                                rel = "nofollow noopener noreferrer"
+                                                            >
+                                                                https://www.facebook.com/privacy/explanation </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Host (s) </th>
+                                                        <td> .facebook.com </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th> Accept </th>
+                                                        <td>
+                                                            <label class = "_ brlbs-btn-switch _brlbs-btn-switch - textRight">
+                                                                <input
+                                                                    id = "borlabs-cookie-googlemaps"
+                                                                    tabindex = "0"
+                                                                    type = "checkbox" data-cookie-group = "external-media"
+                                                                    name = "cookies [external-media] []"
+                                                                    value = "googlemaps"
+                                                                                                                                        data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class = "_ brlbs-slider"> </span>
+
+                                                                <span
+                                                                    class = "_ brlbs-btn-switch-status"
+                                                                    data-active = "On"
+                                                                    data-inactive = "Off"
+                                                                    aria-hidden = "true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-googlemaps">
+                                                            Google Maps </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Google </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Used to unblock Google Maps content. </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Privacy Policy </th>
+                                                        <td class = "_ brlbs-pp-url">
+                                                            <a
+                                                                href = "https://policies.google.com/privacy"
+                                                                target = "_ blank"
+                                                                rel = "nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Host (s) </th>
+                                                        <td> .google.com </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> NID </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> 6 months </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th> Accept </th>
+                                                        <td>
+                                                            <label class = "_ brlbs-btn-switch _brlbs-btn-switch - textRight">
+                                                                <input
+                                                                    id = "borlabs-cookie-youtube"
+                                                                    tabindex = "0"
+                                                                    type = "checkbox" data-cookie-group = "external-media"
+                                                                    name = "cookies [external-media] []"
+                                                                    value = "youtube"
+                                                                                                                                        data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class = "_ brlbs-slider"> </span>
+
+                                                                <span
+                                                                    class = "_ brlbs-btn-switch-status"
+                                                                    data-active = "On"
+                                                                    data-inactive = "Off"
+                                                                    aria-hidden = "true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-youtube">
+                                                            YouTube </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> YouTube </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Used to unblock YouTube content. </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Privacy Policy </th>
+                                                        <td class = "_ brlbs-pp-url">
+                                                            <a
+                                                                href = "https://policies.google.com/privacy"
+                                                                target = "_ blank"
+                                                                rel = "nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Host (s) </th>
+                                                        <td> google.com </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> NID </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> 6 months </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                <div class = "bcac-item">
+                                    <div class = "d-flex flex-row">
+                                        <label for = "borlabs-cookie-group-statistics" class = "w-75">
+                                            <span role = "heading" aria-level = "4" class = "_ brlbs-h4"> Statistics (2) </ span>
+                                        </label>
+
+                                        <div class = "w-25 text-right">
+                                                                                            <label class = "_ brlbs-btn-switch">
+                                                    <input
+                                                        tabindex = "0"
+                                                        id = "borlabs-cookie-group-statistics"
+                                                        type = "checkbox"
+                                                        name = "cookieGroup []"
+                                                        value = "statistics"
+                                                                                                                data-borlabs-cookie-switch
+                                                    />
+                                                    <span class = "_ brlbs-slider"> </span>
+                                                    <span
+                                                        class = "_ brlbs-btn-switch-status"
+                                                        data-active = "On"
+                                                        data-inactive = "Off">
+                                                    </span>
+                                                </label>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class = "d-block">
+                                        <p> Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website. </p>
+
+                                        <p class = "text-center">
+                                            <a
+                                                href = "#"
+                                                class = "_ brlbs-cursor d-block"
+                                                tabindex = "0"
+                                                role = "button"
+                                                data-cookie-accordion-target = "statistics"
+                                            >
+                                                <span data-cookie-accordion-status = "show">
+                                                    Show cookie information </span>
+
+                                                <span data-cookie-accordion-status = "hide" class = "borlabs-hide">
+                                                    Hide cookie information </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class = "borlabs-hide"
+                                        data-cookie-accordion-parent = "statistics"
+                                    >
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th> Accept </th>
+                                                        <td>
+                                                            <label class = "_ brlbs-btn-switch _brlbs-btn-switch - textRight">
+                                                                <input
+                                                                    id = "borlabs-cookie-google-analytics"
+                                                                    tabindex = "0"
+                                                                    type = "checkbox" data-cookie-group = "statistics"
+                                                                    name = "cookies [statistics] []"
+                                                                    value = "google-analytics"
+                                                                                                                                        data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class = "_ brlbs-slider"> </span>
+
+                                                                <span
+                                                                    class = "_ brlbs-btn-switch-status"
+                                                                    data-active = "On"
+                                                                    data-inactive = "Off"
+                                                                    aria-hidden = "true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-google-analytics">
+                                                            Google Analytics </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Google LLC </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Cookie from Google for website analysis. Generates statistical data on how the visitor uses the website. </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Privacy Policy </th>
+                                                        <td class = "_ brlbs-pp-url">
+                                                            <a
+                                                                href = "https://policies.google.com/privacy"
+                                                                target = "_ blank"
+                                                                rel = "nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> _ga, _gat, _gid </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> 2 years </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th> Accept </th>
+                                                        <td>
+                                                            <label class = "_ brlbs-btn-switch _brlbs-btn-switch - textRight">
+                                                                <input
+                                                                    id = "borlabs-cookie-facebook-pixel"
+                                                                    tabindex = "0"
+                                                                    type = "checkbox" data-cookie-group = "statistics"
+                                                                    name = "cookies [statistics] []"
+                                                                    value = "facebook-pixel"
+                                                                                                                                        data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class = "_ brlbs-slider"> </span>
+
+                                                                <span
+                                                                    class = "_ brlbs-btn-switch-status"
+                                                                    data-active = "On"
+                                                                    data-inactive = "Off"
+                                                                    aria-hidden = "true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-facebook-pixel">
+                                                            Facebook Pixel </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Facebook Ireland Limited </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Cookie from Facebook that is used for website analysis, ad targeting and ad measurement. </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Privacy Policy </th>
+                                                        <td class = "_ brlbs-pp-url">
+                                                            <a
+                                                                href = "https://www.facebook.com/policies/cookies"
+                                                                target = "_ blank"
+                                                                rel = "nofollow noopener noreferrer"
+                                                            >
+                                                                https://www.facebook.com/policies/cookies </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> _fbp, act, c_user, datr, fr, m_pixel_ration, pl, presence, sb, spin, wd, xs </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> session / 1 year </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                                            </div>
+
+                <div class = "d-flex justify-content-between">
+                    <p class = "_ brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class = "_ brlbs-legal flex-fill">
+                                                    <a href="https://www.mobilforum-gruppe.de/unternehmen/datenschutz/">
+                                Privacy policy </a>
+                        
+                                                    <span class = "_ brlbs-separator"> </span>
+                        
+                                                    <a href="https://www.mobilforum-gruppe.de/unternehmen/impressum/">
+                                Imprint </a>
+                                            </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+   </script>
+  </div>
+  <! - googleon: all ->
+  <link href = "https://fonts.googleapis.com/css?family=Open+Sans:400,700" id = "et-gf-open-sans-css" media = "all" rel = "stylesheet" />
+  <link href = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/css/style.css" id = "et_bloom-css-css" media = "all" rel = "stylesheet" />
+  <script id = "script-js" src = "https://www.mobilforum-gruppe.de/wp-content/themes/mobilforum-gruppe-de/assets/dist/js/app.js">
+  </script>
+  <script id = "wpca-advertisements-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var wpcaAdvertisement = {"ajaxUrl": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-admin \ /admin-ajax.php"};
+/ *]]> * /
+  </script>
+  <script id = "wpca-advertisements-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/wordpress-plugin-car-advertisement/assets/js/app.js">
+  </script>
+  <script id = "wpl-location-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var wpl_location = {"url": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-admin \ /admin-ajax.php"};
+/ *]]> * /
+  </script>
+  <script id = "wpl-location-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/wordpress-plugin-location/assets/js/app.js">
+  </script>
+  <script id = "contact-form-7-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var wpcf7 = {"apiSettings": {"root": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-json \ / contact-form-7 \ / v1", "namespace": "contact -form-7 \ / v1 "}};
+/ *]]> * /
+  </script>
+  <script id = "contact-form-7-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/contact-form-7/includes/js/scripts.js">
+  </script>
+  <script id = "ta_main_js-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var thirsty_global_vars = {"home_url": "\ / \ / www.mobilforum-gruppe.de", "ajax_url": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-admin \ / admin-ajax .php "," link_fixer_enabled ":" yes "," link_prefix ":" recommends "," link_prefixes ": [" recommends "]," post_id ":" 5 "," enable_record_stats ":" yes "," enable_js_redirect ": "", "disable_thirstylink_class": ""};
+/ *]]> * /
+  </script>
+  <script id = "ta_main_js-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/thirstyaffiliates/js/app/ta.js">
+  </script>
+  <script id = "google-recaptcha-js" src = "https://www.google.com/recaptcha/api.js?render=6LcZoIkUAAAAAF8BXd-rCJuzmsrPIdJtKsoqxHeq">
+  </script>
+  <script id = "wpcf7-recaptcha-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var wpcf7_recaptcha = {"sitekey": "6LcZoIkUAAAAAF8BXd-rCJuzmsrPIdJtKsoqxHeq", "actions": {"homepage": "homepage", "contactform": "contactform"}};
+/ *]]> * /
+  </script>
+  <script id = "wpcf7-recaptcha-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/contact-form-7/modules/recaptcha/script.js">
+  </script>
+  <script id = "et-core-common-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/core/admin/js/common.js">
+  </script>
+  <script id = "wp-embed-js" src = "https://www.mobilforum-gruppe.de/wp-includes/js/wp-embed.min.js">
+  </script>
+  <script id = "et_bloom-uniform-js-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/js/jquery.uniform.min.js">
+  </script>
+  <script id = "et_bloom-custom-js-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var bloomSettings = {"ajaxurl": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-admin \ /admin-ajax.php", "pageurl": "https: \ / \ / www.mobilforum -gruppe.de \ / "," stats_nonce ":" cb61945b66 "," subscribe_nonce ":" bb1f80deac "," is_user_logged_in ":" not_logged "};
+/ *]]> * /
+  </script>
+  <script id = "et_bloom-custom-js-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/js/custom.js">
+  </script>
+  <script id = "et_bloom-idle-timer-js-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/bloom/js/idle-timer.min.js">
+  </script>
+  <script id = "borlabs-cookie-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var borlabsCookieConfig = {"ajaxURL": "https: \ / \ / www.mobilforum-gruppe.de \ / wp-admin \ /admin-ajax.php", "language": "de", "animation": "1 "," animationDelay ":" 1 "," animationIn ":" fadeInUp "," animationOut ":" fadeOutDown "," blockContent ":" 1 "," boxLayout ":" bar "," boxLayoutAdvanced ":" 1 ", "automaticCookieDomainAndPath": "1", "cookieDomain": "www.mobilforum-gruppe.de", "cookiePath": "\ /", "cookieLifetime": "365", "crossDomainCookie": [], "cookieBeforeConsent": "1", "cookiesForBots": "", "cookieVersion": "2", "hideCookieBoxOnPages": ["https: \ / \ / www.mobilforum-gruppe.de \ / company \ / datenschutz \ /", "https : \ / \ / www.mobilforum-gruppe.de \ / company \ / impressum \ / "]," respectDoNotTrack ":" "," reloadAfterConsent ":" 1 "," showCookieBox ":" 1 "," cookieBoxIntegration ": "javascript", "ignorePreSelectStatus": "", "cookies": {"essential": ["borlabs-cookie", "bloomoptin", "phpsession"], "external-media": ["facebook", "googlemaps" , "youtube"], "statistics": ["google-analytics", "facebook-pixel"], "marketing": []}};
+var borlabsCookieCookies = {"essential": {"borlabs-cookie": {"cookieNameList": {"borlabs-cookie": "borlabs-cookie"}, "settings": {"blockCookiesBeforeConsent": "0"}}, " bloomoptin ": {" cookieNameList ": {" et_bloom_optin _ * ":" et_bloom_optin _ * "," etBloomCookie_optin _ * ":" etBloomCookie_optin _ * "}," settings ": {" blockCookiesBeforeConsent ":" 0 "}}," phpsession ": { "cookieNameList": {"PHPSESSID": "PHPSESSID"}, "settings": {"blockCookiesBeforeConsent": "0"}}}, "external-media": {"facebook": {"cookieNameList": [], " settings ": {" blockCookiesBeforeConsent "," 1 "}," optInJS ":" PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImZhY2Vib29rIik7IH08L3NjcmlwdD4 = "," optOutJS ":" "}," Google Maps ": {" cookie name list ": {" NID ":" NID "}," settings ": {" blockCookiesBeforeConsent ":" 0 "," prioritize ":" 1 "}," optInJS ":" "," optOutJS ":" "}," youtube ": {" cookieNameList ": {" NID ": "NID"}, "settings": {"blockCookiesBeforeConsent": "0"}, "optInJS": "PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvY mplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg == "", "optOutJS": "gatecookie" _ "", "{" "gatics", "gaogle" "", "" gatics "," "" gogle "", "" "gatics", "" "", "" analytics ":" "gatics", "" "gogle" "," "" gatics "," "" gogle "," "" gogle "", "" "gatics", "" gogle "", "{" "gogle" ":" "gatics", "" _ "gogle" "," "gogle": "" gatics "," _ "gogle": "" gatics "," _ "gogle": "" gatics "," _ "gogle_name:" "gatics": "_" " "_ gid"}, "settings": { "blockCookiesBeforeConsent", "1", "trackingId": "UA-45454086-8"}, "optInJS": "PCEtLSBHbG9iYWwgc2l0ZSB0YWcgKGd0YWcuanMpIC0gR29vZ2xlIEFuYWx5dGljcyAtLT4NCjxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPVVBLTQ1NDU0MDg2LTgiPjwvc2NyaXB0Pg0KPHNjcmlwdD4NCiB3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsNCiBmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9DQogZ3RhZygnanMnLCBuZXcgRGF0ZSgpKTsNCiBndGFnKCdjb25maWcnLCAnVUEtNDU0NTQwODYtOCcpOw0KPC9zY3JpcHQ +", "optOutJS": ""}, "facebook -pixel ": {" cookieNameList ": {" _ fbp ":" _ fbp "," act ":" act "," c_user ":" c_user "," datr ":" datr "," fr ":" fr ", "m_pixel_ration": "m_pixel_ration", "pl": "pl", "presence": "presence", "sb": "sb", "spin": "spin", "wd": "wd", "xs ":" xs "}," settings ": {" blockCookiesBeforeConsent ":" 1 "," pixelId ":" 36 7782273676298 "}," optInJS ":" PCEtLSBGYWNlYm9vayBQaXhlbCBDb2RlIC0tPg0KPHNjcmlwdD4NCiAgIWZ1bmN0aW9uKGYsYixlLHYsbix0LHMpDQogIHtpZihmLmZicSlyZXR1cm47bj1mLmZicT1mdW5jdGlvbigpe24uY2FsbE1ldGhvZD8NCiAgbi5jYWxsTWV0aG9kLmFwcGx5KG4sYXJndW1lbnRzKTpuLnF1ZXVlLnB1c2goYXJndW1lbnRzKX07DQogIGlmKCFmLl9mYnEpZi5fZmJxPW47bi5wdXNoPW47bi5sb2FkZWQ9ITA7bi52ZXJzaW9uPScyLjAnOw0KICBuLnF1ZXVlPVtdO3Q9Yi5jcmVhdGVFbGVtZW50KGUpO3QuYXN5bmM9ITA7DQogIHQuc3JjPXY7cz1iLmdldEVsZW1lbnRzQnlUYWdOYW1lKGUpWzBdOw0KICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9KHdpbmRvdywgZG9jdW1lbnQsJ3NjcmlwdCcsDQogICdodHRwczovL2Nvbm5lY3QuZmFjZWJvb2submV0L2VuX1VTL2ZiZXZlbnRzLmpzJyk7DQogIGZicSgnaW5pdCcsICczNjc3ODIyNzM2NzYyOTgnKTsNCiAgZmJxKCd0cmFjaycsICdQYWdlVmlldycpOw0KPC9zY3JpcHQ + DQo8IS0tIEVuZCBGYWNlYm9vayBQaXhlbCBDb2RlIC0tPg == "," optOutJS ":" "}}};
+/ *]]> * /
+  </script>
+  <script id = "borlabs-cookie-js" src = "https://www.mobilforum-gruppe.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js">
+  </script>
+  <script id = "borlabs-cookie-js-after">
+   document.addEventListener ("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof FB === "object") {FB.XFBML.parse (el.parentElement); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "default": {"id": "default", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "googlemaps": {"id": "googlemaps", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "instagram": {"id": "instagram", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof instgrm === "object") {instgrm.Embeds.process (); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "openstreetmap": {"id": "openstreetmap", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "twitter": {"id": "twitter", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "vimeo": {"id": "vimeo", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "saveThumbnails": false, "videoWrapper": false}}, "youtube": {"id": "youtube", "global": function (contentBlockerData) { }, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "changeURLToNoCookie": true, "saveThumbnails": false, "thumbnailQuality": "maxresdefault", "videoWrapper": false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized! == "object") {
+            borlabsCookiePrioritized = {optInJS: {}};
+        }
+
+        window.BorlabsCookie.init (borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout (BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck ();});
+  </script>
+ </body>
+</html>

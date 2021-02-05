@@ -1,0 +1,974 @@
+<! DOCTYPE html>
+<! - [if IE 9]> <html lang = "de-DE" class = "ie9 loading-site no-js"> <! [endif] ->
+<! - [if IE 8]> <html lang = "de-DE" class = "ie8 loading-site no-js"> <! [endif] ->
+<! - [if (gte IE 9) |! (IE)]> <! ->
+<html class = "loading-site no-js" lang = "de-DE">
+ <! - <! [endif] ->
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no" name = "viewport" />
+  <link href = "https://gmpg.org/xfn/11" rel = "profile" />
+  <link href = "https://www.dresden-asc.de/xmlrpc.php" rel = "pingback" />
+  <script>
+   (function (html) {html.className = html.className.replace (/ \ bno-js \ b /, 'js')}) (document.documentElement);
+  </script>
+  <title>
+   Auto Service Center Dresden - an independent car workshop in Dresden
+  </title>
+  <link href = "// s.w.org" rel = "dns-prefetch" />
+  <link href = "https://www.dresden-asc.de/feed/" rel = "alternate" title = "Auto Service Center Dresden» Feed "type =" application / rss + xml "/>
+  <link href = "https://www.dresden-asc.de/comments/feed/" rel = "alternate" title = "Auto Service Center Dresden» Comment feed "type =" application / rss + xml "/>
+  <script type = "text / javascript">
+   window._wpemojiSettings = {"baseUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ / 11 \ / 72x72 \ /", "ext": ". png", "svgUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ / 11 \ / svg \ /", "svgExt": ". svg", "source": {"concatemoji": "https: \ /\/www.dresden-asc.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.16 "}};
+! function (a, b, c) {function d (a, b) {var c = String.fromCharCode; l.clearRect (0,0, k.width, k.height), l.fillText (c.apply ( this, a), 0,0); var d = k.toDataURL (); l.clearRect (0,0, k.width, k.height), l.fillText (c.apply (this, b), 0 , 0); var e = k.toDataURL (); return d === e} function e (a) {var b; if (! L ||! L.fillText) return! 1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) {case "flag": return! (b = d ([55356,56826,55356,56819], [55356,56826,8203,55356,56819]) )) && (b = d ([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447], [55356,57332,8203,56128,56423,8203 , 56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]) ,! b); case "emoji": return b = d ([55358,56760, 9792,65039], [55358,56760,8203,9792,65039]),! B} return! 1} function f (a) {var c = b.createElement ("script"); c.src = a, c .defer = c.type = "text / javascript", b.getElementsByTagName ("head") [0] .appendChild (c)} var g, h, i, j, k = b.createElement ("canvas"), l = k.getContext && k.getContext ("2d"); for (j = Array ("flag", "emoji"), c.supports = {everything:! 0, ev erythingExceptFlag:! 0}, i = 0; i <j.length; i ++) c.supports [j [i]] = e (j [i]), c.supports.everything = c.supports.everything && c.supports [ j [i]], "flag"! == j [i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports [j [i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && ! c.supports.flag, c.DOMReady =! 1, c.readyCallback = function () {c.DOMReady =! 0}, c.supports.everything || (h = function () {c.readyCallback ()} , b.addEventListener? (b.addEventListener ("DOMContentLoaded", h,! 1), a.addEventListener ("load", h,! 1)) :( a.attachEvent ("onload", h), b.attachEvent ("onreadystatechange", function () {"complete" === b.readyState && c.readyCallback ()})), g = c.source || {}, g.concatemoji? f (g.concatemoji): g.wpemoji && g .twemoji && (f (g.twemoji), f (g.wpemoji)))} (window, document, window._wpemojiSettings);
+  </script>
+  <style type = "text / css">
+   img.wp-smiley,
+img.emoji {
+display: inline! important;
+border: none! important;
+box-shadow: none! important;
+height: 1em! important;
+width: 1em! important;
+margin: 0 .07em! important;
+vertical-align: -0.1em! important;
+background: none! important;
+padding: 0! important;
+}
+  </style>
+  <link href = "https://www.dresden-asc.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2" id = "contact-form- 7-css "media =" all "rel =" stylesheet "type =" text / css "/>
+  <link href = "https://www.dresden-asc.de/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3" id = "flatsome-icons-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.dresden-asc.de/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.0" id = "flatsome-main-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.dresden-asc.de/wp-content/themes/flatsome-child/style.css?ver=3.6.0" id = "flatsome-style-css" media = "all "rel =" stylesheet "type =" text / css "/>
+  <script>
+   if (document.location.protocol! = "https:") {document.location = document.URL.replace (/ ^ http: / i, "https:");}
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-includes/js/jquery/jquery.js?ver=1.12.4" type = "text / javascript">
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type = "text / javascript">
+  </script>
+  <link href = "https://www.dresden-asc.de/wp-json/" rel = "https://api.w.org/" />
+  <link href = "https://www.dresden-asc.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+  <link href = "https://www.dresden-asc.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+  <meta content = "WordPress 4.9.16" name = "generator" />
+  <link href = "https://www.dresden-asc.de/" rel = "canonical" />
+  <link href = "https://www.dresden-asc.de/" rel = "shortlink" />
+  <link href = "https://www.dresden-asc.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dresden-asc.de%2F" rel = "alternate" type = "application / json + oembed" />
+  <link href = "https://www.dresden-asc.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dresden-asc.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+  <style>
+   .bg {opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded {opacity: 1;}
+  </style>
+  <! - [if IE]> <link rel = "stylesheet" type = "text / css" href = "https://www.dresden-asc.de/wp-content/themes/flatsome/assets/css/ ie-fallback.css "> <script src =" // cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js "> </script> <script> var head = document.getElementsByTagName (' head ') [0], style = document.createElement (' style '); style.type =' text / css'; style.styleSheet.cssText = ': before,: after {content: none! important'; head. appendChild (style); setTimeout (function () {head.removeChild (style);}, 0); </script> <script src = "https://www.dresden-asc.de/wp-content/themes/ flatsome / assets / libs / ie-flexibility.js "> </script> <! [endif] ->
+  <script type = "text / javascript">
+   WebFontConfig = {
+      google: {families: ["Lato: regular, 700", "Lato: regular, 400", "Lato: regular, 700", "Dancing + Script",]}
+    };
+    (function () {
+      var wf = document.createElement ('script');
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text / javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName ('script') [0];
+      s.parentNode.insertBefore (wf, s);
+    }) ();
+  </script>
+  <link href = "https://www.dresden-asc.de/wp-content/uploads/2018/04/cropped-ASC.-2-32x32.jpg" rel = "icon" sizes = "32x32" />
+  <link href = "https://www.dresden-asc.de/wp-content/uploads/2018/04/cropped-ASC.-2-192x192.jpg" rel = "icon" sizes = "192x192" />
+  <link href = "https://www.dresden-asc.de/wp-content/uploads/2018/04/cropped-ASC.-2-180x180.jpg" rel = "apple-touch-icon-precomposed" / >
+  <meta content = "https://www.dresden-asc.de/wp-content/uploads/2018/04/cropped-ASC.-2-270x270.jpg" name = "msapplication-TileImage" />
+  <style id = "custom-css" type = "text / css">
+   : root {--primary-color: # 005a91;} / * Site Width * /. header-main {height: 100px} #logo img {max-height: 100px} #logo {width: 202px;}. header-top {min-height: 30px} .has-transparent + .page-title: first-of-type, .has-transparent + #main> .page-title, .has-transparent + #main> div> .page-title , .has-transparent + #main .page-header-wrapper: first-of-type .page-title {padding-top: 150px;}. header.show-on-scroll, .stuck .header-main {height: 70px! Important} .stuck #logo img {max-height: 70px! Important} .header-bg-color, .header-wrapper {background-color: #ffffff} .header-bottom {background-color: # f1f1f1} @ media (max-width: 549px) {.header-main {height: 70px} #logo img {max-height: 70px}} / * Color * /. accordion-title.active, .has-icon-bg .icon. icon-inner, .logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline> li.active> a, .nav-outline> li.active > a, .cart-icon strong, [data-color = 'primary'], .is-outline.primary {color: # 005a91;} / * Color! important * / [data-text-color = "primary"] {col or: # 005a91! important;} / * Background * /. scroll-to-bullets a, .featured-title, .label-new.menu-item> a: after, .nav-pagination> li> .current ,. nav-pagination> li> span: hover, .nav-pagination> li> a: hover, .has-hover: hover .badge-outline .badge-inner, button [type = "submit"], .button.wc- forward: not (.checkout): not (.checkout-button), .button.submit-button, .button.primary: not (.is-outline) ,. featured-table .title, .is-outline: hover, .has-icon: hover .icon-label, .nav-dropdown-bold .nav-column li> a: hover, .nav-dropdown.nav-dropdown-bold> li> a: hover, .nav-dropdown-bold .dark .nav-column li> a: hover, .nav-dropdown.nav-dropdown-bold.dark> li> a: hover, .is-outline: hover, .tagcloud a: hover, .grid-tools a, input [type = 'submit']: not (.is-form), .box-badge: hover .box-text, input.button.alt, .nav-box> li> a: hover, .nav-box> li.active> a, .nav-pills> li.active> a, .current-dropdown .cart-icon strong, .cart-icon: hover strong, .nav-line-bottom> li> a: before, .nav -line-grow> li> a: before, .nav-line > li> a: before, .banner, .header-top, .slider-nav-circle .flickity-prev-next-button: hover svg, .slider-nav-circle .flickity-prev-next-button: hover. arrow, .primary.is-outline: hover, .button.primary: not (.is-outline), input [type = 'submit']. primary, input [type = 'submit']. primary, input [type = 'reset']. button, input [type = 'button']. primary, .badge-inner {background-color: # 005a91;} / * Border * /. nav-vertical.nav-tabs> li.active> a , .scroll-to-bullets a.active, .nav-pagination> li> .current, .nav-pagination> li> span: hover, .nav-pagination> li> a: hover, .has-hover: hover. badge-outline .badge-inner, .accordion-title.active, .featured-table, .is-outline: hover, .tagcloud a: hover, blockquote, .has-border, .cart-icon strong: after, .cart -icon strong, .blockUI: before, .processing: before, .loading-spin, .slider-nav-circle .flickity-prev-next-button: hover svg, .slider-nav-circle .flickity-prev-next- button: hover .arrow, .primary.is-outline: hover {border-color: # 005a91} .nav-tabs> li.active> a {border-top-color: # 005a91} .widget_shopping_cart_content .blockUI.blockOverlay: before {border-left-color: # 005a91} .woocommerce-checkout-review-order .blockUI.blockOverlay: before {border-left-color: # 005a91} / * Fill * / .slider .flickity-prev-next-button: hover svg, .slider .flickity-prev-next-button: hover .arrow {fill: # 005a91;} body {font-family: "Lato", sans-serif} body {font-weight: 400} .nav> li> a {font-family: "Lato", sans-serif;}. nav> li> a {font-weight: 700;} h1, h2, h3, h4, h5 , h6, .heading-font, .off-canvas-center .nav-sidebar.nav-vertical> li> a {font-family: "Lato", sans-serif;} h1, h2, h3, h4, h5, h6, .heading-font, .banner h1, .banner h2 {font-weight: 700;}. alt-font {font-family: "Dancing Script", sans-serif;}. label-new.menu-item> a: after {content: "New";}. label-hot.menu-item> a: after {content: "Hot";}. label-sale.menu-item> a: after {content: "Sale"; } .label-popular.menu-item> a: after {content: "Popular";}
+  </style>
+ </head>
+ <body class = "home page-template page-template-page-blank page-template-page-blank-php page page-id-94 lightbox nav-dropdown-has-arrow" data-rsssl = "1">
+  <a class="skip-link screen-reader-text" href="#main">
+   Skip to content
+  </a>
+  <div id = "wrapper">
+   <header class = "header has-sticky sticky-jump" id = "header">
+    <div class = "header-wrapper">
+     <div class = "header-main" id = "masthead">
+      <div class = "header-inner flex-row container logo-left medium-logo-center" role = "navigation">
+       <! - Logo ->
+       <div class = "flex-col logo" id = "logo">
+        <! - Header logo ->
+        <a href="https://www.dresden-asc.de/" rel="home" title="Auto Service Center Dresden-a free car workshop in Dresden">
+         <img alt = "Auto Service Center Dresden" class = "header_logo header-logo" height = "100" src = "https://www.dresden-asc.de/wp-content/uploads/2018/04/ASC. -2.jpg "width =" 202 "/>
+         <img alt = "Auto Service Center Dresden" class = "header-logo-dark" height = "100" src = "https://www.dresden-asc.de/wp-content/uploads/2018/04/ASC .-2.jpg "width =" 202 "/>
+        </a>
+       </div>
+       <! - Mobile Left Elements ->
+       <div class = "flex-col show-for-medium flex-left">
+        <ul class = "mobile-nav nav nav-left">
+         <li class = "nav-icon has-icon">
+          <a aria-controls = "main-menu" aria-expanded = "false" class = "is-small" data-bg = "main-menu-overlay" data-color = "" data-open = "# main- menu "data-pos =" left "href =" # ">
+           <i class = "icon-menu">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <! - Left Elements ->
+       <div class = "flex-col hide-for-medium flex-left flex-grow">
+        <ul class = "header-nav header-nav-main nav nav-left nav-size-large nav-spacing-large nav-uppercase">
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-94 current_page_item active menu-item-428" id = "menu -item-428 ">
+          <a class="nav-top-link" href="https://www.dresden-asc.de/">
+           Home
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-426" id = "menu-item-426">
+          <a class="nav-top-link" href="https://www.dresden-asc.de/zertifikierter-entsorgungsbetrieb/">
+           Cert. disposal
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-425" id = "menu-item-425">
+          <a class="nav-top-link" href="https://www.dresden-asc.de/frei-meisterwerkstatt/">
+           Free master workshop
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-424" id = "menu-item-424">
+          <a class="nav-top-link" href="https://www.dresden-asc.de/au-hu/">
+           AU / HU
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-427" id = "menu-item-427">
+          <a class="nav-top-link" href="https://www.dresden-asc.de/kontakt/">
+           Contact
+          </a>
+         </li>
+        </ul>
+       </div>
+       <! - Right Elements ->
+       <div class = "flex-col hide-for-medium flex-right">
+        <ul class = "header-nav header-nav-main nav nav-right nav-size-large nav-spacing-large nav-uppercase">
+        </ul>
+       </div>
+       <! - Mobile Right Elements ->
+       <div class = "flex-col show-for-medium flex-right">
+        <ul class = "mobile-nav nav nav-right">
+        </ul>
+       </div>
+      </div>
+      <! -. header-inner ->
+      <! - Header divider ->
+      <div class = "container">
+       <div class = "top-divider full-width">
+       </div>
+      </div>
+     </div>
+     <! - .header-main ->
+     <div class = "header-bottom wide-nav flex-has-center hide-for-medium" id = "wide-nav">
+      <div class = "flex-row container">
+       <div class = "flex-col hide-for-medium flex-center">
+        <ul class = "nav header-nav header-bottom-nav nav-center nav-uppercase">
+         <li class = "header-contact-wrapper">
+          <ul class = "nav nav-divided nav-uppercase header-contact" id = "header-contact">
+           <li class = "">
+            <a class="tooltip" href="mailto:info@dresden-asc.de" title="info@dresden-asc.de">
+             <i class = "icon-envelop" style = "font-size: 16px;">
+             </i>
+             <span>
+              Contact
+             </span>
+            </a>
+           </li>
+           <li class = "">
+            <a class="tooltip" title="08:00-18:00 ">
+             <i class = "icon-clock" style = "font-size: 16px;">
+             </i>
+             <span>
+              8:00 am - 6:00 pm
+             </span>
+            </a>
+           </li>
+           <li class = "">
+            <a class="tooltip" href="tel:+49 172 7898850" title="+49 172 7898850">
+             <i class = "icon-phone" style = "font-size: 16px;">
+             </i>
+             <span>
+              +49 172 7898850
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+       <! - flex-col ->
+      </div>
+      <! - .flex-row ->
+     </div>
+     <! -. header-bottom ->
+     <div class = "header-bg-container fill">
+      <div class = "header-bg-image fill">
+      </div>
+      <div class = "header-bg-color fill">
+      </div>
+     </div>
+     <! -. header-bg-container ->
+    </div>
+    <! - header-wrapper ->
+   </header>
+   <main class = "" id = "main">
+    <div class = "content-area" id = "content" role = "main">
+     <div class = "slider-wrapper relative" id = "slider-1497212037">
+      <div class = "slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal" data-flickity-options = '{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 4000,
+            "pauseAutoPlayOnHover": false,
+            "prevNextButtons": true,
+            "contain": true,
+            "adaptiveHeight": true,
+            "dragThreshold": 5,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax": 0,
+            "friction": 0.6} '>
+       <div class = "banner has-hover" id = "banner-842253685">
+        <div class = "banner-inner fill">
+         <div class = "banner-bg fill">
+          <div class = "bg fill bg-fill">
+          </div>
+          <div class = "overlay">
+          </div>
+         </div>
+         <! - bg-layers ->
+         <div class = "banner-layers container">
+          <div class = "fill banner-link">
+          </div>
+          <div class = "text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text" id = "text-box-736493388">
+           <div data-animate = "flipInY">
+            <div class = "text dark">
+             <div class = "text-inner text-center">
+              <h1 class = "uppercase">
+               <span style = "font-size: 100%;">
+                Welcome to ASC-Dresden
+               </span>
+              </h1>
+             </div>
+            </div>
+            <! - text-box-inner ->
+           </div>
+           <style scope = "scope">
+            # text-box-736493388 {
+  width: 100%;
+}
+# text-box-736493388 .text {
+  font-size: 100%;
+}
+
+
+@media (min-width: 550px) {
+
+  # text-box-736493388 {
+    width: 70%;
+  }
+
+}
+           </style>
+          </div>
+          <! - text-box ->
+         </div>
+         <! - .banner-layers ->
+        </div>
+        <! - .banner-inner ->
+        <style scope = "scope">
+         # banner-842253685 {
+  padding top: 600px;
+}
+# banner-842253685 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/FB_IMG_1523475409563.jpg);
+}
+# banner-842253685 .overlay {
+  background-color: rgba (0, 0, 0, 0.02);
+}
+# banner-842253685 .bg {
+  background position: 100% 100%;
+}
+        </style>
+       </div>
+       <! - .banner ->
+       <div class = "banner has-hover" id = "banner-770273423">
+        <div class = "banner-inner fill">
+         <div class = "banner-bg fill">
+          <div class = "bg fill bg-fill">
+          </div>
+          <div class = "overlay">
+          </div>
+         </div>
+         <! - bg-layers ->
+         <div class = "banner-layers container">
+          <div class = "fill banner-link">
+          </div>
+          <div class = "text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text" id = "text-box-1324523726">
+           <div data-animate = "fadeInLeft">
+            <div class = "text">
+             <div class = "text-inner text-center">
+              <h2 class = "uppercase" data-animate = "fadeInLeft" data-animated = "true">
+               <span style = "color: #ffffff;">
+                <strong>
+                 Our vehicle offers
+                </strong>
+               </span>
+              </h2>
+              <div class = "is-divider divider clearfix">
+              </div>
+              <! - .divider ->
+              <a class="button white is-shade box-shadow-2 box-shadow-4-hover" href="https://home.mobile.de/AUTOSERVICECENTER#ses" target="_self">
+               <span>
+                look at
+               </span>
+              </a>
+             </div>
+            </div>
+            <! - text-box-inner ->
+           </div>
+           <style scope = "scope">
+            # text-box-1324523726 {
+  width: 85%;
+}
+# text-box-1324523726 .text {
+  font-size: 100%;
+}
+
+
+@media (min-width: 550px) {
+
+  # text-box-1324523726 {
+    width: 43%;
+  }
+
+}
+           </style>
+          </div>
+          <! - text-box ->
+         </div>
+         <! - .banner-layers ->
+        </div>
+        <! - .banner-inner ->
+        <style scope = "scope">
+         # banner-770273423 {
+  padding top: 600px;
+}
+# banner-770273423 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/FB_IMG_1523287470419.jpg);
+}
+# banner-770273423 .overlay {
+  background-color: rgba (0, 0, 0, 0.03);
+}
+# banner-770273423 .bg {
+  background position: 88% 0%;
+}
+        </style>
+       </div>
+       <! - .banner ->
+       <div class = "banner has-hover" id = "banner-129532071">
+        <div class = "banner-inner fill">
+         <div class = "banner-bg fill">
+          <div class = "bg fill bg-fill">
+          </div>
+          <div class = "overlay">
+          </div>
+         </div>
+         <! - bg-layers ->
+         <div class = "banner-layers container">
+          <div class = "fill banner-link">
+          </div>
+          <div class = "text-box banner-layer x50 md-x95 lg-x95 y50 md-y50 lg-y50 res-text" id = "text-box-776974942">
+           <div data-animate = "fadeInLeft">
+            <div class = "text dark">
+             <div class = "text-inner text-center">
+              <h2>
+               <strong>
+                Special offer
+               </strong>
+               !
+              </h2>
+              <h3>
+               <strong>
+                We also buy your used car!
+               </strong>
+              </h3>
+              <a class="button white is-shade box-shadow-2 box-shadow-4-hover" href="https://www.dresden-asc.de/kontakt/" target="_self">
+               <span>
+                Send request
+               </span>
+              </a>
+             </div>
+            </div>
+            <! - text-box-inner ->
+           </div>
+           <style scope = "scope">
+            # text-box-776974942 {
+  width: 100%;
+}
+# text-box-776974942 .text {
+  font-size: 100%;
+}
+
+
+@media (min-width: 550px) {
+
+  # text-box-776974942 {
+    width: 39%;
+  }
+
+}
+           </style>
+          </div>
+          <! - text-box ->
+         </div>
+         <! - .banner-layers ->
+        </div>
+        <! - .banner-inner ->
+        <style scope = "scope">
+         # banner-129532071 {
+  padding top: 600px;
+}
+# banner-129532071 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/FB_IMG_1523819443497.jpg);
+}
+# banner-129532071 .overlay {
+  background-color: rgba (0, 0, 0, 0.05);
+}
+# banner-129532071 .bg {
+  background position: 100% 100%;
+}
+        </style>
+       </div>
+       <! - .banner ->
+       <div class = "banner has-hover" id = "banner-1988399779">
+        <div class = "banner-inner fill">
+         <div class = "banner-bg fill">
+          <div class = "bg fill bg-fill">
+          </div>
+          <div class = "overlay">
+          </div>
+         </div>
+         <! - bg-layers ->
+         <div class = "banner-layers container">
+          <div class = "fill banner-link">
+          </div>
+         </div>
+         <! - .banner-layers ->
+        </div>
+        <! - .banner-inner ->
+        <style scope = "scope">
+         # banner-1988399779 {
+  padding top: 600px;
+}
+# banner-1988399779 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/mercedes-841465_1920.jpg);
+}
+# banner-1988399779 .overlay {
+  background-color: rgba (0, 0, 0, 0.03);
+}
+# banner-1988399779 .bg {
+  background position: 47% 0%;
+}
+        </style>
+       </div>
+       <! - .banner ->
+      </div>
+      <div class = "loading-spin dark large centered">
+      </div>
+      <style scope = "scope">
+      </style>
+     </div>
+     <! - .ux-slider-wrapper ->
+     <div class = "clearfix" style = "display: block; height: auto; padding-top: 30px">
+     </div>
+     <div class = "container section-title-container">
+      <h3 class = "section-title section-title-center">
+       <b>
+       </b>
+       <span class = "section-title-main">
+        Our services at a glance
+       </span>
+       <b>
+       </b>
+      </h3>
+     </div>
+     <! - .section-title ->
+     <div class = "row row-small row-full-width align-center row-box-shadow-2 row-box-shadow-4-hover" id = "row-1153446677">
+      <div class = "col medium-4 large-4">
+       <div class = "col-inner">
+        <div class = "banner has-hover bg-blur" id = "banner-1127915560">
+         <div class = "banner-inner fill">
+          <div class = "banner-bg fill">
+           <div class = "bg fill bg-fill">
+           </div>
+           <div class = "overlay">
+           </div>
+          </div>
+          <! - bg-layers ->
+          <div class = "banner-layers container">
+           <a class="fill" href="https://www.dresden-asc.de/ certified- disposal company/">
+            <div class = "fill banner-link">
+            </div>
+           </a>
+           <div class = "text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text" id = "text-box-723465088">
+            <div class = "text dark">
+             <div class = "text-inner text-center">
+              <h2 class = "uppercase">
+               <strong>
+                Certified disposal company
+               </strong>
+              </h2>
+             </div>
+            </div>
+            <! - text-box-inner ->
+            <style scope = "scope">
+             # text-box-723465088 {
+  width: 90%;
+}
+# text-box-723465088 .text {
+  font-size: 100%;
+}
+            </style>
+           </div>
+           <! - text-box ->
+          </div>
+          <! - .banner-layers ->
+         </div>
+         <! - .banner-inner ->
+         <style scope = "scope">
+          # banner-1127915560 {
+  padding top: 56.25%;
+}
+# banner-1127915560 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/motor-2719730_1920.jpg);
+}
+# banner-1127915560 .overlay {
+  background-color: rgba (0, 0, 0, 0.17);
+}
+         </style>
+        </div>
+        <! - .banner ->
+       </div>
+      </div>
+      <div class = "col medium-4 large-4">
+       <div class = "col-inner">
+        <div class = "banner has-hover bg-blur" id = "banner-1201949001">
+         <div class = "banner-inner fill">
+          <div class = "banner-bg fill">
+           <div class = "bg fill bg-fill">
+           </div>
+           <div class = "overlay">
+           </div>
+          </div>
+          <! - bg-layers ->
+          <div class = "banner-layers container">
+           <a class="fill" href="https://www.dresden-asc.de/frei-meisterwerkstatt/">
+            <div class = "fill banner-link">
+            </div>
+           </a>
+           <div class = "text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text" id = "text-box-776746639">
+            <div class = "text dark">
+             <div class = "text-inner text-center">
+              <h2 class = "uppercase">
+               <strong>
+                Free master workshop
+               </strong>
+              </h2>
+             </div>
+            </div>
+            <! - text-box-inner ->
+            <style scope = "scope">
+             # text-box-776746639 {
+  width: 90%;
+}
+# text-box-776746639 .text {
+  font-size: 100%;
+}
+            </style>
+           </div>
+           <! - text-box ->
+          </div>
+          <! - .banner-layers ->
+         </div>
+         <! - .banner-inner ->
+         <style scope = "scope">
+          # banner-1201949001 {
+  padding top: 56.25%;
+}
+# banner-1201949001 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/brake-disc-1749633_1920.jpg);
+}
+# banner-1201949001 .overlay {
+  background-color: rgba (0, 0, 0, 0.17);
+}
+         </style>
+        </div>
+        <! - .banner ->
+       </div>
+      </div>
+      <div class = "col medium-4 large-4">
+       <div class = "col-inner">
+        <div class = "banner has-hover bg-blur" id = "banner-851025161">
+         <div class = "banner-inner fill">
+          <div class = "banner-bg fill">
+           <div class = "bg fill bg-fill">
+           </div>
+           <div class = "overlay">
+           </div>
+          </div>
+          <! - bg-layers ->
+          <div class = "banner-layers container">
+           <a class="fill" href="https://www.dresden-asc.de/au-hu/">
+            <div class = "fill banner-link">
+            </div>
+           </a>
+           <div class = "text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text" id = "text-box-417247720">
+            <div class = "text dark">
+             <div class = "text-inner text-center">
+              <h2 class = "uppercase">
+               <strong>
+                AU / HU
+               </strong>
+              </h2>
+             </div>
+            </div>
+            <! - text-box-inner ->
+            <style scope = "scope">
+             # text-box-417247720 {
+  width: 90%;
+}
+# text-box-417247720 .text {
+  font-size: 100%;
+}
+            </style>
+           </div>
+           <! - text-box ->
+          </div>
+          <! - .banner-layers ->
+         </div>
+         <! - .banner-inner ->
+         <style scope = "scope">
+          # banner-851025161 {
+  padding top: 56.25%;
+}
+# banner-851025161 .bg.bg-loaded {
+  background-image: url (https://www.dresden-asc.de/wp-content/uploads/2018/04/FB_IMG_1523475167101.jpg);
+}
+# banner-851025161 .overlay {
+  background-color: rgba (0, 0, 0, 0.17);
+}
+# banner-851025161 .bg {
+  background position: 41% 51%;
+}
+         </style>
+        </div>
+        <! - .banner ->
+       </div>
+      </div>
+      <style scope = "scope">
+      </style>
+     </div>
+     <div class = "clearfix" style = "display: block; height: auto; padding-top: 30px">
+     </div>
+     <div class = "container section-title-container">
+      <h3 class = "section-title section-title-center">
+       <b>
+       </b>
+       <span class = "section-title-main">
+        Welcome
+       </span>
+       <b>
+       </b>
+      </h3>
+     </div>
+     <! - .section-title ->
+     <div class = "row" id = "row-1473127935">
+      <div class = "col medium-6 small-12 large-6">
+       <div class = "col-inner">
+        <h3>
+         Welcome to ASC-Dresden!
+        </h3>
+        <p>
+         We are a dynamic, medium-sized company that offers its customers everything to do with automobiles and bikes. Our service on the Internet as well as on site is individually tailored to the wishes and interests of our customers.
+        </p>
+        <p>
+         If you miss something in our offers or have very special requests, we are available to you at any time by fax, phone call, e-mail or personally on site.
+        </p>
+        <p>
+         <strong>
+          Your team from ASC Dresden
+         </strong>
+        </p>
+       </div>
+      </div>
+      <div class = "col medium-6 small-12 large-6">
+       <div class = "col-inner">
+        <div class = "img has-hover x md-x lg-x y md-y lg-y" id = "image_201993861">
+         <div class = "img-inner image-zoom-long box-shadow-2 box-shadow-4-hover dark">
+          <img alt = "" class = "attachment-medium size-medium" height = "400" sizes = "(max-width: 600px) 100vw, 600px" src = "https://www.dresden-asc.de/ wp-content / uploads / 2018/04 / alfa-1823056_1920-600x400.jpg "srcset =" https://www.dresden-asc.de/wp-content/uploads/2018/04/alfa-1823056_1920-600x400.jpg 600w, https://www.dresden-asc.de/wp-content/uploads/2018/04/alfa-1823056_1920-768x512.jpg 768w, https://www.dresden-asc.de/wp-content/uploads /2018/04/alfa-1823056_1920-1200x800.jpg 1200w "width =" 600 "/>
+         </div>
+         <style scope = "scope">
+          # image_201993861 {
+  width: 100%;
+}
+         </style>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "clearfix" style = "display: block; height: auto; padding-top: 30px">
+     </div>
+     <div class = "container section-title-container">
+      <h3 class = "section-title section-title-center">
+       <b>
+       </b>
+       <span class = "section-title-main">
+        You'll find us here
+       </span>
+       <b>
+       </b>
+      </h3>
+     </div>
+     <! - .section-title ->
+     <p>
+      <iframe allowfullscreen = "allowfullscreen" frameborder = "0" height = "400" src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.337161454361!2d13.688976015743954 !! 3d51.04686195209146 2m3 1F0 2f0 3f0 3m2 1i1024 2i768 4f13.1 3m3 1m2 1s0x4709cf87fe08725b% 3A0xa70b5ed711b01716 2zQnJhdW5zZG9yZmVyIFN0ci4gMjEsIDAxMTU5IERyZXNkZW4sINCT0LXRgNC80LDQvdC40Y8 5e0 3m2 1sru 2sby 4v1522743036338 "style =" border: 0;!!!!!!!!!!!! " width = "9800">
+      </iframe>
+     </p>
+    </div>
+   </main>
+   <! - #main ->
+   <footer class = "footer-wrapper" id = "footer">
+    <! - FOOTER 1 ->
+    <! - FOOTER 2 ->
+    <div class = "footer-widgets footer footer-2 dark">
+     <div class = "row dark large-columns-3 mb-0">
+      <div class = "col pb-0 widget widget_text" id = "text-15">
+       <span class = "widget-title">
+        Contact
+       </span>
+       <div class = "is-divider small">
+       </div>
+       <div class = "textwidget">
+        <p>
+         <strong>
+          Auto Service Center Dresden
+         </strong>
+        </p>
+        <p>
+         Braunsdorfer Str. 21
+         <br/>
+         01159 Dresden
+        </p>
+        <p>
+         Tel .: +49 (0) 351 4218234
+         <br/>
+         Fax: +49 (0) 351 4218236
+         <br/>
+         Mob .: +49 (0) 172 7898850
+         <br/>
+         Email: info@dresden-asc.de
+        </p>
+       </div>
+      </div>
+      <div class = "col pb-0 widget widget_text" id = "text-16">
+       <span class = "widget-title">
+        External links
+       </span>
+       <div class = "is-divider small">
+       </div>
+       <div class = "textwidget">
+        <p>
+         <a href="https://www.santander.de/privatkunden/" rel="noopener" target="_blank">
+          Loan request
+         </a>
+         <br/>
+         <a href="https://www.kfz-steuer.de" rel="noopener" target="_blank">
+          Vehicle tax calculator
+         </a>
+         <br/>
+         <a href="https://carcredit-santander.de/index.asp" rel="noopener" target="_blank">
+          Car financing 1
+         </a>
+         <br/>
+         <a href="https://www.easycredit.easycredit.de/internetgast/init.exec" rel="noopener" target="_blank">
+          Car financing 2
+         </a>
+         <br/>
+         <a href="https://www.axa.de" rel="noopener" target="_blank">
+          Car insurance comparison
+         </a>
+         <br/>
+         <a href="https://home.mobile.de/AUTOSERVICECENTER#ses">
+          Our vehicle offers at Mobile.de
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class = "col pb-0 widget widget_text" id = "text-17">
+       <span class = "widget-title">
+        Our partner
+       </span>
+       <div class = "is-divider small">
+       </div>
+       <div class = "textwidget">
+        <p>
+         <strong>
+          MSM Motorenservice Müller
+         </strong>
+         <br/>
+         Froebelstrasse 20
+         <br/>
+         01159 Dresden
+        </p>
+        <p>
+         <a href="https://www.motorenservicemueller.de">
+          <img alt = "" class = "alignright wp-image-444 size-full" height = "100" src = "https://www.dresden-asc.de/wp-content/uploads/2018/04/logo -msm-new-3.png "width =" 600 "/>
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+     <! - end row ->
+    </div>
+    <! - end footer 2 ->
+    <div class = "absolute-footer dark medium-text-center text-center">
+     <div class = "container clearfix">
+      <div class = "footer-primary pull-left">
+       <div class = "menu-footer-container">
+        <ul class = "links footer-nav uppercase" id = "menu-footer">
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-397" id = "menu-item-397">
+          <a href="https://www.dresden-asc.de/kontakt/">
+           Contact
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-396" id = "menu-item-396">
+          <a href="https://www.dresden-asc.de/datenschutz/">
+           data protection
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-395" id = "menu-item-395">
+          <a href="https://www.dresden-asc.de/impressum/">
+           imprint
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class = "copyright-footer">
+        Copyright 2020 ©
+        <strong>
+         ASC - Auto Service Center Dresden
+        </strong>
+        - created by
+        <a href="https://delegall.com">
+         Delegall
+        </a>
+       </div>
+      </div>
+      <! - .left ->
+     </div>
+     <! - .container ->
+    </div>
+    <! - .absolute-footer ->
+    <a class="back-to-top button invert plain is-outline hide-for-medium icon circle fixed bottom z-1" href="#top" id="top-link">
+     <i class = "icon-angle-up">
+     </i>
+    </a>
+   </footer>
+   <! - .footer-wrapper ->
+  </div>
+  <! - #wrapper ->
+  <! - Mobile Sidebar ->
+  <div class = "mobile-sidebar no-scrollbar mfp-hide" id = "main-menu">
+   <div class = "sidebar-menu no-scrollbar">
+    <ul class = "nav nav-sidebar nav-vertical nav-uppercase">
+     <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-94 current_page_item menu-item-428">
+      <a class="nav-top-link" href="https://www.dresden-asc.de/">
+       Home
+      </a>
+     </li>
+     <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-426">
+      <a class="nav-top-link" href="https://www.dresden-asc.de/zertifikierter-entsorgungsbetrieb/">
+       Cert. disposal
+      </a>
+     </li>
+     <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-425">
+      <a class="nav-top-link" href="https://www.dresden-asc.de/frei-meisterwerkstatt/">
+       Free master workshop
+      </a>
+     </li>
+     <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-424">
+      <a class="nav-top-link" href="https://www.dresden-asc.de/au-hu/">
+       AU / HU
+      </a>
+     </li>
+     <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-427">
+      <a class="nav-top-link" href="https://www.dresden-asc.de/kontakt/">
+       Contact
+      </a>
+     </li>
+    </ul>
+   </div>
+   <! - inner ->
+  </div>
+  <! - # mobile-menu ->
+  <link href = "https://www.dresden-asc.de/wp-content/plugins/eu-cookie-law/css/style.css?ver=4.9.16" id = "basecss-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+var wpcf7 = {"apiSettings": {"root": "https: \ / \ / www.dresden-asc.de \ / wp-json \ / contact-form-7 \ / v1", "namespace": "contact -form-7 \ / v1 "}," recaptcha ": {" messages ": {" empty ":" Please confirm that you are not a machine. "}}," cached ":" 1 "};
+/ *]]> * /
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2" type = "text / javascript" >
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.6.0" type = "text / javascript">
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-includes/js/hoverIntent.min.js?ver=1.8.1" type = "text / javascript">
+  </script>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+var flatsomeVars = {"ajaxurl": "https: \ / \ / www.dresden-asc.de \ / wp-admin \ /admin-ajax.php", "rtl": "", "sticky_height": "70" , "user": {"can_edit_pages": false}};
+/ *]]> * /
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.0" type = "text / javascript">
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-includes/js/wp-embed.min.js?ver=4.9.16" type = "text / javascript">
+  </script>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+var eucookielaw_data = {"euCookieSet": null, "autoBlock": "0", "expireTimer": "0", "scrollConsent": "0", "networkShareURL": "", "isCookiePage": "", "isRefererWebsite ":" "};
+/ *]]> * /
+  </script>
+  <script src = "https://www.dresden-asc.de/wp-content/plugins/eu-cookie-law/js/scripts.js?ver=4.9.16" type = "text / javascript">
+  </script>
+  <! - Eu Cookie Law 3.0.1 ->
+  <div class = "pea_cook_wrapper pea_cook_bottomright" style = "color: #FFFFFF; background: rgb (0,90,145); background: rgba (0,90,145,0.85);">
+   <p>
+    By continuing to use the site, you consent to the use of cookies.
+    <a href="https://www.dresden-asc.de/datenschutz/" id="fom" style="color:#FFFFFF;">
+     Further information
+    </a>
+    <button class = "pea_cook_btn" href = "#" id = "pea_cook_btn">
+     Accept
+    </button>
+   </p>
+  </div>
+  <div class = "pea_cook_more_info_popover">
+   <div class = "pea_cook_more_info_popover_inner" style = "color: #FFFFFF; background-color: rgba (0,90,145,0.9);">
+    <p>
+     The cookie settings on this website are set to "allow cookies" to enable the best surfing experience. If you use this website without changing the cookie settings or if you click "Accept", you agree to this.
+    </p>
+    <p>
+     <a href="#" id="pea_close" style="color:#FFFFFF;">
+      Conclude
+     </a>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
+<! - Dynamic page generated in 0.228 seconds. ->
+<! - Cached page generated by WP-Super-Cache on 2020-11-08 10:34:09 ->
+<! - Compression = gzip ->

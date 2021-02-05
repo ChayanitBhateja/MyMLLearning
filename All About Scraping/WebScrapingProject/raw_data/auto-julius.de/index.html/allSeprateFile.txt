@@ -1,0 +1,371 @@
+<html>
+ <head>
+  <title>
+   Motor vehicle trade service Julius
+  </title>
+  <meta content = "allesmax" name = "author" />
+  <meta content = "allesmax" name = "publisher" />
+  <meta content = "allesmax" name = "copyright" />
+  <meta content = "julius, kfz, service, trade, kfzhandel, auto, autos, dresden, cotta, repair, wagen, used car, use, auto parts" name = "keywords" />
+  <meta content = "Motor vehicle dealership service Julius." name = "description" />
+  <meta content = "julius, kfz, service, trade, kfzhandel, auto, autos, dresden, cotta, repair, wagen, used car, use, auto parts" name = "page-topic" />
+  <meta content = "julius, kfz, service, trade, kfzhandel, auto, autos, dresden, cotta, repair, car, used car, use, auto parts" name = "ABSTRACT" />
+  <meta content = "All" name = "audience" />
+  <meta content = "NEVER" name = "expires" />
+  <meta content = "1 days" name = "revisit-after" />
+  <meta content = "de" name = "Content-Language" />
+  <meta content = "commercial" name = "Classification" />
+  <meta content = "Commercial Organization" name = "page-type" />
+  <meta content = "INDEX, FOLLOW" name = "robots" />
+  <head>
+   <body bgcolor = "#lösungen" leftmargin = "0" link = "# 0000FF" marginheight = "0" marginwidth = "0" text = "# 000000" topmargin = "0" vlink = "# 800080">
+    <table border = "0" cellpadding = "0" cellspacing = "0" width = "721">
+     <tr align = "LEFT" valign = "TOP">
+      <td height = "27" width = "125">
+       <img border = "0" height = "1" src = "./ clearpixel.gif" width = "125" />
+      </td>
+      <td>
+      </td>
+     </tr>
+     <tr align = "LEFT" valign = "TOP">
+      <td height = "73">
+      </td>
+      <td align = "LEFT" valign = "TOP" width = "596">
+       <img border = "0" height = "73" id = "Bild10" src = "./ bannerjulius.jpg" width = "596" />
+      </td>
+     </tr>
+    </table>
+    <table border = "0" cellpadding = "0" cellspacing = "0" width = "721">
+     <tr align = "LEFT" valign = "TOP">
+      <td>
+       <table border = "0" cellpadding = "0" cellspacing = "0" width = "384">
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "33" width = "10">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "10" />
+         </td>
+         <td>
+         </td>
+         <td width = "89">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "89" />
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "2">
+         </td>
+         <td align = "LEFT" rowspan = "2" valign = "TOP" width = "115">
+          <img alt = "Home" border = "0" height = "17" id = "Bild5" src = "./ a_AltSportsButtonOn.gif" width = "115" />
+         </td>
+         <td colspan = "2">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "15">
+         </td>
+         <td>
+         </td>
+         <td align = "LEFT" rowspan = "9" valign = "TOP" width = "170">
+          <img border = "0" height = "113" id = "Bild12" src = "./ Mercedes.gif" width = "170" />
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "3" height = "8">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "17">
+         </td>
+         <td align = "LEFT" valign = "TOP" width = "115">
+          <a href="./uberuns/uberuns.html">
+           <img alt = "About us" border = "0" height = "17" id = "Bild7" src = "./ a_AltSportsButtonOn_4.gif" width = "115" />
+          </a>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "3" height = "8">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "17">
+         </td>
+         <td align = "LEFT" valign = "TOP" width = "115">
+          <a href="./angebote/angebote.html">
+           <img alt = "Offer" border = "0" height = "17" id = "Bild6" src = "./ a_AltSportsButtonOn_1.gif" width = "115" />
+          </a>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "3" height = "8">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "17">
+         </td>
+         <td align = "LEFT" valign = "TOP" width = "115">
+          <a href="./kontakt/kontakt.html">
+           <img alt = "Contact" border = "0" height = "17" id = "Bild8" src = "./ a_AltSportsButtonOn_2.gif" width = "115" />
+          </a>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "3" height = "8">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "15">
+         </td>
+         <td align = "LEFT" rowspan = "2" valign = "TOP" width = "115">
+          <a href="./wegweiser/wegweiser.html">
+           <img alt = "Signpost" border = "0" height = "17" id = "Bild9" src = "./ a_AltSportsButtonOn_3.gif" width = "115" />
+          </a>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "2">
+         </td>
+         <td colspan = "2">
+         </td>
+        </tr>
+       </table>
+       <table border = "0" cellpadding = "0" cellspacing = "0" width = "435">
+        <tr align = "LEFT" valign = "TOP">
+         <td>
+          <table border = "0" cellpadding = "0" cellspacing = "0" width = "186">
+           <tr align = "LEFT" valign = "TOP">
+            <td height = "11" width = "10">
+             <img border = "0" height = "1" src = "./ clearpixel.gif" width = "10" />
+            </td>
+            <td>
+            </td>
+            <td width = "57">
+             <img border = "0" height = "1" src = "./ clearpixel.gif" width = "57" />
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td height = "79">
+            </td>
+            <td align = "LEFT" valign = "TOP" width = "119">
+             <img border = "0" height = "79" id = "Bild13" src = "./ BMW.gif" width = "119" />
+            </td>
+            <td>
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td colspan = "3" height = "10">
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td>
+            </td>
+            <td colspan = "2" width = "176">
+             <p>
+              <b>
+               <font color = "# 000000" face = "Verdana, Tahoma, Arial, Helvetica" size = "- 2">
+                Motor vehicle trade service Julius
+                <br/>
+               </font>
+              </b>
+              <font color = "# 000000" face = "Verdana, Tahoma, Arial, Helvetica" size = "- 2">
+               Tel .: 0351-4222240
+               <br/>
+               Fax: 0351-4275198
+               <br/>
+               Radio: 0172-3406390
+               <br/>
+               E-mail:
+              </font>
+              <a href="mailto:kontakt@auto-julius.de">
+               <font color = "# 000000" face = "Verdana, Tahoma, Arial, Helvetica" size = "- 2">
+               </font>
+               <font color = "# 0000FF" face = "Verdana, Tahoma, Arial, Helvetica" size = "- 2">
+                kontakt@auto-julius.de
+               </font>
+              </a>
+             </p>
+            </td>
+           </tr>
+          </table>
+          <table border = "0" cellpadding = "0" cellspacing = "0" width = "167">
+           <tr align = "LEFT" valign = "TOP">
+            <td>
+             <table border = "0" cellpadding = "0" cellspacing = "0" width = "87">
+              <tr align = "LEFT" valign = "TOP">
+               <td height = "17" width = "10">
+                <img border = "0" height = "1" src = "./ clearpixel.gif" width = "10" />
+               </td>
+               <td width = "77">
+                <img border = "0" height = "1" src = "./ clearpixel.gif" width = "77" />
+               </td>
+              </tr>
+              <tr align = "LEFT" valign = "TOP">
+               <td>
+               </td>
+               <td width = "77">
+                <p>
+                 <b>
+                  <font face = "Verdana, Tahoma, Arial, Helvetica" size = "- 2">
+                   designed by
+                  </font>
+                 </b>
+                </p>
+               </td>
+              </tr>
+             </table>
+            </td>
+            <td>
+             <table border = "0" cellpadding = "0" cellspacing = "0" width = "80">
+              <tr align = "LEFT" valign = "TOP">
+               <td height = "7">
+               </td>
+              </tr>
+              <tr align = "LEFT" valign = "TOP">
+               <td align = "LEFT" height = "29" valign = "TOP" width = "80">
+                <a href="http://www.allesmax.de">
+                 <img border = "0" height = "29" id = "Bild18" src = "./ allesmaxwhtlogo.gif" width = "80" />
+                </a>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+         <td>
+          <table border = "0" cellpadding = "0" cellspacing = "0" width = "249">
+           <tr align = "LEFT" valign = "TOP">
+            <td height = "17" width = "57">
+             <img border = "0" height = "1" src = "./ clearpixel.gif" width = "57" />
+            </td>
+            <td width = "13">
+             <img border = "0" height = "1" src = "./ clearpixel.gif" width = "13" />
+            </td>
+            <td>
+            </td>
+            <td width = "22">
+             <img border = "0" height = "1" src = "./ clearpixel.gif" width = "22" />
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td>
+            </td>
+            <td colspan = "3" width = "192">
+             <p align = "CENTER">
+              <b>
+               <font color = "# 0000A4" face = "Verdana, Tahoma, Arial, Helvetica" size = "+ 3">
+                sincerely
+               </font>
+              </b>
+             </p>
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td colspan = "4" height = "15">
+            </td>
+           </tr>
+           <tr align = "LEFT" valign = "TOP">
+            <td colspan = "2" height = "105">
+            </td>
+            <td align = "LEFT" valign = "TOP" width = "157">
+             <img border = "0" height = "105" id = "Bild20" src = "./ P.gif" width = "157" />
+            </td>
+            <td>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </td>
+      <td>
+       <table border = "0" cellpadding = "0" cellspacing = "0" width = "286">
+        <tr align = "LEFT" valign = "TOP">
+         <td height = "34" width = "64">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "64" />
+         </td>
+         <td width = "4">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "4" />
+         </td>
+         <td width = "211">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "211" />
+         </td>
+         <td width = "7">
+          <img border = "0" height = "1" src = "./ clearpixel.gif" width = "7" />
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "2" height = "229">
+         </td>
+         <td align = "LEFT" colspan = "2" valign = "TOP" width = "218">
+          <img border = "0" height = "229" id = "Bild11" src = "./ VWvorne.jpg" width = "218" />
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td colspan = "4" height = "28">
+         </td>
+        </tr>
+        <tr align = "LEFT" valign = "TOP">
+         <td>
+         </td>
+         <td colspan = "2" width = "215">
+          <p align = "CENTER">
+           <b>
+            <font color = "# 0000A4" face = "Verdana, Tahoma, Arial, Helvetica" size = "+ 3">
+             welcome
+            </font>
+           </b>
+          </p>
+         </td>
+         <td>
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+    </table>
+    <table border = "0" cellpadding = "0" cellspacing = "0" width = "732">
+     <tr align = "LEFT" valign = "TOP">
+      <td height = "3" width = "221">
+       <img border = "0" height = "1" src = "./ clearpixel.gif" width = "221" />
+      </td>
+      <td>
+      </td>
+      <td width = "161">
+       <img border = "0" height = "1" src = "./ clearpixel.gif" width = "161" />
+      </td>
+      <td>
+      </td>
+     </tr>
+     <tr align = "LEFT" valign = "TOP">
+      <td colspan = "3" height = "28">
+      </td>
+      <td align = "LEFT" rowspan = "3" valign = "TOP" width = "221">
+       <img border = "0" height = "147" id = "Bild22" src = "./ FI.gif" width = "221" />
+      </td>
+     </tr>
+     <tr align = "LEFT" valign = "TOP">
+      <td height = "113">
+      </td>
+      <td align = "LEFT" valign = "TOP" width = "129">
+       <img border = "0" height = "113" id = "Bild21" src = "./ trabantvorn.jpg" width = "129" />
+      </td>
+      <td>
+      </td>
+     </tr>
+     <tr align = "LEFT" valign = "TOP">
+      <td colspan = "3" height = "6">
+      </td>
+     </tr>
+    </table>
+   </body>
+  </head>
+ </head>
+</html>

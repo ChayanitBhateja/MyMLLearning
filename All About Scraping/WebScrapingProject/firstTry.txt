@@ -1,0 +1,935 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Oettinger Sportwagen
+  </title>
+  <link href="css/fouc.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="css/pagecss.php?style=0_1" media="all" rel="stylesheet" type="text/css"/>
+  <link href="../js/galleryview.css" rel="stylesheet" type="text/css"/>
+  <link href="css/galleryview.css" rel="stylesheet" type="text/css">
+   <link href="../css/form_template.css" rel="stylesheet" type="text/css"/>
+   <script src="../js/swfobject.js" type="text/javascript">
+   </script>
+   <!--		<script type="text/javascript" src="../js/jquery-1.7.js"></script>-->
+   <script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript">
+   </script>
+   <script src="../js/rotation.js" type="text/javascript">
+   </script>
+   <script src="../js/jquery-galleryview-1.1/jquery.galleryview-1.1.js" type="text/javascript">
+   </script>
+   <script src="../js/jquery-galleryview-1.1/jquery.timers-1.1.2.js" type="text/javascript">
+   </script>
+   <meta content="" name="description"/>
+   <meta content="" name="keywords"/>
+   <meta content="de" http-equiv="content-language"/>
+   <meta content="10" name="revisit-after"/>
+   <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+   <meta content="TRUE" name="MSSmartTagsPreventParsing"/>
+   <meta content="-1" http-equiv="expires"/>
+   <meta content="no-cache" http-equiv="pragma"/>
+   <meta content="text/javascript" http-equiv="Content-Script-Type"/>
+   <style type="text/css">
+    /*Cookie Consent Begin*/
+            #cookieConsent {
+                background-color: rgba(20,20,20,0.8);
+                min-height: 26px;
+                font-size: 14px;
+                color: #ccc;
+                line-height: 26px;
+                padding: 8px 0 8px 30px;
+                font-family: "Trebuchet MS",Helvetica,sans-serif;
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                display: none;
+                z-index: 9999;
+            }
+            #cookieConsent a {
+                color: #4B8EE7;
+                text-decoration: none;
+            }
+            #closeCookieConsent {
+                float: right;
+                display: inline-block;
+                cursor: pointer;
+                height: 20px;
+                width: 20px;
+                margin: -15px 0 0 0;
+                font-weight: bold;
+            }
+            #closeCookieConsent:hover {
+                color: #FFF;
+            }
+            #cookieConsent a.cookieConsentOK {
+                background-color: #F1D600;
+                color: #000;
+                display: inline-block;
+                border-radius: 5px;
+                padding: 0 20px;
+                cursor: pointer;
+                float: right;
+                margin: 0 60px 0 10px;
+            }
+            #cookieConsent a.cookieConsentOK:hover {
+                background-color: #E0C91F;
+            }
+            /*Cookie Consent End*/
+   </style>
+  </link>
+ </head>
+ <body>
+  <div id="spacer">
+  </div>
+  <div id="spacerTop">
+  </div>
+  <div id="inner">
+   <div id="content">
+    <div class="backImg" id="flash">
+     <!-- <img src="gfx/0_1_background.jpg" alt="Oettinger Sportwagen"> -->
+     <div class="galleryview" id="photos">
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_331.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_320.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_289.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_279.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_280.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_281.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_291.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_259.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_298.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_305.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_286.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_295.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_297.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_274.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_275.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_276.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_278.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_299.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_282.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_260.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_285.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_283.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_277.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_288.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_287.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_258.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_273.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_296.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_300.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_290.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_92.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_240.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_307.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_308.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_310.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_309.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_402.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_302.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_241.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_96.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_239.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_97.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_100.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_98.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_101.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_78.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_201.jpg"/>
+      </div>
+      <div class="panel">
+       <img alt="" src="../cmsImages/a_196.jpg"/>
+      </div>
+      <ul class="filmstrip">
+       <li>
+        <img alt="" src="../cmsImages/c_331.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_320.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_289.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_279.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_280.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_281.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_291.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_259.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_298.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_305.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_286.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_295.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_297.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_274.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_275.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_276.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_278.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_299.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_282.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_260.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_285.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_283.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_277.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_288.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_287.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_258.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_273.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_296.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_300.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_290.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_92.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_240.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_307.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_308.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_310.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_309.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_402.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_302.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_241.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_96.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_239.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_97.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_100.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_98.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_101.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_78.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_201.jpg" title=""/>
+       </li>
+       <li>
+        <img alt="" src="../cmsImages/c_196.jpg" title=""/>
+       </li>
+      </ul>
+     </div>
+     <script type="text/javascript">
+      $(document).ready(function(){
+		$('#photos').galleryView({
+			panel_width: 1020,
+			panel_height: 680,
+			frame_width: 60,
+			frame_height: 40
+		});
+	});
+     </script>
+    </div>
+    <!-- <img style="position:absolute;top:642px;left:0px;z-index:45000" src="./gfx/impresionen.gif"> -->
+    <a href="http://www.facebook.com/OettingerSportwagen" style="border:none;" target="_blank">
+     <img src="./gfx/oettinger-fb-button.jpg" style="position:absolute;top:642px;left:0px;z-index:45000"/>
+    </a>
+    <script type="text/javascript">
+     <!--
+var so = new SWFObject("./flashData/galerie_new.swf", "mymovie", "1020", "680", "7", "#ffffff");
+so.addParam("quality", "high");
+so.addParam("wmode", "transparent"); 			
+so.write("flash");
+-->
+    </script>
+    <!-- <img class="sinceHeadImg" src="gfx/das_original_seit_1988.png" alt="Das Original seit 1988"> -->
+    <div class="redLine" style="top:641px;">
+    </div>
+    <!-- <div style="position:absolute;top:427px;left:0px;z-index:40000">
+	<map name="map" id="map">
+ <area shape="rect" coords="0,-5,342,192" href="oettinger-sportwagen.html" alt="" />
+ <area shape="rect" coords="343,0,682,226" href="oettinger-klassik.html" alt="" />
+ <area shape="rect" coords="685,-34,1053,193" href="oettinger-uscars.html" alt="" />
+</map>
+<img src="./gfx/leiste.jpg"  border="0" alt="" title="" usemap="#map" />
+
+</div> -->
+    <div id="newsBox">
+     <a href="news_events.html">
+      <img alt="Oettinger News" border="0" src="gfx/0_0_newsBoxBottom.gif"/>
+     </a>
+     <div class="newsTxBox">
+      <div class="nTx">
+       <a href="news_events_detail326.html" style="color:black;">
+        <h2>
+         28.Februar 2018
+        </h2>
+        Bremen Classic Motorshow ...
+        <br/>
+        <br/>
+        <img src="gfx/BCM-Logo.jpg" width="180"/>
+        <br/>
+        <br/>
+       </a>
+      </div>
+     </div>
+     <!--<a href="chromjuwelen.html"><img src="gfx/chromjuwelen.jpg" border="0" alt="Chromjuwelen"></a>-->
+    </div>
+    <div id="newsBackBox">
+     <img alt="Topangebote" class="nHeadImg" src="gfx/0_0_newsBoxHead.gif"/>
+     <div class="detailBackBox">
+      <div class="dBackBoxHg">
+      </div>
+      <a href="javascript:clearScreen(false);">
+       <div class="dBackBoxTx">
+        wieder einblenden
+       </div>
+      </a>
+     </div>
+     <a href="news_events.html">
+      <img alt="Oettinger News" border="0" class="nBottomImg" src="gfx/0_0_newsBoxBottom.gif"/>
+     </a>
+    </div>
+   </div>
+   <a href="https://www.instagram.com/oettinger_sportwagen_zentrum/?hl=de" style="border:none;" target="_blank">
+    <img src="./gfx/oettinger-ig-button.jpg" style="position:absolute;top:603px;left:0px;z-index:45000"/>
+   </a>
+   <a href="http://www.facebook.com/OettingerSportwagen" style="border:none;" target="_blank">
+    <img src="./gfx/oettinger-fb-button.jpg" style="position:absolute;top:642px;left:0px;z-index:45000"/>
+   </a>
+   <!-- <div class="png_link">
+			<div class="close"><img border="0" alt="Oldtimer Park Hamburg" title="Close" src="/de/gfx/close.png"></div>
+			<a href="http://oldtimerpark-hamburg.de/" target="_blank"><img border="0" alt="Oldtimer Park Hamburg" title="Oldtimer Park Hamburg" src="/de/gfx/oldtimer_park_hamburg.png"></a>
+			</div>
+
+			<script>
+			$(".close").click(function () {
+				$(".png_link").fadeOut("slow");
+			});
+			</script> -->
+   <div class="bottom_all">
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_1.jpg"/>
+      <img src="/de/gfx/bottom_title_1.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_1.jpg"/>
+      <p>
+       Wenn Sachverstand und Herzblut, Professionalität und Leidenschaft aufeinander treffen, entsteht eine Atmosphäre, in der aus Träumen Realität wird. Seit 1980 steht Oettinger Sportwagen für diese optimale Kombination. Beruf als Berufung. Deshalb wird individuelle Beratung hier groß geschrieben. Perfekt zugeschnittene Finanzierungsmodelle gehören ebenso zum Portfolio, wie die europaweite Auslieferung und umfassende Serviceleistungen.
+      </p>
+      <div class="bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN" target="_blank">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Fahrzeugangebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Leasing/Finanzierung (auch für Klassiker)
+       </li>
+       <li>
+        Werkstattservices/Inspektion/Wartung
+       </li>
+       <li>
+        professionelle Fahrzeugaufbereitung
+       </li>
+       <li>
+        Auslieferung europaweit
+       </li>
+       <li>
+        Hol- &amp; Bringservice
+       </li>
+       <li>
+        Tuning/Leistungsssteigerung
+       </li>
+       <li>
+        Räder &amp; Fahrwerk
+       </li>
+       <li>
+        Sondereinbauten/Multimedia/Navigation
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_2.jpg"/>
+      <img src="/de/gfx/bottom_title_2.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_2.jpg"/>
+      <p>
+       Leidenschaft für Porsche hat sich Oettinger Sportwagen auf die Fahne geschrieben. Egal, ob klassisch oder modern, der exzellente Zustand der Fahrzeuge ist unser Aushängeschild.
+Leidenschaftlich war auch die Liebe der Vorbesitzer zu ihren automobilen Schätzen: Die Fahrzeuge glänzen durch niedrige Laufleistung und eine geprüfte Historie.
+      </p>
+      <div class="bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Fahrzeugangebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Porsche 356
+       </li>
+       <li>
+        Porsche 901/911 (F-Modell)
+       </li>
+       <li>
+        Porsche 911 SC/Carrera (G-Modell)
+       </li>
+       <li>
+        Porsche 914/916 VW-Porsche
+       </li>
+       <li>
+        Porsche 928/944/968
+       </li>
+       <li>
+        Porsche 964/993
+       </li>
+       <li>
+        Porsche 996/997/991
+       </li>
+       <li>
+        Porsche Cayman/Boxster/Panamera/Cayenne
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_3.jpg"/>
+      <img src="/de/gfx/bottom_title_3.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_3.jpg"/>
+      <p>
+       Der Markt für historische Fahrzeuge ist groß, die Modellvielfalt hoch. Wir helfen Ihnen, den Durchblick zu behalten. Mit der Genauigkeit des Liebhabers erkennen wir seltene europäische Klassiker, die aufgrund des hervorragenden technischen Zustands ihren neuen Besitzer begeistern. Von legendären Oldtimern der 50er-Jahre bis hin zu gepflegten Youngtimern reicht unser Angebot.
+      </p>
+      <div class="bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Fahrzeugangebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Alfa-Romeo
+       </li>
+       <li>
+        Citroen
+       </li>
+       <li>
+        Mercedes-Benz
+       </li>
+       <li>
+        Porsche
+       </li>
+       <li>
+        Spezielle Youngtimer
+       </li>
+       <li>
+        Oldtimer der 50er bis 70er Jahre
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_4.jpg"/>
+      <img src="/de/gfx/bottom_title_4.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_4.jpg"/>
+      <p>
+       Der Blick über den „großen Teich“ gehört fest in unser Repertoire: Amerikanische Klassiker verkörpern den Traum von Freiheit. Diese Freiheit bringen wir für Sie nach Europa. Ob Fahrzeuge der 50er-, 60er- oder 70er-Jahre – nirgendwo sonst ist die Qual der Wahl so angenehm.
+      </p>
+      <div class="bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Fahrzeugangebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Ford Mustang
+       </li>
+       <li>
+        Chevrolet Camaro
+       </li>
+       <li>
+        Corvette
+       </li>
+       <li>
+        Dodge RAM &amp; Viper
+       </li>
+       <li>
+        Oldsmobile
+       </li>
+       <li>
+        Buick
+       </li>
+       <li>
+        Cadillac
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_5.jpg"/>
+      <img src="/de/gfx/bottom_title_5.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_5.jpg"/>
+      <p>
+       Die Begeisterung für schöne und seltene Automobile schmiedet ein festes Band zwischen Kunde und  der Firma Oettinger Sportwagen-Zentrum GmbH. Diese Begeisterung ist es auch, die unseren Werkstattservice bei seiner Arbeit leitet – so garantieren wir ungetrübte Freude am Besitz eines außergewöhnlichen Fahrzeugs. Der „Rundum-Sorglos-Service“ aus einer Hand vom Tuning über Wartung bis zur Karosserieinstandsetzung – typisch Oettinger.
+      </p>
+      <div class="bottom_middle_link">
+       <a href="service_ankauf.html">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Serviceangebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Werkstattservices/Inspektion/Wartung
+       </li>
+       <li>
+        TÜV/AU/Fahrwerksvermessung
+       </li>
+       <li>
+        Karosserieinstandsetzung
+       </li>
+       <li>
+        Lackierung/Aufbereitung &amp; Nanoversiegelung
+       </li>
+       <li>
+        Lederpflege &amp; Interieur
+       </li>
+       <li>
+        Tuning/Leistungsssteigerung
+       </li>
+       <li>
+        Räder &amp; Fahrwerk
+       </li>
+       <li>
+        Sondereinbauten/Multimedia/Navigation
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="bottom_box">
+     <div class="greyline">
+     </div>
+     <div class="bottom_left">
+      <img src="/de/gfx/bottom_image_6.jpg"/>
+      <img src="/de/gfx/bottom_title_6.jpg"/>
+     </div>
+     <div class="bottom_middle">
+      <img src="/de/gfx/bottom_headline_6.jpg"/>
+      <p>
+       Durch die fertige Formulierung mit Mathè Classic sind Chromjuwelen Motor Öle maßgeschneidert für klassische Motoren im Saisonbetrieb, garantieren eine dauerhafte Schmierung und sorgen für einen optimalen Schutz vor Korrosion.
+       <br/>
+       <br/>
+       Schauen Sie selbst...
+      </p>
+      <div class="bottom_middle_link">
+       <a href="chromjuwelen.html">
+        <span>
+         <b>
+          &gt;&gt;
+         </b>
+        </span>
+        <b>
+         zum Angebot
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class="bottom_right">
+      <ul>
+       <li>
+        Optimaler Schutz in der Überwinterungspause
+       </li>
+       <li>
+        Reduziert den Kaltstartverschleiß
+       </li>
+       <li>
+        Verhindert Rostbildung
+       </li>
+       <li>
+        Steigert die Notlaufeigenschaften
+       </li>
+       <li>
+        Verlängert die Lebensdauer des Motors
+       </li>
+       <li>
+        15W - 40
+       </li>
+       <li>
+        20W - 50
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="whiteline">
+   </div>
+   <div class="darkgreyline">
+   </div>
+   <div class="impressum_big">
+    <div class="impressum_big_left">
+     <img alt="index" border="0" src="gfx/navi/index.gif" title="Startseite"/>
+     <p>
+      OETTINGER Sportwagen-Zentrum GmbH
+      <br/>
+      Oldenfelder Bogen 2b
+      <br/>
+      22143 Hamburg
+      <br/>
+      <br/>
+     </p>
+     <table cellpadding="0" cellspacing="0">
+      <tr>
+       <td width="50">
+        Tel.
+        <br/>
+        Email
+       </td>
+       <td>
+        +49 (0)163 6031513
+        <br/>
+        <a href="mailto:service@oettinger-sportwagen.de">
+         service@oettinger-sportwagen.de
+        </a>
+       </td>
+      </tr>
+     </table>
+     <br/>
+     <p>
+      Öffnungszeiten:
+     </p>
+     <table cellpadding="0" cellspacing="0">
+      <tr>
+       <td width="50">
+        Mo. - Fr.
+        <br/>
+        Samstag
+       </td>
+       <td>
+        10:00 - 18:00 Uhr
+        <br/>
+        Nach Vereinbarung
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="impressum_big_middle">
+     <a href="mailto:schade@oettinger-sportwagen.de">
+      <img alt="index" border="0" src="/de/gfx/schade.jpg" title="Michael Schade" width="131"/>
+     </a>
+     <p>
+      Michael Schade
+     </p>
+    </div>
+    <div class="impressum_big_right">
+     <a href="http://maps.google.com/maps?q=Oettinger+Sportwagen-Zentrum+GmbH&amp;hl=de&amp;sll=53.609422,10.184175&amp;sspn=0.010579,0.033023&amp;hq=Oettinger+Sportwagen-Zentrum+GmbH&amp;t=m&amp;z=15&amp;iwloc=A" target="_blank">
+      <img alt="index" border="0" src="/de/gfx/anfahrt_impressum.jpg" title="Startseite"/>
+     </a>
+    </div>
+   </div>
+   <div class="darkgreyline">
+   </div>
+   <div class="whiteline">
+   </div>
+   <ul id="mainNav">
+    <li id="regLi">
+     <a href="oettinger_sportwagen.html">
+      <img alt="oettinger_sportwagen" border="0" src="gfx/navi/oettinger_sportwagen.gif" title="Oettinger Sportwagen"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN" target="_blank">
+      <img alt="fahrzeugangebot" border="0" src="gfx/navi/fahrzeugangebot.gif" title="Fahrzeugangebot"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="service_ankauf.html">
+      <img alt="service_ankauf" border="0" src="gfx/navi/service_ankauf.gif" title="Service &amp; Ankauf"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="news_events.html">
+      <img alt="news_events" border="0" src="gfx/navi/news_events.gif" title="News &amp; Events"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="freunde_partner.html">
+      <img alt="freunde_partner" border="0" src="gfx/navi/freunde_partner.gif" title="Freunde &amp; Partner"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="kontakt_anfahrt.html">
+      <img alt="kontakt_anfahrt" border="0" src="gfx/navi/kontakt_anfahrt.gif" title="Kontakt &amp; Anfahrt"/>
+     </a>
+    </li>
+    <li id="regLi">
+     <a href="chromjuwelen.html">
+      <img alt="chromjuwelen" border="0" src="gfx/navi/chromjuwelen.gif" title="Chromjuwelen"/>
+     </a>
+    </li>
+    <li id="sLogo">
+     <a href="index.html">
+      <img alt="index" border="0" src="gfx/navi/index.gif" title="Startseite"/>
+     </a>
+    </li>
+   </ul>
+   <div id="datenschutz">
+    <a href="datenschutz.html">
+     Datenschutz
+    </a>
+   </div>
+   <div id="impressum">
+    <a href="impressum.html">
+     Impressum
+    </a>
+   </div>
+   <div id="cookieConsent">
+    <div id="closeCookieConsent">
+     x
+    </div>
+    Diese Webseite verwendet Cookies. Nähere Informationen finden Sie unter
+    <a href="datenschutz.html" target="_blank">
+     Datenschutz
+    </a>
+    .
+    <a class="cookieConsentOK">
+     Alles klar!
+    </a>
+   </div>
+   <script>
+    $(document).ready(function(){
+                    setTimeout(function () {
+                        $("#cookieConsent").fadeIn(200);
+                    }, 500);
+                    $("#closeCookieConsent, .cookieConsentOK").click(function() {
+                        $("#cookieConsent").fadeOut(200);
+                    });
+                });
+   </script>
+  </div>
+ </body>
+</html>

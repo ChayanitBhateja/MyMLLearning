@@ -1,0 +1,559 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD HTML 4.01 Transitional // EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang = "de">
+ <head>
+  <title>
+   ŠKODA workshop service in Dresden | Autohaus Zimmermann Inh. M. Pohl
+  </title>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "Autohaus Zimmermann Inh. M. Pohl; 01139 Dresden Am Trachauer Bahnhof 9;" name = "author" />
+  <meta content = "de" name = "DC.Language" />
+  <meta content = "ŠKODA workshop service in Dresden | Autohaus Zimmermann Inh. M. Pohl" name = "DC.Title" />
+  <meta content = "Official ŠKODA workshop service in Dresden | Autohaus Zimmermann Inh. M. Pohl ✔ ŠKODA Service ➤ Make an appointment for maintenance and inspection" name = "description" />
+  <meta content = "follow; index;" name = "robots" />
+  <meta content = "Skoda; Superb; Octavia; Fabia; Karoq; Kodiaq; Scala; Auto; Automobile; Workshop; Service; Dealership" name = "keywords" />
+  <meta content = "IE = edge" http-equiv = "x-ua-compatible" />
+  <meta content = "DE" name = "geo.region" />
+  <meta content = "51.089349108486; 13.704977789781" name = "geo.position" />
+  <meta content = "Dresden" name = "geo.placename" />
+  <meta content = "https://autohaus-zimmermann.skoda-auto.de" property = "og: url" />
+  <meta content = "website" property = "og: type" />
+  <meta content = "Official ŠKODA workshop service in Dresden | Autohaus Zimmermann Inh. M. Pohl ✔ ŠKODA Service ➤ Make an appointment for maintenance and inspection" property = "og: description" />
+  <meta content = "https://autohaus-zimmermann.skoda-auto.de/getpic.php?id=58310&amp;kat=410&amp;w=600&amp;h=315&amp;anmp;q=90&amp;name=a1a7bffd21f466efd8bb389f48abc80f" property = "og: image" />
+  <meta content = "ŠKODA workshop service in Dresden | Autohaus Zimmermann Inh. M. Pohl" property = "og: title" />
+  <meta content = "width = device-width, initial-scale = 1.0" name = "viewport" />
+  <link href = "/ css / slick.css" rel = "stylesheet" />
+  <link href = "/ css / stylesheet.1.0.5.css" rel = "stylesheet" />
+  <link href = "/ font-awesome-4.7.0 / css / font-awesome.min.css" rel = "stylesheet" />
+  <style type = "text / css">
+   .sliderImage1 {background-Image: url (/getpic.php?id=56388&kat=357&w=1920&h=500&q=90&name=a1a7bffd21f466efd8bb389f48abc80f);}
+  </style>
+  <style type = "text / css">
+   #mod_rating_container {text-align: center;} @ media only screen and (max-width: 350px) {# mod_rating_container {clear: both;}} @ media only screen and (min-width: 1350px) {# mod_rating_container {position: absolute; right: 0px; top: 600px;}}
+  </style>
+  <script src = "/ js / jquery.js" type = "text / javascript">
+  </script>
+  <script language = "javascript" src = "/ js / jquery / jquery-ui-1.12.1.custom / jquery-ui.min.js" type = "text / javascript">
+  </script>
+  <script charset = "UTF-8" src = "/ js / slick.js" type = "text / javascript">
+  </script>
+  <script charset = "UTF-8" language = "javascript" src = "/ js / skoda / cookieconsent.min.js" type = "text / javascript">
+  </script>
+  <script src = "/ js / javascript.1.0.3.js" type = "text / javascript">
+  </script>
+  <script language = "javascript" type = "text / javascript">
+   var _domainName = "autohaus-zimmermann.skoda-auto.de"; var _dealerType = "Service"
+  </script>
+  <script src = "// scripts.psyma.com/scripts/abhb/abhbde_skoda.php" type = "text / javascript">
+  </script>
+  <script language = "javascript" type = "text / javascript">
+   $ (document) .ready (function () {$ (". headerText"). hide (); $ ("# headerMessageContainer"). html ($ (". headerText"). html ()); $ ("# headerMessageContainer span "). css ({" font-size ":" larger "," font-weight ": 700," font-family ":" SKODA Next W01 Bold "," color ":" # f79800 "}); });
+  </script>
+  <! - <script language = "JavaScript" type = "text / javascript"> $ (document) .ready (function () {$ ("# aktionteaserbox"). startSlider ();}); </script> - ->
+  <link href = "/ css / cookieconsent.min.css" rel = "stylesheet" />
+  <! - CSS ->
+ </head>
+ <body>
+  <div class = "main" style = "position: relative">
+   <div class = "navigation">
+    <! - <div class = "logo"> </div> ->
+    <a href="/index_haendler.php?e=1" title="Autohaus Zimmermann Inh. M. Pohl in Dresden">
+     <img alt = "SKODA Logo Autohaus Zimmermann Inh. M. Pohl in Dresden" class = "logo" src = "/ pics / skoda-logo-landscape.png" />
+    </a>
+    <! - start menu ->
+    <div class = "menu-Punkte">
+     <div class = "mobile-back">
+      <i class = "fa fa-chevron-left">
+      </i>
+     </div>
+     <ul>
+      <li>
+       <a href="/index_haendler.php?e=1" rel="1" title="Startseite">
+        Home page
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="2" title="Unternehmen">
+        Companies
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=2-15" rel="2-15" title="Unternehmen">
+          Companies
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-1" rel="2-1" title="Mitarbeiter">
+          Employee
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-3" rel="2-3" title="opening times">
+          opening hours
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="5" title="Aktionen">
+        Actions
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=5-9" rel="5-9" title="Service-Aktion Winter 2020">
+          Service promotion winter 2020
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-20" rel="5-20" title="ŠKODA Connect">
+          ŠKODA Connect
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-28" rel="5-28" title="Simply Clever">
+          Simply clever
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="6" title="Service">
+        service
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=6-15" rel="6-15" title="Our Service">
+          our service
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-11" rel="6-11" title="Accessories">
+          equipment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-16" rel="6-16" title="Service make an appointment">
+          Arrange a service appointment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-17" rel="6-17" title="Hygiene-Tipps">
+          Hygiene tips
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="4" title="Contact">
+        Contact
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=4-3" rel="4-3" title="Questions and wishes">
+          Questions and requests
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-4" rel="4-4" title="Service appointment request">
+          Service appointment request
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <ul class = "special-menu" id = "special">
+       </ul>
+      </li>
+     </ul>
+     <div class = "smaler-menu">
+      <div class = "smal-mobile" style = "float: left; line-height: 69px; padding: 0 20px;">
+       <a title="Menü">
+        menu
+       </a>
+      </div>
+     </div>
+     <div class = "mobile-menu">
+      ☰
+     </div>
+     <div class = "right-section">
+      <div class = "arrow">
+       <a>
+        <i class = "fa fa-chevron-down">
+        </i>
+       </a>
+      </div>
+      <div class = "search">
+       <img alt = "" src = "/ globals / img / 6531120_1198836767_logo.jpg" />
+      </div>
+     </div>
+    </div>
+    <! - end ->
+    <! - Desktop Menu End ->
+    <! - start menu right part ->
+    <! - End of menu right part ->
+   </div>
+   <! - beginning of tablet menu ->
+   <div class = "smaler-menu-navi" id = "smaler-menu-navi">
+    <div class = "row">
+     <ul>
+      <li>
+       <a href="/index_haendler.php?e=1" rel="1" title="Startseite">
+        Home page
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="2" title="Unternehmen">
+        Companies
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=2-15" rel="2-15" title="Unternehmen">
+          Companies
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-1" rel="2-1" title="Mitarbeiter">
+          Employee
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-3" rel="2-3" title="opening times">
+          opening hours
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="5" title="Aktionen">
+        Actions
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=5-9" rel="5-9" title="Service-Aktion Winter 2020">
+          Service promotion winter 2020
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-20" rel="5-20" title="ŠKODA Connect">
+          ŠKODA Connect
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-28" rel="5-28" title="Simply Clever">
+          Simply clever
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="6" title="Service">
+        service
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=6-15" rel="6-15" title="Our Service">
+          our service
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-11" rel="6-11" title="Accessories">
+          equipment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-16" rel="6-16" title="Service make an appointment">
+          Arrange a service appointment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-17" rel="6-17" title="Hygiene-Tipps">
+          Hygiene tips
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="4" title="Contact">
+        Contact
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=4-3" rel="4-3" title="Questions and wishes">
+          Questions and requests
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-4" rel="4-4" title="Service appointment request">
+          Service appointment request
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <! - End of Tablet Menu ->
+   <div class = "out">
+    <div class = "navi-shadow">
+    </div>
+    <div id = "headerMessageContainer">
+    </div>
+    <div class = "header-pic unterNehmen">
+     <img alt = "Crystal design" class = "prisma" src = "/ pics / caleidoscope.png" />
+     <! - Slider ->
+     <div class = "slider">
+      <div class = "sliderImages sliderImage1">
+      </div>
+     </div>
+     <! - end ->
+     <! - vehicle search top ->
+     <! - end ->
+     <div class = "intro-text company">
+      <h2>
+      </h2>
+     </div>
+    </div>
+    <div class = "content company">
+     <div class = "inner">
+      <! - content ->
+      <div class = "headerText">
+       <div class = "" style = "background-color: # 000; color: #fff; font-weight: bold; text-align: center; padding: 10px;">
+        <span class = "o">
+         +++ CURRENT:
+        </span>
+        Take advantage of the temporary
+        <span class = "o">
+         VAT REDUCTION by 3% +++
+        </span>
+       </div>
+      </div>
+      <div class = "column1">
+       <h1>
+        The team from the car dealership Zimmermann welcomes you warmly,
+       </h1>
+       <div>
+        we invite you to take a look around our website. On our website you will find a lot of information and service offers around our house. We hope you enjoy yourself and look forward to your visit on site Our dedicated team will advise you competently and individually.
+       </div>
+      </div>
+      <! - INCLUDE-INT ->
+      <br/>
+      <div class = "tbox">
+       <div class = "content-intro clearfix" style = "padding-bottom: 15px; overflow: hidden;">
+        <div class = "left-content aktion_teaser_box" style = "">
+         <a href="?e=5-9#aid0">
+          <img alt = "Service campaign: Already fit for winter?" src = "/ getpic.php? id = 58419 & amp; kat = 411 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96" style = "max-height: 265px;" />
+         </a>
+         <h4>
+          <a href="?e=5-9#aid0">
+           Service campaign: Already ready for winter?
+          </a>
+         </h4>
+         <p>
+          <a href="?e=5-9#aid0">
+           Make an appointment now!
+          </a>
+         </p>
+         <span>
+          <a href="?e=5-9#aid0">
+           Learn more & gt;
+          </a>
+         </span>
+        </div>
+       </div>
+      </div>
+      <! - INCLUDE-INT ->
+      <! - INCLUDE-INT ->
+      <div class = "Content-intro" id = "OID7853">
+       <div class = "inner">
+       </div>
+      </div>
+      <br/>
+      <! - end of content ->
+     </div>
+    </div>
+    <! - <footer> ->
+    <div class = "footer">
+     <div class = "skoda-apps">
+      <div class = "inner">
+       <div class = "apps">
+        <h2>
+         Download ŠKODA apps
+        </h2>
+        <div class = "android-app">
+         <a href = "https://play.google.com/store/apps/developer?id=%C5%A0KODA+AUTO+a.s." target = "_ blank" title = "">
+          <img alt = "Google Play Store" src = "/ pics / Google_Play_Button_180x60Px.png" />
+         </a>
+        </div>
+        <div class = "apple-app">
+         <a href="https://itunes.apple.com/de/developer/skoda-auto-a-s/id420627878" target="_blank" title="">
+          <img alt = "Apple Play Store" src = "/ pics / App-Store_Button_180x60Px.png" />
+         </a>
+        </div>
+        <div class = "clear">
+        </div>
+       </div>
+      </div>
+     </div>
+     <! - Bubbles edition ->
+     <div class = "selection">
+      <div class = "inner">
+       <div class = "selection-box">
+        <div class = "selection-text">
+         <div class = "shadow1">
+          <img alt = "" src = "pics / icons / 80x80-Fit-1.png" style = "width: 40px; height: 40px;" />
+          <h5>
+           Autohaus Zimmermann Inh. M. Pohl
+          </h5>
+          <p>
+           Visit us in Dresden
+          </p>
+          <a class="more-choice" href="/index_haendler.php?e=2-15">
+           Learn more
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "selection-box">
+        <div class = "selection-text">
+         <div class = "shadow1">
+          <img alt = "" src = "pics / icons / 80x80-Fit-2.png" style = "width: 40px; height: 40px;" />
+          <h5>
+           Contact
+          </h5>
+          <p>
+           Make a contact request
+          </p>
+          <a class="more-choice" href="/index_haendler.php?e=4-3">
+           Learn more
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <! - End of issue Bubbles ->
+     <! - vehicle search bottom ->
+     <! - vehicle search bottom end ->
+     <div class = "footer-menu">
+      <div class = "inner">
+       <! - output address ->
+       <div class = "address">
+        <h5>
+         Autohaus Zimmermann Inh. M. Pohl
+        </h5>
+        <p>
+         At the Trachauer Bahnhof 9
+        </p>
+        <p>
+         01139 Dresden
+        </p>
+        <p>
+         Tel:
+         <a href="tel:+493518486900" title="Autohaus Zimmermann call owner M. Pohl in Dresden">
+          0351-8486900
+         </a>
+        </p>
+        <p>
+         Fax: 0351-8486901
+        </p>
+        <div class = "more">
+         Find out more about ŠKODA
+         <i class = "fa fa-chevron-down footer">
+         </i>
+        </div>
+       </div>
+       <! - End of output address ->
+       <! - Issue Footer Navi ->
+       <ul style = "margin: 0px; padding: 0px;">
+        <li style = "min-width: 120px;">
+         <h5>
+         </h5>
+        </li>
+        <li>
+         <h5>
+          Companies
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=2-15" target="_self" title="Unternehmen">
+            Companies
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-1" target="_self" title="Employee">
+            Employee
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-3" target="_self" title="opening hours">
+            opening hours
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li style = "min-width: 120px;">
+         <h5>
+         </h5>
+        </li>
+        <li>
+         <h5>
+          Legal
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=2-12-1" target="_self" title="Imprint">
+            imprint
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-3" target="_self" title="Data Usage">
+            use of data
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-4" target="_self" title="Cookie Policy">
+            Cookie Policy
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-5" target="_self" title="Datenschutz">
+            data protection
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <! - End of issue Footer Navi ->
+       <div class = "clear">
+       </div>
+       <div class = "less">
+        Fewer
+        <i class = "fa fa-chevron-up footer">
+        </i>
+       </div>
+      </div>
+     </div>
+     <div class = "footer-end">
+      <div class = "inner">
+       <! - Social issue ->
+       <! - End of issue Social ->
+       <hr class = "headerHr" />
+       <div class = "hr-under clearfix">
+        <! - <div class = "hr-right"> <a> Cookies </a> <a> Sitemap </a> </div> ->
+        <div class = "hr-left">
+         <a>
+          © 2020 Copyright ŠKODA
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style = "width: 100%; background-color: # 000;">
+      <div class = "inner">
+      </div>
+     </div>
+     <! - </footer> ->
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

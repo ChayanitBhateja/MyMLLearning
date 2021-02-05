@@ -1,0 +1,2244 @@
+<! DOCTYPE html>
+<html>
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <base href = "/" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <title>
+   Home | Reifen- und Autoservice Döring GmbH
+  </title>
+  <meta content = "index, follow, noodp" name = "robots">
+   <meta content = "true" name = "MSSmartTagsPreventParsing">
+    <meta content = "nexnova business solutions gmbh & amp; co. kg" name = "publisher">
+     <meta content = "2014" name = "copyright" />
+     <meta content = "none" name = "msapplication-config" />
+     <meta content = "text / html; charset = utf-8" http-equiv = "content-type" />
+     <meta content = "false" http-equiv = "imagetoolbar" />
+     <meta content = "private" http-equiv = "pragma" />
+     <meta content = "Welcome to Reifen- und Autoservice Döring GmbH
+Tires, wheels and car service in Dresden! The independent tire professionals with competent advice, reliable vehicle repairs and comprehensive service! "Name =" description "/>
+     <meta content = "Summer tires, complete wheels, winter tires, aluminum rims, rims, tires, wheels, car service, point S" name = "keywords" />
+     <meta content = "Home | Reifen- und Autoservice Döring GmbH" property = "og: title" />
+     <meta content = "Home | Reifen- und Autoservice Döring GmbH" property = "og: description" />
+     <meta content = "/ images / cache / content / b1 / wo / b1woqtvL9G8WTlTxvxcSKHLMhnCeThDQJZ6D2WlFVSg21Hi7s5-GKE-DVMPefZ17,2.jpg" property = "og: image" />
+     <meta content = "de-DE" http-equiv = "content_language" />
+     <link href = "/ resources / 978cdf94-ecd5-9dbf-2f79-1f95e209e85b / theme + eiosde + points_de / v1 // resources / img / points_de / favicon.ico" rel = "shortcut icon" type = "image / x- icon "/>
+     <script type = "text / javascript">
+      __log = function (text) {try {console.log (text);} catch (err) {}};
+ var appContextPath = '/';
+     </script>
+     <link data-frontend-content-css = "true" data-resource-scope = "theme-resource" href = "/ resources / 978cdf94-ecd5-9dbf-2f79-1f95e209e85b / theme + eiosde + points_de / v1 / resources / css / points_de.css? pv = a54a3d40e22c752c97001c2fe984ef355bfe76fa "rel =" stylesheet "type =" text / css "/>
+     <script src = "/ res / vendors / modernizr / modernizr-2.6.2.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript">
+     </script>
+     <script src = "/ res / vendors / picturefill / picturefill.min.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript">
+     </script>
+     <script src = "/ res / core / js / nnxjscore.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript">
+     </script>
+     <script src = "https://www.google.com/jsapi" type = "text / javascript">
+     </script>
+     <script type = "text / javascript">
+      try {
+if (Ext.syncRequire) {Ext.syncRequire ("Ext.direct.Manager");}
+
+Ext.Ajax.defaultHeaders = {"X-Extdirectrequest": "XMLHttpExtDirectRequest"};
+Ext.namespace ("wbx.rpc");
+wbx.rpc.REMOTING_API = {"url": "\ /", "type": "remoting", "namespace": "wbx.rpc", "descriptor": "REMOTING_API", "actions": {"admin" : [{"name": "removeTemplateNode", "len": 2}, {"name": "extensionBridge", "len": 1}, {"name": "updateAdditionalExtensionProperty", "len": 1}, {"name": "getAdditionalExtensionProperty", "len": 1}, {"name": "changeFirm", "len": 1}, {"name": "getConfig", "len": 0}, {" name ":" getSiteTree "," len ": 1}, {" name ":" setSiteLayout "," len ": 1}, {" name ":" setTheme "," len ": 2}, {" name " : "addNode", "len": 7}, {"name": "setNodeMetatags", "len": 1}, {"name": "getNodeMetatagsForEditor", "len": 1}, {"name": " refNode "," len ": 7}, {" name ":" renameNode "," len ": 2}, {" name ":" moveNode "," len ": 4}, {" name ":" setNodePositions " , "len": 1}, {"name": "removeNode", "len": 1}, {"name": "deactivateNode", "len": 3}, {"name": "deactivateCache", " len ": 3}, {" name ":" hideNodeInMenu "," len ": 3}, {" name ":" editorLoadSite "," len ": 1}, {" name ":" editorGetLayoutList "," len " : 1}, {"name": "editorGetThemeList", "len": 0}, {"name": "editorThemeUpdateColors", "len": 1}, {"name": "editorGetMediatypeList", "le n ": 0}, {" name ":" getMediaTypeForEditor "," len ": 2}, {" name ":" getMediaTypeForTemplates "," len ": 1}, {" name ":" createMediaTypeForEditor "," len " : 1}, {"name": "updateMediatype", "len": 1}, {"name": "adjustStickyFooter", "len": 1}, {"name": "staticRenderMediatype", "len": 1 }, {"name": "editorDeleteContentblock", "len": 1}, {"name": "editorRenameContentblock", "len": 1}, {"name": "editorDisableContentblock", "len": 1}, {"name": "editorEnableContentblock", "len": 1}, {"name": "setContentblockResponsiveColumn", "len": 1}, {"name": "restoreMasterTemplate", "len": 1}, {" name ":" updateFromMasterDraft "," len ": 1}, {" name ":" getOpeningtimes "," len ": 0}, {" name ":" setOpeningtimes "," len ": 1}, {" name " : "getUrlSettings", "len": 0}, {"name": "setUrl", "len": 1}, {"name": "removeUrl", "len": 1}, {"name": " updateUrl "," len ": 1}, {" name ":" editorReorderContentblocks "," len ": 1}, {" name ":" editorGetI18nSiteNames "," len ": 1}, {" name ":" editorGetAvailableLanguages ​​" , "len": 1}, {"name": "removeAdditionalLanguage", "len": 2}, {"name": "addAdditionalLanguage", "len": 2}, {"name": "renameI18nNode", " len ": 4} , {"name": "editorReloadFirms", "len": 0}, {"name": "setSyncWithMaster", "len": 2}, {"name": "setLanguageId", "len": 1}, { "name": "editorResetContentblockToDefaultLanguage", "len": 1}, {"name": "editorSetLogo", "len": 1}, {"name": "editorRemoveLogo", "len": 1}, {"name ":" runJob "," len ": 1}, {" name ":" removeJob "," len ": 1}, {" name ":" getJobList "," len ": 0}, {" name ": "getTemplatesTree", "len": 1}, {"name": "addTemplateNode", "len": 5}, {"name": "setTemplateNodePositions", "len": 1}, {"name": "renameTemplateNode "," len ": 2}, {" name ":" getTemplate "," len ": 1}, {" name ":" moveTemplateNode "," len ": 2}, {" name ":" assignTemplateMediatype ", "len": 2}, {"name": "fileGetFolders", "len": 1}, {"name": "fileAddFolder", "len": 5}, {"name": "fileFolderDropFile", "len ": 3}, {" name ":" fileRemoveFolder "," len ": 2}, {" name ":" fileRenameFolder "," len ": 3}, {" name ":" imageChangeMetaData "," len ": 2}, {"name": "fileadminGetFiles", "len": 1}, {"name": "getFileReferences", "len": 1}, {"name": "fileDelete", "len": 2} , {"name": "attachmentChangeMetaData", "len": 2}], "home": [{"name": "extensionBridge", "len": 1}, {"name" : "getTouchWebappSiteMenu", "len": 1}, {"name": "getTouchWebappHomepage", "len": 0}, {"name": "getTouchWebappPage", "len": 1}]}};
+Ext.direct.Manager.addProvider (wbx.rpc.REMOTING_API);
+} catch (err) {}
+     </script>
+     <script src = "/ res / js / WbxappProdFrontendWbxpointsde.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript">
+     </script>
+     <script src = "/ resources / 978cdf94-ecd5-9dbf-2f79-1f95e209e85b / theme + eiosde + points_de / v1 / resources / js / jquery / jquery-1.11.3.js? pv = a54a3d40e22c752c97001c2fe984ef355bfe" ">
+     </script>
+     <! - [if lte IE 9]>
+ <script src = "/ res / vendors / html5shiv / html5shiv.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript"> </script>
+<! [endif] ->
+     <! - [if lte IE 9]>
+ <script src = "/ res / vendors / html5shiv / html5shiv.js? v = a54a3d40e22c752c97001c2fe984ef355bfe76fa" type = "text / javascript"> </script>
+<! [endif] ->
+     <script type = "text / javascript">
+     </script>
+     <style>
+      .sticky-footer-fullheight {height: 100%! important}
+.sticky-footer-wrap {min-height: 100%! important; margin-bottom: -200px! important;}
+.sticky-footer-wrap: after {content: ""; display: block}
+.sticky-footer, .sticky-footer-wrap: after {height: 200px! important;}
+     </style>
+     <script src = "// maps.googleapis.com/maps/api/js?key=AIzaSyDyT2wAQ0CxMD-NjgeHBb1ac_4a0pkUbZQ" type = "text / javascript">
+     </script>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class = "page">
+  <! - BODYSTART ->
+  <! - Static navbar ->
+  <nav class = "navbar navbar-nexnova">
+   <div class = "container">
+    <div class = "navbar-header row">
+     <div class = "col-xs-6 col-sm-3">
+      <a class="logo img-responsive" href="./">
+      </a>
+     </div>
+     <div class = "col-xs-6 visible-xs hidden-print">
+      <button aria-controls = "navbar" aria-expanded = "false" class = "navbar-toggle collapsed" data-target = "# navbar" data-toggle = "collapse" type = "button">
+       <span class = "pull-right toggletxt">
+        MENU
+       </span>
+       <span class = "icon-bar top-bar">
+       </span>
+       <span class = "icon-bar middle-bar">
+       </span>
+       <span class = "icon-bar bottom-bar">
+       </span>
+      </button>
+     </div>
+     <div class = "col-sm-9 title-h1">
+      <h1>
+       Reifen- und Autoservice Döring GmbH
+      </h1>
+     </div>
+    </div>
+   </div>
+   <div class = "container hidden-print">
+    <div class = "navbar-collapse collapse" id = "navbar">
+     <ul class = "nav navbar-nav navbar-left">
+      <li class = "children {CHILD_POSITION} child0 active" id = "mainmenu_cacaafc9-42c2-62a1-a342-83e83809c61c">
+       <a href="/home" target="_self">
+        Home
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0 dropdown" id = "mainmenu_27084df1-30ed-1f58-3e2b-529cfba96205">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" target="_self">
+        about us
+        <i class = "rotate270 fa fa-caret-down">
+        </i>
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="/Ueber_uns" target="_self">
+          about us
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/Ueber_uns/stellenangebote" target="_self">
+          Job offers
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/Ueber_uns/team" target="_self">
+          team
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/Ueber_uns/standorte" target="_self">
+          Locations
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "children {CHILD_POSITION} child0 dropdown" id = "mainmenu_b61818f1-b26e-205a-afa3-b9c150316ae3">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" target="_self">
+        tires
+        <i class = "rotate270 fa fa-caret-down">
+        </i>
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="/reifen" target="_self">
+          tires
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/pkw" target="_self">
+          Car
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/transporterreifen" target="_self">
+          Transporter tires
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/motorrad" target="_self">
+          motorcycle
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/nutzfahrzeuge" target="_self">
+          commercial vehicles
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/our_starken_marken" target="_self">
+          Our strong brands
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/marken" target="_self">
+          Brands
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/reifenlabel" target="_self">
+          Tire label
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/angebote" target="_self">
+          deals
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/reifen/reifenversicherung" target="_self">
+          Tire insurance
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "children {CHILD_POSITION} child0 dropdown" id = "mainmenu_a5ccd42d-9273-065a-c80d-f2d5724b747e">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" target="_self">
+        rims
+        <i class = "rotate270 fa fa-caret-down">
+        </i>
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="/felgen" target="_self">
+          rims
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/felgenkonfigurator" target="_blank">
+          Rim configurator
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/alufelgen" target="_self">
+          Alloy wheels
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/colour_your_car" target="_self">
+          color your car
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/stahlfelgen" target="_self">
+          Steel rims
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/aktuelle_felgen_angebote" target="_self">
+          Current rim offers
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/winter_komplettraeder" target="_self">
+          Complete winter wheels
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/felgen/anfahrschutz" target="_self">
+          Collision protection
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_942eb52d-4dd5-5a9d-7ab8-9879132cad93">
+       <a href="/reparatur_und_zubehoerfinanzierung" target="_self">
+        Repair and accessory financing
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0 dropdown" id = "mainmenu_5693b23b-742d-fcef-cecf-d170b264a432">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" target="_self">
+        Car service
+        <i class = "rotate270 fa fa-caret-down">
+        </i>
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="/autoservice" target="_self">
+          Car service
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/autoservice/wartung_und_service" target="_self">
+          Maintenance & amp; service
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/autoservice/zubehoer" target="_self">
+          equipment
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/autoservice/mobilitaetsgarantie" target="_self">
+          Mobility guarantee
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "children {CHILD_POSITION} child0 dropdown" id = "mainmenu_91f0c966-2891-a54c-2cf2-1a3c255f2201">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" target="_self">
+        Business customers
+        <i class = "rotate270 fa fa-caret-down">
+        </i>
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="/business customers" target="_self">
+          Business customers
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/geschaeftskunden/flotten" target="_self">
+          Fleets
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/geschaeftskunden/pkw_service" target="_self">
+          Car service
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/geschaeftskunden/nutzfahrzeug_service" target="_self">
+          Commercial vehicle service
+         </a>
+        </li>
+        <li class = "menu-item dropdown dropdown-submenu">
+         <a href="/geschaeftskunden/24h_hotline" target="_self">
+          24h hotline
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_d3f7f986-22f1-47f7-68b6-da3172971bc4">
+       <a href="/e_mobilitaet" target="_self">
+        E-mobility
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_9e1329fa-30c9-60a4-bc36-e3f3851f9a68">
+       <a href="/aktuelles" target="_self">
+        Current
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_a8b2648b-a65a-78fd-2ad8-7da70f9e239f">
+       <a href="/online_shop" target="_blank">
+        Online shop
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_94f8bc58-ef8b-0076-4cd0-17e592d681d7">
+       <a href="/autopflege" target="_self">
+        car Care
+       </a>
+      </li>
+      <li class = "children {CHILD_POSITION} child0" id = "mainmenu_af275619-5440-a1ad-c81f-801bd909a293">
+       <a href="/termin" target="_self">
+        meeting
+       </a>
+      </li>
+     </ul>
+    </div>
+    <! - /. nav-collapse ->
+   </div>
+   <! - /. container-fluid ->
+  </nav>
+  <! - <div id = "breadcrumb" class = "breadcrumb"> ->
+  <! - <div class = "grid_12 alpha omega"> ->
+  <! - <div id = "breadcrumb_pt1"> You are here: <a href="/home"> Home </a> </div> ->
+  <! - </div> ->
+  <! - <div class = "clear"> </div> ->
+  <! - </div> ->
+  <div class = "full-width-box">
+   <div class = "wbxMediaType wbxMediaTypeImageslider">
+    <div class = "carousel" data-ride = "carousel" id = "carousel">
+     <ol class = "carousel-indicators">
+      <li class = "active" data-slide-to = "0" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "1" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "2" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "3" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "4" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "5" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "6" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "7" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "8" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "9" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "10" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "11" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "12" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "13" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "14" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "15" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "16" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "17" data-target = "# carousel">
+      </li>
+      <li class = "" data-slide-to = "18" data-target = "# carousel">
+      </li>
+     </ol>
+     <div class = "carousel-inner" role = "listbox" style = "margin-bottom: 20px">
+      <div class = "slider_responsive item active">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / ki / T1 / kiT1TzeTYNcQxzA3kwSdky-K1s0a1ccV7MaKRcP-DnMX5dcofFvCxg, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / ki / T1 / kiT1TzeTYNcQxzA3kwSdky-K1s0a1ccV7MaKRcP-DnMX5dcofFvCxg, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / p8 / zj / p8zjDbSdQiwE3E9nBpSyYO25YMvPhNn9uBE7b4K0wD5Wn7Th8SAprA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / 7l / dQ / 7ldQcWFkWum3O0tX-0fBTzJ1FJJPSx_rUw05jOysbFdLI8Ef8CWxjA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / A0 / _D / A0_DPlrjEZzPwAbijIyY4pMe6sGeNZ_qX-vyjVt1SbITIV8d3Bm9Tg, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / uL / ​​GD / uLGDSUIggmHE3-UNqJ9R4qmoSFAu0J9NXvppknAj8XH50Xvf7TVy1A, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / qr / nf / qrnfQFeUfh0r77bbXX3r0oTr4uS5GNsFU41bH_yWeZS5xaESJvIU3Q, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / Ia / Lp / IaLptIRgdZWt0GPDbiG5cGxh1-jTHBqiyIyEH1CqNRi0SU5szC59QQ, 1200,300, it4.png" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / YZ / Sp / YZSpuUrTrKqXZJ2DS4HNE29B2tvnOvg7An9F_5YOvItPqR5osD6OvQ, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / Fa / Qt / FaQtqBVcQhtYHMcJtyOPWkfP_nnjGSro5nWVc9b8mWePy_yEX4hT0g, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / nr / AS / nrASoN_CgYK3MpO9d7Cr5_6qlcfyw6ztmY6RL12I4b5hOaL0MMa_gQ, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / Ts / KD / TsKD3lnh7GSqG2tqR93OshEMKhWh085S7KLuV8lJux4kAXGc2-MEEg, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / 1M / q4 / 1Mq4Q7LkDFGm2BADa4jZO2H5safhHrSt3YwVASDkaeeG1eAGd4UIpw, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / vU / 0Y / vU0YD15IlnJF2WAp5PpdEXS8qd0U5VE03JC4whl-k9QP4k6BHv9AlA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / 12 / KS / 12KSyWJZOVZTD_JStVFJpkRLlqOCXfCTLnTS6F7iOV9SAud90rkgsA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / 7X / eZ / 7XeZgIK4bX4L7l50yKU7LXzYGxzv-GlJPpBATs3wFgtRgcoa7WJdxQ, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / UM / 6C / UM6Cy7L20bpIfvUS2CiXeqoxizO5p8DVlBuPkM9chBAO_-LffYOnkA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / og / Yb / ogYbw_tYnWJdyPo2pbthCc7lOYRXSQZhC9avaoH8InF34f_RjDAL9w, 1200,300, it4.jpg" />
+       </div>
+      </div>
+      <div class = "slider_responsive item">
+       <div class = "slidertxt container">
+        <div class = "headlinesl">
+        </div>
+        <div class = "sublinesl" id = "line_1">
+        </div>
+        <div class = "slidertextsl">
+        </div>
+       </div>
+       <div class = "slider_wrapper">
+        <img class = "slide_image" src = "/ images / cache / content / 16 / uU / 16uUA-M8ZIE05PJ0xNFXhCC6Dt6sWLmRTQnhFobZMNva8k8GTJd_FA, 1200,300, it4.jpg" />
+       </div>
+      </div>
+     </div>
+     <! - <a class = "left carousel-control" href = "# carousel-example-generic" role = "button" data-slide = "prev"> ->
+     <! - <span class = "glyphicon glyphicon-chevron-left" aria-hidden = "true"> </span> ->
+     <! - <span class = "sr-only"> Previous </span> ->
+     <! - </a> ->
+     <! - <a class = "right carousel-control" href = "# carousel-example-generic" role = "button" data-slide = "next"> ->
+     <! - <span class = "glyphicon glyphicon-chevron-right" aria-hidden = "true"> </span> ->
+     <! - <span class = "sr-only"> Next </span> ->
+     <! - </a> ->
+    </div>
+    <script>
+     $ (document) .ready (function () {$ ('. carousel'). carousel ();});
+    </script>
+   </div>
+  </div>
+  <div class = "container layout2">
+   <div class = "row">
+    <div class = "col-xs-12">
+     <div class = "row">
+      <div class = "col-sm-12 col-md-4 col-md-push-8">
+       <div class = "bluebox">
+        <div>
+         <div class = "wbxMediaType">
+          <div class = "wbxMediaTypeContent wbxMediaTypeLocation">
+           <div class = "wbxMediaTypeFirm .wbxMediaTypeLocation">
+            <p class = "title partnertitle">
+             Reifen- und Autoservice Döring GmbH
+            </p>
+            <div class = "filial_panel" data-target = "# 1026200" data-toggle = "modal">
+             <b>
+              Location 01099 Dresden
+             </b>
+             <br/>
+             Bautzner Str. 71
+             <br/>
+             <b>
+              <i class = "fa fa-phone">
+              </i>
+              <span class = "semPhone" phone-data = "">
+               <a href="tel:xcxx03518119260">
+                0351-8119260
+               </a>
+              </span>
+             </b>
+             <i class = "fa fa-long-arrow-right">
+             </i>
+             <br/>
+            </div>
+            <div aria-labelledby = "myModalLabel" class = "modal fade" id = "1026200" role = "dialog" tabindex = "- 1">
+             <div class = "modal-dialog modal-lg" role = "document">
+              <div class = "modal-content">
+               <div class = "modal-header">
+                <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+                 <span aria-hidden = "true">
+                  ×
+                 </span>
+                </button>
+                <h4 class = "modal-title" id = "myModalLabel">
+                 Reifen- und Autoservice Döring GmbH
+                </h4>
+               </div>
+               <div class = "modal-body">
+                <div class = "row">
+                 <div class = "col-sm-6">
+                  <div class = "modalImprints" style = "color: # 333">
+                   <span class = "title modalspan" style = "font-weight: 100; color: # 333">
+                    Reifen- und Autoservice Döring GmbH
+                   </span>
+                   Bautzner Str. 71
+                   <br/>
+                   01099 Dresden
+                   <br/>
+                   <br/>
+                   <button class = "btn btn-pts" onclick = "window.open ('https://www.google.com/maps/dir//Bautzner Str. 71, + 01099 + Dresden')">
+                    <i class = "fa fa-arrow-right">
+                    </i>
+                    <span style = "color: white! important; text-decoration: none">
+                     Plan route
+                    </span>
+                   </button>
+                   <br/>
+                   <i class = "fa fa-phone" style = "margin-right: 3px;">
+                   </i>
+                   <span class = "semPhone hidden-xs" phone-data = "">
+                    0351-8119260
+                   </span>
+                   <a class="semPhone visible-xs-inline" href="tel:0351-8119260" phone-data="" style="color: #0a2b3b!important;">
+                    0351-8119260
+                   </a>
+                   <br/>
+                   <i class = "fa fa-fax">
+                   </i>
+                   <span>
+                    0351-8119299
+                   </span>
+                   <br/>
+                   <br/>
+                   <i class = "fa fa-envelope-o">
+                   </i>
+                   <a href="mailto:reifendoering@t-online.de" style="color: #0a2b3b!important;">
+                    reifendoering@t-online.de
+                   </a>
+                   <br/>
+                   <br/>
+                   <br/>
+                  </div>
+                 </div>
+                 <div class = "col-sm-6">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   opening hours
+                  </span>
+                  <div class = "opening_times" style = "color: # 333">
+                   <span>
+                    Monday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Tuesday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Wednesday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Thursday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Friday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Saturday
+                   </span>
+                   08:00 am - 12:30 pm
+                   <br/>
+                   Saturdays from December 1st to December 15th Closed on April 1st and June 1st - September 30th!
+                   <br/>
+                   <br/>
+                   !!! In August Mon - Fri 8 a.m. - 5 p.m., Sat closed !!!
+                   <br/>
+                   Christmas opening times
+                   <br/>
+                   <br/>
+                   23.12. + 27./30.12. + 02/03/01. 9 a.m. - 4 p.m.
+                   <br/>
+                   12/24 closed
+                   <br/>
+                   31.12. 9 a.m. - 12 p.m.
+                   <br/>
+                  </div>
+                 </div>
+                 <div class = "col-sm-12">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   Services
+                  </span>
+                  <div class = "row">
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0015_hol-bring-service" title = "Collection and delivery service">
+                     </i>
+                     <b>
+                      Pick-up and delivery service
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0028_reifeneinlagerung" title = "Reifeneinlagerung">
+                     </i>
+                     <b>
+                      Tire storage
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0040_achse" title = "Axis measurement">
+                     </i>
+                     <b>
+                      Wheel alignment
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0003_schneeketten" title = "Snow chains">
+                     </i>
+                     <b>
+                      Snow chains
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0018_autoservice" title = "Autoservice">
+                     </i>
+                     <b>
+                      Car service
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0039_auspuff" title = "Auspuff">
+                     </i>
+                     <b>
+                      Exhaust
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0023_stossdaempfer" title = "shock absorber">
+                     </i>
+                     <b>
+                      Shock absorbers
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0025_au" title = "HU according to §29 StVZO">
+                     </i>
+                     <b>
+                      HU according to §29 StVZO
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0024_oel" title = "Oil change">
+                     </i>
+                     <b>
+                      Oil change
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0102-brake disc" title = "Brakes">
+                     </i>
+                     <b>
+                      Brakes
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0029_glasschaden" title = "Autoglas">
+                     </i>
+                     <b>
+                      Car glass
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0041_batterie" title = "Battery">
+                     </i>
+                     <b>
+                      battery
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0038_lighting" title = "Lighting control">
+                     </i>
+                     <b>
+                      Lighting control
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0005_Service-check" title = "Servicecheck">
+                     </i>
+                     <b>
+                      Service check
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0013_inspektion servicelong" title = "Inspection according to manufacturer specifications">
+                     </i>
+                     <b>
+                      Inspection according to the manufacturer's instructions
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0035_klima" title = "Air conditioning maintenance">
+                     </i>
+                     <b>
+                      Air conditioning maintenance
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0001_kfz-zubehoer" title = "Car accessories">
+                     </i>
+                     <b>
+                      Car accessories
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-009_unfallverhuetung" title = "UVV">
+                     </i>
+                     <b>
+                      UVV
+                     </b>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class = "filial_panel" data-target = "# 1026201" data-toggle = "modal">
+             <b>
+              Location 01109 Dresden
+             </b>
+             <br>
+              Radeburger Strasse 220
+              <br>
+               <b>
+                <i class = "fa fa-phone">
+                </i>
+                <span class = "semPhone" phone-data = "">
+                 <a href="tel:xcxx03518807533">
+                  0351-8807533
+                 </a>
+                </span>
+               </b>
+               <i class = "fa fa-long-arrow-right">
+               </i>
+               <br>
+               </br>
+              </br>
+             </br>
+            </div>
+            <div aria-labelledby = "myModalLabel" class = "modal fade" id = "1026201" role = "dialog" tabindex = "- 1">
+             <div class = "modal-dialog modal-lg" role = "document">
+              <div class = "modal-content">
+               <div class = "modal-header">
+                <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+                 <span aria-hidden = "true">
+                  ×
+                 </span>
+                </button>
+                <h4 class = "modal-title" id = "myModalLabel">
+                 Reifen- und Autoservice Döring GmbH
+                </h4>
+               </div>
+               <div class = "modal-body">
+                <div class = "row">
+                 <div class = "col-sm-6">
+                  <div class = "modalImprints" style = "color: # 333">
+                   <span class = "title modalspan" style = "font-weight: 100; color: # 333">
+                    Reifen- und Autoservice Döring GmbH
+                   </span>
+                   Radeburger Strasse 220
+                   <br>
+                    01109 Dresden
+                    <br>
+                     <br>
+                      <button class = "btn btn-pts" onclick = "window.open ('https://www.google.com/maps/dir//Radeburger Strasse 220, + 01109 + Dresden')">
+                       <i class = "fa fa-arrow-right">
+                       </i>
+                       <span style = "color: white! important; text-decoration: none">
+                        Plan route
+                       </span>
+                      </button>
+                      <br>
+                       <i class = "fa fa-phone" style = "margin-right: 3px;">
+                       </i>
+                       <span class = "semPhone hidden-xs" phone-data = "">
+                        0351-8807533
+                       </span>
+                       <a class="semPhone visible-xs-inline" href="tel:0351-8807533" phone-data="" style="color: #0a2b3b!important;">
+                        0351-8807533
+                       </a>
+                       <br>
+                        <i class = "fa fa-fax">
+                        </i>
+                        <span>
+                         0351-8807536
+                        </span>
+                        <br>
+                         <br>
+                          <i class = "fa fa-envelope-o">
+                          </i>
+                          <a href="mailto:psddnord@hotmail.de" style="color: #0a2b3b!important;">
+                           psddnord@hotmail.de
+                          </a>
+                          <br>
+                           <br>
+                            <br>
+                            </br>
+                           </br>
+                          </br>
+                         </br>
+                        </br>
+                       </br>
+                      </br>
+                     </br>
+                    </br>
+                   </br>
+                  </div>
+                 </div>
+                 <div class = "col-sm-6">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   opening hours
+                  </span>
+                  <div class = "opening_times" style = "color: # 333">
+                   <span>
+                    Monday
+                   </span>
+                   8:00 am - 4:30 pm
+                   <br/>
+                   <span>
+                    Tuesday
+                   </span>
+                   8:00 am - 4:30 pm
+                   <br/>
+                   <span>
+                    Wednesday
+                   </span>
+                   8:00 am - 4:30 pm
+                   <br/>
+                   <span>
+                    Thursday
+                   </span>
+                   8:00 am - 4:30 pm
+                   <br/>
+                   <span>
+                    Friday
+                   </span>
+                   8:00 am - 4:30 pm
+                   <br/>
+                  </div>
+                 </div>
+                 <div class = "col-sm-12">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   Services
+                  </span>
+                  <div class = "row">
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0028_reifeneinlagerung" title = "Reifeneinlagerung">
+                     </i>
+                     <b>
+                      Tire storage
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0003_schneeketten" title = "Snow chains">
+                     </i>
+                     <b>
+                      Snow chains
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0038_lighting" title = "Lighting control">
+                     </i>
+                     <b>
+                      Lighting control
+                     </b>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class = "filial_panel" data-target = "# 1026202" data-toggle = "modal">
+             <b>
+              Location 01257 Dresden
+             </b>
+             <br>
+              Nickerner Weg 8
+              <br>
+               <b>
+                <i class = "fa fa-phone">
+                </i>
+                <span class = "semPhone" phone-data = "">
+                 <a href="tel:xcxx03512808303">
+                  0351 2808303
+                 </a>
+                </span>
+               </b>
+               <i class = "fa fa-long-arrow-right">
+               </i>
+               <br>
+               </br>
+              </br>
+             </br>
+            </div>
+            <div aria-labelledby = "myModalLabel" class = "modal fade" id = "1026202" role = "dialog" tabindex = "- 1">
+             <div class = "modal-dialog modal-lg" role = "document">
+              <div class = "modal-content">
+               <div class = "modal-header">
+                <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+                 <span aria-hidden = "true">
+                  ×
+                 </span>
+                </button>
+                <h4 class = "modal-title" id = "myModalLabel">
+                 Reifen- und Autoservice Döring GmbH
+                </h4>
+               </div>
+               <div class = "modal-body">
+                <div class = "row">
+                 <div class = "col-sm-6">
+                  <div class = "modalImprints" style = "color: # 333">
+                   <span class = "title modalspan" style = "font-weight: 100; color: # 333">
+                    Reifen- und Autoservice Döring GmbH
+                   </span>
+                   Nickerner Weg 8
+                   <br>
+                    01257 Dresden
+                    <br>
+                     <br>
+                      <button class = "btn btn-pts" onclick = "window.open ('https://www.google.com/maps/dir//Nickerner Weg 8, + 01257 + Dresden')">
+                       <i class = "fa fa-arrow-right">
+                       </i>
+                       <span style = "color: white! important; text-decoration: none">
+                        Plan route
+                       </span>
+                      </button>
+                      <br/>
+                      <i class = "fa fa-phone" style = "margin-right: 3px;">
+                      </i>
+                      <span class = "semPhone hidden-xs" phone-data = "">
+                       0351 2808303
+                      </span>
+                      <a class="semPhone visible-xs-inline" href="tel:0351 2808303" phone-data="" style="color: #0a2b3b!important;">
+                       0351 2808303
+                      </a>
+                      <br/>
+                      <i class = "fa fa-fax">
+                      </i>
+                      <span>
+                       0351 2808304
+                      </span>
+                      <br/>
+                      <br/>
+                      <i class = "fa fa-envelope-o">
+                      </i>
+                      <a href="mailto:doeringdoering-reifen@t-online.de" style="color: #0a2b3b!important;">
+                       doeringdoering-reifen@t-online.de
+                      </a>
+                      <br/>
+                      <br/>
+                      <br/>
+                     </br>
+                    </br>
+                   </br>
+                  </div>
+                 </div>
+                 <div class = "col-sm-6">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   opening hours
+                  </span>
+                  <div class = "opening_times" style = "color: # 333">
+                   <span>
+                    Monday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Tuesday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Wednesday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Thursday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Friday
+                   </span>
+                   8:00 am - 6:00 pm
+                   <br/>
+                   <span>
+                    Saturday
+                   </span>
+                   08:00 - 12:00
+                   <br/>
+                  </div>
+                 </div>
+                 <div class = "col-sm-12">
+                  <span class = "title" style = "font-weight: 100; color: # 333">
+                   Services
+                  </span>
+                  <div class = "row">
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0015_hol-bring-service" title = "Collection and delivery service">
+                     </i>
+                     <b>
+                      Pick-up and delivery service
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0028_reifeneinlagerung" title = "Reifeneinlagerung">
+                     </i>
+                     <b>
+                      Tire storage
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0040_achse" title = "Axis measurement">
+                     </i>
+                     <b>
+                      Wheel alignment
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0003_schneeketten" title = "Snow chains">
+                     </i>
+                     <b>
+                      Snow chains
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0018_autoservice" title = "Autoservice">
+                     </i>
+                     <b>
+                      Car service
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0039_auspuff" title = "Auspuff">
+                     </i>
+                     <b>
+                      Exhaust
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0023_stossdaempfer" title = "shock absorber">
+                     </i>
+                     <b>
+                      Shock absorbers
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0024_oel" title = "Oil change">
+                     </i>
+                     <b>
+                      Oil change
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0102-brake disc" title = "Brakes">
+                     </i>
+                     <b>
+                      Brakes
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0041_batterie" title = "Battery">
+                     </i>
+                     <b>
+                      battery
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0038_lighting" title = "Lighting control">
+                     </i>
+                     <b>
+                      Lighting control
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0005_Service-check" title = "Servicecheck">
+                     </i>
+                     <b>
+                      Service check
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0001_kfz-zubehoer" title = "Car accessories">
+                     </i>
+                     <b>
+                      Car accessories
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0016_24h-lkw-2" title = "Mobil24h (car)">
+                     </i>
+                     <b>
+                      Mobil24h (car)
+                     </b>
+                    </div>
+                   </div>
+                   <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+                    <div class = "servicebox-inner">
+                     <i class = "psservices-0014_vor-ort-service" title = "On-site-Service">
+                     </i>
+                     <b>
+                      On-site service
+                     </b>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-8 col-md-pull-4">
+       <div class = "row quarterbox">
+        <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-6 col-lg-6">
+         <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+          <a href="/reifen/angebote" target="_self">
+           <style>
+            @media only screen and (min-width: 1201px) {.bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c {background-image: url ('/ images / cache / content / bN / aO / bNaOUNLaBSvxVKFppNBWU2s0gBeyUrvq '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c {background-image: url ('/ images / cache / content / bN / aO / bNaOUNLaBSvxVKFppNBWU2s0gBUrvQD1eyaYVab3rnj7_gy_vSTgqA, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c {background-image: url ('/ images / cache / content / bN / aO / bNaOUNLaBSvxVKFppNBWU2s0gBUrvQD1eyaYVab3rnj7_gy_vSTgqA, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c {background-image: url ('/ images / cache / content / bN / aO / bNaOUNLaBSvxVKFppNBWU2s0gBUrvQD1eyaYVab3rnj7_gy_vSTgqA, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c {background-image: url ('/ images / cache / content / bN / aO / bNaOUNLaBSvxVKFppNBWU2sq3rvn507jv ,,,,, 4801rvSTU2s0gBeyUrv ,, it5.jpg '); }}
+           </style>
+           <div class = "boxTile bg_srcset_48dce9ec-5503-f626-46ec-176f34fee10c" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+            <div class = "square info easeAni">
+             <div class = "text">
+              <p class = "box_title">
+               Current offers
+              </p>
+             </div>
+            </div>
+           </div>
+          </a>
+         </article>
+        </div>
+        <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-6 col-lg-6">
+         <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+          <a href="http://felgen-b2c.point-s.de/" target="_self">
+           <style>
+            @media only screen and (min-width: 1201px) {.bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496 {background-image: url ('/ images / cache / content / p5 / Lu / p5LuS21i0rb8.Vw7CxXdF0cFig2 '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496 {background-image: url ('/ images / cache / content / p5 / Lu / p5LuS21i0rb8VwHRZxXdF0cS2gVCz3HHmwUnFfM5H7zTVQXNaurGig, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496 {background-image: url ('/ images / cache / content / p5 / Lu / p5LuS21i0rb8VwHRZxXdF0cS2gVCz3HHmwUnFfM5H7zTVQXNaurGig, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496 {background-image: url ('/ images / cache / content / p5 / Lu / p5LuS21i0rb8VwHRZxXdF0cS2gVCz3HHmwUnFfM5H7zTVQXNaurGig, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496 {background-image: url ('/ images / cache / content / p5 / Lu / p5LuS21i0rb8VwHRZxHmwNF0cS2,4, 4805M5HUzG, 480 it5.jpg '); }}
+           </style>
+           <div class = "boxTile bg_srcset_c2ffd40b-bcc5-a14a-d88f-37636f839496" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+            <div class = "square info easeAni">
+             <div class = "text">
+              <p class = "box_title">
+               Rim configurator
+              </p>
+             </div>
+            </div>
+           </div>
+          </a>
+         </article>
+        </div>
+        <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-6">
+         <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+          <a href="https://www.points-showroom.com/de/home/" target="_blank">
+           <style>
+            @media only screen and (min-width: 1201px) {.bg_srcset_f471563e-6118-c506-1232-8f27afd47f29 {background-image: url ('/ images / cache / content / D_ / ne / D_neAya2eqM6e-D8O7rQxuhu9ezAlk2kZw2 .jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_f471563e-6118-c506-1232-8f27afd47f29 {background-image: url ('/ images / cache / content / D_ / ne / D_neAya2eqM6e-D8OZxuhu9ezAlkkkVB1we2ZlyDp5Do0w5i7rQOpQ, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_f471563e-6118-c506-1232-8f27afd47f29 {background-image: url ('/ images / cache / content / D_ / ne / D_neAya2eqM6e-D8OZxuhu9ezAlkkkVB1we2ZlyDp5Do0w5i7rQOpQ, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_f471563e-6118-c506-1232-8f27afd47f29 {background-image: url ('/ images / cache / content / D_ / ne / D_neAya2eqM6e-D8OZxuhu9ezAlkkkVB1we2ZlyDp5Do0w5i7rQOpQ, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_f471563e-6118-c506-1232-8f27afd47f29 {background-image: url ('/ images / cache / content / D_ / ne / D_neAya2eqM6e-D8OZxuhu9ez 480wek50Zw, ,, it5.jpg '); }}
+           </style>
+           <div class = "boxTile bg_srcset_f471563e-6118-c506-1232-8f27afd47f29" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+            <div class = "square info easeAni">
+             <div class = "text">
+              <p class = "box_title sub">
+               Our strong brands
+              </p>
+              <p class = "box_subline">
+               Winterstar 4, Summerstar 3+, 4 Seasons
+              </p>
+             </div>
+            </div>
+           </div>
+          </a>
+         </article>
+        </div>
+        <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-6">
+         <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+          <a href="/felgen/aktuelle_felgen_angebote" target="_self">
+           <style>
+            @media only screen and (min-width: 1201px) {.bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079 {background-image: url ('/ images / cache / content / 8T / fT / 8TfTO-Gl3WbOk6, itcYROIYPw2FypelcFdiy, itgTg2 .jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079 {background-image: url ('/ images / cache / content / 8T / fT / 8TfTO-Gl3WbOk3kYROIILBOvoBrPdCZypgFkY4Felc6rgT4YD_iyPw, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079 {background-image: url ('/ images / cache / content / 8T / fT / 8TfTO-Gl3WbOk3kYROIILBOvoBrPdCZypgFkY4Felc6rgT4YD_iyPw, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079 {background-image: url ('/ images / cache / content / 8T / fT / 8TfTO-Gl3WbOk3kYROIILBOvoBrPdCZypgFkY4Felc6rgT4YD_iyPw, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079 {background-image: url ('/ images / cache / content / 8T / fT / 8TfTO-Gl3WbOk3kYROIYPw3WbOk3kYROIILBOFypelc448, 4kYROIYPw4vo4Pr4, ,, it5.jpg '); }}
+           </style>
+           <div class = "boxTile bg_srcset_6f9d8bd7-6306-560d-4075-82432a5b0079" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+            <div class = "square info easeAni">
+             <div class = "text">
+              <p class = "box_title">
+               Wheels design overview
+              </p>
+             </div>
+            </div>
+           </div>
+          </a>
+         </article>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "row twelve-content">
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/termin" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec {background-image: url ('/ images / cache / content / oy / dQ / oydQyL5wi2Pc2Pc6XXhKWT7LiWc3WtcLeu '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec {background-image: url ('/ images / cache / content / oy / dQ / oydQyL5wi2Pc2XXhKWT7LiSPHwtcLlkc3WjeuWqoir0PWF25Vq9d6A, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec {background-image: url ('/ images / cache / content / oy / dQ / oydQyL5wi2Pc2XXhKWT7LiSPHwtcLlkc3WjeuWqoir0PWF25Vq9d6A, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec {background-image: url ('/ images / cache / content / oy / dQ / oydQyL5wi2Pc2XXhKWT7LiSPHwtcLlkc3WjeuWqoir0PWF25Vq9d6A, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec {background-image: url ('/ images / cache / content / oy / dQ / oydQyL5wi2Pc2PW9LXXhKWT7LiWc025,450,450 it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_6e599b67-0582-df83-de72-7bf92b681aec" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Appointment booking
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-6 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/reifen/pkw/reifen_einlagerung" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4 {background-image: url ('/ images / cache / content / l5 / qv / l5qvpHBVsqT-pino-nfs6BXcWyUOPHc, 1900, 'it2.jpg'); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4 {background-image: url ('/ images / cache / content / l5 / qv / l5qvpHBVsT-pino-nfs6cWyUOP4VMp3HIT9Y4bqgHXTVSv_cVBX-eQ, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4 {background-image: url ('/ images / cache / content / l5 / qv / l5qvpHBVsT-pino-nfs6cWyUOP4VMp3HIT9Y4bqgHXTVSv_cVBX-eQ, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4 {background-image: url ('/ images / cache / content / l5 / qv / l5qvpHBVsT-pino-nfs6cWyUOP4VMp3HIT9Y4bqgHXTVSv_cVBX-eQ, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4 {background-image: url ('/ images / cache / content / l5 / qv / l5qvpHBVsT-pino-nfs6VXcWyU) eQ, 480,450 ,,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_9cfa1aa2-5b1d-9ecc-5225-9ac1fc7649c4" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Tire storage
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="https://www.points-showroom.com/de/home/" target="_blank">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c {background-image: url ('/ images / cache / content / vd / s0 / vds0nB9HvD2Z6r834rxM9HvD2Z6r834rxMK8vWrx '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c {background-image: url ('/ images / cache / content / vd / s0 / vds0nB9HvD2Z6r834rqq098WrxlkiEvWJMHKMSvlJvYtCzfxv8pmCA, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c {background-image: url ('/ images / cache / content / vd / s0 / vds0nB9HvD2Z6r834rqq098WrxlkiEvWJMHKMSvlJvYtCzfxv8pmCA, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c {background-image: url ('/ images / cache / content / vd / s0 / vds0nB9HvD2Z6r834rqq098WrxlkiEvWJMHKMSvlJvYtCzfxv8pmCA, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c {background-image: url ('/ images / cache / content / vd / s0 / vds0nB9HvD2Z6r834rxMqvK098Wr, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_661a0d54-8964-81c1-9398-917790c5ce9c" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           4 seasons - 1 tire
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="https://reifendoering-shop.point-s.de/" target="_blank">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053 {background-image: url ('/ images / cache / content / x2 / x5 / x2x5dyBog1OWlSAIAr9-uU82_Bog1OWlSAIAr9-uU82_1900_aHa it .jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053 {background-image: url ('/ images / cache / content / x2 / x5 / x2x5dyBog1OWlSAIAr9-uU82_aHaH_nKO_x_56tyc8veVarebFoklA, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053 {background-image: url ('/ images / cache / content / x2 / x5 / x2x5dyBog1OWlSAIAr9-uU82_aHaH_nKO_x_56tyc8veVarebFoklA, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053 {background-image: url ('/ images / cache / content / x2 / x5 / x2x5dyBog1OWlSAIAr9-uU82_aHaH_nKO_x_56tyc8veVarebFoklA, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053 {background-image: url ('/ images / cache / content / x2 / x5 / x2x5dyBog1OWlSAIAr9_a_UU82,4508, ,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_fa59e6fd-a1ed-80ef-098e-2cbc8aa51053" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Tire shop
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="https://www.youtube.com/user/pointsdeutschland/videos" target="_blank">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a {background-image: url ('/ images / cache / content / sj / lg / sjlghay9C4yKkjxID91dc56Yp2ecZ3BrB2 '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a {background-image: url ('/ images / cache / content / sj / lg / sjlghay9C4yKjxID91dc56Y1ecBrB2znO3cbp2LSCk4DKZ5vbohwIQ, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a {background-image: url ('/ images / cache / content / sj / lg / sjlghay9C4yKjxID91dc56Y1ecBrB2znO3cbp2LSCk4DKZ5vbohwIQ, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a {background-image: url ('/ images / cache / content / sj / lg / sjlghay9C4yKjxID91dc56Y1ecBrB2znO3cbp2LSCk4DKZ5vbohwIQ, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a {background-image: url ('/ images / cache / content / sj / lg / sjlghay9C4yKjxID91dc56YznLZBr ,,,,,,,,,,,,, 480kb4hay9C4yKjxID91dc56Y2ecLS3,4 it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_8179eae7-2c99-03cd-37d8-e74bf4b5d50a" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           point S Youtube Channel
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/autoservice/wartung_und_service/auto_check" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024 {background-image: url ('/ images / cache / content / FA / Zn / FAZnzz3myw8m2y10Je3GJHnX0S6LPy2 '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024 {background-image: url ('/ images / cache / content / FA / Zn / FAZnzz3myw8m2y10Je3GJHnhkOXty5Q0XiHyLXS6LP2QPt1ylEmDJg, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024 {background-image: url ('/ images / cache / content / FA / Zn / FAZnzz3myw8m2y10Je3GJHnhkOXty5Q0XiHyLXS6LP2QPt1ylEmDJg, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024 {background-image: url ('/ images / cache / content / FA / Zn / FAZnzz3myw8m2y10Je3GJHnhkOXty5Q0XiHyLXS6LP2QPt1ylEmDJg, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024 {background-image: url ('/ images / cache / content / FA / Zn / FAZnzz3myw8m2y10Je3GJHnhkOX, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_a546a203-82d4-c007-2943-e32ad1e3e024" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Vehicle check
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-6">
+     <div class = "wbxMediaTypeContent wbxMediaTypeHtmlContainer" wbx-editorfields = "htmlcode">
+      <iframe allowfullscreen = "" frameborder = "0" height = "306" src = "https://www.youtube.com/embed/8dABBDoPpKo?rel=0&amp;wmode=opaque&amp;version=3&amp;autoplay=1&amp;loop = 1 & amp; list = PLBXPOoNH69nW0v5Tq2A6d6XV6IwHBO_AX "width =" 474 ">
+      </iframe>
+     </div>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <div class = "eightteenpixelline">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_b026c415-1493-410e-369e-59e81e6073f7 {background-image: url ('/ images / cache / content / GT / Hv / GTHvSRNoKFamv5Zccm.guxlC 1900, itv5ZcczlvsU4oefrloZjKJK.jpg, it '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_b026c415-1493-410e-369e-59e81e6073f7 {background-image: url ('/ images / cache / content / GT / Hv / GTHvSRNoKFamv5ZcmlvsU4oefrlojKJczUKeZnL4lCvj4tc7XuxbMg, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_b026c415-1493-410e-369e-59e81e6073f7 {background-image: url ('/ images / cache / content / GT / Hv / GTHvSRNoKFamv5ZcmlvsU4oefrlojKJczUKeZnL4lCvj4tc7XuxbMg, 992.450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_b026c415-1493-410e-369e-59e81e6073f7 {background-image: url ('/ images / cache / content / GT / Hv / GTHvSRNoKFamv5ZcmlvsU4oefrlojKJczUKeZnL4lCvj4tc7XuxbMg, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_b026c415-1493-410e-369e-59e81e6073f7 {background-image: url ('/ images / cache / content / GT / Hv / GTHvSRNoKFamv5ZcmlvsU4oefrloZjn4 ,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_b026c415-1493-410e-369e-59e81e6073f7" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Our master services
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/autoservice/wartung_und_service/inspektion" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920 {background-image: url ('/ images / cache / content / Sm / 7h / Sm7hvdWtAw47QnBL, 1900, nqjuP2B9VJ90, TQjuALS) , it2.jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920 {background-image: url ('/ images / cache / content / Sm / 7h / Sm7hvdWtCLYbpdM6A4l61V-t7Q9o90PAL-nBLIw4S1xqWjYnBju2AQ, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920 {background-image: url ('/ images / cache / content / Sm / 7h / Sm7hvdWtCLYbpdM6A4l61V-t7Q9o90PAL-nBLIw4S1xqWjYnBju2AQ, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920 {background-image: url ('/ images / cache / content / Sm / 7h / Sm7hvdWtCLYbpdM6A4l61V-t7Q9o90PAL-nBLIw4S1xqWjYnBju2AQ, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920 {background-image: url ('/ images / cache / content / Sm / 7h / Sm7hvdWA2w4YbpdM6A4l9VI-Q7eQnxPY-nqjuo2w4-ybpdM6A4l9VI-q7hvdWa2w4QnxJu90 t-nqjuV90 480,450 ,,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_4e829908-ba7e-20e7-a3e2-ddc8c0f95920" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           inspection
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/autoservice/wartung_und_service/glasservice" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97 {background-image: url ('/ images / cache / content / 2a / ux / 2auxekiTI3uw6yKCeT3lwyz2FBk_1900, itkiTI3uw6yKCeT3lwyz2DROzE5.jpg, it68gUw6yKCeT3lwyz2DROzEj0000 '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97 {background-image: url ('/ images / cache / content / 2a / ux / 2auxekiTI3uw6yKCeT3lwyFBk_E68S3D85R7gz2ROzKkU5E6LtuYUA, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97 {background-image: url ('/ images / cache / content / 2a / ux / 2auxekiTI3uw6yKCeT3lwyFBk_E68S3D85R7gz2ROzKkU5E6LtuYUA, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97 {background-image: url ('/ images / cache / content / 2a / ux / 2auxekiTI3uw6yKCeT3lwyFBk_E68S3D85R7gz2ROzKkU5E6LtuYUA, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97 {background-image: url ('/ images / cache / content / 2a / ux / 2auxekiTI3uw6yKCeT3lwyz5e5,4, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_dead0351-e817-af94-b4bd-1af6e4f7ef97" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Glass service
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/autoservice/wartung_und_service/achsvergabe" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_95968032-f067-41fb-f990-c8522f3aca78 {background-image: url ('/ images / cache / content / FU / DA / FUDAzeNl7uOQlfpRmrEYV1fXNj2-6Sv, 1900 , it2.jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_95968032-f067-41fb-f990-c8522f3aca78 {background-image: url ('/ images / cache / content / FU / DA / FUDAzeNl7uOQlfpRmrEYV1fi2-6SvEJjQy3nNvTz3PENRKx7-bXsUw, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_95968032-f067-41fb-f990-c8522f3aca78 {background-image: url ('/ images / cache / content / FU / DA / FUDAzeNl7uOQlfpRmrEYV1fi2-6SvEJjQy3nNvTz3PENRKx7-bXsUw, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_95968032-f067-41fb-f990-c8522f3aca78 {background-image: url ('/ images / cache / content / FU / DA / FUDAzeNl7uOQlfpRmrEYV1fi2-6SvEJjQy3nNvTz3PENRKx7-bXsUw, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_95968032-f067-41fb-f990-c8522f3aca78 {background-image: url ('/ images / cache / content / FU / DA / FUDAzeNl7uOQlfpRmrEYV3-bEvsTj6z, 480,450 ,,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_95968032-f067-41fb-f990-c8522f3aca78" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Wheel alignment
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/autoservice/wartung_und_service/klimaservice" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d {background-image: url ('/ images / cache / content / Hw / _9 / Hw_9K4TGpG7, 1900, is_0Vi4aDOG2Wdg7, is_0Vi4aDON5K5iq7, 1900, is_0Vi4aDON5K5ihs) , it2.jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d {background-image: url ('/ images / cache / content / Hw / _9 / Hw_9K4TGpG0-is_0Vi4aN5K5rHMmYWihg38eG2W7bO7sSai-6D0Ndg, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d {background-image: url ('/ images / cache / content / Hw / _9 / Hw_9K4TGpG0-is_0Vi4aN5K5rHMmYWihg38eG2W7bO7sSai-6D0Ndg, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d {background-image: url ('/ images / cache / content / Hw / _9 / Hw_9K4TGpG0-is_0Vi4aN5K5rHMmYWihg38eG2W7bO7sSai-6D0Ndg, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d {background-image: url ('/ images / cache / content / Hw / _9 / Hw_9K4TGpG7, is_0Vi4H38MeGN5Kih, is_0Vi4TGpG7, is_0Vi4H38D0eG0si, 480,450 ,,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_d2c152ba-3e62-b490-283e-56e60af2aa6d" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           Air conditioning service
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <article class = "wbxMediaTypeContent wbxMediaTypeImage">
+      <a href="/e_mobilitaet" target="_self">
+       <style>
+        @media only screen and (min-width: 1201px) {.bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2 {background-image: url ('/ images / cache / content / 7g / aY / 7gaYLqMGsNGd6pPydIXH895Oh7, DvLLa1w4C1, DvId6PydIF895Oh7, DxDXH895Oh7, , it2.jpg '); }} @media only screen and (min-width: 993px) and (max-width: 1200px) {.bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2 {background-image: url ('/ images / cache / content / 7g / aY / 7gaYLqMGsNGd6pPydIH895Oh7rFwz2DXI1k1-DvL4CM-ZLaMn_OXcQ, 1200,450 ,,, it5.jpg '); }} @media only screen and (min-width: 769px) and (max-width: 992px) {.bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2 {background-image: url ('/ images / cache / content / 7g / aY / 7gaYLqMGsNGd6pPydIH895Oh7rFwz2DXI1k1-DvL4CM-ZLaMn_OXcQ, 992,450 ,,, it5.jpg '); }} @media only screen and (min-width: 481px) and (max-width: 768px) {.bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2 {background-image: url ('/ images / cache / content / 7g / aY / 7gaYLqMGsNGd6pPydIH895Oh7rFwz2DXI1k1-DvL4CM-ZLaMn_OXcQ, 768,450 ,,, it5.jpg '); }} @media only screen and (max-width: 480px) {.bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2 {background-image: url ('/ images / cache / content / 7g / aY / 7gaYLqMGsGsNGd6pDXIF1w495Oh, 480,450 ,,, it5.jpg '); }}
+       </style>
+       <div class = "boxTile bg_srcset_6211bb4f-bc17-dfea-f418-d91faa0585d2" style = "background-repeat: no-repeat; background-size: cover; background-position: center;">
+        <div class = "square info easeAni">
+         <div class = "text">
+          <p class = "box_title">
+           E-mobility
+          </p>
+         </div>
+        </div>
+       </div>
+      </a>
+     </article>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-4">
+     <div class = "wbxMediaTypeContent wbxMediaType customer satisfaction">
+      <div class = "ratingbox" style = "border-radius: 15px;">
+       <div id = "boxlabel">
+        Customer ratings
+       </div>
+       <div class = "ratingstar">
+        reviews
+        <i class = "fa fa-star">
+        </i>
+        <i class = "fa fa-star">
+        </i>
+        <i class = "fa fa-star">
+        </i>
+        <i class = "fa fa-star">
+        </i>
+        <i class = "fa fa-star">
+        </i>
+        <i class = "fa fa-star">
+        </i>
+       </div>
+       <div id = "ratings text-center">
+        Cleanliness: 5.66
+        <br>
+         Range of services: 5.32
+         <br>
+          Advice quality: 5.72
+          <br>
+           On-time delivery: 5.89
+           <br>
+            Price / performance: 5.32
+            <br>
+             <div id = "overall rating">
+              Overall rating: 5.58
+              <br/>
+             </div>
+            </br>
+           </br>
+          </br>
+         </br>
+        </br>
+       </div>
+       <div class = "bubble">
+        <div class = "rezen" id = "b6886c99-197d-7a50-5a72-8957e4f22fdd" style = "position: relative;">
+         Customer review:
+         <div class = "displayblock" data-kuzu-no = "1">
+          Very good idea with the query about customer satisfaction!
+         </div>
+         <div class = "displaynone" data-kuzu-no = "2">
+          Everything is good, everything is great.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "3">
+          As always - everything is fine :-)))
+         </div>
+         <div class = "displaynone" data-kuzu-no = "4">
+          I am very happy with the tire service! Especially with the wheel alignment. The steering wheel is horizontal and the straight run is great too. The technician immediately knew that the car had to be loaded during the measurement. Great, ATU didn't know that. The price is okay too and was below the asking price. So fair billing.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "5">
+          Thanks for the service and keep it up.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "6">
+          I was very pleased!
+         </div>
+         <div class = "displaynone" data-kuzu-no = "7">
+          It's wonderful to get your turn without an appointment.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "8">
+          For us it was about changing wheels on two vehicles. In this respect the point "selection" does not apply. All other criteria / things were satisfactory.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "9">
+          Great service, friendly, fast - thank you very much!
+         </div>
+         <div class = "displaynone" data-kuzu-no = "10">
+          You have won us as a new customer and will recommend you to others.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "11">
+          Always very helpful
+         </div>
+         <div class = "displaynone" data-kuzu-no = "12">
+          nice, warm atmosphere, short waiting times; New tires were a bit soiled from storage - I bought them four months in advance - already ok.
+         </div>
+         <div class = "displaynone" data-kuzu-no = "13">
+          My father was already a customer of Döring around 60 years ago, 18 years later I had my motorcycle tires vulcanized here and today in the new, clean Döringpoint S it is really fun to be served and to use the workshop offers!
+         </div>
+         <div class = "displaynone" data-kuzu-no = "14">
+          good and timely appointment-making service, nice staff
+         </div>
+         <div class = "displaynone" data-kuzu-no = "15">
+          Good service, perfect work
+         </div>
+        </div>
+       </div>
+       <div id = "togglebutton">
+        <span id = "togglelink">
+         next
+        </span>
+       </div>
+      </div>
+      <script>
+       function autoScrollTimeout () {var rezscrll = $ (". rezen"); window.autoScrollInterval = setInterval (function autoscrll () {var pos = rezscrll.scrollTop (); rezscrll.scrollTop (pos + 2);}, 200); } function rotateBanners (elem) {var active = $ (elem + "div.displayblock"); var next = active.next (); if (next.length == 0) next = $ (elem + "div: first"); active.removeClass ("displayblock"). fadeOut (00); next.addClass ("displayblock"). fadeIn (500); clearInterval (window.autoScrollInterval); clearTimeout (window.autoScrollTimeout2); window.autoScrollTimeout2 = setTimeout (autoScrollTimeout, 2000); } function prepareRotator (elem) {$ (elem + "div"). fadeOut (500); $ (elem + "div: first"). fadeIn (500) .addClass ("displayblock"); } function startRotator (elem) {prepareRotator (elem); window.rotateBannerInterval = setInterval ("rotateBanners ('" + elem + "')", 10000); } $ (document) .ready (function () {startRotator ("# b6886c99-197d-7a50-5a72-8957e4f22fdd"); $ ("# togglelink"). click (function () {clearInterval (window.rotateBannerInterval); clearInterval (window.autoScrollInterval); window.rotateBannerInterval = setInterval ("rotateBanners ('# b6886c99-197d-7a50-5a72-8957e4f22fdd')", 10000); rotateBanners (". rezen");});})
+      </script>
+     </div>
+    </div>
+    <div class = "wbxMediaType col-xs-12 col-xs-12 col-sm-12 col-sm-12 col-md-12 col-lg-12">
+     <div class = "wbxMediaTypeContent wbxMediaTypeServices">
+      <div class = "services wbx-service-12">
+       <h4 class = "serviceTitle">
+        Services
+       </h4>
+       <i class = "psservices-0015_hol-bring-service" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Pick-up and delivery service">
+       </i>
+       <i class = "psservices-0028_reifeneinlagerung" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Tire Storage">
+       </i>
+       <a href="/autoservice/wartung_und_service/achsvergabe">
+        <i class = "psservices-0040_achse" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "wheel alignment">
+        </i>
+       </a>
+       <i class = "psservices-0003_schneeketten" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Snow chains">
+       </i>
+       <i class = "psservices-0018_autoservice" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Autoservice">
+       </i>
+       <a href="/autoservice/wartung_und_service/auspuffservice">
+        <i class = "psservices-0039_auspuff" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Exhaust">
+        </i>
+       </a>
+       <a href="/autoservice/wartung_und_service/stossdaempfer">
+        <i class = "psservices-0023_stossdaempfer" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Shock absorber">
+        </i>
+       </a>
+       <a href="/autoservice/wartung_und_service/hauptuntersprüfung">
+        <i class = "psservices-0025_au" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "HU according to §29 StVZO">
+        </i>
+       </a>
+       <a href="/autoservice/wartung_und_service/Oelservice">
+        <i class = "psservices-0024_oel" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Oil Change">
+        </i>
+       </a>
+       <a href="/autoservice/wartung_und_service/bremsenservice">
+        <i class = "psservices-0102-brake disc" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Brakes">
+        </i>
+       </a>
+       <a href="/autoservice/wartung_und_service/glasservice">
+        <i class = "psservices-0029_glasschaden" style = "background: white; margin-right: 10px; border-radius: 5px;" title = "Auto Glass">
+        </i>
+       </a>
+       <span class = "btn btn-link moreicon clickable" data-target = "# wbx_services" data-toggle = "modal">
+        more...
+       </span>
+       <div aria-labelledby = "myModalLabel" class = "modal fade" id = "wbx_services" role = "dialog" tabindex = "- 1">
+        <div class = "modal-dialog modal-lg" role = "document">
+         <div class = "modal-content row">
+          <div class = "modal-header">
+           <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+            <span aria-hidden = "true">
+             ×
+            </span>
+           </button>
+           <h4 class = "modal-title" id = "myModalLabel">
+            Services
+           </h4>
+          </div>
+          <div class = "modal-body">
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0015_hol-bring-service" style = "" title = "Collection and delivery service">
+             </i>
+             <b>
+              Pick-up and delivery service
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0028_reifeneinlagerung" style = "" title = "Reifeneinlagerung">
+             </i>
+             <b>
+              Tire storage
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / achsvermessung');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0040_achse" style = "" title = "wheel alignment">
+             </i>
+             <b>
+              Wheel alignment
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0003_schneeketten" style = "" title = "Snow chains">
+             </i>
+             <b>
+              Snow chains
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0018_autoservice" style = "" title = "Autoservice">
+             </i>
+             <b>
+              Car service
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / exhaust service');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0039_auspuff" style = "" title = "Auspuff">
+             </i>
+             <b>
+              Exhaust
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / stossdaempfer');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0023_stossdaempfer" style = "" title = "shock absorber">
+             </i>
+             <b>
+              Shock absorbers
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / maintenance_und_service / main investigation');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0025_au" style = "" title = "HU according to §29 StVZO">
+             </i>
+             <b>
+              HU according to §29 StVZO
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / Oelservice');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0024_oel" style = "" title = "Oil change">
+             </i>
+             <b>
+              Oil change
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / maintenance_und_service / bremsenservice');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0102-brake disc" style = "" title = "Brakes">
+             </i>
+             <b>
+              Brakes
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / glasservice');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0029_glasschaden" style = "" title = "Autoglas">
+             </i>
+             <b>
+              Car glass
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0041_batterie" style = "" title = "Battery">
+             </i>
+             <b>
+              battery
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0038_lighting" style = "" title = "Lighting control">
+             </i>
+             <b>
+              Lighting control
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0005_Service-check" style = "" title = "Servicecheck">
+             </i>
+             <b>
+              Service check
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / inspection');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0013_inspektion servicelong" style = "" title = "Inspection according to manufacturer information">
+             </i>
+             <b>
+              Inspection according to the manufacturer's instructions
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox" onclick = "window.open ('/ autoservice / wartung_und_service / klimaservice');">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0035_klima" style = "" title = "Air conditioning maintenance">
+             </i>
+             <b>
+              Air conditioning maintenance
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0001_kfz-zubehoer" style = "" title = "Car accessories">
+             </i>
+             <b>
+              Car accessories
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-009_unfallverhuetung" style = "" title = "UVV">
+             </i>
+             <b>
+              UVV
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0016_24h-lkw-2" style = "" title = "Mobil24h (car)">
+             </i>
+             <b>
+              Mobil24h (car)
+             </b>
+            </div>
+           </div>
+           <div class = "col-xs-12 col-sm-6 col-md-4 servicebox">
+            <div class = "servicebox-inner">
+             <i class = "psservices-0014_vor-ort-service" style = "" title = "On-site service">
+             </i>
+             <b>
+              On-site service
+             </b>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "clearfix">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<div class = "container">
+ <div class = "row copyright">
+  <small>
+  </small>
+ </div>
+</div>
+<div class = "full-width-box">
+</div>
+<div class = "footer">
+ <div class = "container">
+  <div class = "row footerbox">
+   <div class = "col-sm-6 col-md-3" contentcontainer = "footercontentzone1" contentcontainercaption = "Footer-Column-1">
+    <div class = "row">
+     <div class = "wbxMediaType col-lg-12">
+      <div class = "wbxMediaTypeContent wbxMediaTypeWysiwyg" style = "" wbx-editorfields = "wysiwygtext">
+       <h3>
+        Address / contact
+       </h3>
+       <p>
+        Reifen- und Autoservice Döring GmbH
+       </p>
+       <p>
+        Bautzner Str. 71
+        <br/>
+        01099 Dresden
+       </p>
+       <p>
+       </p>
+       <table style = "width: 157px;">
+        <tbody>
+         <tr>
+          <td style = "width: 46px;">
+           Phone:
+          </td>
+          <td style = "width: 110px;">
+           <a href="tel:03518119260">
+            0351-8119260
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td style = "width: 46px;">
+           E-mail:
+          </td>
+          <td style = "width: 110px;">
+           reifendoering@t-online.de
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "col-sm-6 col-md-3" contentcontainer = "footercontentzone2" contentcontainercaption = "Footer-Column-2">
+    <div class = "row">
+    </div>
+   </div>
+   <div class = "col-sm-6 col-md-3" contentcontainer = "footercontentzone3" contentcontainercaption = "Footer-Column-3">
+    <div class = "row">
+    </div>
+   </div>
+   <div class = "col-sm-6 col-md-3" contentcontainer = "footercontentzone4" contentcontainercaption = "Footer-Column-4">
+    <div class = "row">
+     <div class = "col-xs-12 hidden-print">
+      <ul class = "insitemenu" id = "">
+       <li class = "no_border" id = "footermenuitem_0ebd495b-002c-e1a2-2b92-9fc67cbfa1d8">
+        <a href="/kontakt" target="_self">
+         Contact
+        </a>
+       </li>
+       <li class = "" id = "footermenuitem_15211015-5198-7c50-6d17-a01f1ca8d31f">
+        <a href="/impressum" target="_self">
+         imprint
+        </a>
+       </li>
+       <li class="" id="footermenuitem_907ddd50-3def-e7bd-c9c5-b7bf6ba8b90e">
+        <a href="/nutzungsbedingungen" target="_self">
+         Terms of Use
+        </a>
+       </li>
+       <li class="" id="footermenuitem_d4d0625e-c6a2-7568-77a8-83019651e63c">
+        <a href="/datenschutzerklaerung" target="_self">
+         Data protection
+        </a>
+       </li>
+       <li class="" id="footermenuitem_643a1435-76fe-0019-4137-a8617809239e">
+        <a href="/point_s_deutschland" target="_blank">
+         point S Deutschland
+        </a>
+       </li>
+       <li class="" id="footermenuitem_919e30de-bafc-d964-2764-e04ff2112e76">
+        <a href="/point_s_gewinnspiele" target="_blank">
+         point S Gewinnspiele
+        </a>
+       </li>
+       <li class="" id="footermenuitem_c6e42290-92fd-5f0d-2339-9656fda337ed">
+        <a href="/sitemap" target="_self">
+         Sitemap
+        </a>
+       </li>
+       <li class="" id="footermenuitem_862e7f71-031e-4f2e-6919-c40eaf0cc70a">
+        <a href="/filialsuche" target="_self">
+         Branch search
+        </a>
+       </li>
+       <li class="" id="footermenuitem_25d62b7f-4bdb-df7b-b4d6-623920ea81f1">
+        <a href="/agb" target="_self">
+         Conditions
+        </a>
+       </li>
+      </ul>
+      <a class="pull-left" href="https://www.facebook.com/pages/Point-S-Reifen-und-Autoservice-D%C3%B6ring/649442398442768?fref=ts" style="padding-right: 10px;" target = "_ blank">
+       <img class="fbiconurl"/>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "row">
+   <div class="col-xs-12 footernode" contentcontainer="footercontentzone5" contentcontainercaption="Fussnoten">
+    <div class = "row">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- Modal -->
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="cookieModal" role="dialog" tabindex="-1">
+ <div class = "modal-dialog" role = "document">
+  <div class = "modal-content">
+   <div class="modal-header" style="background-color: #004994;">
+    <h5 class="modal-title" id="exampleModalLabel">
+     Cookie information
+    </h5>
+    <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+     <div aria-hidden="true" style="margin-top: -20px;">
+      ×
+     </div>
+    </button>
+   </div>
+   <div class = "modal-body">
+    Session-Cookie: Wir benutzen das PHP-Session-Cookie "PHPSESSID", das dazu genutzt wird, den Benutzer innerhalb einer Browser-Session zu identifizieren.
+                Dieses Cookie hat eine Gültigkeit bis zum Ende der Browser-Session, also: bis alle Browserfenster geschlossen worden sind. Rechtlich ist dieses Cookie
+                von der Opt-In-Regel der DSGVO ausgenommen.
+   </div>
+  </div>
+ </div>
+</div>
+<!-- Modal -->
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/mediatype+nexnova+imageslider/v0aa/resources/js/jssor.slider.debug.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/mediatype+eiosde+location/v1/resources/js/location.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/theme+eiosde+points_de/v1/resources/js/jquery/jquery.cookie.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/theme+eiosde+points_de/v1/resources/js/app/cookie.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/theme+eiosde+points_de/v1/resources/js/bootstrap/bootstrap.min.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script src="/resources/978cdf94-ecd5-9dbf-2f79-1f95e209e85b/theme+eiosde+points_de/v1/resources/js/app/app.js?pv=a54a3d40e22c752c97001c2fe984ef355bfe76fa" type="text/javascript">
+</script>
+<script type = "text / javascript">
+</script>
+<!--BODYEND-->
+<script>
+ $ (document) .ready (function () {
+        $('.slider_wrapper').css({'max-height':'300px'});
+    });
+</script>

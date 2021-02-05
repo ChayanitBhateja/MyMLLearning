@@ -1,0 +1,935 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Transitional // EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang = "en" xml: lang = "en" xmlns = "http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Oettinger sports car
+  </title>
+  <link href = "css / fouc.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "css / pagecss.php? style = 0_1" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "../ js / galleryview.css" rel = "stylesheet" type = "text / css" />
+  <link href = "css / galleryview.css" rel = "stylesheet" type = "text / css">
+   <link href = "../ css / form_template.css" rel = "stylesheet" type = "text / css" />
+   <script src = "../ js / swfobject.js" type = "text / javascript">
+   </script>
+   <! - <script type = "text / javascript" src = "../ js / jquery-1.7.js"> </script> ->
+   <script src = "https://code.jquery.com/jquery-3.3.1.min.js" type = "text / javascript">
+   </script>
+   <script src = "../ js / rotation.js" type = "text / javascript">
+   </script>
+   <script src = "../ js / jquery-galleryview-1.1 / jquery.galleryview-1.1.js" type = "text / javascript">
+   </script>
+   <script src = "../ js / jquery-galleryview-1.1 / jquery.timers-1.1.2.js" type = "text / javascript">
+   </script>
+   <meta content = "" name = "description" />
+   <meta content = "" name = "keywords" />
+   <meta content = "de" http-equiv = "content-language" />
+   <meta content = "10" name = "revisit-after" />
+   <meta content = "text / html; charset = utf-8" http-equiv = "content-type" />
+   <meta content = "TRUE" name = "MSSmartTagsPreventParsing" />
+   <meta content = "- 1" http-equiv = "expires" />
+   <meta content = "no-cache" http-equiv = "pragma" />
+   <meta content = "text / javascript" http-equiv = "Content-Script-Type" />
+   <style type = "text / css">
+    / * Cookie Consent Begin * /
+            #cookieConsent {
+                background-color: rgba (20,20,20,0.8);
+                min-height: 26px;
+                font-size: 14px;
+                color: #ccc;
+                line-height: 26px;
+                padding: 8px 0 8px 30px;
+                font-family: "Trebuchet MS", Helvetica, sans-serif;
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                display: none;
+                z-index: 9999;
+            }
+            #cookieConsent a {
+                color: # 4B8EE7;
+                text-decoration: none;
+            }
+            #closeCookieConsent {
+                float: right;
+                display: inline block;
+                cursor: pointer;
+                height: 20px;
+                width: 20px;
+                margin: -15px 0 0 0;
+                font-weight: bold;
+            }
+            #closeCookieConsent: hover {
+                color: #FFF;
+            }
+            #cookieConsent a.cookieConsentOK {
+                background-color: # F1D600;
+                color: # 000;
+                display: inline block;
+                border-radius: 5px;
+                padding: 0 20px;
+                cursor: pointer;
+                float: right;
+                margin: 0 60px 0 10px;
+            }
+            #cookieConsent a.cookieConsentOK: hover {
+                background-color: # E0C91F;
+            }
+            / * Cookie Consent End * /
+   </style>
+  </link>
+ </head>
+ <body>
+  <div id = "spacer">
+  </div>
+  <div id = "spacerTop">
+  </div>
+  <div id = "inner">
+   <div id = "content">
+    <div class = "backImg" id = "flash">
+     <! - <img src = "gfx / 0_1_background.jpg" alt = "Oettinger sports car"> ->
+     <div class = "galleryview" id = "photos">
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_331.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_320.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_289.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_279.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_280.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_281.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_291.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_259.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_298.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_305.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_286.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_295.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_297.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_274.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_275.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_276.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_278.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_299.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_282.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_260.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_285.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_283.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_277.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_288.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_287.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_258.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_273.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_296.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_300.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_290.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_92.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_240.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_307.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_308.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_310.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_309.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_402.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_302.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_241.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_96.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_239.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_97.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_100.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_98.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_101.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_78.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_201.jpg" />
+      </div>
+      <div class = "panel">
+       <img alt = "" src = "../ cmsImages / a_196.jpg" />
+      </div>
+      <ul class = "filmstrip">
+       <li>
+        <img alt = "" src = "../ cmsImages / c_331.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_320.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_289.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_279.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_280.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_281.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_291.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_259.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_298.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_305.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_286.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_295.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_297.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_274.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_275.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_276.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_278.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_299.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_282.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_260.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_285.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_283.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_277.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_288.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_287.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_258.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_273.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_296.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_300.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_290.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_92.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_240.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_307.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_308.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_310.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_309.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_402.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_302.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_241.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_96.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_239.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_97.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_100.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_98.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_101.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_78.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_201.jpg" title = "" />
+       </li>
+       <li>
+        <img alt = "" src = "../ cmsImages / c_196.jpg" title = "" />
+       </li>
+      </ul>
+     </div>
+     <script type = "text / javascript">
+      $ (document) .ready (function () {
+$ ('# photos'). galleryView ({
+panel_width: 1020,
+panel_height: 680,
+frame_width: 60,
+frame_height: 40
+});
+});
+     </script>
+    </div>
+    <! - <img style = "position: absolute; top: 642px; left: 0px; z-index: 45000" src = "./ gfx / impresionen.gif"> ->
+    <a href = "http://www.facebook.com/OettingerSportwagen" style = "border: none;" target = "_ blank">
+     <img src = "./ gfx / oettinger-fb-button.jpg" style = "position: absolute; top: 642px; left: 0px; z-index: 45000" />
+    </a>
+    <script type = "text / javascript">
+     <! -
+var so = new SWFObject ("./ flashData / galerie_new.swf", "mymovie", "1020", "680", "7", "#ffffff");
+so.addParam ("quality", "high");
+so.addParam ("wmode", "transparent");
+so.write ("flash");
+->
+    </script>
+    <! - <img class = "sinceHeadImg" src = "gfx / das_original_seit_1988.png" alt = "The original since 1988"> ->
+    <div class = "redLine" style = "top: 641px;">
+    </div>
+    <! - <div style = "position: absolute; top: 427px; left: 0px; z-index: 40000">
+<map name = "map" id = "map">
+ <area shape = "rect" coords = "0, -5,342,192" href = "oettinger-sportwagen.html" alt = "" />
+ <area shape = "rect" coords = "343,0,682,226" href = "oettinger-klassik.html" alt = "" />
+ <area shape = "rect" coords = "685, -34,1053,193" href = "oettinger-uscars.html" alt = "" />
+</map>
+<img src = "./ gfx / leiste.jpg" border = "0" alt = "" title = "" usemap = "# map" />
+
+</div> ->
+    <div id = "newsBox">
+     <a href="news_events.html">
+      <img alt = "Oettinger News" border = "0" src = "gfx / 0_0_newsBoxBottom.gif" />
+     </a>
+     <div class = "newsTxBox">
+      <div class = "nTx">
+       <a href="news_events_detail326.html" style="color:black;">
+        <h2>
+         February 28, 2018
+        </h2>
+        Bremen Classic Motorshow ...
+        <br/>
+        <br/>
+        <img src = "gfx / BCM-Logo.jpg" width = "180" />
+        <br/>
+        <br/>
+       </a>
+      </div>
+     </div>
+     <! - <a href = "chromjuwelen.html"> <img src = "gfx / chromjuwelen.jpg" border = "0" alt = "Chromjuwelen"> </a> ->
+    </div>
+    <div id = "newsBackBox">
+     <img alt = "Top offers" class = "nHeadImg" src = "gfx / 0_0_newsBoxHead.gif" />
+     <div class = "detailBackBox">
+      <div class = "dBackBoxHg">
+      </div>
+      <a href="javascript:clearScreen(false);">
+       <div class = "dBackBoxTx">
+        fade in again
+       </div>
+      </a>
+     </div>
+     <a href="news_events.html">
+      <img alt = "Oettinger News" border = "0" class = "nBottomImg" src = "gfx / 0_0_newsBoxBottom.gif" />
+     </a>
+    </div>
+   </div>
+   <a href = "https://www.instagram.com/oettinger_sportwagen_zentrum/?hl=de" style = "border: none;" target = "_ blank">
+    <img src = "./ gfx / oettinger-ig-button.jpg" style = "position: absolute; top: 603px; left: 0px; z-index: 45000" />
+   </a>
+   <a href = "http://www.facebook.com/OettingerSportwagen" style = "border: none;" target = "_ blank">
+    <img src = "./ gfx / oettinger-fb-button.jpg" style = "position: absolute; top: 642px; left: 0px; z-index: 45000" />
+   </a>
+   <! - <div class = "png_link">
+<div class = "close"> <img border = "0" alt = "Oldtimer Park Hamburg" title = "Close" src = "/ de / gfx / close.png"> </div>
+<a href="http://oldtimerpark-hamburg.de/" target="_blank"> <img border = "0" alt = "Oldtimer Park Hamburg" title = "Oldtimer Park Hamburg" src = "/ de / gfx /oldtimer_park_hamburg.png "> </a>
+</div>
+
+<script>
+$ (". close"). click (function () {
+$ (". png_link"). fadeOut ("slow");
+});
+</script> ->
+   <div class = "bottom_all">
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_1.jpg" />
+      <img src = "/ de / gfx / bottom_title_1.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_1.jpg" />
+      <p>
+       When expertise and passion, professionalism and passion come together, an atmosphere is created in which dreams become reality. Oettinger Sportwagen has stood for this ideal combination since 1980. Profession as calling. That is why individual advice is very important here. Perfectly tailored financing models are just as much a part of the portfolio as Europe-wide delivery and comprehensive services.
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN" target="_blank">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to the vehicle offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Leasing / financing (also for classics)
+       </li>
+       <li>
+        Workshop services / inspection / maintenance
+       </li>
+       <li>
+        professional vehicle preparation
+       </li>
+       <li>
+        Delivery throughout Europe
+       </li>
+       <li>
+        Hol- & amp; Delivery service
+       </li>
+       <li>
+        Tuning / increase in performance
+       </li>
+       <li>
+        Wheels & amp; landing gear
+       </li>
+       <li>
+        Special installations / multimedia / navigation
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_2.jpg" />
+      <img src = "/ de / gfx / bottom_title_2.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_2.jpg" />
+      <p>
+       Oettinger Sportwagen is committed to passion for Porsche. Whether classic or modern, the excellent condition of the vehicles is our figurehead.
+The previous owners' love for their automotive treasures was also passionate: the vehicles shine with their low mileage and a proven history.
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to the vehicle offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Porsche 356
+       </li>
+       <li>
+        Porsche 901/911 (F-model)
+       </li>
+       <li>
+        Porsche 911 SC / Carrera (G-model)
+       </li>
+       <li>
+        Porsche 914/916 VW-Porsche
+       </li>
+       <li>
+        Porsche 928/944/968
+       </li>
+       <li>
+        Porsche 964/993
+       </li>
+       <li>
+        Porsche 996/997/991
+       </li>
+       <li>
+        Porsche Cayman / Boxster / Panamera / Cayenne
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_3.jpg" />
+      <img src = "/ de / gfx / bottom_title_3.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_3.jpg" />
+      <p>
+       The market for historic vehicles is large and the variety of models is high. We help you to keep track of things. With the accuracy of the lover, we recognize rare European classics that inspire their new owner due to their excellent technical condition. Our offer ranges from legendary vintage cars of the 50s to well-kept young timers.
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to the vehicle offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Alfa Romeo
+       </li>
+       <li>
+        Citroen
+       </li>
+       <li>
+        Mercedes Benz
+       </li>
+       <li>
+        Porsche
+       </li>
+       <li>
+        Special youngtimers
+       </li>
+       <li>
+        Classic cars from the 50s to 70s
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_4.jpg" />
+      <img src = "/ de / gfx / bottom_title_4.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_4.jpg" />
+      <p>
+       The view over the “big pond” is an integral part of our repertoire: American classics embody the dream of freedom. We bring this freedom to Europe for you. Whether vehicles from the 50s, 60s or 70s - nowhere else are you spoiled for choice.
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to the vehicle offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Ford Mustang
+       </li>
+       <li>
+        Chevrolet Camaro
+       </li>
+       <li>
+        Corvette
+       </li>
+       <li>
+        Dodge RAM & amp; viper
+       </li>
+       <li>
+        Oldsmobile
+       </li>
+       <li>
+        Buick
+       </li>
+       <li>
+        Cadillac
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_5.jpg" />
+      <img src = "/ de / gfx / bottom_title_5.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_5.jpg" />
+      <p>
+       The enthusiasm for beautiful and rare automobiles forges a solid bond between the customer and the company Oettinger Sportwagen-Zentrum GmbH. It is also this enthusiasm that guides our workshop service in its work - this is how we guarantee untroubled joy in owning an extraordinary vehicle. The "all-round carefree service" from a single source, from tuning and maintenance to body repairs - typically Oettinger.
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="service_ankauf.html">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to the service offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Workshop services / inspection / maintenance
+       </li>
+       <li>
+        TÜV / AU / wheel alignment
+       </li>
+       <li>
+        Body repairs
+       </li>
+       <li>
+        Painting / Processing & amp; Nano sealing
+       </li>
+       <li>
+        Leather Care & amp; interior
+       </li>
+       <li>
+        Tuning / increase in performance
+       </li>
+       <li>
+        Wheels & amp; landing gear
+       </li>
+       <li>
+        Special installations / multimedia / navigation
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "bottom_box">
+     <div class = "greyline">
+     </div>
+     <div class = "bottom_left">
+      <img src = "/ de / gfx / bottom_image_6.jpg" />
+      <img src = "/ de / gfx / bottom_title_6.jpg" />
+     </div>
+     <div class = "bottom_middle">
+      <img src = "/ de / gfx / bottom_headline_6.jpg" />
+      <p>
+       Thanks to the finished formulation with Mathè Classic, Chromjuwelen Motor Oils are tailor-made for classic motors in seasonal operation, guarantee permanent lubrication and ensure optimum protection against corrosion.
+       <br/>
+       <br/>
+       Take a look for yourself ...
+      </p>
+      <div class = "bottom_middle_link">
+       <a href="chromjuwelen.html">
+        <span>
+         <b>
+          & gt; & gt;
+         </b>
+        </span>
+        <b>
+         to offer
+        </b>
+       </a>
+      </div>
+     </div>
+     <div class = "bottom_right">
+      <ul>
+       <li>
+        Optimal protection during the winter break
+       </li>
+       <li>
+        Reduces cold start wear
+       </li>
+       <li>
+        Prevents rust formation
+       </li>
+       <li>
+        Increases the emergency running properties
+       </li>
+       <li>
+        Extends the life of the engine
+       </li>
+       <li>
+        15W - 40
+       </li>
+       <li>
+        20W - 50
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class = "whiteline">
+   </div>
+   <div class = "darkgreyline">
+   </div>
+   <div class = "impressum_big">
+    <div class = "impressum_big_left">
+     <img alt = "index" border = "0" src = "gfx / navi / index.gif" title = "Home" />
+     <p>
+      OETTINGER Sportwagen-Zentrum GmbH
+      <br/>
+      Oldenfelder Bogen 2b
+      <br/>
+      22143 Hamburg
+      <br/>
+      <br/>
+     </p>
+     <table cellpadding = "0" cellspacing = "0">
+      <tr>
+       <td width = "50">
+        Tel.
+        <br/>
+        E-mail
+       </td>
+       <td>
+        +49 (0) 163 6031513
+        <br/>
+        <a href="mailto:service@oettinger-sportwagen.de">
+         service@oettinger-sportwagen.de
+        </a>
+       </td>
+      </tr>
+     </table>
+     <br/>
+     <p>
+      Opening hours:
+     </p>
+     <table cellpadding = "0" cellspacing = "0">
+      <tr>
+       <td width = "50">
+        Mon - Fri
+        <br/>
+        Saturday
+       </td>
+       <td>
+        10:00 am - 6:00 pm
+        <br/>
+        By arrangement
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class = "impressum_big_middle">
+     <a href="mailto:schade@oettinger-sportwagen.de">
+      <img alt = "index" border = "0" src = "/ de / gfx / schade.jpg" title = "Michael Schade" width = "131" />
+     </a>
+     <p>
+      Michael Schade
+     </p>
+    </div>
+    <div class = "impressum_big_right">
+     <a href = "http://maps.google.com/maps?q=Oettinger+Sportwagen-Zentrum+GmbH&amp;hl=de&amp;sll=53.609422,10.184175&amp;sspn=0.010579,0.033023&amp;hq=Oettinger+Sportwagen -Zentrum + GmbH & amp; t = m & amp; z = 15 & amp; iwloc = A "target =" _ blank ">
+      <img alt = "index" border = "0" src = "/ de / gfx / anfahrt_impressum.jpg" title = "Home" />
+     </a>
+    </div>
+   </div>
+   <div class = "darkgreyline">
+   </div>
+   <div class = "whiteline">
+   </div>
+   <ul id = "mainNav">
+    <li id ​​= "regLi">
+     <a href="oettinger_sportwagen.html">
+      <img alt = "oettinger_sportwagen" border = "0" src = "gfx / navi / oettinger_sportwagen.gif" title = "Oettinger Sportwagen" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="http://home.mobile.de/OETTINGER-SPORTWAGEN" target="_blank">
+      <img alt = "vehicle offer" border = "0" src = "gfx / navi / fahrzeugangebote.gif" title = "vehicle offer" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="service_ankauf.html">
+      <img alt = "service_ purchase" border = "0" src = "gfx / navi / service_ankauf.gif" title = "Service & amp; purchase" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="news_events.html">
+      <img alt = "news_events" border = "0" src = "gfx / navi / news_events.gif" title = "News & Events" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="freunde_partner.html">
+      <img alt = "friends_partner" border = "0" src = "gfx / navi / freunde_partner.gif" title = "Friends & amp; Partners" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="kontakt_anfahrt.html">
+      <img alt = "kontakt_anfahrt" border = "0" src = "gfx / navi / kontakt_anfahrt.gif" title = "Contact & amp; Directions" />
+     </a>
+    </li>
+    <li id ​​= "regLi">
+     <a href="chromjuwelen.html">
+      <img alt = "chrome jewels" border = "0" src = "gfx / navi / chromjuwelen.gif" title = "chrome jewels" />
+     </a>
+    </li>
+    <li id ​​= "sLogo">
+     <a href="index.html">
+      <img alt = "index" border = "0" src = "gfx / navi / index.gif" title = "Home" />
+     </a>
+    </li>
+   </ul>
+   <div id = "data protection">
+    <a href="datenschutz.html">
+     data protection
+    </a>
+   </div>
+   <div id = "imprint">
+    <a href="impressum.html">
+     imprint
+    </a>
+   </div>
+   <div id = "cookieConsent">
+    <div id = "closeCookieConsent">
+     x
+    </div>
+    This website uses cookies. For more information, see
+    <a href="datenschutz.html" target="_blank">
+     data protection
+    </a>
+    .
+    <a class="cookieConsentOK">
+     All right!
+    </a>
+   </div>
+   <script>
+    $ (document) .ready (function () {
+                    setTimeout (function () {
+                        $ ("# cookieConsent"). fadeIn (200);
+                    }, 500);
+                    $ ("# closeCookieConsent, .cookieConsentOK"). click (function () {
+                        $ ("# cookieConsent"). fadeOut (200);
+                    });
+                });
+   </script>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,389 @@
+<! DOCTYPE html>
+<html class = "no-js" lang = "de">
+ <head>
+  <title>
+   Auto paint shop main
+  </title>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <! - [if IE]>
+<meta http-equiv = "X-UA-Compatible" content = "IE = edge">
+<! [endif] ->
+  <meta content = "" name = "description" />
+  <meta content = "Car paint, car paint shop, Dresden, main, accident repairs, plastic repairs, pick-up and delivery service, 10 hour service, paint repair, classic cars, quick repairs, paint care, body work, complete insurance processing" lang = "de" name = "keywords" />
+  <meta content = "" name = "author" />
+  <meta content = "kkoEW6ky7Dc91SYH0XkcjvP6PH4L4GtW3QAbbkUet0Y" name = "google-site-verification">
+   <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+   <link href = "./ assets / stbs.css" rel = "stylesheet" />
+   <link href = "./ assets / style.css" rel = "stylesheet" />
+   <link href = "./ assets / stbssl.css" media = "screen" rel = "stylesheet" />
+   <link href = "./ images / favicon.ico" rel = "shortcut icon" />
+   <script src = "./ assets / modern.js">
+   </script>
+   <script src = "// ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+   </script>
+   <script>
+    window.jQuery || document.write ('<script src = "./ assets / jq.js"> <\ / script>')
+   </script>
+   <script src = "// code.jquery.com/jquery-migrate-1.2.1.min.js">
+   </script>
+   <! - [if lt IE 9]>
+<script src = "https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"> </script>
+<script src = "https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"> </script>
+<! [endif] ->
+  </meta>
+ </head>
+ <body id = "body">
+  <div class = "navbar navbar-default navbar-fixed-top" id = "menu" role = "navigation">
+   <div class = "container">
+    <! - Brand and toggle get grouped for better mobile display ->
+    <div class = "navbar-header">
+     <button class = "navbar-toggle" data-target = "# bs-navbar-collapse" data-toggle = "collapse" type = "button">
+      <span class = "sr-only">
+       Toggle navigation
+      </span>
+      <span class = "icon-bar">
+      </span>
+      <span class = "icon-bar">
+      </span>
+      <span class = "icon-bar">
+      </span>
+     </button>
+     <a class="navbar-brand" href="./" title="back to startpage">
+      <i class = "fa-home fa">
+      </i>
+     </a>
+    </div>
+    <div class = "collapse navbar-collapse" id = "bs-navbar-collapse">
+     <ul class = "nav navbar-nav" id = "nav">
+      <li class = "">
+       <a href="./firma/">
+        company
+       </a>
+      </li>
+      <li class = "">
+       <a href="./galerie/">
+        gallery
+       </a>
+      </li>
+      <li class = "">
+       <a href="./kontakt/">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <header class = "flex hidden-print" id = "header">
+   <div class = "slider">
+    <ul class = "slides">
+     <li>
+      <img alt = "" src = "./ images / ec01.jpg" />
+      <div class = "container">
+       <div class = "slide-caption hidden-xs">
+        <span style = "font-size: 300%;">
+         Your car paint shop in Dresden
+        </span>
+        <br/>
+        <span style = "font-size: 150%;">
+         since 1981
+        </span>
+       </div>
+      </div>
+     </li>
+     <li>
+      <img alt = "" src = "./ images / ec02.jpg" />
+      <div class = "container">
+       <div class = "slide-caption hidden-xs">
+        <span style = "font-size: 300%;">
+         Your car paint shop in Dresden
+        </span>
+        <br/>
+        <span style = "font-size: 150%;">
+         since 1981
+        </span>
+       </div>
+      </div>
+     </li>
+     <li>
+      <img alt = "" src = "./ images / ec03.jpg" />
+      <div class = "container">
+       <div class = "slide-caption hidden-xs">
+        <span style = "font-size: 300%;">
+         Your car paint shop in Dresden
+        </span>
+        <br/>
+        <span style = "font-size: 150%;">
+         since 1981
+        </span>
+       </div>
+      </div>
+     </li>
+    </ul>
+   </div>
+  </header>
+  <div class = "container" id = "container">
+   <div class = "row">
+    <div class = "col-md-9" id = "content">
+     <div class = "well">
+      <h2>
+       <a id="084276a6850b1770d">
+       </a>
+       our service
+      </h2>
+      <p class = "" style = "">
+       <span style = "font-size: 125%;">
+        <i class = "fa fa-check">
+        </i>
+        Vehicle painting of all kinds
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Accident damage - complete settlement
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        10 hour service for small damages
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Bodywork
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Paint repairs and preparation
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Plastic repair
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Industrial coatings
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Pick-up and delivery service for your vehicle
+        <br/>
+        <i class = "fa fa-check">
+        </i>
+        Rental car brokerage
+       </span>
+      </p>
+     </div>
+     <p class = "" style = "">
+     </p>
+     <div class = "slider slidertopic">
+      <ul class = "slides">
+       <li>
+        <img alt = "" src = "./ images / werkstatt-305.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / 31.maerz-2010-009.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / 6.april-2010-01.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / img_6539.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / 2010-08-002.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / img_2151.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / muegelner-028.jpg" />
+       </li>
+       <li>
+        <img alt = "" src = "./ images / img_6544.jpg" />
+       </li>
+      </ul>
+     </div>
+     <script src = "./ assets / jqslider.js">
+     </script>
+     <script>
+      $ (window) .load (function () {
+$ ('head'). append ('<link href = "./ assets / stbssl.css" rel = "stylesheet" media = "screen">');
+$ ('. slidertopic'). flexslider ({namespace: "bs-",
+animation: "slide"
+, smoothHeight: true, controlNav: false});
+})
+     </script>
+     <div class = "row w2d-teaser">
+      <div class = "col-sm-12">
+       <div class = "thumbnail clearfix">
+        <a href="./firma/">
+         <img alt = "" border = "0" height = "134" src = "./ images / teaserfirma_250.jpg" width = "200" />
+        </a>
+        <div class = "caption">
+         <h3>
+          company
+         </h3>
+         <p>
+          A little digression into our company history with current and old photos.
+         </p>
+         <a class="btn btn-default" href="./firma/">
+          more
+         </a>
+        </div>
+       </div>
+       <div class = "thumbnail clearfix">
+        <a href="./galerie/">
+         <img alt = "" border = "0" height = "100" src = "./ images / teasergalerie_250.jpg" width = "200" />
+        </a>
+        <div class = "caption">
+         <h3>
+          gallery
+         </h3>
+         <p>
+          Here is a little insight into our work.
+         </p>
+         <a class="btn btn-default" href="./galerie/">
+          more
+         </a>
+        </div>
+       </div>
+       <div class = "thumbnail clearfix">
+        <a href="./kontakt/">
+         <img alt = "" border = "0" height = "119" src = "./ images / kontaktformular_250.jpg" width = "200" />
+        </a>
+        <div class = "caption">
+         <h3>
+          Contact
+         </h3>
+         <p>
+          Here you will find a map, our address as well as our business hours and telephone numbers.
+         </p>
+         <a class="btn btn-default" href="./kontakt/">
+          more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <ul class = "pager">
+      <li class = "previous">
+       <a href="#" id="historyBack">
+        <i class = "fa fa-angle-double-left">
+        </i>
+        Back
+       </a>
+      </li>
+     </ul>
+    </div>
+    <! - #content ->
+    <div class = "col-md-3 sidebar hidden-print">
+     <aside>
+      <div class = "well">
+       <img alt = "" class = "img-responsive" height = "84" src = "./ images / logoneu_sb.png" width = "262" />
+       <p>
+       </p>
+       <h2>
+        <i class = "fa fa-map-marker">
+        </i>
+        address
+       </h2>
+       <p>
+        <span style = "font-size: 125%;">
+         Mügelner Strasse 29
+         <br/>
+         01237 Dresden
+        </span>
+       </p>
+       <hr />
+       <h2>
+        <i class = "fa fa-envelope-o">
+        </i>
+        Contact
+       </h2>
+       <p>
+        <span style = "font-size: 125%;">
+         <i class = "fa fa-phone">
+         </i>
+         <span>
+         </span>
+         (0351) 4 59 30 65
+         <br/>
+         <i class = "fa fa-fax">
+         </i>
+         (0351) 4 40 35 33
+         <br/>
+         <i class = "fa fa-envelope">
+         </i>
+         <br/>
+         autolackiererei-haupt@freenet.de
+        </span>
+       </p>
+       <hr />
+       <h2>
+        <i class = "fa fa-clock-o">
+        </i>
+        opening hours
+       </h2>
+       <p>
+        [size = 125%] Monday to Friday
+        <br/>
+        06:30 am - 05:00 pm
+       </p>
+      </div>
+     </aside>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<! - .row ->
+<! - # wrap.container ->
+<footer class = "hidden-print" id = "footer">
+ <div class = "container">
+  <div class = "row">
+   <div class = "col-sm-12" id = "commonpages">
+    <a href="./-impressum.php">
+     imprint
+    </a>
+    <span class = "divider">
+     /
+    </span>
+    <a href="./security.php">
+     data protection
+    </a>
+   </div>
+   <nav class = "hidden-xs" id = "footer-nav">
+    <div class = "col-sm-3">
+     <a class="main" href="./firma/">
+      company
+     </a>
+    </div>
+    <div class = "col-sm-3">
+     <a class="main" href="./galerie/">
+      gallery
+     </a>
+    </div>
+    <div class = "col-sm-3">
+     <a class="main" href="./kontakt/">
+      Contact
+     </a>
+    </div>
+   </nav>
+  </div>
+ </div>
+</footer>
+<script src = "./ assets / bs.js">
+</script>
+<script src = "./ assets / jqcookie.js">
+</script>
+<script src = "./ assets / jqmfp.js">
+</script>
+<script src = "./ assets / jqslider.js">
+</script>
+<script>
+ $ (window) .load (function () {
+$ ('. slider'). flexslider ({namespace: "bs-",
+animation: "slide"
+, smoothHeight: true, controlNav: false});
+})
+</script>
+<script src = "./ assets / jqw2dbs3.js">
+</script>

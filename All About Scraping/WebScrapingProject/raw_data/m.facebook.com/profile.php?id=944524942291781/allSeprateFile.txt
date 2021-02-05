@@ -1,0 +1,953 @@
+<? xml version = "1.0" encoding = "utf-8"?>
+<! DOCTYPE html PUBLIC "- // WAPFORUM // DTD XHTML Mobile 1.0 // EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns = "http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Car service Bernhardt
+  </title>
+  <meta content = "default" id = "meta_referrer" name = "referrer" />
+  <style nonce = "XUODWgqa" type = "text / css">
+   /*<![CDATA[*/.p phibo-text-align:center; Genealogie.l pha-background-color:#f5f6f7;padding-bottom:18px;padding-top:18px; Genealogie.o phi-align-items:center ; color: # 1d2129; font-size: 16px; line-height: 20px; margin-bottom: 15px; text-align: center;}. j {padding-bottom: 4px; padding-top: 4px;}. n { padding-left: 36px; padding-right: 36px;}. r {appearance: none; background: none; display: inline-block; font-size: 12px; height: 28px; line-height: 28px; margin: 0; overflow: visible; padding: 0 9px; text-align: center; vertical-align: top; white-space: nowrap;}. b .r {border-radius: 2px;}. ct, a.ct, .b a .ct, .b a.ct: visited {background-color: # f5f6f7; color: # 4b4f56;}. b a.ct: hover, .b .ct: hover {background-color: # ebedf0; color: # 4b4f56 ;}. b .ct {border: 1px solid # bec3c9;}. r [disabled] .cv {opacity: .3;}. ct [disabled] {color: # bec3c9;}. b .ct [disabled]: hover {background-color: # f5f6f7; color: # bec3c9;}. v, .bg, av, a.bg, html .b av, html .b a.bg {color: #fff;}. b .bg {background -color: # 4080ff; border: 1px solid # 4476e8;}. b a.bg:hover,.b .bg: hover {background-color: # 4580ef;}. b .v {background-color: # 4267b2; bo rder: 1px solid # 365899;}. b av: hover, .b .v: hover {background-color: # 465e91;}. v [disabled] {color: # 899bc1;}. bg [disabled] {color: # 91b4fd;}. B .v [disabled]: hover {background-color: # 4267b2;}. B .bg [disabled]: hover {background-color: # 4080ff;}. Cs {font-size: 14px; height: 44px; line-height: 44px; padding: 0 20px;}. R .x {display: inline-block;}. B .r .x {display: inline-block; margin-top: 0; vertical-align: middle ;}. b ar :: after, .b .r.cq :: after {content: ""; display: inline-block; height: 100%; vertical-align: middle;} html .r .cv {vertical- align: top;}. r .x {line-height: 20px; margin-top: 4px;}. r .cv.dn {margin-top: 8px;}. r .cv.cw {margin-top: 4px; } .r.cq {padding-left: 8px;}. r.cq .cv {margin-right: 6px;}. cs .x {line-height: 24px; margin-top: 10px;}. cs .cv. dn {margin-top: 16px;}. cs .cv.cw {margin-top: 12px;}. cs.cq {padding-left: 24px; padding-right: 24px;}. cs.cq .cv {margin- right: 10px;}. b .r {padding: 0 8px;}. b ar {height: 26px; line-height: 26px;}. b .cs {padding: 0 19px;}. b a.cs {font- size: 14px; height: 42px; line-height: 42px;}. b ar .cv.dn {margin-top: 7px;}. b a. r .cv.cw {margin-top: 3px;}. b a.cs .cv.dn {margin-top: 15px;}. b a.cs .cv.cw {margin-top: 11px;}. b. r.cq {padding-left: 7px;}. b .cs.cq {padding-left: 23px; padding-right: 23px;}. cv, .k.cv {display: inline-block; pointer-events: none ; vertical-align: middle;}. x {pointer-events: none;}. ba, .ba: visited {color: # 3b5998; text-decoration: none;}. ba: focus, .ba: hover {background- color: # 3b5998; color: #fff;}. fc {color: # 4b4f56;}. fx {font-size: 12px; line-height: 16px;}. fv {font-size: 14px; line-height: 20px ;}. w {font-weight: normal;}. fd {font-weight: bold;}. z {height: 20px;}. ba {border-bottom: 1px solid # ccd0d5; height: 10px; text-align: center; width: 100%;}. bb {color: # 4b4f56; font-size: 12px; line-height: 20px; padding: 0 10px;}. bc {background-color: # f5f6f7;}. bh .bk. ck {padding-bottom: 7px;}. bh.b .bk .ck {padding-bottom: 0;}. bj {background-color: # dadde1; user-select: text;}. bl.bk .x {display : inline;}. df, .df a {font-weight: normal;}. bm {position: relative;}. b .bm {height: 118px;}. b .bm.bn {background-color: # 162643; height: 68px;}. bt {bottom: 0; left: 0; pointer-events: non e; position: absolute; margin-bottom: 18px; top: auto; width: 100%;}. b .bt {margin-bottom: 9px;}. bu {margin-left: 12px; position: relative; width: 74px ;}. bx i {border: 2px solid #fff;}. bx {pointer-events: auto;}. ca {bottom: 0; color: #fff; font-weight: normal; margin-bottom: 1px; padding- left: 7px; padding-right: 28px; position: absolute; right: 0; text-shadow: # 000000 0 1px; word-wrap: break-word;}. b .ca {padding-right: 8px;}. b .ca {left: 67px;}. cc {font-size: 26px; font-weight: lighter; line-height: 30px; margin-bottom: 4px; margin-top: 4px;}. cb {font-weight: lighter ;}. b .cd {display: block; float: left; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}. ce {position: absolute; white-space: no-wrap;}. b .ce {float: right; position: absolute;}. cf {position: relative;}. b .cg {clear: both; margin-top: 33px; overflow: hidden; position: relative; text-overflow: ellipsis; white-space: nowrap;}. ch {pointer-events: auto;}. cm {position: relative;}. b .cm .co {border-bottom: 1px solid # e5e5e5; table-layout : fixed;}. b .cm .co .cr: hover {background-color: # e9ebee;} .b .cm .co .cr {background-color: #fff; border: none; border-radius: 0; height: 50px; line-height: 14px; overflow: hidden; padding: 0; text-overflow: ellipsis; white-space: nowrap; width: 100%;}. b .cm .co .cr {font-size: medium; font-weight: normal;}. b .cm .co .cv.cu {display: block; height : 20px; margin-bottom: -14px; margin-left: auto; margin-right: auto; margin-top: 6px; width: 20px;}. B .cm .co .cr .x {height: auto; line- height: 14px;}. dm {line-height: 14px;}. ee {border-bottom: 0;}. ef {padding-top: 8px; position: relative;}. ei {margin: 0 8px 0 12px; position : relative;}. ek {font-size: 12px; font-weight: bold; overflow: hidden;}. ce {vertical-align: middle;}. cf {left: -2px; position: relative;}. h { background-color: # 3b5998;}. b .cn {border: 0; border-collapse: collapse; margin: 0; padding: 0; width: 100%;}. b .cn tbody, .b .dv> tr> td, .b .dv> tbody> tr> td, .b .cn td.dv {vertical-align: top;}. b .fb> tr> td, .b .fb> tbody> tr> td, .b .cn td.fb {vertical-align: middle;}. b .cn td {padding: 0;}. b .cn td.dc {padding: 4px;}. b .cn td.dr {padding: 6px;} .b .cp {width: 100%;}. k {border: 0; display: inl ine-block; vertical-align: top;} ik u {position: absolute; width: 0; height: 0; overflow: hidden;}. b .cl {background-color: #fff;}. da {border-bottom : 1px solid # bec3c9; border-top: 1px solid #ccc;}. Da>: first-child, .da> div {border-bottom: 1px solid # e5e5e5;}. Da>: last-child {border-bottom : 0 none;}. I {padding: 2px 3px;}. Cy {padding: 4px 3px;}. Ft {background: # f5f6f7;}. Cz {background: #fff;}. B .eo {padding: 0; } .b .dc {padding: 4px;}. b .dr {padding: 6px;}. dj {color: # 4b4f56; font-family: Helvetica, Arial, sans-serif;}. b .dj {font-size : medium;}. b .dd: hover .dj {color: #fff;}. b .dd {font-size: medium;}. ds {min-height: 32px;}. dy {color: # 4b4f56; font -family: Helvetica, Arial, sans-serif; font-size: 14px;}. b .dy {font-size: small;}. ea {color: # 90949c; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 16px; padding-right: 5px;}. dz {overflow: hidden; text-overflow: ellipsis;} html .b .ds td.dt ​​{min-width: 32px; vertical- align: middle;} html .dw {display: block; margin: auto; max-height: 32px; max-width: 32px;}. b .dh.di {max-width: 0;}. b .db {display :block ;}. b .dh, .b .db {vertical-align: middle;}. de {flex: 1; height: 100%;}. dl, .b td.dh.dl {padding-left: 5px;} .dg {min-height: 24px;}. b .dq {border-collapse: collapse; margin: 0; width: 100%;}. b td.du {border: 0; padding: 6px 0 6px 6px; vertical- align: middle;}. b .dq .dt {vertical-align: top;}. b .dx {padding: 6px;}. em {color: gray;}. cj {color: #fff;}. ci {font -size: small;} body, tr, input, textarea, .d {font-size: medium;}. ec {border-color: # ccced3 # c4c6ca # b4b6ba; border-style: solid; border-width: 1px; } .eb> * ,. eb.eb> * {border-bottom: 1px solid # e5e5e5;}. eb>: last-child {border-bottom: none;}. eb + .eb {border-top: 1px solid # e5e5e5;}. bs {background: # f2f2f2;}. bq: hover .bs {background: none;}. bz {background: # eceff5;} # timelineBody, .bh .eq, .bh .ep {background-color: # e9ebee;}. bh .eq {position: relative; z-index: 0;}. bh .ep: before {background-image: linear-gradient (rgba (176, 179, 188, .88), rgba (180 , 183, 192, 0)); content: ''; display: block; height: 2px; left: 0; position: absolute; right: 0; top: 0;}. Bh.b .eq {margin-top: 0; padding-bottom: 2px; padding-top: 2px;}. Bh .es {wor d-break: break-word;}. ex {margin: 0 6px 6px; padding: 6px;}. b .ex .ex {border-color: # e9ebee; margin: 6px 0 0;}. fp {display: inline -block;}. fo {margin-top: 5px;}. fg, .fh {margin: 5px 0;}. ex a, .ex a: visited {color: # 2b55ad;}. ex a: hover, .ex a: focus {background: # 2b55ad; color: #fff;}. ew {font-size: small;}. eu {list-style: none; margin: 0; padding: 0;}. ez tr {font-size : inherit;}. ff {font-size: small;}. fa {position: relative;}. fr {margin-left: -7px;}. fq {display: inline-block;}. fl {overflow: hidden; position: relative;} html .fn.fn {display: block; position: absolute;}. fn: after {border: 1px solid rgba (0, 0, 0, .1); bottom: 0; content: ''; left: 0; position: absolute; right: 0; top: 0;}. fu {border: 1px solid #ccc; margin: 5px 0; word-wrap: break-word;}. b .fu .ga {padding- right: 4px;}. fs {display: block;}. b .fs, .b .fs: visited {color: # 3e4350;}. b .fs: focus, .b .fs: hover, .b .fs: focus .fu, .b .fs: hover .fu {background: # 3b5998; color: #fff;}. ew .fw {font-size: small;}. eg .eh {display: inline-block; margin-right : 4px;}. B .eg .eh {float: left;}. B .eg .ej {display: table-cell;}. En {clea r: both;} ._ 5mfr {margin: 0 1px;} ._ 6qdm {background-repeat: no-repeat; background-size: contain; color: transparent; display: inline-block; text-decoration: none; text-shadow : none; vertical-align: text-bottom;} ._ 6qdm :: selection {background-color: highlight; color: transparent;}. fz {margin-right: 3px; vertical-align: -2px;}. gb {white -space: nowrap;}. word_break {display: inline-block;} body {text-align: left; direction: ltr;} body, tr, input, textarea, button {font-family: sans-serif;} body, p, figure, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dd, dt {margin: 0; padding: 0;} h1, h2, h3, h4, h5, h6 {font -size: 1em; font-weight: bold;} ul, ol {list-style: none;} article, aside, figcaption, figure, footer, header, nav, section {display: block;} # page {position: relative ;}. g {clip: rect (1px, 1px, 1px, 1px); height: 1px; overflow: hidden; position: absolute; white-space: nowrap; width: 1px;}. gg {display: block; font- size: x-small; margin: -3px -3px 1px -3px; padding: 3px;}. gi {border: 1px solid # 90949c; display: block; font-size: x-large; height: 20px; line-height : 18px; text-align: center; vertical-align: middle ; width: 20px;}. b .gd input, .b .gd input: visited, .b .gd a, .b .gd a: visited {color: # bec3c9;}. b .gd input: focus, .b .gd input: hover, .b .gd a: focus, .b .gd a: hover {background: # dadde1; color: # 1d2129;}. gc {background-color: # 444950; font-size: x-small ; padding: 7px 8px 8px;}. gf {color: # bec3c9; display: block; font-size: x-small; margin: -3px -3px 1px -3px; padding: 3px;} / *]]> * /
+  </style>
+  <link href = "https://www.facebook.com/atsbernhardt" rel = "canonical" />
+  <meta content = "Autoservice Bernhardt। 67 ਪਸੰਦਾਂ · 3 ਇੱਥੇ ਸਨ। Repairs to passenger cars, two-wheelers, vans in line with current market values.
+Mechanics, electrics, bodywork, paint ... "name =" description "/>
+  <meta content = "Autoservice Bernhardt" property = "og: title" />
+  <meta content = "Autoservice Bernhardt। 67 ਪਸੰਦਾਂ · 3 ਇੱਥੇ ਸਨ। Repairs to passenger cars, two-wheelers, vans in line with current market values.
+Mechanics, electrics, bodywork, paint
+Conversion of imported vehicles
+HU (DEKRA, FSP, TÜV) "property =" og: description "/>
+  <meta content = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/c0.33.200.200a/p200x200/12565572_944563085621300_2814843141816470037_n.jpg?_nc_cat=101&amp ; ccb = 2 & amp; _nc_sid = dbb9e7 & amp; _nc_ohc = JaQSeceZEcQAX_PeHx8 & amp; _nc_ht = scontent.fluh2-1.fna & amp; tp = 5 & amp; oh = 1babdc8aef938c291087aae = "/> property" "property" = "image" = 5 "/"
+  <meta content = "https://www.facebook.com/atsbernhardt" property = "og: url" />
+  <link crossorigin = "use-credentials" href = "/ data / manifest /" rel = "manifest" />
+ </head>
+ <body class = "b c" tabindex = "0">
+  <div class = "d">
+   <div id = "viewport">
+    <div class = "e f" id = "MChromeHeader">
+     <a class = "g" href = "/ a / preferences.php? basic_site_devices = m_basic & amp; uri = https% 3A% 2F% 2Fm.facebook.com% 2Fhome.php% 3Fa_type% 3Dsr & amp; gfid = AQAqEHBMkR9Mawyu9m8 & amp; ref "tabindex =" - 1 ">
+     </a>
+     <div class = "h i" id = "header">
+      <h1 style = "display: block; height: 0; overflow: hidden; position: absolute; width: 0; padding: 0">
+       Facebook
+      </h1>
+      <a href="/home.php?refid=17">
+       <img alt = "facebook" class = "jk" height = "16" src = "https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/k97pj8-or6s.png" width = "77" />
+      </a>
+     </div>
+    </div>
+    <div id = "objects_container">
+     <div id = "root">
+      <div class = "l m n" id = "mobile_login_bar">
+       <div class = "o">
+        <strong>
+         Autoservice Bernhardt Facebook ਤੇ ਹੈ।
+        </strong>
+        Autoservice Bernhardt ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਲਈ, ਅੱਜ ਹੀ Facebook ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ।
+       </div>
+       <div class = "p">
+        <a class = "qrstuvw" href = "/ r.php? next = https% 3A% 2F% 2Fm.facebook.com% 2Fprofile.php% 3Fid% 3D944524942291781 & amp; cid = 104 & amp; rs = 6 & amp; rid = 944524942291781 & amp; refid = 17 ">
+         <span class = "x">
+          ਸ਼ਾਮਿਲ ਹੋਵੋ
+         </span>
+        </a>
+        <div class = "y">
+         <div class = "z">
+          <div class = "ba">
+           <span class = "bb bc">
+            ਜਾਂ
+           </span>
+          </div>
+         </div>
+        </div>
+        <a class = "qr bd be bf bg w" href = "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp ; ref = 104 & amp; rs = 6 & amp; lrs = 3 & amp; rid = 944524942291781 & amp; lrid = 944524942291781 & amp; refsrc = https% 3A% 2F% 2Fm.facebook.com% 2Fprofile.php & amp; refid = 17 ">
+         <span class = "x">
+          ਲੌਗ ਇਨ ਕਰੋ
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class = "bh b bi">
+       <div class = "bj bk bl" id = "m-timeline-cover-section">
+        <div class = "bm bn">
+         <div class = "bo bp" id = "profile_cover_photo_container">
+          <a class="bq br" href="/atsbernhardt/photos/a.944551672289108/944551582289117/?type=3&amp;source=44&amp;refid=17" title="ਕਵਰਫੋਟੋ: Autoservice Bernhardt ਦੀਫੋਟੋ।">
+           <img class = "bs k" height = "68" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t31.0-0/fb10/cp0/e15/q65/c0. ? 57.320.68a / p240x240 / 12622374_944551582289117_1818419302397776199_o.jpg _nc_cat = 106 & amp; ccb = 2 & amp; _nc_sid = 3346a0 & amp; _nc_ohc = 3M0snJAJY-UAX-IWtsb & amp; _nc_ht = scontent.fluh2-1.fna & amp; O = 0953a90152b48bf8200df1b3d0b760f5 & amp; oe = 5FCC3B83 "width = "320" />
+          </a>
+         </div>
+         <div class = "bt">
+          <div class = "bu">
+           <div class = "bv bw bx">
+            <a class="bq br" href="/atsbernhardt/photos/a.944552032289072/944563085621300/?type=3&amp;source=45&amp;refid=17" title="Autoservice Bernhardt ਦੀਪ੍ਰੋਫਾਈਲਫੋਟੋ">
+             <img alt = "Autoservice Bernhardt ਦੀ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ" class = "by bs bz k" height = "50" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-1 /cp0/e15/q65/c0.8.50.50a/p50x50/12565572_944563085621300_2814843141816470037_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=dbb9e7 & amp; amp; & amp; amp; amp; amp; gt; pce2e7 = e78743d9c9fc5c6fd4640de4c6b758ea & amp; oe = 5FCD54ED "width =" 50 "/>
+            </a>
+           </div>
+          </div>
+          <div class = "ca">
+           <h1 class = "cb" id = "u_0_8">
+            <div class = "cc">
+             <span class = "cd">
+              Car service Bernhardt
+             </span>
+             <span class = "ce" id = "u_0_9">
+              <span class = "cf">
+              </span>
+             </span>
+            </div>
+           </h1>
+           <div class = "cg ch">
+            <a>
+             <span class = "ci cj">
+              ਆਟੋਮੋਟਿਵ ਪਾਰਟਸ ਸਟੋਰ
+              <span>
+               ·
+              </span>
+              ਆਟੋਮੋਟਿਵ ਰਿਪੇਅਰ ਦੁਕਾਨ
+              <span>
+               ·
+              </span>
+              ਟਾਇਰ ਡੀਲਰ ਅਤੇ ਮੁਰੰਮਤ ਦੀ ਦੁਕਾਨ
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "ck" id = "sub_profile_pic_content">
+         <div>
+          <div class = "cl">
+          </div>
+          <div class = "cm">
+           <table class = "cn co">
+            <tbody>
+             <tr>
+              <td class = "cp" style = "width: 25%">
+               <A class = "cq cr cs ct qr w" href = "/ login / next = https% 3A% 2F% 2Fm.facebook.com% 2Fprofile.php% 3Fid% 3D944524942291781 & amp;? = Privacy_mutation_token eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA0ODI3OTg0LCJjYWxsc2l0ZV9pZCI6Njc3MjM5ODQ2NTYyMjk1LCJsYXN0X3N0YWNrIjoiZmxpYlwvcHJpdmFjeVwvY29udHJvbHNcL1ByaXZhY3lNdXRhdGlvblNvdXJjZVV0aWxzLnBocFx1MDA0MDU2XHUwMDQwUHJpdmFjeU11dGF0aW9uVG9rZW5VdGlsczo6Z2V0VG9rZW5Gb3JDYWxsc2l0ZUlEX0RPX05PVF9VU0VcdTAwNDBQcml2YWN5TXV0YXRpb25Ub2tlblV0aWxzIn0% 3D & amp; refid = 17 ">
+                <img alt = "" class = "cu cv cw k" height = "20" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/yNinqIHD4EC.png" width = "20" />
+                <span class = "x">
+                 ਪਸੰਦ ਕਰੋ
+                </span>
+               </a>
+              </td>
+              <td class = "cp" style = "width: 25%">
+               <a class = "cq qr cr cs ct w" href = "https://m.facebook.com/login.php?next=%2Fatsbernhardt%2F&amp;refsrc=https%3A%2F%2Fm.facebook.com% 2Fprofile.php & refid = 17 "id =" pages_follow_action_id ">
+                <img alt = "" class = "cu cv cw k" height = "20" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/GESSgji7xrf.png" width = "20" />
+                <span class = "x">
+                 ਫਾਲੋ ਕਰੋ
+                </span>
+               </a>
+              </td>
+              <td class = "cp" style = "width: 25%">
+               <A class = "cq cr cs ct qr w" href = "/ login / next = https% 3A% 2F% 2Fm.facebook.com% 2Fprofile.php% 3Fid% 3D944524942291781 & amp;? = Privacy_mutation_token eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA0ODI3OTg0LCJjYWxsc2l0ZV9pZCI6Njc3MjM5ODQ2NTYyMjk1LCJsYXN0X3N0YWNrIjoiZmxpYlwvcHJpdmFjeVwvY29udHJvbHNcL1ByaXZhY3lNdXRhdGlvblNvdXJjZVV0aWxzLnBocFx1MDA0MDU2XHUwMDQwUHJpdmFjeU11dGF0aW9uVG9rZW5VdGlsczo6Z2V0VG9rZW5Gb3JDYWxsc2l0ZUlEX0RPX05PVF9VU0VcdTAwNDBQcml2YWN5TXV0YXRpb25Ub2tlblV0aWxzIn0% 3D & amp; refid = 17 ">
+                <img alt = "" class = "cu cv cw k" height = "20" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/C_ZYNgghUeB.png" width = "20" />
+                <span class = "x">
+                 ਸੁਨੇਹਾ ਭੇਜੋ
+                </span>
+               </a>
+              </td>
+              <td class = "cp" style = "width: 25%">
+               <A class = "cq cr cs ct qr w" href = "/ login / next = https% 3A% 2F% 2Fm.facebook.com% 2Fprofile.php% 3Fid% 3D944524942291781 & amp;? = Privacy_mutation_token eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA0ODI3OTg0LCJjYWxsc2l0ZV9pZCI6Njc3MjM5ODQ2NTYyMjk1LCJsYXN0X3N0YWNrIjoiZmxpYlwvcHJpdmFjeVwvY29udHJvbHNcL1ByaXZhY3lNdXRhdGlvblNvdXJjZVV0aWxzLnBocFx1MDA0MDU2XHUwMDQwUHJpdmFjeU11dGF0aW9uVG9rZW5VdGlsczo6Z2V0VG9rZW5Gb3JDYWxsc2l0ZUlEX0RPX05PVF9VU0VcdTAwNDBQcml2YWN5TXV0YXRpb25Ub2tlblV0aWxzIn0% 3D & amp; refid = 17 ">
+                <img alt = "" class = "cu cv cw k" height = "20" src = "https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/6tb6ou-iWqn.png" width = "20" />
+                <span class = "x">
+                 ਹੋਰ
+                </span>
+               </a>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <div class = "cx cy">
+           <div class = "cz da" id = "u_0_a">
+            <a class="db dc dd" href="/atsbernhardt/about?refid=17">
+             <table class = "cn de df dg">
+              <tbody>
+               <tr>
+                <td class = "cp dh di">
+                 <div class = "dj">
+                  ਬਾਰੇ
+                 </div>
+                </td>
+                <td class = "dk dh dl">
+                 <div class = "dm">
+                  <img class = "dn k" height = "12" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/NfoBbNPDRaH.png" width = "12" />
+                 </div>
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </a>
+            <div class = "do dp">
+             <a href = "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100 % 26rtp% 3D% 257Epos.51.04905_13.68693_Autoservice% 2BBernhardt% 26cp% 3D51.04905% 257E13.68693% 26lvl% 3D16% 26sty% 3Dr% 26rtop% 3D0% 257E0% 257E0% 257E% 26mode% 3DFB% 26mode% 3DFB% 26 26mkt% 3The-US & amp; h = AT0_AOyodyAeuDcNyeYlb0FQStliz4omEU6n5OxjlH2ulTEM0RyNSCwYesx8RFgG0KGfRM1_GMZU0s6_qrk_LQAQEFOiB5Dl_Tv3AOXWaYoCjFtlM77yyjv8vL1geH0R0UmG1Jx1jkIXFjsEsMV0u8P7jSNsIgxr "target =" _ blank ">
+              <table class = "dq cz dr ds">
+               <tr>
+                <td class = "dk dt du dv">
+                 <img class = "dw k" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/P3DHlLFNN0v.png" />
+                </td>
+                <td class = "cp dx du">
+                 <div>
+                  <div class = "dy dz">
+                   5,406.1 ਕਿਮੀ Chamissostr. 2, Dresden, Germany
+                  </div>
+                  <div class = "ea dz">
+                   ਦਿਸ਼ਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ
+                  </div>
+                 </div>
+                </td>
+               </tr>
+              </table>
+             </a>
+            </div>
+            <div class = "dp">
+             <a href="/messages/thread/944524942291781/?refid=17">
+              <table class = "dq cz dr ds">
+               <tr>
+                <td class = "dk dt du dv">
+                 <img class = "dw k" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yI/r/GxbWyQkd0Lu.png" />
+                </td>
+                <td class = "cp dx du">
+                 <div>
+                  <div class = "dy dz">
+                  </div>
+                  <div class = "ea dz">
+                   <span style = "color: # 00A651;">
+                    ਸੁਨੇਹਾ ਭੇਜੋ
+                   </span>
+                  </div>
+                 </div>
+                </td>
+               </tr>
+              </table>
+             </a>
+            </div>
+            <div class = "dp">
+             <a href="tel:+493514591241">
+              <table class = "dq cz dr ds">
+               <tr>
+                <td class = "dk dt du dv">
+                 <img class = "dw k" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/4VjyF4t9Hqt.png" />
+                </td>
+                <td class = "cp dx du">
+                 <div>
+                  <div class = "dy dz">
+                   ਕਾਲ ਕਰੋ +49 351 4591241
+                  </div>
+                 </div>
+                </td>
+               </tr>
+              </table>
+             </a>
+            </div>
+            <div class = "dp">
+             <a href="https://m.facebook.com/atsbernhardt/impressum?refid=17">
+              <table class = "dq cz dr ds">
+               <tr>
+                <td class = "dk dt du dv">
+                 <img class = "dw k" src = "https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/EGj2pnGmBP7.png" />
+                </td>
+                <td class = "cp dx du">
+                 <div>
+                  <div class = "dy dz">
+                   imprint
+                  </div>
+                 </div>
+                </td>
+               </tr>
+              </table>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class = "cx cy">
+           <div class = "cz">
+            <div class = "cz eb ec">
+             <div id = "u_0_b" style = "display: none">
+             </div>
+             <div class = "ed" id = "u_0_c">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class = "cx cy">
+           <div class = "cz da">
+            <div class = "dc dj">
+             ਸੰਬੰਧਿਤ ਪੰਨੇ
+            </div>
+            <div class = "ee">
+             <div>
+              <div class = "ef">
+               <div class = "eg">
+                <a class="eh" href="/dresdenmotorclassics/?refid=17">
+                 <div class = "egg">
+                  <img alt = "Dresden Motor Classics, profile picture" class = "bz k" height = "42" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-1/ "oe = 5FCE8A11;? cp0 / e15 / Q65 / p43x43 / 22196330_1753570688049574_1628854984797678314_n.jpg _nc_cat = 101 & amp; ccb = 2 & amp; _nc_sid = dbb9e7 & amp; _nc_ohc = X1GexslzSPAAX_xaFMj & amp; _nc_ht = scontent.fluh2-1.fna & amp; p = 3 & oh = d58899510f390970494335e661be8a65 & amp width = "42" />
+                 </div>
+                </a>
+                <table class = "dq dr ej">
+                 <tr>
+                  <td class = "cp dx du">
+                   <div>
+                    <div class = "ek">
+                     <a class="el" href="/dresdenmotorclassics/?refid=17">
+                      Dresden Motor Classics
+                     </a>
+                    </div>
+                    <span class = "ci em">
+                     ਕਾਰ ਡੀਲਰਸ਼ਿਪ
+                    </span>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+                <div class = "en">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div>
+              <div class = "ef">
+               <div class = "eg">
+                <a class="eh" href="/Marcolinis-Welt-197741390261755/?refid=17">
+                 <div class = "egg">
+                  <img alt = "Marcolini's world, profile picture" class = "bz k" height = "42" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-1/cp0 /e15/q65/p43x43/123378148_3350206891681840_8250327745212641219_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=dbb9e7&amp;_nc_ohc=xLWAWVzc0W0AX85Pwrg&amp;_nc_ht=scontent.fluh2-1.fna&amp;tp=3&amp;oh=8a65e1a06da01ee570833c60ae425464&amp;oe=5FCE540B "width = "42" />
+                 </div>
+                </a>
+                <table class = "dq dr ej">
+                 <tr>
+                  <td class = "cp dx du">
+                   <div>
+                    <div class = "ek">
+                     <a class="el" href="/Marcolinis-Welt-197741390261755/?refid=17">
+                      Marcolini's world
+                     </a>
+                    </div>
+                    <span class = "ci em">
+                     ਵਿਆਹ ਦਾ ਸਥਾਨ
+                    </span>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+                <div class = "en">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div>
+              <div class = "ef">
+               <div class = "eg">
+                <a class="eh" href="/KEP-Solution-GmbH-721548671267011/?refid=17">
+                 <div class = "egg">
+                  <img alt = "KEP Solution GmbH, profile picture" class = "bz k" height = "42" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-1/ cp0 / e15 / q65 / c0.3.43.43a / p43x43 / 10690203_739412739480604_1933855810738106871_n.jpg? _nc_cat = 101 & amp; ccb = 2 & amp; _nc_sid = dbbk_sid = dbb9e7 & amp; _nc_sid = dbb9e7 & amp; _nc_sid = dbbc_sid = dbb9e7 & amp; _ncohtba = dbb9e7 & amp; _ncohtba = dbb9e7 b70533bcbeaec2937892e4cac02d6206 & amp; oe = 5FCBAC61 "width =" 42 "/>
+                 </div>
+                </a>
+                <table class = "dq dr ej">
+                 <tr>
+                  <td class = "cp dx du">
+                   <div>
+                    <div class = "ek">
+                     <a class="el" href="/KEP-Solution-GmbH-721548671267011/?refid=17">
+                      KEP Solution GmbH
+                     </a>
+                    </div>
+                    <span class = "ci em">
+                     ਆਵਾਜਾਈ ਸੇਵਾ
+                    </span>
+                   </div>
+                  </td>
+                 </tr>
+                </table>
+                <div class = "en">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class = "cx cy">
+           <div class = "cz da">
+            <a class="db dc dd" href="/atsbernhardt/photos/?refid=17">
+             <table class = "cn de df dg">
+              <tbody>
+               <tr>
+                <td class = "cp dh di">
+                 <div class = "dj">
+                  ਫੋਟੋਆਂ
+                 </div>
+                </td>
+                <td class = "dk dh dl">
+                 <div class = "dm">
+                  <img class = "dn k" height = "12" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/NfoBbNPDRaH.png" width = "12" />
+                 </div>
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </a>
+           </div>
+          </div>
+          <div class = "cx cy" style = "display: none">
+           <div class = "cz da">
+            <div class = "eo">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div id = "timelineBody">
+        <div class = "ep">
+        </div>
+        <div class = "eq" id = "structured_composer_async_container">
+         <div class = "er" id = "recent">
+          <div class = "es et">
+           <div class = "eu ev ew">
+            <div class = "cz ec ex" data-ft = '{"mf_story_key": "3421173781293539", "top_level_post_id": "3421173781293539", "tl_objid": "3421173781293539", "content_owner_id_new" "," content_owner_id_new ":" original_owner_id_new ": : "4787593681313911", "original_content_owner_id": "528940427179279", "throwback_story_fbid": "3421173781293539", "page_id": "944524942291781", "photo_id", "attached_story_story": "photo_id" album_story: "story_attory": 47980607 , "tds_flgs": 3, "ott": "AX9gjQ8G_T3Gj2G8", "thid": "944524942291781: 306061129499414: 2: 0: 1606809599: -5013040091028235960", "tn": "- R"} 'id = "> u ._0
+             <div class = "ey">
+              <div class = "ez">
+               <table class = "cn">
+                <tbody>
+                 <tr>
+                  <td class = "dk">
+                   <div class = "fa">
+                   </div>
+                  </td>
+                  <td class = "cp fb">
+                   <div>
+                    <h3 class = "fc fd fe ff">
+                     <span>
+                      <strong>
+                       <A href = "/ atsbernhardt / refid = 17 & amp; _ft_ = mf_story_key.3421173781293539% 3Atop_level_post_id.3421173781293539% 3Atl_objid.3421173781293539% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607 % 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599% & 3A-501304009. "
+                        Car service Bernhardt
+                       </a>
+                      </strong>
+                     </span>
+                    </h3>
+                   </div>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div class = "fg" data-ft = '{"tn": "* s"}' style = "">
+               <span>
+                <p>
+                 Since we often ask for such vehicles, here is our recommendation.
+                </p>
+               </span>
+              </div>
+              <div class = "fh fi" data-ft = '{"tn": "H"}'>
+               <div>
+               </div>
+               <div>
+                <div class = "cz ec ex fj" id = "u_0_5">
+                 <div class = "ey">
+                  <div class = "ez">
+                   <table class = "cn">
+                    <tbody>
+                     <tr>
+                      <td class = "dk">
+                       <div class = "fa">
+                       </div>
+                      </td>
+                      <td class = "cp fb">
+                       <div>
+                        <h3 class = "fc fd fe ff">
+                         <span>
+                          <strong>
+                           <A href = "/ Dresden motor classics / refid = 17 & amp; _ft_ = mf_story_key.3421173781293539% 3Atop_level_post_id.3421173781293539% 3Atl_objid.3421173781293539% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607 % 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599% & 3A23591028
+                            Dresden Motor Classics
+                           </a>
+                          </strong>
+                         </span>
+                        </h3>
+                       </div>
+                      </td>
+                     </tr>
+                    </tbody>
+                   </table>
+                  </div>
+                  <div class = "fg" data-ft = '{"tn": "* s"}' style = "">
+                   <span>
+                    <p>
+                     On road! Well-maintained and rust-free '99 Chevrolet Astro VAN 4.3 V6
+                     <br/>
+                     <span>
+                      This is a Japanese first delivery
+                     </span>
+                     <wbr />
+                     <span class = "word_break">
+                     </span>
+                     g with significantly better ...
+                    </p>
+                    <A href = "/ story.php story_fbid = 4787593681313911 & amp; id = 528940427179279 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173781293539% 3Atop_level_post_id.3421173781293539% 3Atl_objid.3421173781293539% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid. 3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781 3A306061129499414%%% 3A2 3A0% 3A1606809599% 3A-5013040091028235960 & amp; __ __ tn =% 2AsH-R ">
+                     ਹੋਰ
+                    </a>
+                   </span>
+                  </div>
+                  <div class = "fh fk fi" data-ft = '{"tn": "H"}'>
+                   <div class = "fl fm" data-ft = '{"tn": "E"}' style = "width: 196px; height: 196px;">
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4787593681313911 / 4787593387980607 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173573781293542_contident.3421173781293542_contident.34211735339% 3j339311_key.3421173781293542_contident.3421173781293542_contident.3421173781293539% 3A37identop_level .944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599 % 3A-5013040091028235960 & amp; __ tn __ = EHH-R "style =" top: 0px; left: 0px; width: 196px; height: 130px; ">
+                     <img class = "bs k" height = "130" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c0.28.640. ? 424 / s206x206 / 121037844_4787593417980604_6738149339271194678_n.jpg _nc_cat = 109 & amp; ccb = 2 & amp; _nc_sid = 110474 & amp; _nc_ohc = NAx-ix0pxuEAX_Xfc9a & amp; _nc_ht = scontent.fluh2-1.fna & amp; _nc_tp = 28 & amp; O = eeb644a131188636a49d5f5d0cf46a2b & amp; oe = 5FCE8303 "width = "196" />
+                    </a>
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4787593681313911 / 4787593384647274 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173573781293542_contident.3421173573781293542_contident.34211739339% 3j53911737identop_level .944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599 % 3A-5013040091028235960 & amp; __ tn __ = EHH-R "style =" top: 132px; left: 0px; width: 65px; height: 64px; ">
+                     <img class = "bs k" height = "64" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c10.0.65. ? 64a / p64x64 / 121022980_4787593421313937_2029515255235702586_n.jpg _nc_cat = 110 & amp; ccb = 2 & amp; _nc_sid = 110474 & amp; _nc_ohc = J2zl-HUq0GYAX-9Tgrx & amp; _nc_ht = scontent.fluh2-1.fna & amp; tp = 5 & amp; oh = d914a4164a5c734364a361b7043388cc & amp; oe = 5FCE6614 " width = "65" />
+                    </a>
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4787593681313911 / 4787593381313941 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173573781293542_contident.342113573781293542_contident.3421173539% 3A39311737identop_level39 .944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599 % 3A-5013040091028235960 & amp; __ tn __ = EHH-R "style =" top: 132px; left: 67px; width: 64px; height: 64px; ">
+                     <img class = "bs k" height = "64" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c11.0.64. ? 64a / p64x64 / 121040249_4787593414647271_7394803015380839069_n.jpg _nc_cat = 104 & amp; ccb = 2 & amp; _nc_sid = 110474 & amp; _nc_ohc = W4_VdoIoOZQAX_GPrpI & amp; _nc_ht = scontent.fluh2-1.fna & amp; tp = 5 & amp; oh = d03e277e9aae66cdd135cdfb2c63e444 & amp; oe = 5FCB82B1 "width =" 64 "/>
+                    </a>
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4787593681313911 / 4787593394647273 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173573781293542_contident.3421173781293542_contident.3421173539 .944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599 % 3A-5013040091028235960 & amp; __ tn __ = EHH-R "style =" top: 132px; left: 132px; width: 64px; height: 64px; ">
+                     <img class = "bs k" height = "64" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c11.0.64. ? 64a / p64x64 / 121035225_4787593427980603_1527342311245614248_n.jpg _nc_cat = 104 & amp; ccb = 2 & amp; _nc_sid = 110474 & amp; _nc_ohc = ROrvO9LH-WoAX8ShUSy & amp; _nc_ht = scontent.fluh2-1.fna & amp; tp = 5 & amp; oh = e9534047f476d2355aefae44df83dccb & amp; oe = 5FCD4C38 "width = "64" />
+                    </a>
+                   </div>
+                   <div>
+                   </div>
+                   <div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class = "fo" data-ft = '{"tn": "* W"}'>
+              <div class = "ci em">
+               <abbr>
+                ਅਕਤੂਬਰ 8 9:03 ਪੂ.ਦੁ. ਵਜੇ
+               </abbr>
+               <span>
+                ·
+               </span>
+               <span class = "fp">
+                <div class = "fq">
+                 <span>
+                  <span class = "ci">
+                   ਜਨਤਕ
+                  </span>
+                 </span>
+                 <div class = "fr">
+                 </div>
+                </div>
+               </span>
+              </div>
+              <div class = "ci em">
+               <A href = "/ story.php story_fbid = 3421173781293539 & amp; id = 944524942291781 & amp; refid = 17 & amp; _ft_ = mf_story_key.3421173781293539% 3Atop_level_post_id.3421173781293539% 3Atl_objid.3421173781293539% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4787593681313911% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid. 3421173781293539% 3Apage_id.944524942291781% 3Aphoto_id.4787593387980607% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9gjQ8G_T3Gj2G8% 3Athid.944524942291781 3A306061129499414%%% 3A2 3A0% 3A1606809599% 3A-5013040091028235960 & amp; __ __ tn =% 2AW-R # footer_action_list ">
+                ਸੰਪੂਰਣ ਕਹਾਣੀ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class = "cz ec ex" data-ft = '{"mf_story_key": "3334032750007643", "top_level_post_id": "3334032750007643", "tl_objid": "3334032750007643", "content_owner_id81", "content_owner_id81": "94452494" throwback ":" 9445249422 " : "3334032750007643", "page_id": "944524942291781", "story_location": 4, "story_attachment_style": "share", "tds_flgs": 3, "ott": "AX-0kkwgTFwmRbW8", "thid": "944524942291781 306061129499414: 2: 0: 1606809599: -1777007001240396663 "," tn ":" - R "} 'id =" u_0_2 ">
+             <div class = "ey">
+              <div class = "ez">
+               <table class = "cn">
+                <tbody>
+                 <tr>
+                  <td class = "dk">
+                   <div class = "fa">
+                   </div>
+                  </td>
+                  <td class = "cp fb">
+                   <div>
+                    <h3 class = "fc fd fe ff">
+                     <span>
+                      <strong>
+                       <A href = "/ atsbernhardt / refid = 17 & amp; _ft_ = mf_story_key.3334032750007643% 3Atop_level_post_id.3334032750007643% 3Atl_objid.3334032750007643% 3Acontent_owner_id_new.944524942291781% 3Athrowback_story_fbid.3334032750007643% 3Apage_id.944524942291781% 3Astory_location.4% 3Astory_attachment_style.share% 3Atds_flgs.3 % 3Aott.AX-0kkwgTFwmRbW8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599% 3A-1777007001240396663 & amp; __ tn __ = CR ">
+                        Car service Bernhardt
+                       </a>
+                      </strong>
+                     </span>
+                    </h3>
+                   </div>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div class = "fg" data-ft = '{"tn": "* s"}' style = "">
+               <span>
+                <p>
+                 Our recommendation for the weekend:
+                 <br/>
+                 <A href = "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.rallye-elbflorenz.de%2Frallye&amp;h=AT1Hpl2syY8UE9McN6m5CROtGrCs9k6dfIr4EMyL-eRE7CR_wALeL0rZQ90IkYcsXqZWSeMwTt-OMxODbghNUejENN7Im_wI2i9GFGjljEgHiDHbbXQVel9mPChEPx4rRtGD0uUnBQRq44iLBA_MmNsXSbLQ4EiQesGyuy6Z9zpDGMO39KifM0UIWOD1Y5VvqURAwuJGjttVjBRTdR5Lbn-XK0DNfoO_QkGOb9RJHVsd3aSV8aRmU9dzCN9JTA61LknLfjoek79_UQA-SFKbNvKa1u4H-b5HYJmwRlf0CJ9x -bdcUk2mPh997lY3wMSnlP9i8W11lEO31UvTannR6q6WB8H4whtbOpRgif6-CkODKgrtTNsrZDMaT4l_R1NQwpbMogSr8dugxN12f6UdGOeXZMFq3eT_UeVtHHqMEt6ZZ7bRzC6YZ5rHSe4e0L3G781CR2pI6ppHCR-KTFk3TOdbreqdjSffm55Ny9vZrJpCDvMoyF4TFEIiozakX-IhSkR2udRW0nh3YDOjlJrpJq8zfb6M7oDV_2E7eKeSQB3tZVPoiOzlRVbajiZy6Zg4ihMNPb1VERPkACSqZnVgAbCUVmTRUQkdgcrFuAUMroJe0Rm46or1DdfLa-cEwlLVl2Yt_B_c "target =" _ blank ">
+                  <span>
+                   https: //
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  <span>
+                   www.rallye-elbfl
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  orenz.de/rallye
+                 </a>
+                </p>
+               </span>
+              </div>
+              <div class = "fh fi" data-ft = '{"tn": "H"}'>
+               <A class = "fs fm" href = "https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.rallye-elbflorenz.de%2Frallye&amp;h=AT2bSE6IVNKgjBmgmf7b4i5-_EguvCMlQ7BggImuykkHCDkZpLIzJg5_k0n4g0LNIZ9VG90teTAwq6RZBwlTL4UtlsDTImNS_46KmvmSbX5B3tTvlesAQsgRxWTATilkF8ZFkCqCfcktnpRos6dfgaZvdImkQsb2F6w9epuPzDTHUXGaiIns7R_23XEeq5-jbS2H2g4blEsJiODH4z5V2RGkcpxXMvdbFKSd98pcZSGgVThknI40I6g9gaLKn8e1NReR8Ip55OjFyuW0KsioxUghLl9OBGdIBzWZdWs7vF7Ya1w5S6vSdcxstqX3 -5kWo_lS_GNmpnUvoc_MWaCjlUWw1WCsieFvGx8l7eYCsan_h1cz9AjGzNwdhXO2J8Tholl0R0PGMbjxv71dAcNDJekMOxkKE8FtO_-Y2LRY2xYWWlssDB9zXJmJ77W8uaGgcFxJ2o-2gYaK2482AGnQJSvqtOYo5L5z7GQQLyP95ndOdhwSrURP_Sbrw6KE6Ec9tA54axfHvZPlVi9jpbt_is_D6EicX3QQ8kg25RbhBcQSa3tGNHOmDhdgQgs6Y5AX3T1OLhLgc9eSPEDpY1tpXELz85Hiodlw9qTaHuYQV8kPS8jKcu8XsKlPc3fW3NkQz6hhPH4 "id =" u_0_7 "target =" _ blank ">
+                <div class = "ft dc fu">
+                 <h3 class = "fv fd fw">
+                  8th RALLYE ELBFLORENZ 2020
+                 </h3>
+                 <div class = "fx fy">
+                  rallye-elbflorenz.de
+                  <div class = "fx">
+                  </div>
+                 </div>
+                </div>
+               </a>
+               <div>
+               </div>
+               <div>
+               </div>
+              </div>
+             </div>
+             <div class = "fo" data-ft = '{"tn": "* W"}'>
+              <div class = "ci em">
+               <abbr>
+                ਸਤੰਬਰ 9 10:49 ਬਾ.ਦੁ. ਵਜੇ
+               </abbr>
+               <span>
+                ·
+               </span>
+               <span class = "fp">
+                <div class = "fq">
+                 <span>
+                  <span class = "ci">
+                   ਜਨਤਕ
+                  </span>
+                 </span>
+                 <div class = "fr">
+                 </div>
+                </div>
+               </span>
+              </div>
+              <div class = "ci em">
+               <A href = "/ story.php story_fbid = 3334032750007643 & amp; id = 944524942291781 & amp; refid = 17 & amp; _ft_ = mf_story_key.3334032750007643% 3Atop_level_post_id.3334032750007643% 3Atl_objid.3334032750007643% 3Acontent_owner_id_new.944524942291781% 3Athrowback_story_fbid.3334032750007643% 3Apage_id.944524942291781% 3Astory_location. 4% 3Astory_attachment_style.share% 3Atds_flgs.3% 3Aott.AX-0kkwgTFwmRbW8% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599% 3A-177700700__list => 2AW-R #% taction_list => 2AW-R #% taction_list => 2AW-R
+                ਸੰਪੂਰਣ ਕਹਾਣੀ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class = "cz ec ex" data-ft = '{"mf_story_key": "2955106444566944", "top_level_post_id": "2955106444566944", "tl_objid": "2955106444566944", "content_owner_id_new": "941745ent_new" : "4025395970867023", "original_content_owner_id": "528940427179279", "throwback_story_fbid": "2955106444566944", "page_id": "944524942291781", "photo_id": "4025392917533995", "story_id": "4025392917533995", "story_attachment_story:" attached_location ":" story_attachment_story: "attached location_story:" 4025392917533995: " , "tds_flgs": 3, "ott": "AX9tpJz5wm-3n1nE", "thid": "944524942291781: 306061129499414: 2: 0: 1606809599: 6223834123742359730", "tn": "- R" }_3 = "u_0_3 >
+             <div class = "ey">
+              <div class = "ez">
+               <table class = "cn">
+                <tbody>
+                 <tr>
+                  <td class = "dk">
+                   <div class = "fa">
+                   </div>
+                  </td>
+                  <td class = "cp fb">
+                   <div>
+                    <h3 class = "fc fd fe ff">
+                     <span>
+                      <strong>
+                       <A href = "/ atsbernhardt / refid = 17 & amp; _ft_ = mf_story_key.2955106444566944% 3Atop_level_post_id.2955106444566944% 3Atl_objid.2955106444566944% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4025395970867023% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.2955106444566944% 3Apage_id.944524942291781% 3Aphoto_id.4025392917533995 % 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9tpJz5wm-3n1nE% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A160680__3099% 3A622383412
+                        Car service Bernhardt
+                       </a>
+                      </strong>
+                     </span>
+                    </h3>
+                   </div>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div class = "fg" data-ft = '{"tn": "* s"}' style = "">
+              </div>
+              <div class = "fh fi" data-ft = '{"tn": "H"}'>
+               <div>
+               </div>
+               <div>
+                <div class = "cz ec ex fj" id = "u_0_4">
+                 <div class = "ey">
+                  <div class = "ez">
+                   <table class = "cn">
+                    <tbody>
+                     <tr>
+                      <td class = "dk">
+                       <div class = "fa">
+                       </div>
+                      </td>
+                      <td class = "cp fb">
+                       <div>
+                        <h3 class = "fc w fe ff">
+                         <strong>
+                          <A href = "/ Dresden motor classics / refid = 17 & amp; _ft_ = mf_story_key.2955106444566944% 3Atop_level_post_id.2955106444566944% 3Atl_objid.2955106444566944% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4025395970867023% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.2955106444566944% 3Apage_id.944524942291781% 3Aphoto_id.4025392917533995 % 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9tpJz5wm-3n1nE% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599 & amp; = CH74235-tn3012 ">__
+                           Dresden Motor Classics
+                          </a>
+                         </strong>
+                         ,
+                         <img alt = "" class = "fz k" height = "16" src = "https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/tsQu-Ze77JE.png" width = "16" />
+                         ਦ੍ਰਿੜ ਮਹਿਸੂਸ ਕਰ ਰਿਹਾ / ਰਹੀ ਹੈ।
+                        </h3>
+                       </div>
+                      </td>
+                     </tr>
+                    </tbody>
+                   </table>
+                  </div>
+                  <div class = "fg" data-ft = '{"tn": "* s"}' style = "">
+                   <span>
+                    <p>
+                     If the car has no trunk, such a trailer is very useful
+                     <span class = "_ 5mfr">
+                      <span class = "_ 6qdm" style = 'height: 16px; width: 16px; font-size: 16px; background-image: url ("https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f602.png") '>
+                       😂
+                      </span>
+                     </span>
+                    </p>
+                    <p>
+                     <span>
+                      Very rare and like new with just 3.197mls. The whole team has the character of a new car
+                     </span>
+                     <wbr />
+                     <span class = "word_break">
+                     </span>
+                     <span>
+                      ...
+                     </span>
+                    </p>
+                    <A href = "/ story.php story_fbid = 4025395970867023 & amp; id = 528940427179279 & amp; refid = 17 & amp; _ft_ = mf_story_key.2955106444566944% 3Atop_level_post_id.2955106444566944% 3Atl_objid.2955106444566944% 3Acontent_owner_id_new.944524942291781% 3Aoriginal_content_id.4025395970867023% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid. 2955106444566944% 3Apage_id.944524942291781% 3Aphoto_id.4025392917533995% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9tpJz5wm-3n1nE% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0% 3A1606809599% 3A6223834123742359730 & amp; __ __ tn =% 2AsH-R ">
+                     ਹੋਰ
+                    </a>
+                   </span>
+                  </div>
+                  <div class = "fh fk fi" data-ft = '{"tn": "H"}'>
+                   <div class = "fl fm" data-ft = '{"tn": "E"}' style = "width: 196px; height: 196px;">
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4025395970867023 / 4025392917533995 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.29551096444566944% 3Apid44955944% 34566944% 3Apostid44955944% 3jd44660944% 3jpid44955106444566944% 3Apost6contid_level .944524942291781% 3Aoriginal_content_id.4025395970867023% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.2955106444566944% 3Apage_id.944524942291781% 3Aphoto_id.4025392917533995% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9tpJz5wm-3n1nE% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0 % 3A1606809599% 3A6223834123742359730 & amp; __ tn __ = EHH-R "style =" top: 0px; left: 0px; width: 196px; height: 130px; ">
+                     <img class = "bs k" height = "130" src = "https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c0.89.2048. ? 1358a / s206x206 / 94225813_4025392924200661_2821707287708565504_o.jpg _nc_cat = 106 & amp; ccb = 2 & amp; _nc_sid = 110474 & amp; _nc_ohc = qOw9Rl38LDoAX842R3D & amp; _nc_ht = scontent.fluh2-1.fna & amp; _nc_tp = 28 & amp; O = eaa27bdea457caea6db185910b0c159d & amp; oe = 5FCDDCCE "width =" 196 "/>
+                    </a>
+                    <a class = "bq fn" href = "/ dresdenmotorclassics / photos / pcb.4025395970867023 / 4025392940867326 /? type = 3 & amp; source = 49 & amp; refid = 17 & amp; _ft_ = mf_story_key.29551096444566944% 3Apid44955944% 3A4566944% 3Apostdcontid.2955106444566944% 3jpost6contid.2955106444566944% 3Apost6contid_level .944524942291781% 3Aoriginal_content_id.4025395970867023% 3Aoriginal_content_owner_id.528940427179279% 3Athrowback_story_fbid.2955106444566944% 3Apage_id.944524942291781% 3Aphoto_id.4025392917533995% 3Astory_location.4% 3Aattached_story_attachment_style.album% 3Atds_flgs.3% 3Aott.AX9tpJz5wm-3n1nE% 3Athid.944524942291781% 3A306061129499414% 3A2% 3A0 %3A1606809599%3A6223834123742359730&amp;__tn__=EHH-R" style="top:132px; left:0px; width: 65px; height: 64px;">
+                     <img class="bs k" height="64" src="https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c10.0.65.64a/p64x64/94726313_4025392954200658_1076556135680442368_o.jpg?_nc_cat=103&amp;ccb=2&amp;_nc_sid=110474&amp;_nc_ohc=zK8Su95103YAX8nF8g0&amp;_nc_ht=scontent.fluh2-1.fna&amp;tp=5&amp;oh=4bfa6e74778244773d4b18f09fd1c4b4&amp;oe=5FCE81B7" width="65"/>
+                    </a>
+                    <a class="bq fn" href="/dresdenmotorclassics/photos/pcb.4025395970867023/4025393347533952/?type=3&amp;source=49&amp;refid=17&amp;_ft_=mf_story_key.2955106444566944%3Atop_level_post_id.2955106444566944%3Atl_objid.2955106444566944%3Acontent_owner_id_new.944524942291781%3Aoriginal_content_id.4025395970867023%3Aoriginal_content_owner_id.528940427179279%3Athrowback_story_fbid.2955106444566944%3Apage_id.944524942291781%3Aphoto_id.4025392917533995%3Astory_location.4%3Aattached_story_attachment_style.album%3Atds_flgs.3%3Aott.AX9tpJz5wm-3n1nE%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A6223834123742359730&amp;__tn__=EHH-R" style="top:132px; left:67px; width: 64px; height: 64px;">
+                     <img class="bs k" height="64" src="https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c11.0.64.64a/p64x64/94992262_4025393360867284_1597676809900523520_o.jpg?_nc_cat=109&amp;ccb=2&amp;_nc_sid=110474&amp;_nc_ohc=1hs5E1ZSmTkAX8rIeNn&amp;_nc_ht=scontent.fluh2-1.fna&amp;tp=5&amp;oh=716d731c182c6ec5edab918a27b57817&amp;oe=5FCD9B7E" width="64"/>
+                    </a>
+                    <a class="bq fn" href="/dresdenmotorclassics/photos/pcb.4025395970867023/4025393314200622/?type=3&amp;source=49&amp;refid=17&amp;_ft_=mf_story_key.2955106444566944%3Atop_level_post_id.2955106444566944%3Atl_objid.2955106444566944%3Acontent_owner_id_new.944524942291781%3Aoriginal_content_id.4025395970867023%3Aoriginal_content_owner_id.528940427179279%3Athrowback_story_fbid.2955106444566944%3Apage_id.944524942291781%3Aphoto_id.4025392917533995%3Astory_location.4%3Aattached_story_attachment_style.album%3Atds_flgs.3%3Aott.AX9tpJz5wm-3n1nE%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A6223834123742359730&amp;__tn__=EHH-R" style="top:132px; left:132px; width: 64px; height: 64px;">
+                     <img class="bs k" height="64" src="https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/c11.0.64.64a/p64x64/94489897_4025393317533955_8208998523585167360_o.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=110474&amp;_nc_ohc=4QH9Amd_sJwAX87SB2_&amp;_nc_ht=scontent.fluh2-1.fna&amp;tp=5&amp;oh=4ce8ebf63f482c89e6704a97148fd8f4&amp;oe=5FCBF191" width="64"/>
+                    </a>
+                   </div>
+                   <div>
+                   </div>
+                   <div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="fo" data-ft='{"tn":"*W"}'>
+              <div class="ci em">
+               <abbr>
+                ਅਪ੍ਰੈਲ 24 5:53 ਬਾ.ਦੁ. ਵਜੇ
+               </abbr>
+               <span>
+                ·
+               </span>
+               <span class="fp">
+                <div class="fq">
+                 <span>
+                  <span class="ci">
+                   ਜਨਤਕ
+                  </span>
+                 </span>
+                 <div class="fr">
+                 </div>
+                </div>
+               </span>
+              </div>
+              <div class="ci em">
+               <a href="/story.php?story_fbid=2955106444566944&amp;id=944524942291781&amp;refid=17&amp;_ft_=mf_story_key.2955106444566944%3Atop_level_post_id.2955106444566944%3Atl_objid.2955106444566944%3Acontent_owner_id_new.944524942291781%3Aoriginal_content_id.4025395970867023%3Aoriginal_content_owner_id.528940427179279%3Athrowback_story_fbid.2955106444566944%3Apage_id.944524942291781%3Aphoto_id.4025392917533995%3Astory_location.4%3Aattached_story_attachment_style.album%3Atds_flgs.3%3Aott.AX9tpJz5wm-3n1nE%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A6223834123742359730&amp;__tn__=%2AW-R#footer_action_list">
+                ਸੰਪੂਰਣ ਕਹਾਣੀ
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="cz ec ex" data-ft='{"mf_story_key":"2950279641716291","top_level_post_id":"2950279641716291","tl_objid":"2950279641716291","content_owner_id_new":"944524942291781","throwback_story_fbid":"2950279641716291","page_id":"944524942291781","story_location":4,"story_attachment_style":"share","tds_flgs":3,"ott":"AX9CFqDg8YoCzs6K","thid":"944524942291781:306061129499414:2:0:1606809599:-7113136744768344819","tn":"-R"}' id="u_0_0">
+             <div class = "ey">
+              <div class="ez">
+               <table class="cn">
+                <tbody>
+                 <tr>
+                  <td class="dk">
+                   <div class="fa">
+                   </div>
+                  </td>
+                  <td class="cp fb">
+                   <div>
+                    <h3 class="fc fd fe ff">
+                     <span>
+                      <strong>
+                       <a href="/atsbernhardt/?refid=17&amp;_ft_=mf_story_key.2950279641716291%3Atop_level_post_id.2950279641716291%3Atl_objid.2950279641716291%3Acontent_owner_id_new.944524942291781%3Athrowback_story_fbid.2950279641716291%3Apage_id.944524942291781%3Astory_location.4%3Astory_attachment_style.share%3Atds_flgs.3%3Aott.AX9CFqDg8YoCzs6K%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A-7113136744768344819&amp;__tn__=C-R">
+                        Car service Bernhardt
+                       </a>
+                      </strong>
+                     </span>
+                    </h3>
+                   </div>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div class="fg" data-ft='{"tn":"*s"}' style="">
+               <span>
+                <p>
+                 <a href="https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.autobild.de%2Fartikel%2Fzahnriemenriss-16764971.html&amp;h=AT3TscOeCyvs4vVYox3BDSgEtgLQmF8pXNiic6i6hdJAVGc0r_Tam8flHedC0ggyBQCxOZISz-FnzTmyAlSRZlLQbJ84VLaBVmuZIsfB7BTZbYBzq14JZaVIWl4GuNZK988ovyNLK6oa8OIG4k9enOr19KvToFHykR2-H8lwR5lBzB23_iBJawC2gfC299rqQywJSf6fR1aolGqRs59e4YnFhalhqrFuK6p9bWRKWGj2UmBHbBc6rCDy_Epf9pQrddtarJUy6DkaZgf5RZlQvh-YKDoicpTlm7AG3YILh4x-MYdhQIQOUhnGUEauD8Zdgf3lVX19Zf2vfdRi5UQywKp7dcBFIp0c_RQ3CgyfG65cqQ01veNUVS9nM9P2juf1pjtb1UHrSMPDgWU-eZ4XLxpOAKXIof5Q7Q8_fc8pDsJSTOZr5gBVaTdLvBIo1bWhHGdScCEg-nLMege8NaaAv1r8CEWq101IqeKV6Wawz2eSNc40ZOMKDX8kelAFQzaQZMizFR9twcK7RaENCCqZuV32yqxFT8cC7oH4v_g6Nec2zo_AX7uAOHjxOOIM0nrRCBbIFL2p2Yi1zi963PUma_G3NnUngEaPATw3JRKWMwS64f2drohi7Av04WVwRI5H8gTrEBIQ" target="_blank">
+                  <span>
+                   https: //
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  <span>
+                   www.autobild.de/
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  <span>
+                   artikel/
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  <span>
+                   zahnriemenriss-1
+                  </span>
+                  <wbr />
+                  <span class = "word_break">
+                  </span>
+                  6764971.html
+                 </a>
+                </p>
+               </span>
+              </div>
+              <div class="fh fi" data-ft='{"tn":"H"}'>
+               <a class="fs fm" href="https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.autobild.de%2Fartikel%2Fzahnriemenriss-16764971.html&amp;h=AT0I6dQ9JfLagEBkSeZO2GKqKw_VNmfoLSCu859Az2A9abVl1M_2HgOeoZSJ0zYVPIXL5_f9GPRZS5E7C7ovYiy4q6br7DFSAqV3OA9Hog1WAptItXUzNOcd6NU-mf5z6e5Nqr7uLo3CjGTBCGzXF_QFh3rPPkuGE8sWOd3JIqlbSNFY68qyM2TBBE_iqsNC8TNTQCZHMesOHom6xcB-DRICGx-meJxWwrLj3exDNscwcURWCWpWQ5bcf_B75c5HguPh5cWiQ3j8ytz8B-He3kOBl-SUSx4ezbzuZVZv4Livuu1vJFWvS1bcnw1uKv-Z8n49M_-ZbLBLUhV4fUf64SxS-qY-TamZNKVVocL05k_Ec_rbAp46iQln8j6zetPXosHZEsdbFJ7fb6YNfc4GuMgV3YBHVVMxhZ5KhE7rrelgkOuz8z2z8s5em_jIVYgh8yBaP_UDqYlMob4AkvjpuzCu6LXkU5eUjEXZOzzyjipOBSxCCUin2vS3VGPzCgP4SzNQ3tsYkyH-4qmvWRekhGn9MnIKpsNeO_wZcHr_yVU72Lk4Tse8Hs7e_V2XDekWBmUZgWnQfNdSncY5i-LJvcooBOkvHO_E8FO4lsDV2K83UTaVZyq5z_QGW4rIcT8RDSsWfuQ" id="u_0_6" target="_blank">
+                <div class="ft dc fu">
+                 <table class="cn dv">
+                  <tbody>
+                   <tr>
+                    <td class="dk ga">
+                     <img class="k" height="112" src="https://external.fluh2-1.fna.fbcdn.net/safe_image.php?d=AQCziqTRgiiI_Ww1&amp;w=112&amp;h=112&amp;url=https%3A%2F%2Fi.auto-bild.de%2Fir_img%2F2%2F5%2F5%2F2%2F7%2F5%2F9%2FZahnriemen-474x316-3e291ef05f768a80.jpg&amp;cfs=1&amp;jq=75&amp;ext=jpg&amp;_nc_cb=1&amp;_nc_hash=AQBvsyw_4XVQ6kAi" width="112"/>
+                    </td>
+                    <td class="cp">
+                     <h3 class="fv fd fw">
+                      Zahnriemenriss: Darum kann er so teuer werden kann - autobild.de
+                     </h3>
+                     <div class="fx fy">
+                      autobild.de
+                      <div class="fx">
+                      </div>
+                     </div>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </div>
+               </a>
+               <div>
+               </div>
+               <div>
+               </div>
+              </div>
+             </div>
+             <div class="fo" data-ft='{"tn":"*W"}'>
+              <div class="ci em">
+               <abbr>
+                ਅਪ੍ਰੈਲ 22 5:53 ਬਾ.ਦੁ. ਵਜੇ
+               </abbr>
+               <span>
+                ·
+               </span>
+               <span class="fp">
+                <div class="fq">
+                 <span>
+                  <span class="ci">
+                   ਜਨਤਕ
+                  </span>
+                 </span>
+                 <div class="fr">
+                 </div>
+                </div>
+               </span>
+              </div>
+              <div class="ci em">
+               <a class="gb" href="/story.php?story_fbid=2950279641716291&amp;id=944524942291781&amp;refid=17&amp;_ft_=mf_story_key.2950279641716291%3Atop_level_post_id.2950279641716291%3Atl_objid.2950279641716291%3Acontent_owner_id_new.944524942291781%3Athrowback_story_fbid.2950279641716291%3Apage_id.944524942291781%3Astory_location.4%3Astory_attachment_style.share%3Atds_flgs.3%3Aott.AX9CFqDg8YoCzs6K%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A-7113136744768344819&amp;__tn__=%2AW-R">
+                1 ਟਿੱਪਣੀ
+               </a>
+               <span>
+                ·
+               </span>
+               <a href="/story.php?story_fbid=2950279641716291&amp;id=944524942291781&amp;refid=17&amp;_ft_=mf_story_key.2950279641716291%3Atop_level_post_id.2950279641716291%3Atl_objid.2950279641716291%3Acontent_owner_id_new.944524942291781%3Athrowback_story_fbid.2950279641716291%3Apage_id.944524942291781%3Astory_location.4%3Astory_attachment_style.share%3Atds_flgs.3%3Aott.AX9CFqDg8YoCzs6K%3Athid.944524942291781%3A306061129499414%3A2%3A0%3A1606809599%3A-7113136744768344819&amp;__tn__=%2AW-R#footer_action_list">
+                ਸੰਪੂਰਣ ਕਹਾਣੀ
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div style = "display: none">
+      </div>
+      <span>
+       <img height="0" src="https://facebook.com/security/hsts-pixel.gif?c=3.2" style="display:none" width="0"/>
+      </span>
+     </div>
+    </div>
+    <div class="cz">
+     <div class="gc">
+      <div class="gd">
+       <table class="cn">
+        <tbody>
+         <tr>
+          <td class="cp ge" style="width:50%">
+           <b class="gf">
+            ਪੰਜਾਬੀ
+           </b>
+           <a class="gg" href="/a/language.php?l=ur_PK&amp;lref=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp;index=2&amp;sref=legacy_mbasic_footer&amp;gfid=AQBlJmcsOtEBOMmBHVg&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">
+            اردو
+           </a>
+           <a class="gg" href="/a/language.php?l=en_GB&amp;lref=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp;index=4&amp;sref=legacy_mbasic_footer&amp;gfid=AQAVl6zLQe_OXwc2Ot0&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">
+            English (UK)
+           </a>
+          </td>
+          <td class="cp gh" style="width:50%">
+           <a class="gg" href="/a/language.php?l=hi_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp;index=1&amp;sref=legacy_mbasic_footer&amp;gfid=AQAyYmWXpUXbEhR420g&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">
+            हिन्दी
+           </a>
+           <a class="gg" href="/a/language.php?l=ml_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp;index=3&amp;sref=legacy_mbasic_footer&amp;gfid=AQBlU8rnS3k1SDy2VIM&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">
+            മലയാളം
+           </a>
+           <a class="gg" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D944524942291781&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">
+            <div class="gi">
+             +
+            </div>
+           </a>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <span class="fd gj cj">
+       Facebook Inc
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

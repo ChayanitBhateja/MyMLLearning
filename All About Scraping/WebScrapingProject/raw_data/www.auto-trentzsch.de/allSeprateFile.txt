@@ -1,0 +1,2163 @@
+<! DOCTYPE html>
+<html lang = "en">
+ <head>
+  <meta charset = "utf-8" />
+  <title>
+   Independent workshop - Auto Trentzsch - 01067 Dresden Hamburger Str. 37 - 01277 Dresden Bodenbacher Str. 109 - 01471 Radeburg, Radeberger Str. 23
+  </title>
+  <meta content = "width = device-width, initial-scale = 1, maximum-scale = 1" name = "viewport" />
+  <meta content = "Auto Trentzsch - Free Workshop - 01067 Dresden Hamburger Str. 37 - 01277 Dresden Bodenbacher Str. 109 - 01471 Radeburg, Radeberger Str. 23 - Service, offer, battery, windshield wipers, tires, auxiliary heating, brakes, air conditioning" name = "description" />
+  <meta author "=" "content =" Uwe Riemer Internet agency www.7sky.de "name =" keywords "/>
+  <! - Le styles ->
+  <link href = "assets / css / bootstrap.css" rel = "stylesheet" />
+  <link href = "assets / css / bootstrap-responsive.css" rel = "stylesheet" />
+  <link href = "assets / css / typography.css" rel = "stylesheet" />
+  <link href = "assets / css / extension.css" rel = "stylesheet" />
+  <link href = "stylesheets / prettyPhoto.css" rel = "stylesheet" />
+  <link href = "stylesheets / isotope.css" rel = "stylesheet" />
+  <link href = "stylesheets / graph.css" rel = "stylesheet" />
+  <! - BANNER CSS SETTINGS ->
+  <! - Edit the following style.css file to change the theme look and feel ->
+  <link href = "stylesheets / themes / default / default.css" media = "screen" rel = "stylesheet" type = "text / css">
+   <link href = "stylesheets / nivo-slider.css" media = "screen" rel = "stylesheet" type = "text / css">
+    <link href = "stylesheets / style.css" rel = "stylesheet" />
+    <link href = "stylesheets / home1.css" rel = "stylesheet" />
+    <! - Le fav and touch icons ->
+    <! - [if lt IE 9]>
+<script src = "https://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
+<link rel = "stylesheet" href = "stylesheets / ie8.css">
+<! [endif] ->
+   </link>
+  </link>
+ </head>
+ <body>
+  <! - Primary Page Layout
+================================================== ->
+  <header class = "top_header">
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "logo_holder">
+        <a href="index.htm#intro" id="logo">
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "images / auto-trentzsch-gbr.png" title = "Free workshop Auto Trentzsch" />
+        </a>
+       </div>
+       <nav class = "links desktop-nav visible-desktop visible-tablet">
+        <a class="def-link" href="#intro" title="home">
+         begin
+        </a>
+        <a href="#about" title="about">
+         Workshop
+        </a>
+        <a href="#services" title="services">
+         Services
+        </a>
+        <a href="#features" title="features">
+         Trailer rental
+        </a>
+        <a href="#portfolio" title="portfolio">
+         photos
+        </a>
+        <a href="#contact" title="contact">
+         Contact
+        </a>
+       </nav>
+       <nav class = "mobile-nav visible-phone">
+        <! - Start Dropmenu for mobile ->
+        <select class = "dropmenu" name = "dropmenu" onchange = "moveTo (this.value)">
+         <option selected = "selected" value = "">
+          Menu
+         </option>
+         <option value = "# intro">
+          begin
+         </option>
+         <option value = "# about">
+          Workshop
+         </option>
+         <option value = "# services">
+          Services
+         </option>
+         <option value = "# features">
+          Trailer rental
+         </option>
+         <option value = "# portfolio">
+          photos
+         </option>
+         <option value = "# contact">
+          Contact
+         </option>
+        </select>
+        <! - End Dropmenu for mobile ->
+       </nav>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class = "clear">
+  </div>
+  <section class = "intro page" id = "intro">
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "span6 welcome_txt">
+        <div class = "page_title">
+         Auto Trentzsch
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         Master craftsmen's workshops
+         <br/>
+         Free car workshop
+         <br/>
+         and Reifen1 + Partner
+        </p>
+        <a class="small_btn" href="#about">
+         more about us
+        </a>
+        <br/>
+       </div>
+       <div class = "span6 welcome_promo">
+        <div class = "big_circle visible-desktop visible-tablet">
+         <div class = "sub_heading">
+          Cars + trucks
+         </div>
+         <p>
+          <span>
+           -Repair, window repair, installation of auxiliary heating, air conditioning u. Tire service, HU / AU, body repairs, insurance, rental cars
+          </span>
+          <br/>
+          <br/>
+          <a class="small_btn" href="#about">
+           continue
+          </a>
+         </p>
+        </div>
+        <a class="visible-desktop visible-tablet" href="https://auto-trentzsch.de/#portfolio">
+         <div class = "small_circle circle1">
+          <span>
+           free car workshop
+          </span>
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class = "span8 welcome_notruf">
+      <div class = "notruf_title">
+       24 hour emergency call!
+       <br/>
+       <font color = "# FF0000">
+        0351 50178790
+       </font>
+       <br/>
+       <font color = "# 009900">
+        Trailer rental
+       </font>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       Wheel alignment for cars, vans and trucks
+       <br/>
+       Gas distribution
+       <font color = "# 2b94cd">
+        AIR LIQUIDE
+       </font>
+       Technical gases
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <div class = "clear">
+  </div>
+  <section class = "about page" id = "about">
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        Free car workshop Auto Trentzsch
+       </div>
+       <div class = "promo_txt">
+        and Reifen1 + Partner
+       </div>
+      </div>
+      <div class = "row process">
+       <div class = "span3">
+        <div class = "icon">
+         <img alt = "Freie Kfz Werkstatt Dresden Bodenbacher Str. 109 - AUTO TRENTZSCH" height = "100" src = "https://www.auto-trentzsch.de/google-pic/tuning/werkstatt-11.jpg" title = "Freie Kfz Werkstatt Dresden Bodenbacher Str. 109 - AUTO TRENTZSCH" width = "120" />
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "sub_heading">
+         Dresden
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         Bodenbacher Str. 109
+         <br/>
+         01277 Dresden
+         <br/>
+         Tel .: 0351 2510432
+         <br/>
+         Fax: 0351 2510438
+         <br/>
+         <a href="mailto:autotrentzsch@versanetonline.de">
+          e-mail
+         </a>
+        </p>
+       </div>
+       <div class = "span3">
+        <div class = "icon">
+         <img alt = "Freie Kfz Werkstatt Dresden Hamburger Str. 35a - AUTO TRENTZSCH" height = "100" src = "https://www.auto-trentzsch.de/images/icons/auto-trentzsch-frei-werkstatt-dresden -hamburger-strasse.jpg "title =" Free vehicle workshop Dresden Hamburger Str. 35a - AUTO TRENTZSCH "width =" 154 "/>
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "sub_heading">
+         Dresden
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         Hamburger Str.35a
+         <br/>
+         01067 Dresden
+         <br/>
+         Tel .: 0351 4852249
+         <br/>
+         Fax: 0351 4852251
+         <br/>
+         <a href="mailto:info@auto-trentzsch.de">
+          e-mail
+         </a>
+         <br/>
+         <a href="http://www.werkstatttube.de/files/tube/content/videos/1671130/1671130-1409734084.mp4" target="_blank" title="Film Freie Werkstatt">
+          Movie
+         </a>
+         
+        </p>
+       </div>
+       <div class = "span3">
+        <div class = "icon">
+         <img alt = "Free car workshop Radeburg - AUTO TRENTZSCH" src = "images / icons / free-kfz-workshop-radeburg.jpg" title = "Free car workshop Radeburg - AUTO TRENTZSCH" />
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "sub_heading">
+         Radeburg
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         Radeberger Str. 23
+         <br/>
+         01471 Radeburg
+         <br/>
+         Tel .: 035 208 2422
+         <br/>
+         Fax: 035 208 4386
+         <br/>
+         <a href="mailto:trentzsch@t-online.de">
+          e-mail
+         </a>
+        </p>
+       </div>
+       <div class = "span3">
+        <div class = "icon">
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "images / icons / setp-04.png" title = "Free vehicle workshop - AUTO TRENTZSCH" />
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "sub_heading">
+         Tire1 +
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         our partner for top tire brands and current rim designs
+         <a href="https://shop.reifen1plus.de/" title="Tires and rims in Dresden from Reifen1+">
+          <b>
+           Tire1 +
+          </b>
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class = "row process">
+       <div class = "span4">
+        <p>
+         Bodenbacher Str. 109
+        </p>
+        <iframe frameborder = "0" height = "250" src = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2509.436681104709!2d13.8028167!3d51.026554999999995! 3m2! 1i1024! 2i768! 4f13.1! 3m3! 1m2! 1s0x0000000000000000% 3A0xc9881280b8fb53c7! 2sG% C3% BCnter + Trentzsch! 5e0! 3m2! 1sde! 2s! 4v1415009912410 "style =" 250 ">"> width = "border: 0">
+        </iframe>
+       </div>
+       <div class = "span4">
+        <p>
+         Hamburger Str.35a
+        </p>
+        <iframe frameborder = "0" height = "250" src = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.5750457744043!2d13.694293999999998!3d51.060933999999996! 3m2! 1i1024! 2i768! 4f13.1! 3m3! 1m2! 1s0x4709cf905b9def97% 3A0xc572762182d922b8! 2sAuto + Trentzsch + GbR! 5e0! 3m2! 1sde! 2sde! 4v1415008858487 ">" style = "width:" width: 250 ">"
+        </iframe>
+       </div>
+       <div class = "span4">
+        <p>
+         Radeburg
+        </p>
+        <iframe frameborder = "0" height = "250" src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.2479432269206!2d13.730208999999999!3d51.21450800000001! 2m3! 1f0! 2f0! 3f0! 3m2! 1i1024! 2i768! 4f13.1! 3m3! 1m2! 1s0x47082d551530c7ef% 3A0x8b286cb26bfeec92! 2sTrentzsch + Auto + GbR.! Style + tire service! 5e0! 3m2.! "width =" 250 ">
+        </iframe>
+       </div>
+      </div>
+      <br/>
+      <br/>
+      <div class = "clear">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "testimonials">
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "span12 testimonial_collection">
+         <div class = "testimonial">
+          <p>
+           The Auto Trentzsch workshop is available Monday to Friday from 7:00 a.m. to 6:00 p.m. and on Saturday from 10:00 a.m. to 12:00 a.m. by prior arrangement.
+           <br/>
+           Tel .: 0351 4852249 and fax: 0351 4852251
+          </p>
+          <div class = "clear">
+          </div>
+          <div class = "client_name">
+           - Independent car workshop and master craftsman workshops -
+          </div>
+         </div>
+         <div class = "testimonial">
+          <p>
+           You can find the free Auto Trentzsch workshop in Dresden on Dreiseitenhof Bodenbacher Straße 109 between the intersections Bodenbacher Straße / Rennplatzstraße / Enderstraße and Bodenbacher Straße / Marienberger Straße - on Hamburger Straße 35a and in 01471 Radeburg, Radeberger Straße 23
+          </p>
+          <div class = "clear">
+          </div>
+          <div class = "client_name">
+           - Free car workshop and tire1 + partner
+          </div>
+         </div>
+         <div class = "testimonial">
+          <p>
+           Independent Auto Trentzsch workshop - car transporter and truck repairs - tire service and storage - car glass service / window repair - rental cars / workshop replacement vehicles - breakdown service, towing service and recovery service - accident vehicle purchase and disposal with certificate of destruction
+          </p>
+          <div class = "clear">
+          </div>
+          <div class = "client_name">
+           - Free car workshop Auto Trentzsch
+          </div>
+         </div>
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "testimonial_nav">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "container-fluid">
+    <! - What we do for you ->
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        What we do for you
+       </div>
+      </div>
+      <div class = "aktion_title">
+       <br/>
+       Wheel alignment for car vans + trucks up to 15 t
+       <br/>
+       Gas distribution for technical gases from AIR LIQUIDE
+      </div>
+      <div class = "row">
+       <div class = "span6 about_txt">
+        <p>
+         Car, van and truck repairs
+         <br/>
+         Car glass service / windshield repair
+         <br/>
+         Parking heater installation and air conditioning service
+         <br/>
+         Tire service and storage
+         <br/>
+         Body repairs
+         <br/>
+         HU / AU and insurance
+         <br/>
+         Rental cars / workshop replacement vehicles
+         <br/>
+         Vehicle purchase and sale (including accident vehicles or disposal)
+         <br/>
+         Accident vehicle purchase and disposal with certificate of destruction
+         <br/>
+         Breakdown service, towing service and recovery service
+         <br/>
+        </p>
+       </div>
+       <div class = "span6 about_txt">
+        <div class = "aktion_title">
+         ALWAYS IN ACTION WITH US:
+        </div>
+        <p>
+         <font color = "# 009900">
+          <strong>
+           Free
+          </strong>
+         </font>
+         Brake test
+         <br/>
+         <font color = "# 009900">
+          <strong>
+           Free
+          </strong>
+         </font>
+         Vehicle evaluation
+         <br/>
+         <font color = "# 009900">
+          <strong>
+           Free
+          </strong>
+         </font>
+         Vehicle check (for customers or for follow-up orders)
+         <br/>
+         <font color = "# 009900">
+          <strong>
+           Free
+          </strong>
+         </font>
+         Vehicle disposal (with proof of disposal)
+         <br/>
+         <br/>
+         You should not miss our other offers, such as
+         <br/>
+         & gt; Tire storage per set (4 pieces) € 15.50
+         <br/>
+         & gt; Spring check € 10.50
+         <br/>
+         & gt; Oil change with material and work from € 28.95 and v. a .. ***
+         <br/>
+        </p>
+       </div>
+       Financial purchase with Santander Bank for your vehicle financing and repair financing.
+       <br/>
+       Vehicle purchase of your used vehicle, year-old vehicle, older vehicles, vans and accident damage
+       <p>
+        Tire storage and winter check - free workshop - AUTO TRENTZSCH Just visit us and convince yourself of our offers.
+       </p>
+      </div>
+      <p>
+       We pick up your vehicle near us !!!
+      </p>
+     </div>
+    </div>
+   </div>
+   <! - / What we do for you ->
+   <div class = "clear">
+   </div>
+   <div class = "clients">
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "span3 client">
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "images / RoundIcons-Free-Set-58.png" title = "Free vehicle workshop - AUTO TRENTZSCH" />
+        </div>
+        <div class = "span3 client">
+         <br/>
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "images / auto-trentzsch-logo-free-workshop.png" title = "Free vehicle workshop - AUTO TRENTZSCH" />
+        </div>
+        <div class = "span3 client">
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "https://auto-trentzsch.de/google/auto-dresden.gif" title = "Free vehicle workshop - AUTO TRENTZSCH" />
+        </div>
+        <div class = "span3 client">
+         <img alt = "Free vehicle workshop - AUTO TRENTZSCH" src = "images / RoundIcons-Free-Set-50.png" title = "Free vehicle workshop - AUTO TRENTZSCH" />
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <div class = "clear">
+  </div>
+  <section class = "services page" id = "services">
+   <! - Section Services ->
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        Services
+       </div>
+       <div class = "promo_txt">
+        Service offers from AUTO TRENTZSCH GbR
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "container-fluid other_services">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "span6">
+        <table border = "0" cellpadding = "0" cellspacing = "0" width = "95%">
+         <tbody>
+          <tr>
+           <td bgcolor = "# ccdff7" id = "ignore">
+            <strong>
+             <font color = "# 000033">
+              power
+             </font>
+            </strong>
+           </td>
+           <td bgcolor = "# ccdff7" id = "ignore">
+            <div align = "right">
+             <strong>
+              <font color = "# 000033">
+               price
+              </font>
+             </strong>
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Inspection with mobility guarantee
+           </td>
+           <td>
+            <div align = "right">
+             from € 59.95
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Storage of your bikes per set
+           </td>
+           <td>
+            <div align = "right">
+             € 17.50
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Wheel change per set without balancing
+           </td>
+           <td>
+            <div align = "right">
+             € 17.50
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Wheel change per set with balancing
+           </td>
+           <td>
+            <div align = "right">
+             from 25.00 €
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Complete wheels with steel or aluminum rims
+           </td>
+           <td>
+            <div align = "right">
+             45.00 €
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Brake fluid change including material and aluminum
+           </td>
+           <td>
+            <div align = "right">
+             € 35.00
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Battery change including battery and Al
+           </td>
+           <td>
+            <div align = "right">
+             from € 39.95
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Parking heater including installation and material
+           </td>
+           <td>
+            <div align = "right">
+             from € 995.00
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Climate inspection plus refrigerant
+           </td>
+           <td>
+            <div align = "right">
+             € 69.00
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Air conditioning disinfection including material and aluminum
+           </td>
+           <td>
+            <div align = "right">
+             € 27.50
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Spring holiday winter check
+           </td>
+           <td>
+            <div align = "right">
+             € 10.50
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            HU & amp; AU (TÜV or Dekra)
+           </td>
+           <td>
+            <div align = "right">
+             from € 79.50
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Wheel alignment (cars, transp. And trucks)
+           </td>
+           <td>
+            <div align = "right">
+             from € 34.95
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Tire repair
+           </td>
+           <td>
+            <div align = "right">
+             € 15.95
+            </div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+       <div class = "span6">
+        <table border = "0" cellpadding = "0" cellspacing = "0" width = "95%">
+         <tbody>
+          <tr>
+           <td bgcolor = "# ccdff7" id = "ignore">
+            <strong>
+             <font color = "# 000033">
+              power
+             </font>
+            </strong>
+           </td>
+           <td bgcolor = "# ccdff7" id = "ignore">
+            <div align = "right">
+             <strong>
+              <font color = "# 000033">
+               price
+              </font>
+             </strong>
+            </div>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Accident repairs with a bench
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Car multimedia and car hifi systems with installation
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Painting of all paints and colors
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Complete tuning with TÜV approval
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Glass service (front, rear and side windows)
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Engines and gear repairs
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Tires from all manufacturers
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Hydraulic service (hoses and lines)
+           </td>
+           <td align = "right">
+            <strong>
+             a. offer
+            </strong>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Brake test on the test bench
+           </td>
+           <td align = "right">
+            <font color = "# 009900">
+             <strong>
+              FREE
+             </strong>
+            </font>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Light test with headlight adjustment (for customers)
+           </td>
+           <td align = "right">
+            <font color = "# 009900">
+             <strong>
+              FREE
+             </strong>
+            </font>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Brake fluid test
+           </td>
+           <td align = "right">
+            <font color = "# 009900">
+             <strong>
+              FREE
+             </strong>
+            </font>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Vehicle valuation for the purchase of your used vehicle
+           </td>
+           <td align = "right">
+            <font color = "# 009900">
+             <strong>
+              FREE
+             </strong>
+            </font>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Defect inspection on your vehicle (with order)
+           </td>
+           <td align = "right">
+            <font color = "# 009900">
+             <strong>
+              FREE
+             </strong>
+            </font>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div>
+      <div class = "row">
+       <div class = "span12">
+        <div class = "sub_heading">
+         <span class = "icon">
+          Z
+         </span>
+         Battery heating oil
+         <span class = "icon">
+          Y
+         </span>
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         Batteries from Bosch, Varta, Rocket, Banner - parking heaters from Eberspächer and Webasto - branded oils from Liqui Moly.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "quick_connect">
+    <! - Please ask us ->
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "page_title">
+         Please ask us
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "contact_button">
+         <a href="#contact">
+          and convince yourself of our services!
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <! - / Please ask us ->
+  </section>
+  <! - / Section Services ->
+  <div class = "clear">
+  </div>
+  <section class = "page" id = "features">
+   <! - Section Features = trailer rental ->
+   <div class = "container-fluid">
+    <! - trailer rental ->
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        Trailer rental
+       </div>
+       <div class = "promo_txt">
+        at Auto Trentzsch
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "container-fluid other_services">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "span12">
+        <div class = "span9">
+         <b>
+          Dump truck
+         </b>
+         Loading area 1.53 x 2.50 x 0.35
+         <br/>
+         6 lashing eyes in the box
+         <br/>
+         <b>
+          General purpose trailer
+         </b>
+         permissible total weight 1500kg / payload 1200kg
+         <br/>
+         1 axle braked, without tarpaulin
+         <br/>
+         <b>
+          Backward tipper
+         </b>
+         hydraulic; 100km / h approval
+        </div>
+        <div class = "span3">
+         <p>
+          <b>
+           Loan fee
+          </b>
+          <br/>
+          1 hour: € 10
+          <br/>
+          1 day: 45, - €
+          <br/>
+          1 weekend: € 70
+          <br/>
+          1 week 220, - €
+         </p>
+        </div>
+        <div class = "clear">
+        </div>
+        <div class = "clearfix portfolio" id = "container">
+         <! - #container clearfix portfolio 1 ->
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/anhaenger-vermietung-kipper/anhaenger-gross/all Zweckanhaenger-1500-kg-ohne-plane.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             1 axle tipping trailer
+            </h3>
+            <p>
+             Reverse tipper / hydraulic / payload 1200kg
+            </p>
+           </article>
+           <img alt = "Tipper trailer reverse tipper Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / all Zweckanhaenger-1500-kg-ohne-plane.jpg" title = "Tipper trailer reverse tipper 6 lashing eyes in a box" />
+          </div>
+         </a>
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/anhaenger-vermietung-kipper/anhaenger-gross/rueckwaertskipper-hydraulisch-nutzlast-1200-kg.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             1 axle tipping trailer
+            </h3>
+            <p>
+             Reverse tipper / hydraulic / payload 1200kg
+            </p>
+           </article>
+           <img alt = "Tipper trailer reverse tipper Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / rueckwaertskipper-hydraulic-payload-1200-kg.jpg" title = "Freie Werkstatt Auto Trentzsch tipper trailer tipper trailer" />
+          </div>
+         </a>
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/anhaenger-vermietung-kipper/anhaenger-gross/kipper-all Zweckanhaenger-1500-kg.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             1 axle tipping trailer
+            </h3>
+            <p>
+             Reverse tipper / hydraulic / payload 1200kg
+            </p>
+           </article>
+           <img alt = "Tipper trailer reverse tipper Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / kipper-all Zweckanhaenger-1500-kg.jpg" title = "Freie Werkstatt Auto Trentzsch tipper trailer reverse tipper" />
+          </div>
+         </a>
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio ]" href="images/anhaenger-vermietung-kipper/anhaenger-gross/kipper-hydraulisch-all Zweckanhaenger-gebremst.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             1 axle tipping trailer
+            </h3>
+            <p>
+             Reverse tipper / hydraulic / payload 1200kg
+            </p>
+           </article>
+           <img alt = "Tipper trailer Rückwärtskipper Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / kipper-hydraulisch-all Zweckanhaenger-gebremst.jpg" title = "Freie Werkstatt Auto Trentzsch Tipper Trailer Reverse Tipper" />
+          </div>
+         </a>
+         <div class = "clear">
+         </div>
+        </div>
+        <! - / #container clearfix portfolio 1 ->
+        <div class = "clearfix portfolio" id = "container">
+         <! - #container clearfix portfolio 2 ->
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio ]" href="images/anhaenger-vermietung-kipper/anhaenger-gross/tandem-kofferanhaenger-mieten.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             Tandem luggage tag
+            </h3>
+            <p>
+             Payload 1600 kg / closed box / lockable
+            </p>
+           </article>
+           <img alt = "Tandem suitcase trailer closed box Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / tandem-kofferanhaenger-rent.jpg" title = "Tandem suitcase trailer closed box" />
+          </div>
+         </a>
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio ]" href="images/anhaenger-vermietung-kipper/anhaenger-gross/tandem-big-kofferanhaenger-abschlössbar-mieten.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             Tandem luggage tag
+            </h3>
+            <p>
+             Payload 1600 kg / closed box / lockable
+            </p>
+           </article>
+           <img alt = "Tandem suitcase trailer closed box Freie Werkstatt Auto Trentzsch" src = "images / anhaenger-rent-kipper / tandem-big-kofferanhaenger-lockable-rent.jpg" title = "Tandem suitcase trailer closed box" />
+          </div>
+         </a>
+         <div class = "span5">
+          <b>
+           Tandem luggage tag
+          </b>
+          Area 1.50 x 3.55 x 1.8
+          <br/>
+          Lockable box body
+          <br/>
+          2 axles braked, low loader
+          <br/>
+          permissible total weight 2000kg / payload 1600kg
+          <br/>
+          100km / h approval
+          <br/>
+          <br/>
+          <b>
+           Loan fee
+          </b>
+          <br/>
+          1 hour: € 10
+          <br/>
+          1 day: 39, - €
+          <br/>
+          1 weekend: 65, - €
+          <br/>
+          1 week € 190
+         </div>
+         <div class = "clear">
+         </div>
+        </div>
+        <! - / #container clearfix portfolio 2 ->
+        <div class = "clearfix portfolio" id = "container">
+         <! - #container clearfix portfolio 3 ->
+         <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/anhaenger-vermietung-kipper/anhaenger-gross/kofferanhaenger-kasten-verbind.jpg">
+          <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+           <article class = "gallery-caps">
+            <h3>
+             Suitcase tag
+            </h3>
+            <p>
+             with closed box
+            </p>
+           </article>
+           <img alt = "Luggage tag with closed box" src = "images / anhaenger-rental-kipper / kofferanhaenger-kasten-closed.jpg" title = "Luggage tag with closed box from Werkstatt Auto Trentzsch - Freie Werkstatt" />
+          </div>
+         </a>
+         <div class = "span5">
+          <b>
+           Suitcase tag
+          </b>
+          with closed box
+          <br/>
+          1 axle 100km / h approval
+          <br/>
+          <br/>
+         </div>
+         <div class = "clear">
+         </div>
+        </div>
+        <! - / #container clearfix portfolio 23 ->
+       </div>
+       <div class = "span6">
+       </div>
+      </div>
+      <div class = "row">
+       <div class = "span12">
+        <div class = "sub_heading">
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+        </p>
+       </div>
+      </div>
+     </div>
+     <! - / container ->
+    </div>
+    <! - / row-fluid ->
+   </div>
+   <! - / container-fluid other_services ->
+   <div class = "clear">
+   </div>
+   <div class = "quick_connect">
+    <! - Rent your trailer - old: Please ask us ->
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "page_title">
+         Rent your trailer
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "contact_button">
+         <a href="#contact">
+          and convince yourself of our service!
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <! - / Rent your trailer ->
+   <div class = "clear">
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "container-fluid">
+    <! - Chronicle of the company from 1988 to 2013 ->
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        Chronicle of the company
+       </div>
+       <div class = "promo_txt">
+        25 years of Auto Trentzsch
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "container-fluid feature">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <article class = "span12">
+        <div class = "sub_heading">
+         <span class = "icon">
+          8th
+         </span>
+         Auto Trentzsch from 1988 to 2013
+        </div>
+       </article>
+      </div>
+      <div class = "row">
+       <div class = "span12">
+        <div class = "accordion" id = "accordion2">
+         <div class = "accordion-group">
+          <div class = "accordion-heading">
+           <a class="accordion-toggle" data-parent="#accordion2" data-toggle="collapse" href="#collapse1">
+            <span>
+             <i class = "icon-chevron-down">
+             </i>
+            </span>
+            06/01/1988 company foundation
+           </a>
+          </div>
+          <div class = "accordion-body in" id = "collapse1">
+           <div class = "accordion-inner">
+            <div class = "span9">
+             <p>
+              In July 1987 the business application was submitted to the local utility in Dresden-Nord City Hall, Bürgerstrasse.
+                                        The takeover of Horst Niebergall took place on June 1st, 1988.
+                                        For reasons of age, Mr. Niebergall was looking for a successor for his vehicle business.
+                                        The company in 8060 Dresden, Bautzner Str. 23-25 ​​regenerated vehicle parts for the import trade in Berlin and for Automot Heidenau.
+             </p>
+            </div>
+            <div class = "span3">
+             <img alt = "Kfz-Betrieb Bautzner Str. 23-25 ​​Vehicle parts for import trade Berlin and Automot Heidenau" src = "images / portfolio / kfz -betrieb-niebergall-bautzner-strasse.jpg" title = "Kfz-Betrieb Bautzner Str. 23-25 ​​vehicle parts for import trade Berlin and Automot Heidenau "/>
+            </div>
+            <div class = "clear">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "clear">
+         </div>
+         <div class = "accordion-group">
+          <div class = "accordion-heading">
+           <a class="accordion-toggle" data-parent="#accordion2" data-toggle="collapse" href="#collapse2">
+            <span>
+             <i class = "icon-chevron-down">
+             </i>
+            </span>
+            09/01/1990 Independent workshop
+           </a>
+          </div>
+          <div class = "accordion-body collapse" id = "collapse2">
+           <div class = "accordion-inner">
+            <div class = "span9">
+             <p>
+              After the introduction of the DMark, the workshop was rebuilt and from September 1st, 1990 it was run as an independent workshop.
+                                        In 1993 the company moved to Bodenbacher Str. 109 in 8021 Dresden and the company Günter Trentzsch Kfz-Spezialbetrieb was founded.
+                                        In December 1994 the property at Bodenbacher Str. 109 was purchased.
+             </p>
+            </div>
+            <div class = "span3">
+             <img alt = "Motor vehicle special company Günter Trentzsch" src = "images / portfolio / kfz-Spezialbetrieb-guenter-trentzsch.jpg" title = "Free workshop motor vehicle specialist company Günter Trentzsch" />
+            </div>
+            <div class = "clear">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "clear">
+         </div>
+         <div class = "accordion-group">
+          <div class = "accordion-heading">
+           <a class="accordion-toggle" data-parent="#accordion2" data-toggle="collapse" href="#collapse3">
+            <span>
+             <i class = "icon-chevron-down">
+             </i>
+            </span>
+            1995 - 1997 construction project at Bodenbacher Str.
+           </a>
+          </div>
+          <div class = "accordion-body collapse" id = "collapse3">
+           <div class = "accordion-inner">
+            <div class = "span6">
+             <p>
+              In 1995 the planning of the construction of a residential and commercial building began. Construction began in August 1996 with the demolition of the building myself, with the help of my 3 sons, friends of my sons, work colleagues and acquaintances.
+                                        After the gutting of the house, the construction companies Dieter Lau, Roland Drobisch, Reichard, Wittge, Naumann began. Knobloch, Wüstenhöfer, Bogitsky, Vetter, Richter and Schurig with the reconstruction.
+                                        Completion was on June 30th, 1997.
+                                        At the beginning of July 1997 all 3 apartments and rented offices were occupied. The ground floor was completed in November 1997.
+             </p>
+            </div>
+            <div class = "span3">
+             <img alt = "Construction project for a free workshop in Dresden Bodenbacher Str." src = "images / portfolio / umbau-freie-werkstatt-dresden-bodenbacher-strasse.jpg" title = "Construction measure for the free workshop of Auto Trentzsch in Dresden" />
+            </div>
+            <div class = "span3">
+             <img alt = "Construction project for a free workshop in Dresden Bodenbacher Str." src = "images / portfolio / nach-Umbau-freie-werkstatt-dresden-bodenbacher-strasse.jpg" title = "Building measure for the free workshop of Auto Trentzsch in Dresden" />
+            </div>
+            <div class = "clear">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "clear">
+         </div>
+         <div class = "accordion-group">
+          <div class = "accordion-heading">
+           <a class="accordion-toggle" data-parent="#accordion2" data-toggle="collapse" href="#collapse4">
+            <span>
+             <i class = "icon-chevron-down">
+             </i>
+            </span>
+            2002/2003 2nd workshop at Hamburger Str.
+           </a>
+          </div>
+          <div class = "accordion-body collapse" id = "collapse4">
+           <div class = "accordion-inner">
+            <div class = "span6">
+             <p>
+              My son Enrico came to the company as a car mechanic as early as 1996. In 1998 he passed his master craftsman examination.
+                                        For the establishment of our 2nd workshop we auctioned the property at Hamburger Str. 35a in 01067 Dresden on September 23, 2002 at the court in Dresden.
+                                        The demolition of the old buildings began in February 2003.
+                                        At the same time, the gradual expansion took place so that we were able to hold an open house on September 12, 2003 and to open the company on September 15, 2003.
+                                        The company developed well despite great initial difficulties. There are currently 6 employees in the company.
+                                        Our workshop and the second building rented to Rocho are located on the property. Social rooms were installed in the rented building and walls and roofs were renewed.
+             </p>
+            </div>
+            <div class = "span3">
+             <img alt = "Freie Werkstatt Hamburger Str. 35a in 01067 Dresden" src = "images / portfolio / freie-werkstatt-auto-trentzsch-hamburger-strasse.jpg" title = "Freie Werkstatt Auto Trentzsch in Dresden" />
+            </div>
+            <div class = "span3">
+             <img alt = "Free workshop in Dresden Hamburger Str. 35a in 01067" src = "images / portfolio / freie-werkstatt-auto-trentzsch-hamburger-nach-umbau.jpg" title = "Free workshop Auto Trentzsch in Dresden" / >
+            </div>
+            <div class = "clear">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "clear">
+         </div>
+         <div class = "accordion-group">
+          <div class = "accordion-heading">
+           <a class="accordion-toggle" data-parent="#accordion2" data-toggle="collapse" href="#collapse5">
+            <span>
+             <i class = "icon-chevron-down">
+             </i>
+            </span>
+            2007/2008 3rd workshop in Radeburg
+           </a>
+          </div>
+          <div class = "accordion-body collapse" id = "collapse5">
+           <div class = "accordion-inner">
+            <div class = "span9">
+             <p>
+              In 2007 we took over the tire trading company in Radeburg.
+              <br/>
+              The takeover of the Flechsig company was complete and the purchase of our 3rd workshop in 2008 was perfect.
+                                        All 3 workshops are running well, a lot can now be converted and modernized.
+             </p>
+            </div>
+            <div class = "span3">
+             <img alt = "Free workshop in Radeburg tire trade - car wash" src = "images / portfolio / freie-werkstatt-radeburg-radeberger-stasse.jpg" title = "Free workshop Auto Trentzsch" />
+            </div>
+            <div class = "clear">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <! - / container ->
+    </div>
+    <! - / row-fluid ->
+   </div>
+   <! - / container-fluid feature from above! Chronicle of the company from 1988 to 2013 ->
+   <div class = "clear">
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "quick_connect">
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "page_title">
+         Used & amp; New vehicle parts, tires / wheels at a bargain price at AUTO TRENTZSCH
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "contact_button">
+         <a href="#contact">
+          Interest?
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <! - / Section Features Trailer rental + attached company history + ->
+  <div class = "clear">
+  </div>
+  <section class = "page" id = "portfolio">
+   <! - Section Portfolio Pictures ->
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        photos
+       </div>
+       <div class = "promo_txt">
+        Vehicles, material and service from the Auto-Trentzsch independent workshop
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "container-fluid portfolio-inner">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row" id = "options">
+       <ul class = "option-set clearfix" data-option-key = "filter" id = "filters">
+        <li class = "inner-link">
+         <a class="selected" data-option-value="*" href="#filter">
+          all
+         </a>
+        </li>
+        <li class = "inner-link">
+         <a data-option-value=".dresden" href="#filter">
+          Dresden
+         </a>
+        </li>
+        <li class = "inner-link">
+         <a data-option-value=".radeburg" href="#filter">
+          Radeburg
+         </a>
+        </li>
+        <li class = "inner-link">
+         <a data-option-value=".servicetechnik" href="#filter">
+          Material & amp; service
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class = "row">
+       <div class = "clearfix portfolio" id = "container">
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio Autovermietung" href="images/portfolio/full/frei-werkstatt-dresden-hamburger-strasse.jpg">
+         <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Hg">
+          <article class = "gallery-caps">
+           <h3>
+            Dresden Hamburger Str.
+           </h3>
+           <p>
+            Free workshop Auto Trentzsch Hamburger Strasse 35a
+           </p>
+          </article>
+          <img alt = "Free workshop Auto Trentzsch" src = "images / portfolio / freie-werkstatt-dresden-hamburger-strasse.jpg" title = "Free workshop Auto Trentzsch for cars vans + trucks up to 15 t" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio ]" href="images/portfolio/full/achsvergabe-spur tune-frei-werkstatt-auto-trentzsch.jpg">
+         <div class = "element servicetechnik height-01" data-category = "dresden" data-symbol = "Hg">
+          <article class = "gallery-caps">
+           <h3>
+            Wheel alignment
+           </h3>
+           <p>
+            Measurement of toe, camber, caster, maximum steering angle, rolling radius + control diagonal
+           </p>
+          </article>
+          <img alt = "Wheel alignment and wheel alignment" src = "images / portfolio / achsvergabe-spur tune-free-workshop-auto-trentzsch.jpg" title = "Free workshop Auto Trentzsch wheel alignment, measurement of toe, camber, caster, maximum steering angle, Rolling radius and control diagonal for car transporters + trucks up to 15 t "/>
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[port^^^^^ href="images/portfolio/full/frei-werkstatt-radeburg.jpg">
+         <div class = "element radeburg height-01" data-category = "radeburg" data-symbol = "Te">
+          <article class = "gallery-caps">
+           <h3>
+            Radeburg
+           </h3>
+           <p>
+            Free workshop in Radeburg Radeberger Str. 23
+           </p>
+          </article>
+          <img alt = "Freie Werkstatt Radeburg" src = "images / portfolio / freie-werkstatt-radeburg.jpg" title = "Freie Werkstatt Radeburg" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio^^ href="images/portfolio/full/service-transport- bottle-air-liquide-technische-gase.jpg">
+         <div class = "element servicetechnik height-01" data-category = "dresden" data-symbol = "Hg">
+          <article class = "gallery-caps">
+           <h3>
+            Gas distribution
+           </h3>
+           <p>
+            technical gases from AIR LIQUIDE
+           </p>
+          </article>
+          <img alt = "Gas sales technical gases in steel bottles" src = "images / portfolio / service-transport-flasche-air-liquide-technical-gases.jpg" title = "Free workshop Auto Trentzsch gas sales technical gases, oxygen, nitrogen, argon in steel bottles "/>
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio Autovermietung" href="images/portfolio/full/team-frei-werkstatt-dresden-hamburger-strasse.jpg">
+         <div class = "element dresden height-03" data-category = "dresden" data-symbol = "Bi">
+          <article class = "gallery-caps">
+           <h3>
+            Auto Trentzsch
+           </h3>
+           <p>
+            Free workshop in Dresden Hamburger Strasse 35a
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "images / portfolio / team-free-workshop-dresden-hamburger-strasse.jpg" title = "Free workshop in Dresden" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[port^^^^^ href="images/portfolio/full/air-liquide-technische-gase.jpg">
+         <div class = "element servicetechnik height-01" data-category = "dresden" data-symbol = "Hg">
+          <article class = "gallery-caps">
+           <h3>
+            Gas distribution
+           </h3>
+           <p>
+            AIR LIQUIDE technical gases
+           </p>
+          </article>
+          <img alt = "Gas sales AIR LIQUIDE technical gases" src = "images / portfolio / air-liquide-technical-gase.jpg" title = "Freie Werkstatt Auto Trentzsch" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio^^ href="images/portfolio/full/frei-werkstatt-radeburg-radeberger-stasse.jpg">
+         <div class = "element radeburg height-01" data-category = "radeburg" data-symbol = "Ca">
+          <article class = "gallery-caps">
+           <h3>
+            Free workshop
+           </h3>
+           <p>
+            Auto Trentzsch in Radeburg, Radeberger Str. 23
+           </p>
+          </article>
+          <img alt = "Free workshop in Radeburg" src = "images / portfolio / freie-werkstatt-radeburg-radeberger-stasse.jpg" title = "Free workshop Auto Trentzsch in Radeburg" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio^^ href="images/portfolio/full/frei-werkstatt-dresden-bodenbacher-strasse.jpg">
+         <div class = "element dresden height-02" data-category = "dresden" data-symbol = "Cd">
+          <article class = "gallery-caps">
+           <h3>
+            Auto Trentzsch
+           </h3>
+           <p>
+            Free workshop in Dresden Bodenbacher Str. 109
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "images / portfolio / freie-werkstatt-dresden-bodenbacher-strasse.jpg" title = "Free workshop Auto Trentzsch" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/portfolio/full/flaschenlager-air-liquide-technische-gase.jpg">
+         <div class = "element servicetechnik height-01" data-category = "dresden" data-symbol = "Hg">
+          <article class = "gallery-caps">
+           <h3>
+            Gas distribution
+           </h3>
+           <p>
+            Bottle storage for technical gases from AIR LIQUIDE
+           </p>
+          </article>
+          <img alt = "Gas sales technical gases in steel bottles" src = "images / portfolio / flaschenlager-air-liquide-technical-gase.jpg" title = "Free workshop Auto Trentzsch gas sales technical gases in steel bottles" />
+         </div>
+        </a>
+        <a class = "gallery-block" data-gal = "prettyPhoto [portfolio]" href = "https://auto-trentzsch.de/images/portfolio/full/auto-trentzsch-frei-werkstatt-dresden-hamburger- strasse.jpg ">
+         <div class = "element dresden height-01" data-category = "digital" data-symbol = "Re">
+          <article class = "gallery-caps">
+           <h3>
+            Free workshop
+           </h3>
+           <p>
+            Auto Trentzsch in Dresden 2017
+           </p>
+          </article>
+          <img alt = "Auto Trentzsch Free Workshop in Dresden 2017" src = "https://auto-trentzsch.de/images/portfolio/auto-trentzsch-frei-werkstatt-dresden-hamburger-strasse.jpg" title = "Free Auto Trentzsch workshop 2017 "/>
+         </div>
+        </a>
+        <a class = "gallery-block" data-gal = "prettyPhoto [portfolio]" href = "https://auto-trentzsch.de/images/portfolio/full/frei-werkstatt-auto-trentzsch-hamburger-nach- umbau.jpg ">
+         <div class = "element dresden height-01" data-category = "digital" data-symbol = "Re">
+          <article class = "gallery-caps">
+           <h3>
+            Free workshop
+           </h3>
+           <p>
+            Hamburger Str. After the renovation
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "https://auto-trentzsch.de/images/portfolio/frei-werkstatt-auto-trentzsch-hamburger-nach-umbau.jpg" title = "Free workshop Auto Trentzsch "/>
+         </div>
+        </a>
+        <a class = "gallery-block" data-gal = "prettyPhoto [portfolio]" href = "https://auto-trentzsch.de/images/portfolio/full/frei-werkstatt-auto-trentzsch-hamburger-strasse. jpg ">
+         <div class = "element dresden height-02" data-category = "ecommerce" data-symbol = "Tl">
+          <article class = "gallery-caps">
+           <h3>
+            Auto Trentzsch
+           </h3>
+           <p>
+            Renovation on Hamburger Str.
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "https://auto-trentzsch.de/images/portfolio/ freie-werkstatt-auto-trentzsch-hamburger-strasse.jpg" title = "Free workshop Auto Trentzsch" / >
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[portfolio^" href="images/portfolio/full/nach-umbau-frei-werkstatt-dresden-bodenbacher-strasse.jpg">
+         <div class = "element dresden height-03" data-category = "branding" data-symbol = "Sb">
+          <article class = "gallery-caps">
+           <h3>
+            Free workshop
+           </h3>
+           <p>
+            Bodenbacher Str. After the renovation
+           </p>
+          </article>
+          <img alt = "Free workshop on Bodenbacher Str. after the renovation" src = "images / portfolio / nach-umbau-freie-werkstatt-dresden-bodenbacher-strasse.jpg" title = "Free workshop on Auto Trentzsch Bodenbacher Str "/>
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[port^^^^^^ href="images/portfolio/full/umbau-frei-werkstatt-dresden-bodenbacher-strasse.jpg">
+         <div class = "element dresden height-01" data-category = "web" data-symbol = "Co">
+          <article class = "gallery-caps">
+           <h3>
+            modification
+           </h3>
+           <p>
+            Free workshop at Bodenbacher Str. In Dresden
+           </p>
+          </article>
+          <img alt = "Conversion of the free workshop in Bodenbacher Str. in Dresden" src = "images / portfolio / conversion-free-workshop-dresden-bodenbacher-strasse.jpg" title = "Conversion of the free workshop in Auto Trentzsch" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[port^^^^ href="images/portfolio/full/kfz-spezialbetrieb-guenter-trentzsch.jpg">
+         <div class = "element dresden height-02" data-category = "creative" data-symbol = "Cd">
+          <article class = "gallery-caps">
+           <h3>
+            Specialized vehicle company
+           </h3>
+           <p>
+            Günter Trentzsch company
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "images / portfolio / kfz-Spezialbetrieb-guenter-trentzsch.jpg" title = "Free workshop Auto Trentzsch" />
+         </div>
+        </a>
+        <a class="gallery-block" data-gal="prettyPhoto[port^^^^^^ href="images/portfolio/full/kfz-betrieb-niebergall-bautzner-strasse.jpg">
+         <div class = "element dresden height-01" data-category = "branding" data-symbol = "Ca">
+          <article class = "gallery-caps">
+           <h3>
+            takeover
+           </h3>
+           <p>
+            Car company Niebergall Bautzner Str. 23-25
+           </p>
+          </article>
+          <img alt = "Free workshop in Dresden" src = "images / portfolio / kfz-Betriebs-niebergall-bautzner-strasse.jpg" title = "Free workshop Auto Trentzsch" />
+         </div>
+        </a>
+       </div>
+       <! - / #container ->
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "quick_connect">
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "page_title">
+         Tires + complete wheels for your car!
+         <br/>
+         (ALSO USED !!!)
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "contact_button">
+         <a href="#contact">
+          Ask us!
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <! - / Portfolio pictures ->
+  <div class = "clear">
+  </div>
+  <section class = "page" id = "contact">
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "page_title">
+        What can we do for you?
+       </div>
+       <div class = "promo_txt">
+        24 hour emergency number
+        <b>
+         0351 50178790
+        </b>
+       </div>
+      </div>
+      <div class = "row contact">
+       <div class = "span8">
+        <div class = "sub_heading">
+         Your message to us
+        </div>
+        <div class = "clear">
+        </div>
+        <form action = "https://www.auto-trentzsch.de/danke.htm" class = "contact_form" id = "contactForm" method = "POST" name = "myform">
+         <input id = "email data" name = "first name" placeholder = "first name" type = "text" />
+         <input id = "email data" name = "last name" placeholder = "last name *" type = "text" />
+         <input id = "email data" name = "residence" placeholder = "residence" type = "text" />
+         <input id = "email data" name = "street name" placeholder = "street name" type = "text" />
+         <input id = "email data" name = "house number" placeholder = "house number" type = "text" />
+         <input id = "email data" name = "preselection" placeholder = "preselection *" type = "text" />
+         <input id = "email data" name = "phone number" placeholder = "phone number *" type = "text" />
+         <input id = "email data" name = "email address" placeholder = "email address *" type = "text" />
+         <input id = "email data" name = "zip code" placeholder = "zip code *" type = "text" />
+         <input id = "email data" name = "land" placeholder = "land" type = "text" />
+         <input id = "email data" name = "number" placeholder = "how many? *" type = "text" />
+         <input id = "email data" name = "wish" placeholder = "your wish is?" type = "text" />
+         <input id = "email data" name = "lang" placeholder = "length in cm *" type = "text" />
+         <input id = "email data" name = "wide" placeholder = "width in mm" type = "text" />
+         <input id = "email data" name = "high" placeholder = "height in mm *" type = "text" />
+         <input id = "email data" name = "color" placeholder = "desired color" type = "text" />
+         <input id = "email data" name = "message" placeholder = "your message" type = "text" />
+         <input id = "email data" name = "field1" placeholder = "I'm not a spambot *" type = "text" />
+         <input id = "email data" name = "field2" placeholder = "I'm a robot *" type = "text" />
+         <input id = "email data" name = "field3" placeholder = "I am a person *" type = "text" />
+         <div class = "alert alert-error error" id = "fname">
+          Please enter the name
+         </div>
+         <div class = "alert alert-error error" id = "fmail">
+          Please enter the email address
+         </div>
+         <div class = "alert alert-error error" id = "fmsg">
+          Please enter your message
+         </div>
+         <input class = "span11 input" id = "name" name = "name" placeholder = "Name" required = "" size = "16" type = "text">
+          <input class = "span11 input" id = "email" name = "email" placeholder = "Email Address" required = "" size = "16" type = "email">
+           <textarea class = "span11 textarea" id = "msg" name = "p_message" placeholder = "Message" required = ""> </textarea>
+           <div class = "span3">
+            Workshop request:
+           </div>
+           <div class = "span4">
+            <select name = "workshop request" size = "1">
+             <option>
+              DD Hamburger Str. 35 A
+             </option>
+             <option>
+              DD Bodenbacher Str. 109
+             </option>
+             <option>
+              Radeburg Radeberger Str. 23
+             </option>
+            </select>
+           </div>
+           <div class = "clear">
+           </div>
+           <div class = "span3">
+           </div>
+           <div class = "span8">
+            <input class = "button send_msg small_btn" id = "submit" name = "submit" type = "submit" value = "send">
+             <br/>
+             <br/>
+             <br/>
+             <br/>
+            </input>
+           </div>
+          </input>
+         </input>
+        </form>
+       </div>
+       <div class = "span4 contact_info">
+        <div class = "sub_heading">
+         imprint
+        </div>
+        <p>
+         Site owner:
+         <br/>
+         Enrico Trentzsch
+         <br/>
+         Enrico & amp; Guenter Trentzsch GbR
+         <br/>
+         Tel .: 0351 4852249
+         <br/>
+         Fax: 0351 4852251
+         <br/>
+         Hamburger Str. 35 A
+         <br/>
+         01067 Dresden
+         <br/>
+         <br/>
+         Bodenbacher Str. 109
+         <br/>
+         01277 Dresden
+         <br/>
+         Tel .: 0351 2510432
+         <br/>
+         Fax: 0351 2510438
+         <br/>
+         <br/>
+         Radeberger Str. 23
+         <br/>
+         01471 Radeburg
+         <br/>
+         Tel .: 035 208 2422
+         <br/>
+         Fax: 035 208 4386
+         <br/>
+         <br/>
+         VAT ID: DE226766259
+         <br/>
+         Place of jurisdiction is Dresden
+         <br/>
+         Chamber of Crafts: Dresden
+         <br/>
+         Trade association: mechanical engineering and metal MMBG
+         <br/>
+         e-mail: info@auto-trentzsch.de
+         <br/>
+         Web: www.auto-trentzsch.de
+        </p>
+       </div>
+       <div class = "row">
+        <div class = "span12">
+         <p>
+          Note according to § 36 Consumer Dispute Settlement Act (VSBG):
+          <br/>
+          We, the Enrico & amp; Guenter Trentzsch GbR, will not be involved in a dispute settlement procedure before a consumer arbitration board i.S.d. VSBG participate and are not obliged to do so.
+         </p>
+         <a class="anchor" id="datenschutz" name="datenschutz" title="datenschutz">
+          <div class = "sub_heading">
+           Data protection
+          </div>
+         </a>
+         <p>
+          The security of your data is important for us. We comply with German data protection laws and use the following data protection information to inform you about how we handle your data.
+          <br/>
+          Unless otherwise specified below, the provision of your personal data is not required by law or contract, nor is it necessary for the conclusion of a contract. You are not obliged to provide the data. Failure to provide has no consequences. This only applies if no other information is given in the subsequent processing operations. "Personal data" is all information that relates to an identified or identifiable natural person.
+          <br/>
+          <br/>
+          <b>
+           Server log files
+          </b>
+          <br/>
+          You can visit our website without giving any personal information.
+Every time you access our website, usage data is transmitted through your Internet browser and stored anonymously in log files (server log files) for statistical purposes of the domain name, the IP address of the requesting computer, the access date, the file request from the client (file name and URL, information about the website from which you found us), description of the type of web browser version used including the operating system, the HTTP response code as well as the number of bytes transferred during the connection and the requesting provider saved.
+          <br/>
+          <br/>
+          <b>
+           Collection, processing and use of personal data
+          </b>
+          <br/>
+          <b>
+           Contact form and e-mail contact
+          </b>
+          <br/>
+          A contact form is available on our website that can be used to contact us electronically. If a user makes use of this option, the data entered in the input mask will be transmitted to us and saved. Alternatively, you can contact us using the email address provided. In this case, the user's personal data transmitted with the email will be saved. In this context, the data will not be passed on to third parties. The data will only be used to process the conversation.
+          <br/>
+          <br/>
+          <b>
+           Duration of storage
+          </b>
+          <br/>
+          After the contract has been fully processed, the data is initially stored for the duration of the warranty period, then taking into account statutory, in particular tax and commercial retention periods, and then deleted after the deadline, unless you have consented to further processing and use.
+          <br/>
+          <br/>
+          <b>
+           Rights of the data subject
+          </b>
+          <br/>
+          If the legal requirements are met, you have the following rights according to Art. 15 to 20 GDPR:
+Right to information, to correction, to deletion, to restriction of processing, to data portability. In addition, according to Art. 21 (1) GDPR, you have the right to object to processing based on Art. 6 (1) f GDPR as well as to processing for the purpose of direct mail.
+          <br/>
+          <br/>
+          <em>
+           <b>
+            Your contact for data protection matters
+           </b>
+           <br/>
+          </em>
+          If you have any questions regarding the processing of your personal data, including requests for information, applications or complaints, please contact us directly:
+          <br>
+           Enrico Trentzsch
+           <br>
+            Tel .: 0351 4852249
+            <br>
+             e-mail: info@auto-trentzsch.de
+             <br>
+              <br/>
+              <b>
+               Right of appeal to the supervisory authority
+              </b>
+              <br/>
+              According to Art. 77 GDPR, you have the right to complain to the supervisory authority if you are of the opinion that your personal data is not being processed lawfully.
+             </br>
+            </br>
+           </br>
+          </br>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "clear">
+   </div>
+   <div class = "quick_connect">
+    <div class = "container-fluid">
+     <div class = "row-fluid">
+      <div class = "container">
+       <div class = "row">
+        <div class = "page_title">
+         Always have a good trip
+         <br>
+          wishes you your free workshop - Auto Trentzsch!
+         </br>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <div class = "clear">
+  </div>
+  <footer>
+   <div class = "container-fluid">
+    <div class = "row-fluid">
+     <div class = "container">
+      <div class = "row">
+       <div class = "span8 offset2">
+        <img alt = "Free vehicle workshop - AUTO TRENTZSCH" height = "20%" src = "https://auto-trentzsch.de/google/auto-dresden.gif" title = "Free vehicle workshop - AUTO TRENTZSCH" width = "20%" />
+        <div class = "clear">
+        </div>
+        <p>
+         Free workshop Auto Trentzsch
+         <br>
+          01067 Dresden, Hamburger Str.35a, Tel .: 0351 4852249 - 01277 Dresden, Bodenbacher Str. 109
+          <br>
+           Tel .: 0351 2510432 - 01471 Radeburg, Radeberger Str. 23, Tel .: 035208 2422
+          </br>
+         </br>
+        </p>
+        <div class = "clear">
+        </div>
+        <div class = "connect">
+         <a href="https://www.auto-trentzsch.de/#contact">
+          imprint
+         </a>
+         <span>
+         </span>
+         <a href="https://www.auto-trentzsch.de/#datenschutz">
+          Data protection
+         </a>
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <! - JS
+================================================== ->
+  <script src = "javascripts / jquery-1.7.2.min.js">
+  </script>
+  <script src = "assets / js / bootstrap-transition.js">
+  </script>
+  <script src = "assets / js / bootstrap-alert.js">
+  </script>
+  <script src = "assets / js / bootstrap-modal.js">
+  </script>
+  <script src = "assets / js / bootstrap-dropdown.js">
+  </script>
+  <script src = "assets / js / bootstrap-scrollspy.js">
+  </script>
+  <script src = "assets / js / bootstrap-tab.js">
+  </script>
+  <script src = "assets / js / bootstrap-tooltip.js">
+  </script>
+  <script src = "assets / js / bootstrap-popover.js">
+  </script>
+  <script src = "assets / js / bootstrap-button.js">
+  </script>
+  <script src = "assets / js / bootstrap-collapse.js">
+  </script>
+  <script src = "assets / js / bootstrap-carousel.js">
+  </script>
+  <script src = "assets / js / bootstrap-typeahead.js">
+  </script>
+  <script src = "assets / js / bootstrap-affix.js">
+  </script>
+  <script src = "javascripts / jquery.localscroll-1.2.7-min.js">
+  </script>
+  <script src = "javascripts / jquery.scrollTo-1.4.2-min.js">
+  </script>
+  <script src = "javascripts / jquery.prettyPhoto.js">
+  </script>
+  <script src = "javascripts / jquery.easing.1.3.js">
+  </script>
+  <script src = "javascripts / jquery.isotope.min.js">
+  </script>
+  <script src = "javascripts / fake-element.js">
+  </script>
+  <script src = "javascripts / form-validation.js">
+  </script>
+  <script src = "javascripts / waypoints.min.js">
+  </script>
+  <script src = "javascripts / scroll.js">
+  </script>
+  <script src = "javascripts / jquery.ba-cond.min.js" type = "text / javascript">
+  </script>
+  <script src = "javascripts / jquery.slitslider.js" type = "text / javascript">
+  </script>
+  <script type = "text / javascript">
+   $ (window) .load (function () {
+
+var win_height = window.innerHeight;
+$ ('. page'). css ('min-height', win_height-166 + 'px');
+        
+$ ('. big_circle'). mouseenter (function () {
+$ (this) .children ('p'). delay (250) .fadeIn (500);
+});
+
+$ ('. big_circle'). mouseleave (function () {
+$ (this) .children ('p'). fadeOut (300);
+});
+
+var no_of_testimonials = $ ('. testimonial_collection .testimonial'). length;
+
+for (i = 1; i <= no_of_testimonials; i ++)
+{
+
+if (i == 1)
+$ ('. testimonial_nav'). append ('<a href="#" class="active_nav" data-index="'+i+'"> </a>');
+else
+$ ('. testimonial_nav'). append ('<a href="#" data-index="'+i+'"> </a>');
+}
+
+$ ('. testimonial_nav a'). click (function () {
+$ ('. testimonial'). hide ();
+$ ('. testimonial_nav a'). removeClass ('active_nav');
+$ (this) .addClass ('active_nav');
+var target_index = $ (this) .attr ('data-index');
+$ ('. testimonial_collection .testimonial: nth-child (' + target_index + ')'). fadeIn (1000);
+return false;
+});
+
+$ ('. nav-tabs a'). click (function (e) {
+e.preventDefault ();
+$ (this) .tab ('show');
+})
+
+$ ('# f-none'). trigger ('click');
+
+$ ('. welcome_txt a'). click (function () {
+$ ('. links a: nth-child (2)'). trigger ('click');
+return false;
+});
+
+$ ('. quick_connect a'). click (function () {
+$ ('. links a: last-child'). trigger ('click');
+return false;
+});
+
+    });
+  </script>
+  <! - Mobile Navigation Scroll Setup ->
+  <script type = "text / javascript">
+   function moveTo (contentArea) {
+        var goPosition = $ (contentArea) .offset (). top;
+        $ ('html, body'). animate ({scrollTop: goPosition}, 'slow');
+        }
+  </script>
+  <! - Sticky nav ->
+  <script>
+   $ (window) .load (function () {
+
+      // NAVIGATION MENU COLOR CHANGE ON CLILCK
+      $ ('. desktop-nav a'). click (function () {
+        var colIndex = $ (this) .attr ('title');
+        $ ('. desktop-nav a'). removeClass ('def-link');
+        $ (this) .addClass ('def-link');
+        $ (this) .addClass (colIndex + '- link');
+      })
+
+  
+// PORTFOLIO IMAGE HOVER
+$ ('. element'). mouseenter (function () {
+$ (this) .find ('img'). stop (). animate ({opacity: '0'}, 'slow')
+$ (this) .find ('. gallery-caps'). stop (). animate ({opacity: '1'}, 'slow')
+})
+
+$ ('. element'). mouseleave (function () {
+$ ('. element'). find ('. gallery-caps'). stop (). animate ({opacity: '0'}, 'slow')
+$ ('. element'). find ('img'). stop (). animate ({opacity: '1'}, 'slow')
+})
+
+// PORTFOLIO FILTER ON CLICK
+$ ('. inner-link a'). click (function () {
+$ ('. inner-link a'). removeClass ('selected');
+$ (this) .addClass ('selected');
+})
+
+// Services More Content triggering
+$ ('. services-more'). click (function () {
+var servIndex = $ (this) .attr ('data-services');
+// alert (servIndex);
+$ ('#' + servIndex + '- content'). slideToggle ();
+})
+
+});
+  </script>
+  <script>
+   // Initialize prettyPhoto plugin
+$ (". portfolio a [data-gal ^ = 'prettyPhoto']"). prettyPhoto ({
+theme: 'light_square',
+autoplay_slideshow: false,
+overlay_gallery: false,
+show_title: true
+});
+
+
+  
+
+// MASONRY PORTFOLIO INIT:
+    $ (window) .load (function () {
+      
+      var $ container = $ ('# container');
+
+      $ container.isotope ({
+        itemSelector: '.element',
+        layoutMode: 'masonry'
+      });
+      
+      
+      var $ optionSets = $ ('# options .option-set'),
+          $ optionLinks = $ optionSets.find ('a');
+
+      $ optionLinks.click (function () {
+        
+var $ this = $ (this);
+        // don't proceed if already selected
+        / * if ($ this.hasClass ('selected')) {
+          return false;
+        } * /
+
+        var $ optionSet = $ this.parents ('. option-set');
+        $ optionSet.find ('. selected'). removeClass ('selected');
+        $ this.addClass ('selected');
+  
+        // make option object dynamically, i.e. {filter: '.my-filter-class'}
+        var options = {},
+            key = $ optionSet.attr ('data-option-key'),
+            value = $ this.attr ('data-option-value');
+        // parse 'false' as false boolean
+        value = value === 'false'? false: value;
+        options [key] = value;
+        if (key === 'layoutMode' && typeof changeLayoutMode === 'function') {
+          // changes in layout modes need extra logic
+          changeLayoutMode ($ this, options)
+        } else {
+          // creativewise, apply new options
+          $ container.isotope (options);
+        }
+        
+
+        return false;
+      });
+
+      
+    });
+  </script>
+  <! - End Document
+================================================== ->
+ </body>
+</html>

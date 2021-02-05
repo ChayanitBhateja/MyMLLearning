@@ -1,0 +1,3995 @@
+<! DOCTYPE html>
+<html lang = "de" xmlns = "http://www.w3.org/1999/xhtml">
+ <head>
+  <meta charset = "utf-8" />
+  <base href = "https://www.pneuhage.de/" />
+  <link href = "/ fileadmin / pneuhage.de / Resources / Public / Icons / favicon.ico" rel = "shortcut icon" type = "image / x-icon; charset = binary" />
+  <link href = "/ fileadmin / pneuhage.de / Resources / Public / Icons / favicon.ico" rel = "icon" type = "image / x-icon; charset = binary" />
+  <title>
+   Branch Dresden Pneuhage tire services
+  </title>
+  <meta content = "7 days" name = "revisit-after" />
+  <meta content = "Pneuhage tire services" name = "author" />
+  <meta content = "width = 1280" name = "viewport" />
+  <link href = "typo3temp / scriptmerger / uncompressed / head-1f49864430775fdab1b991dd42b841d6.merged.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.pneuhage.de/shop/static/widget/g=css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "typo3temp / scriptmerger / uncompressed / head-b609820825fc23e8cb074393593ab779.merged.css" media = "print" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon57.png" rel = "apple-touch-icon" sizes = "57x57" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon72.png" rel = "apple-touch-icon" sizes = "72x72" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon76.png" rel = "apple-touch-icon" sizes = "76x76" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon114.png" rel = "apple-touch-icon" sizes = "114x114" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon120.png" rel = "apple-touch-icon" sizes = "120x120" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon144.png" rel = "apple-touch-icon" sizes = "144x144" />
+  <link href = "https://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Icons/Webapp/icon152.png" rel = "apple-touch-icon" sizes = "152x152" />
+  <meta content = "51.0846221; 13.6856958" name = "geo.position" />
+  <meta content = "51.0846221, 13.6856958" name = "ICBM" />
+  <meta content = "Dresden" name = "geo.placename" />
+  <script data-ignore = "1" type = "application / ld + json">
+   {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "http://www.pneuhage.de/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "http://www.pneuhage.de/suche?tx_kesearch_pi1[sword[sword Autovermietung}",
+        "query-input": "required name = search_term_string"
+    }
+}
+  </script>
+  <meta content = "Your tire service in Dresden, Kaditz / Mickten ensures maximum driving safety with a professional tire change. Make an appointment for a car or commercial vehicle now!" name = "description" />
+  <meta content = "Pneuhage branch Dresden, tire dealer Dresden, tire service Dresden" name = "keywords" />
+  <meta content = "index, follow" name = "robots" />
+ </head>
+ <body class = "cms_page chrome" id = "page_201">
+  <div class = "page">
+   <div class = "container">
+    <div class = "container_inner clearfix">
+     <div class = "topbar" xmlns: f = "http://www.w3.org/1999/html">
+      <div class = "topbar_inner clearfix">
+       <ul>
+        <li class = "cash-payment">
+         <a href="https://www.pneuhage.de/hilfefaqs/bestellung" title="Online order pay locally">
+          <span class = "icon-cash-payment">
+          </span>
+          Order online and pay on site
+         </a>
+        </li>
+        <li class = "map-of-germany">
+         <a href="http://www.pneuhage.de/nc/filialfinder/pg/pkwtransporter" title="Deutschlandweites Filialnetz">
+          <span class = "icon-map-of-germany">
+          </span>
+          Germany-wide branch network
+         </a>
+        </li>
+        <li class = "delivery">
+         <a href="https://www.pneuhage.de/hilfefaqs/ Liefer-und- Montage" title="Free shipping">
+          <span class = "icon-delivery">
+          </span>
+          Free Shipping
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class = "header">
+      <div class = "header_inner clearfix">
+       <div class = "logo">
+        <div class = "logo_inner clearfix">
+         <a class="logo-screen-link" href="https://www.pneuhage.de/" title="Pneuhage tire services">
+          <img alt = "Pneuhage tire services" class = "logo-screen-img-seo" height = "124" src = "fileadmin / pneuhage.de / Resources / Public / Images / logo / pneuhage_hdr.png" title = "Pneuhage tire services "width =" 956 "/>
+         </a>
+        </div>
+       </div>
+       <div class = "header_tools">
+        <div class = "header_tools_inner clearfix">
+         <div class = "ajax-cart-wrap">
+          <div class = "ajax-cart" style = "display: none;">
+          </div>
+          <script type = "text / javascript">
+           var cartAjaxUrl = "/ ajax / cart";
+          </script>
+         </div>
+         <div class = "seals">
+          <div class = "seals-inner clearfix">
+           <a href="https://www.trustedshops.de/evaluation/info_X8ABD91A9A4D6E1E5EC91850BDB84CDAA.html" target="_blank" title="Trusted Shops-certified shop">
+            <img alt = "Trusted Shops - Certified Shop" height = "70" src = "fileadmin / pneuhage.de / Resources / Public / Images / seals / trustedshops-top.png" title = "Trusted Shops - Certified Shop" width = "70" />
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "navigation navigation_nojs">
+      <div class = "navigation_inner clearfix">
+       <div class = "navmain">
+        <div class = "navmain_inner clearfix">
+         <div class = "mini-logo">
+          <div class = "mini-logo-inner clearfix">
+           <a class="logo-screen-link" href="https://www.pneuhage.de/" title="Pneuhage tire services">
+            <span class = "icon-pneuhage-car-colored">
+             <span class = "path1">
+             </span>
+             <span class = "path2">
+             </span>
+             <span class = "path3">
+             </span>
+             <span class = "path4">
+             </span>
+             <span class = "path5">
+             </span>
+             <span class = "path6">
+             </span>
+             <span class = "path7">
+             </span>
+             <span class = "path8">
+             </span>
+             <span class = "path9">
+             </span>
+             <span class = "path10">
+             </span>
+             <span class = "path11">
+             </span>
+             <span class = "path12">
+             </span>
+             <span class = "path13">
+             </span>
+            </span>
+           </a>
+          </div>
+         </div>
+         <ul>
+          <li class = "open first navitem_1549">
+           <a href="https://www.pneuhage.de/pkw-transporter/online-kaufen">
+            <span>
+             Car transporter
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_68">
+             <a href="https://www.pneuhage.de/shop/reifen" onmousedown="ET_Event.click('PKW-OnlineShop','')">
+              <span>
+               BUY ONLINE
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_72">
+               <a href="https://www.pneuhage.de/shop/reifen/angebote" onmousedown="ET_Event.click('PKW-AngeboteProzent','')">
+                <span>
+                 Tire offers%
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_74">
+               <a href="https://www.pneuhage.de/shop/reifen/sommerreifen" onmousedown="ET_Event.click('PKW-Winterreifen','')">
+                <span>
+                 Summer tires
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_861">
+               <a href="https://www.pneuhage.de/shop/konfigurator/komplettraeder" onmousedown="ET_Event.click('PKW-Komplettraeder','')">
+                <span>
+                 Complete wheel configurator
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_75">
+               <a href="https://www.pneuhage.de/shop/reifen/ganzjahresreifen-allwetterreifen" onmousedown="ET_Event.click('PKW-Alljahresreifen','')">
+                <span>
+                 All season tires
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_73">
+               <a href="https://www.pneuhage.de/shop/reifen/winterreifen" onmousedown="ET_Event.click('PKW-Sommerreifen','')">
+                <span>
+                 Winter tires
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1232">
+               <a href="https://www.pneuhage.de/shop/reifen/winterreifen/testsieger">
+                <span>
+                 Tire test winner
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_78">
+               <a href="https://www.pneuhage.de/shop/konfigurator/felgen/alufelgen" onmousedown="ET_Event.click('PKW-Alufelgen','')">
+                <span>
+                 Alloy rims according to vehicle
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_962">
+               <a href="https://www.pneuhage.de/shop/konfigurator/felgengutachten/felgenmarke" onmousedown="ET_Event.click('PKW-FelgenGutachten','')">
+                <span>
+                 Rim certificate
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_76">
+               <a href="https://www.pneuhage.de/shop/reifen/suv-offroad">
+                <span>
+                 OffRoad / SUV tires
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_69">
+             <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen" onmousedown="ET_Event.click('PKW-Dienstleistungen','')">
+              <span>
+               Services
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_80">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/reifen-auswuchten" onmousedown="ET_Event.click('PKW-Auswuchten','')">
+                <span>
+                 Balancing
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_86">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/felgenreparatur" onmousedown="ET_Event.click('PKW-Felgenreparatur', '')">
+                <span>
+                 Rim repair
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_84">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/reifengas-pneufill" onmousedown="ET_Event.click('PKW-Pneufill', '')">
+                <span>
+                 Tire gas Pneufill
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_81">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/radwechsel-reifen Montage" onmousedown="ET_Event.click('PKW-Reifenwechsel','')">
+                <span>
+                 Wheel change tire assembly
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_83">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/reifeneinlagerung" onmousedown="ET_Event.click('PKW-Reifeneinlagerung', '')">
+                <span>
+                 Tire storage
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_85">
+               <a href="https://www.pneuhage.de/pkw-transporter/dienstleistungen/raederwaesche" onmousedown="ET_Event.click('PKW-Räderäsch','')">
+                <span>
+                 Wheel washing
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_70">
+             <a href="https://www.pneuhage.de/pkw-transporter/kfz-service" onmousedown="ET_Event.click('PKW-KFZService','')">
+              <span>
+               Car service
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_93">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/achsvermessung" onmousedown="ET_Event.click('PKW-Achsvermessung', '')">
+                <span>
+                 Wheel alignment
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_87">
+               <a href = "https://www.pneuhage.de/pkw-transporter/kfz-service/oelwechsel-bei-pneuhage-und-ihr-auto-laeuft-wie-geschmiert" onmousedown = "ET_Event.click ('PKW -Oil change ',' ') ">
+                <span>
+                 Oil change at Pneuhage
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_95">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/kfz-inspektion" onmousedown="ET_Event.click('PKW-Inspektion', '')">
+                <span>
+                 inspection
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_89">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/bremsen-service" onmousedown="ET_Event.click('PKW-BremsenCheck', '')">
+                <span>
+                 Brake service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_91">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/klima-service" onmousedown="ET_Event.click('PKW-KlimaService', '')">
+                <span>
+                 Air conditioning service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_92">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/autoglas-service" onmousedown="ET_Event.click('PKW-AutoglsService', '')">
+                <span>
+                 Auto glass service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_88">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/auspuff-service" onmousedown="ET_Event.click('PKW-AuspuffService', '')">
+                <span>
+                 Exhaust service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_94">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/hauptuntersprüfung" onmousedown="ET_Event.click('PKW-Hauptuntersprüfung', '')">
+                <span>
+                 General inspection
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_90">
+               <a href="https://www.pneuhage.de/pkw-transporter/kfz-service/stossdaempfer-service" onmousedown="ET_Event.click('PKW-StoßdaempferService', '')">
+                <span>
+                 Shock absorber service
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1596">
+               <a href="http://www.pneuhage.de/pkw-transporter/informationen/2016/autogas-umruestung-pforzheim">
+                <span>
+                 LPG conversion
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open last navitem_1700">
+             <a href="https://www.pneuhage.de/pkw-transporter/mobilitaets-ratgeber" onmousedown="ET_Event.click('PKW-Dienstleistungen','')">
+              <span>
+               Mobility advisor
+              </span>
+             </a>
+             <ul>
+              <li class = "open first navitem_1702">
+               <a href="https://www.pneuhage.de/pkw-transporter/mobilitaets-ratgeber/ratgeber-suv-reifen" onmousedown="ET_Event.click('PKW-Auswuchten', '')">
+                <span>
+                 Guide: SUV tires
+                </span>
+               </a>
+              </li>
+              <li class = "open last navitem_1696">
+               <a href="https://www.pneuhage.de/pkw-transporter/mobilitaets-ratgeber/ratgeber-allwetterreifen" onmousedown="ET_Event.click('PKW-Auswuchten', '')">
+                <span>
+                 Guide: all-weather tires
+                </span>
+               </a>
+              </li>
+             </ul>
+             <a class="appended_link" href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing" onmousedown="ET_Event.click('Flotten-PKWFlotten', '')">
+              <span>
+               Car fleets | leasing
+              </span>
+             </a>
+             <ul class = "appended_list">
+              <li class = "appended_listitem">
+               <a href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing/pkw-reifen" onmousedown="ET_Event.click('Flotten-PKWReifen', '')">
+                <span>
+                 Car tires
+                </span>
+               </a>
+              </li>
+              <li class = "appended_listitem">
+               <a href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing/flottenservice-pkw" onmousedown="ET_Event.click('Flotten-Flottenservice', '')">
+                <span>
+                 Fleet service
+                </span>
+               </a>
+              </li>
+              <li class = "appended_listitem">
+               <a href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing/systemabrechnung-pkw" onmousedown="ET_Event.click('Flotten-Systemabrechnung', '')">
+                <span>
+                 System accounting
+                </span>
+               </a>
+              </li>
+              <li class = "appended_listitem">
+               <a href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing/netzwerk-rahmenabkommen-pkw" onmousedown="ET_Event.click('Flotten-NetzwerkabkommenRahmenabkommen', '')">
+                <span>
+                 Network | Framework agreement
+                </span>
+               </a>
+              </li>
+              <li class = "appended_listitem">
+               <a href="https://www.pneuhage.de/pkw-transporter/pkw-flotten-leasing/pkw-kunden" onmousedown="ET_Event.click('Flotten-Kunden', '')">
+                <span>
+                 Customers
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_553">
+               <a href = "http://www.pneuhage.de/nc/filialfinder/pg/pkwtransporter?etcc_med=LP&amp;etcc_cmp=Navigation&amp;etcc_var=Filialfinder" onmousedown = "ET_Event.click ('PKW-Filialfinder', '' ) ">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_301">
+               <a href="http://werkstatttermin.pneuhage.de" onmousedown="ET_Event.click('PKW-Terminverordnung','')" target="_blank">
+                <span>
+                 Appointment
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_687">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/pkw-suv-transporter/meldungsart/produkte-angebote" onmousedown = "ET_Event.click ('PKW-ProdukteAngebote', '' ) ">
+                <span>
+                 Products / offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_51">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/pkw-suv-transporter/meldungsart/informationen?etcc_med=LP&amp;etcc_cmp=Navigation&amp;etcc_var=Informationen" onmousedown = "ET_Event. click ('Car Information', '') ">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_52">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/pkw-suv-transporter/meldungsart/aktion-veranstaltungen?etcc_med=LP&amp;etcc_cmp=Navigation&amp;etcc_var=AktionenVeranstaltung" onmousedown = " ET_Event.click ('Car ActionsEvents', '') ">
+                <span>
+                 Actions / events
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_20">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/pkw-suv-transporter/meldungsart/news?etcc_med=LP&amp;etcc_cmp=Navigation&amp;etcc_var=News" onmousedown = "ET_Event. click ('PKW-News', '') ">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_53">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/pkw-suv-transporter/meldungsart/presse">
+                <span>
+                 Press
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_54">
+               <a href="http://pstore.pneu.com?etcc_med=LP&amp;etcc_cmp=Navigation&amp;etcc_var=B2BSHOP" onmousedown="ET_Event.click('Car dealer shop','')" target="_blank">
+                <span>
+                 Dealer shop
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li class = "open navitem_32">
+           <a href="https://www.pneuhage.de/lkw">
+            <span>
+             truck
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_304">
+             <a href="https://www.pneuhage.de/lkw/lkw-reifen" onmousedown="ET_Event.click('LKW-LKWReifen', '')">
+              <span>
+               Truck tires
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_964">
+               <a href="https://www.pneuhage.de/lkw/lkw-reifen/lkw-winterreifen" onmousedown="ET_Event.click('PKW-LKWWinterreifen','')">
+                <span>
+                 Winter truck tires
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_37">
+               <a href="https://www.pneuhage.de/lkw/lkw-reifen/reifenmacher" onmousedown="ET_Event.click('LKW-Reifenmacher','')">
+                <span>
+                 Tire manufacturer
+                </span>
+               </a>
+              </li>
+              <li class = "open navitem_107">
+               <a href="https://www.pneuhage.de/lkw/lkw-reifen/recamic-rundernerung" onmousedown="ET_Event.click('LKW-RecamicRundernerung', '')">
+                <span>
+                 RECAMIC retreading
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_453">
+               <a href="https://www.pneuhage.de/lkw/lkw-reifen/westlake" onmousedown="ET_Event.click('LKW-Westlake','')">
+                <span>
+                 Westlake
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_38">
+             <a href="https://www.pneuhage.de/lkw/dienstleistungen" onmousedown="ET_Event.click('LKW-Dienstleistungen','')">
+              <span>
+               Services
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_41">
+               <a href="https://www.pneuhage.de/lkw/dienstleistungen/kostenoptimierung-lkw" onmousedown="ET_Event.click('LKW-Kostenoptimierung','')">
+                <span>
+                 Cost optimization
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_42">
+               <a href="https://www.pneuhage.de/lkw/dienstleistungen/mobiler-service-lkw" onmousedown="ET_Event.click('LKW-MobilerService','')">
+                <span>
+                 Mobile service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_43">
+               <a href="https://www.pneuhage.de/lkw/dienstleistungen/fleetcheck-lkw" onmousedown="ET_Event.click('LKW-Fleetcheck','')">
+                <span>
+                 Fleetcheck
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_217">
+               <a href="https://www.pneuhage.de/lkw/dienstleistungen/pannen-service-lkw" onmousedown="ET_Event.click('LKW-Pannenservice','')">
+                <span>
+                 Breakdown service
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_354">
+               <a href="https://www.pneuhage.de/lkw/dienstleistungen/fuhrparkmanagement-lkw" onmousedown="ET_Event.click('LKW-Fuhrparkmanagement','')">
+                <span>
+                 Fleet management
+                </span>
+               </a>
+              </li>
+             </ul>
+             <a class="appended_link" href="https://www.pneuhage.de/lkw/lkw-flotten" onmousedown="ET_Event.click('Flotten-LKWFlotten', '')">
+              <span>
+               Truck fleets
+              </span>
+             </a>
+             <ul class = "appended_list">
+             </ul>
+            </li>
+            <li class = "last navitem_218">
+             <a href="https://www.pneuhage.de/lkw/beratung-lkw" onmousedown="ET_Event.click('LKW-Beratung','')">
+              <span>
+               consultation
+              </span>
+             </a>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_552">
+               <a href="http://www.pneuhage.de/nc/ansprechpartner/ category/truck-reifen" onmousedown="ET_Event.click('LKW-Ansprechpartner','')">
+                <span>
+                 Contact Person
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_509">
+               <a href="http://www.pneuhage.de/nc/filialfinder/pg/lkw" onmousedown="ET_Event.click('LKW-Filialfinder','')">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_554">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/lkw-bus/meldungsart/produkte-angebote" onmousedown = "ET_Event.click ('LKW-ProdukteAngebote', '')" >
+                <span>
+                 Products / offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_510">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/lkw-bus/meldungsart/informationen" onmousedown="ET_Event.click('LKW-Informationen', '')">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_547">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/lkw-bus/meldungsart/aktion-veranstaltungen" onmousedown = "ET_Event.click ('LKW-AktionVeranstaltungen', '')" >
+                <span>
+                 Actions / events
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_548">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/lkw-bus/meldungsart/news" onmousedown="ET_Event.click('LKW-News', '')">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_550">
+               <a href = "http://pstore.pneu.com?etcc_med=LP&amp;etcc_cmp=Navigation-LKW&amp;etcc_var=B2BSHOP" onmousedown = "ET_Event.click ('LKW-HändlerShop', '')" target = "_ blank ">
+                <span>
+                 Dealer shop
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li class = "open navitem_40">
+           <a href="https://www.pneuhage.de/industrie">
+            <span>
+             Industry
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_429">
+             <a href="https://www.pneuhage.de/industrie/industrie-reifen" onmousedown="ET_Event.click('Industrie-IndustrieReifen', '')">
+              <span>
+               Industrial tires
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_238">
+               <a href="https://www.pneuhage.de/industrie/industrie-reifen/reifenmacher" onmousedown="ET_Event.click('Industrie-Reifenmacher','')">
+                <span>
+                 Tire manufacturer
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_239">
+               <a href="https://www.pneuhage.de/industrie/industrie-reifen/ultimate-xt" onmousedown="ET_Event.click('Industrie-UltimateXT','')">
+                <span>
+                 Ultimate XT
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_240">
+               <a href="https://www.pneuhage.de/industrie/industrie-reifen/peakmaster" onmousedown="ET_Event.click('Industrie-Peakmaster', '')">
+                <span>
+                 Peakmaster
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1607">
+               <a href="https://www.pneuhage.de/industrie/industrie-reifen/globe-star" onmousedown="ET_Event.click('Industrie-Performer','')">
+                <span>
+                 Globe Star
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1685">
+               <a href="https://www.pneuhage.de/industrie/industrie-reifen/trelleborg-m2" onmousedown="ET_Event.click('Industrie-Performer','')">
+                <span>
+                 Trelleborg M²
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_242">
+             <a href="https://www.pneuhage.de/industrie/dienstleistungen" onmousedown="ET_Event.click('Industrie-Dienstleistungen','')">
+              <span>
+               Services
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_243">
+               <a href="https://www.pneuhage.de/industrie/dienstleistungen/reifen-reparatur" onmousedown="ET_Event.click('Industrie-ReifenReparatur','')">
+                <span>
+                 Tire repair
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_244">
+               <a href="https://www.pneuhage.de/industrie/dienstleistungen/mobiler-service-industriefahrzeuge" onmousedown="ET_Event.click('Industrie-MobilerService','')">
+                <span>
+                 Mobile service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_245">
+               <a href="https://www.pneuhage.de/industrie/dienstleistungen/fleetcheck-industriefahrzeuge" onmousedown="ET_Event.click('Industrie-Fleetcheck','')">
+                <span>
+                 Fleetcheck
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_246">
+               <a href="https://www.pneuhage.de/industrie/dienstleistungen/industrie-fahrzeugumruestung" onmousedown="ET_Event.click('Industrie-Fahrzeugumruestung','')">
+                <span>
+                 Vehicle conversion
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_247">
+               <a href="https://www.pneuhage.de/industrie/dienstleistungen/reifenfuellung" onmousedown="ET_Event.click('Industrie-Reifenfüll', '')">
+                <span>
+                 Tire filling
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "last navitem_248">
+             <a href="https://www.pneuhage.de/industrie/beratung-industriereifen" onmousedown="ET_Event.click('Industrie-Beratung', '')">
+              <span>
+               consultation
+              </span>
+             </a>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_565">
+               <a href="http://www.pneuhage.de/nc/ansprechpartner/ategorie/industrie-reifen" onmousedown="ET_Event.click('Industrie-Ansprechpartner','')">
+                <span>
+                 Contact Person
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_566">
+               <a href="http://www.pneuhage.de/nc/filialfinder/pg/industrie" onmousedown="ET_Event.click('Industrie-Filialfinder', '')">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_567">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/industrie/meldungsart/produkte-angebote" onmousedown="ET_Event.click('Industrie-ProdukteAngebote', '')">
+                <span>
+                 Products / offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_568">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/industrie/meldungsart/informationen" onmousedown="ET_Event.click('Industrie-Informationen', '')">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_569">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/industrie/meldungsart/aktion-veranstaltungen" onmousedown="ET_Event.click('Industrie-AktionenVeranstaltungen', '')">
+                <span>
+                 Actions / events
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_570">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/industrie/meldungsart/news" onmousedown="ET_Event.click('Industrie-News', '')">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_571">
+               <a href = "http://pstore.pneu.com?etcc_med=LP&amp;etcc_cmp=Navigation-Industrie&amp;etcc_var=B2BSHOP" onmousedown = "ET_Event.click ('Industrie-HändlerShop', '')" target = "_ blank ">
+                <span>
+                 Dealer shop
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li class = "open navitem_45">
+           <a href="https://www.pneuhage.de/erdmaschinen">
+            <span>
+             Earth machines
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_659">
+             <a href="https://www.pneuhage.de/erdmaschinen/erdmaschinen-reifen" onmousedown="ET_Event.click('Erdmaschinen-ErdmaschinenReifen', '')">
+              <span>
+               Earth machine tires
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_229">
+               <a href="https://www.pneuhage.de/erdmaschinen/erdmaschinen-reifen/reifenmacher" onmousedown="ET_Event.click('Erdmaschinen-Teifenmacher','')">
+                <span>
+                 Tire manufacturer
+                </span>
+               </a>
+              </li>
+              <li class = "open last navitem_230">
+               <a href="https://www.pneuhage.de/erdmaschinen/erdmaschinen-reifen/magna">
+                <span>
+                 Magna
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_231">
+             <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen" onmousedown="ET_Event.click('Erdmaschinen-Dienstleistungen','')">
+              <span>
+               Services
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_689">
+               <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen/reifen-reparatur" onmousedown="ET_Event.click('Erdmaschinen-ReifenReparatur','')">
+                <span>
+                 Tire repair
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_660">
+               <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen/mobiler-service" onmousedown="ET_Event.click('Erdmaschinen-MobilerService', '')">
+                <span>
+                 Mobile service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_661">
+               <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen/fleetcheck" onmousedown="ET_Event.click('Erdmaschinen-Fleetcheck', '')">
+                <span>
+                 Fleetcheck
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_662">
+               <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen/fahrzeugumruestung" onmousedown="ET_Event.click('Erdmaschinen-Fahrzeugumätze', '')">
+                <span>
+                 Vehicle conversion
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_663">
+               <a href="https://www.pneuhage.de/erdmaschinen/dienstleistungen/reifenfuellung" onmousedown="ET_Event.click('Erdmaschinen-Reifenfuellung','')">
+                <span>
+                 Tire filling
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "last navitem_232">
+             <a href="https://www.pneuhage.de/erdmaschinen/beratung" onmousedown="ET_Event.click('Erdmaschinen-Beratung', '')">
+              <span>
+               consultation
+              </span>
+             </a>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_604">
+               <a href="http://www.pneuhage.de/nc/filialfinder/pg/erdmaschinen" onmousedown="ET_Event.click('Erdmaschinen-Filialfinder','')">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_605">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/em-mobilkran/meldungsart/produkte-angebote" onmousedown = "ET_Event.click ('Erdmaschinen-ProdukteAngebote', '')" >
+                <span>
+                 Products / offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_606">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/em-mobilkran/meldungsart/informationen" onmousedown="ET_Event.click('Erdmaschinen-Information', '')">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_607">
+               <a href = "http://www.pneuhage.de/nc/info-center/geschaeftsbereich/em-mobilkran/meldungsart/aktion-veranstaltungen" onmousedown = "ET_Event.click ('Erdmaschinen-AktionVeranstaltungen', '')" >
+                <span>
+                 Actions / events
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_608">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/em-mobilkran/meldungsart/news" onmousedown="ET_Event.click('Erdmaschinen-News', '')">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_610">
+               <a href = "http://pstore.pneu.com?etcc_med=LP&amp;etcc_cmp=Navigation-EM&amp;etcc_var=B2BSHOP" onmousedown = "ET_Event.click ('Erdmaschinen-HaendlerShop', '')" target = "_ blank ">
+                <span>
+                 Dealer shop
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li class = "open navitem_44">
+           <a href="https://www.pneuhage.de/agrar">
+            <span>
+             Agrarian
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_654">
+             <a href="https://www.pneuhage.de/agrar/agrar-reifen" onmousedown="ET_Event.click('Agrar-AgrarReifen', '')">
+              <span>
+               Agricultural tires
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_233">
+               <a href="https://www.pneuhage.de/agrar/agrar-reifen/reifenmacher" onmousedown="ET_Event.click('Agrar-Teifenmacher','')">
+                <span>
+                 Tire manufacturer
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_234">
+               <a href="https://www.pneuhage.de/agrar/agrar-reifen/starmaxx" onmousedown="ET_Event.click('Agrar-Starmaxx','')">
+                <span>
+                 Starmaxx
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_235">
+             <a href="https://www.pneuhage.de/agrar/dienstleistungen" onmousedown="ET_Event.click('Agrar-Dienstleistungen','')">
+              <span>
+               Services
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_651">
+               <a href="https://www.pneuhage.de/agrar/dienstleistungen/achsvergabe" onmousedown="ET_Event.click('Agrar-Achsvermessung', '')">
+                <span>
+                 Wheel alignment
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_237">
+               <a href="https://www.pneuhage.de/agrar/dienstleistungen/erntenotdienst" onmousedown="ET_Event.click('Agrar-Erntenotdienst', '')">
+                <span>
+                 Harvest emergency service
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_652">
+               <a href="https://www.pneuhage.de/agrar/dienstleistungen/fuhrpark-check" onmousedown="ET_Event.click('Agrar-FuhrparkCheck', '')">
+                <span>
+                 Fleet check
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_653">
+               <a href="https://www.pneuhage.de/agrar/dienstleistungen/mobiler-service-24h" onmousedown="ET_Event.click('Agrar-MobilerService','')">
+                <span>
+                 Mobile service
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_650">
+               <a href="https://www.pneuhage.de/agrar/dienstleistungen/reifen-reparatur" onmousedown="ET_Event.click('Agrar-ReifenReparatur','')">
+                <span>
+                 Tire repair
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open last navitem_236">
+             <a href="https://www.pneuhage.de/agrar/beratung" onmousedown="ET_Event.click('Agrar-Beratung','')">
+              <span>
+               consultation
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_655">
+               <a href="https://www.pneuhage.de/agrar/beratung/umbereifung" onmousedown="ET_Event.click('Agrar-Umbereifung', '')">
+                <span>
+                 Tire change
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_656">
+               <a href="https://www.pneuhage.de/agrar/beratung/zwillingsbereifung" onmousedown="ET_Event.click('Agrar-Zeillingsbereifung','')">
+                <span>
+                 Twin tires
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_657">
+               <a href="https://www.pneuhage.de/agrar/beratung/lastindex" onmousedown="ET_Event.click('Agrar-Lastindex', '')">
+                <span>
+                 Load index
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_658">
+               <a href="https://www.pneuhage.de/agrar/beratung/ Speed ​​Index "onmousedown="ET_Event.click('Agrar-Speed ​​Speed ​​Index ','')">
+                <span>
+                 Speed ​​index
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_419">
+               <a href="http://www.pneuhage.de/nc/filialfinder/pg/agrar" onmousedown="ET_Event.click('Agrar-Filialfinder', '')">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_555">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/agrar/meldungsart/produkte-angebote" onmousedown="ET_Event.click('Agrar-ProdukteAngebote', '')">
+                <span>
+                 Products / offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_178">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/agrar/meldungsart/informationen" onmousedown="ET_Event.click('Agrar-Informationen', '')">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_177">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/agrar/meldungsart/aktion-veranstaltungen" onmousedown="ET_Event.click('Agrar-AktionenVeranstaltungen', '')">
+                <span>
+                 Actions / events
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_176">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/agrar/meldungsart/news" onmousedown="ET_Event.click('Agrar-News', '')">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_174">
+               <a href = "http://pstore.pneu.com?etcc_med=LP&amp;etcc_cmp=Navigation-Agrar&amp;etcc_var=B2BSHOP" onmousedown = "ET_Event.click ('Agrar-HändlerShop', '')" target = "_ blank ">
+                <span>
+                 Dealer shop
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+          <li class = "open last navitem_1608">
+           <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere">
+            <span>
+             Jobs & amp; Career
+            </span>
+           </a>
+           <ul>
+            <li class = "open first navitem_1609">
+             <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/stellenangebote">
+              <span>
+               Jobs
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_1615">
+               <a href="https://www.pneuhage.de/nc/unternehmen/jobs-und-karriere/stellenangebote">
+                <span>
+                 recent job offers
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1616">
+               <a href="http://www.pneuhage.de/fileadmin/user_upload/pneuhage.de/09_Allgemein/Personal/Tipps_zur_Bewerbung.pdf" target="_blank">
+                <span>
+                 Tips for your application
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navitem_1610">
+             <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung">
+              <span>
+               education
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_1612">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/kaufmann-frau-im-gross-und-aussenhandel">
+                <span>
+                 Merchant in wholesale and foreign trade
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1617">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/kaufmann-frau-fuer-bueromanagement">
+                <span>
+                 Businessman / woman for office management
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1619">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/mechaniker-in-reifen-vulkanisationstechnik">
+                <span>
+                 Mechanic Tire & amp; Vulcanization technology
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1620">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/kfz-mechatroniker-in">
+                <span>
+                 Automotive mechatronics technician
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1621">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/studierende-duale-hochschule">
+                <span>
+                 Dual university students
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1623">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/fachinformatiker-in-systemintegration">
+                <span>
+                 IT specialist for system integration
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1622">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/fachinformatiker-in-anwendungsentwicklung">
+                <span>
+                 IT specialist in application development
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1624">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung/immobilienkaufmann-frau">
+                <span>
+                 Real estate agent
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open last navitem_1611">
+             <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung">
+              <span>
+               Working at Pneuhage
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_1625">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/ausbildung">
+                <span>
+                 education
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1613">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/weiterbildung">
+                <span>
+                 further education
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1614">
+               <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere/perspektiven">
+                <span>
+                 Perspectives
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_1626">
+               <a href="https://www.pneuhage.de/unternehmen/unternehmensgruppe/fuehrungsgrundsaetze">
+                <span>
+                 Leadership principles
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1627">
+               <a href="https://www.pneuhage.de/unternehmen/unternehmensgruppe/philosophie">
+                <span>
+                 philosophy
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "open navspecial">
+             <a class="js_fallback_special_link" href="javascript:void(0)">
+              <span>
+               Special
+              </span>
+             </a>
+             <ul>
+              <li class = "first navitem_560">
+               <a href="https://www.pneuhage.de/nc/unternehmen/jobs-und-karriere/stellenangebote" onmousedown="ET_Event.click('Unternehmen-Stellenangebote','')">
+                <span>
+                 Job offers
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_265">
+               <a href="http://www.pneuhage.de/nc/filialfinder" onmousedown="ET_Event.click('Unternehmen-Filialfinder', '')">
+                <span>
+                 Branch Finder
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_556">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/allgemein/meldungsart/informationen" onmousedown="ET_Event.click('Unternehmen-Informationen', '')">
+                <span>
+                 information
+                </span>
+               </a>
+              </li>
+              <li class = "navitem_558">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/allgemein/meldungsart/news" onmousedown="ET_Event.click('Unternehmen-News', '')">
+                <span>
+                 News
+                </span>
+               </a>
+              </li>
+              <li class = "last navitem_1484">
+               <a href="http://www.pneuhage.de/nc/info-center/geschaeftsbereich/allgemein/meldungsart/presse" onmousedown="ET_Event.click('Unternehmen-AktionenVeranstaltungen', '')">
+                <span>
+                 Press
+                </span>
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </li>
+         </ul>
+         <div class = "navbar-icons">
+          <div class = "navbar-icons-inner clearfix">
+          </div>
+         </div>
+         <div class = "default-search">
+          <div class = "default-search-inner clearfix">
+           <div class = "tx-kesearch-pi1">
+            <div class = "faceted_search">
+             <div class = "faceted_search_inner clearfix">
+              <form action = "https://www.pneuhage.de/index.php" class = "static" id = "xajax_form_kesearch_pi1" method = "get" name = "xajax_form_kesearch_pi1">
+               <fieldset>
+                <input name = "id" type = "hidden" value = "115" />
+                <input class = "faceted_search_string" id = "ke_search_sword" name = "tx_kesearch_pi1 [sword]" onblur = "searchboxBlur (this)" onfocus = "searchboxFocus (this)" type = "text" value = "" />
+                <button class = "faceted_search_button submit" id = "kesearch_submit" onclick = "document.getElementById ('pagenumber'). value = 1; document.getElementById ('xajax_form_kesearch_pi1'). submit ();" title = "Find" type = "submit">
+                 <span>
+                  Find
+                 </span>
+                </button>
+                <script type = "text / javascript">
+                 var keSearchWords = document.getElementsByClassName ("faceted_search_string");
+
+                    Array.prototype.forEach.call (keSearchWords, function (keSearchWord) {
+                        if (keSearchWord.value) {
+                            keSearchWord.style.background = 'white';
+                            keSearchWord.style.color = '# 1a171b';
+                        } else {
+                            keSearchWord.style.background = 'url (/fileadmin/pneuhage.de/Resources/Public/Images/search/search_bg.png) no-repeat scroll 14px center # f6f6f6';
+                            keSearchWord.style.color = 'transparent';
+                        }
+                    });
+                </script>
+                <input id = "pagenumber" name = "tx_kesearch_pi1 [page]" type = "hidden" value = "1" />
+                <input id = "resetFilters" name = "tx_kesearch_pi1 [resetFilters]" type = "hidden" value = "1" />
+                <input id = "sortByField" name = "tx_kesearch_pi1 [sortByField]" type = "hidden" value = "" />
+                <input id = "sortByDir" name = "tx_kesearch_pi1 [sortByDir]" type = "hidden" value = "" />
+               </fieldset>
+              </form>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "navmain_accordion">
+        <div class = "navmain_accordion_inner clearfix">
+         <div class = "navmain_accordion_elements">
+          <div class = "navmain_accordion_inner clearfix">
+           <div class = "navmain_subpages">
+            <div class = "navmain_subpages_inner clearfix">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "breadcrumb">
+      <div class = "breadcrumb_inner clearfix">
+       <ol>
+        <li>
+         <b>
+          You are here:
+         </b>
+        </li>
+        <li class = "navitem_1">
+         <a href="https://www.pneuhage.de/">
+          <span>
+           welcome
+          </span>
+         </a>
+        </li>
+        <li class = "active navitem_201">
+         Branch Finder
+        </li>
+       </ol>
+      </div>
+     </div>
+     <div class = "content">
+      <div class = "content_inner clearfix">
+       <div class = "csc-default" id = "c448">
+        <div class = "csc-header csc-header-n1">
+         <h1>
+          Pneuhage branch finder
+         </h1>
+        </div>
+        <div class = "tx-pneuhagestoresearch">
+         <div class = "tx-pneuhagestoresearch-map">
+          <div class = "tx-pneuhagestoresearch-map-inner">
+           <script src = "https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyB4YYQeCikjYIUaLjKHd4NIcyfJFKPWXmI" type = "text / javascript">
+           </script>
+           <script type = "text / javascript">
+            // https://developers.google.com/maps/documentation/javascript/examples/icon-simple
+    var currentMarker;
+    var currentInfoWindow;
+    var directionsDisplay;
+    var directionsService = new google.maps.DirectionsService ();
+    var map;
+    var originalAddrLonLat = new google.maps.LatLng (51.0747119, 13.6846314);
+    var origAddrTitle = '';
+    var origAddrInfo = '<p> Your search within 01139 </p>';
+
+    var originalAddr = '';
+    var mapicon = 'typo3conf / ext / pneuhagestoresearch / Resources / Public / Images / mapicon.png';
+    var mapiconhome = 'typo3conf / ext / pneuhagestoresearch / Resources / Public / Images / mapiconhome.png';
+    var addrZoom = 9;
+
+
+
+    function initialize () {
+
+    var title, address, link, addrLonLat, addrInfo, addrTitle;
+    var markers = new Array ();
+    var zIndexTemp = 10;
+
+    directionsDisplay = new google.maps.DirectionsRenderer ();
+    var mapOptions = {
+        scrollwheel: true,
+        zoom: addrZoom,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        center: originalAddrLonLat,
+        mapTypeControl: false,
+        streetViewControl: false,
+        overviewMapControl: false,
+        overviewMapControlOptions: {
+            opened: true,
+            position: google.maps.ControlPosition.TOP_RIGHT
+        },
+        zoomControl: true,
+        zoomControlOptions: {
+            style: google.maps.ZoomControlStyle.SMALL
+        },
+    }
+    map = new google.maps.Map (document.getElementById ('map-canvas-head'), mapOptions);
+
+
+
+        addrLonLat = new google.maps.LatLng (51.0846221, 13.6856958);
+
+        addrInfo = '';
+        addrInfo + = '<table cellpadding = "3">';
+        addrInfo + = '<tr>';
+        addrInfo + = '<td>';
+        addrInfo + = '<img src = "fileadmin / _processed_ / csm_Pneuhage_Dresden_645_717eda65af.jpg" width = "181" height = "143" alt = "01139 - Dresden" />';
+        addrInfo + = '</td>';
+        addrInfo + = '<td>';
+        addrInfo + = '<strong> Pneuhage tire services </strong> <br /> Dresden branch, Kaditz / Mickten <br /> Kötzschenbroder Straße & nbsp; 136 <br /> 01139 & nbsp; Dresden';
+        // addrInfo + = '<br /> <a href="nc/filialfinder/ort/01139/distanz/10/filiale/dresden-kaditzmickten/sact/show"> <strong> Show details </strong> </ a > ';
+        addrInfo + = '<br /> <a href="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-kaditzmickten"> Show details </a>';
+
+        addrInfo + = '</td>';
+        addrInfo + = '</tr>';
+        addrInfo + = '</table>';
+
+        addrTitle = 'Dresden, Kaditz / Mickten';
+
+        markers [0] = createMarker (map, addrLonLat, mapiconhome, addrTitle, addrInfo, zIndexTemp);
+        zIndexTemp ++;
+
+        addrLonLat = new google.maps.LatLng (51.0172326, 13.6718124);
+
+        addrInfo = '';
+        addrInfo + = '<table cellpadding = "3">';
+        addrInfo + = '<tr>';
+        addrInfo + = '<td>';
+        addrInfo + = '<img src = "fileadmin / _processed_ / csm_Pneuhage_Freital_694_a4c882cb3d.png" width = "181" height = "143" alt = "01187 - Dresden" />';
+        addrInfo + = '</td>';
+        addrInfo + = '<td>';
+        addrInfo + = '<strong> Pneuhage tire services </strong> <br /> Branch Dresden <br /> Tharandter Straße & nbsp; 200 <br /> 01187 & nbsp; Dresden';
+        // addrInfo + = '<br /> <a href="nc/filialfinder/ort/01139/distanz/10/filiale/dresden-freital/sact/show"> <strong> Show details </strong> </ a > ';
+        addrInfo + = '<br /> <a href="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-freital"> Show details </a>';
+
+        addrInfo + = '</td>';
+        addrInfo + = '</tr>';
+        addrInfo + = '</table>';
+
+        addrTitle = 'Dresden';
+
+        markers [1] = createMarker (map, addrLonLat, mapiconhome, addrTitle, addrInfo, zIndexTemp);
+        zIndexTemp ++;
+
+        addrLonLat = new google.maps.LatLng (51.0491292, 13.7929737);
+
+        addrInfo = '';
+        addrInfo + = '<table cellpadding = "3">';
+        addrInfo + = '<tr>';
+        addrInfo + = '<td>';
+        addrInfo + = '<img src = "fileadmin / _processed_ / csm_Pneuhage_Dresden_654_a160a38d68.png" width = "181" height = "143" alt = "01309 - Dresden" />';
+        addrInfo + = '</td>';
+        addrInfo + = '<td>';
+        addrInfo + = '<strong> Pneuhage tire services </strong> <br /> Dresden branch, Striesen <br /> Hüblerstraße & nbsp; 36 <br /> 01309 & nbsp; Dresden';
+        // addrInfo + = '<br /> <a href="nc/filialfinder/ort/01139/distanz/10/filiale/dresden-striesen/sact/show"> <strong> Show details </strong> </ a > ';
+        addrInfo + = '<br /> <a href="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-striesen"> Show details </a>';
+
+        addrInfo + = '</td>';
+        addrInfo + = '</tr>';
+        addrInfo + = '</table>';
+
+        addrTitle = 'Dresden, Striesen';
+
+        markers [2] = createMarker (map, addrLonLat, mapiconhome, addrTitle, addrInfo, zIndexTemp);
+        zIndexTemp ++;
+
+        addrLonLat = new google.maps.LatLng (51.026869, 13.7870274);
+
+        addrInfo = '';
+        addrInfo + = '<table cellpadding = "3">';
+        addrInfo + = '<tr>';
+        addrInfo + = '<td>';
+        addrInfo + = '<img src = "fileadmin / _processed_ / csm_Pneuhage_Dresden_664_989b60614b.png" width = "181" height = "143" alt = "01237 - Dresden" />';
+        addrInfo + = '</td>';
+        addrInfo + = '<td>';
+        addrInfo + = '<strong> Pneuhage tire services </strong> <br /> Dresden branch, Reick <br /> Gasanstaltstrasse & nbsp; 6 <br /> 01237 & nbsp; Dresden';
+        // addrInfo + = '<br /> <a href="nc/filialfinder/ort/01139/distanz/10/filiale/dresden-reick/sact/show"> <strong> Show details </strong> </ a > ';
+        addrInfo + = '<br /> <a href="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-reick"> Show details </a>';
+
+        addrInfo + = '</td>';
+        addrInfo + = '</tr>';
+        addrInfo + = '</table>';
+
+        addrTitle = 'Dresden, Reick';
+
+        markers [3] = createMarker (map, addrLonLat, mapiconhome, addrTitle, addrInfo, zIndexTemp);
+        zIndexTemp ++;
+
+
+
+var origMarker = createMarker (map, originalAddrLonLat, mapicon, origAddrTitle, origAddrInfo, zIndexTemp);
+
+if (markers.length> 0) {
+    // fit the map tho visible markers
+    var bounds = new google.maps.LatLngBounds ();
+    for (i = 0; i <markers.length; i ++) {
+        bounds.extend (markers [i] .getPosition ());
+    };
+
+    bounds.extend (origMarker.getPosition ());
+        map.fitBounds (bounds);
+    }
+
+
+    directionsDisplay.setMap (map);
+
+}
+
+function createMarker (map, pos, icon, title, addressInfo, zIndexTemp) {
+
+    var marker = new google.maps.Marker ({
+        position: pos,
+        map: map,
+        icon: icon,
+        title: title,
+        zIndex: zIndexTemp
+    });
+
+    var contentString = '<div class = "contentMapInfoWindow">' + addressInfo + '</div>';
+
+    var infowindow = new google.maps.InfoWindow ({
+        content: contentString
+    });
+
+    google.maps.event.addListener (marker, 'click', function () {
+
+    if (currentInfoWindow) {
+        currentInfoWindow.close ();
+    }
+
+    infowindow.open (map, marker);
+        currentInfoWindow = infowindow;
+    });
+
+    return marker;
+}
+
+google.maps.event.addDomListener (window, 'load', initialize);
+           </script>
+           <div class = "tx-pneuhagestoresearch-show-map">
+            <div id = "map-canvas-head">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "csc-default" id = "c447">
+        <div class = "tx-pneuhagestoresearch-selection">
+         <div class = "tx-pneuhagestoresearch-selection_inner clearfix">
+          <div class = "storesearch_selection">
+           <div class = "storesearch_selection_inner clearfix">
+            <div class = "storelist_section clearfix" id = "storelist_selection_location">
+             <form action = "https://www.pneuhage.de/nc/filialfinder/ort/--location--/distanz/50" class = "noajax" id = "action_update">
+              <label class = "input_label" for = "selection_location_447">
+               Find a branch
+              </label>
+              <span class = "input_wrap">
+               <span class = "input_wrap_inner">
+                <input class = "selection_location" id = "selection_location_447" maxlength = "50" name = "selection [location]" placeholder = "Enter ZIP / City" type = "text" value = "01139" />
+               </span>
+              </span>
+              <div style = "display: none">
+               <input id = "selection_submit" name = "selection [submit]" type = "submit" value = "Show results" />
+              </div>
+             </form>
+            </div>
+            <div class = "storelist_section" id = "storelist_selection_distance">
+             <dl class = "dropdown" id = "selection_distance">
+              <dt>
+               <a>
+                <span>
+                </span>
+               </a>
+              </dt>
+              <dd>
+               <ul>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/25/type/334" rel="nofollow">
+                  Radius: 25 km
+                 </a>
+                </li>
+                <li class = "selected">
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/0/type/334" rel="nofollow">
+                  Radius: 50 km
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/100/type/334" rel="nofollow">
+                  Radius: 100 km
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/200/type/334" rel="nofollow">
+                  Radius: 200 km
+                 </a>
+                </li>
+               </ul>
+              </dd>
+             </dl>
+            </div>
+            <div id = "storelist_selection_productgroup">
+             <dl class = "dropdown" id = "selection_productgroup">
+              <dt>
+               <a>
+                <span>
+                </span>
+               </a>
+              </dt>
+              <dd>
+               <ul>
+                <li class = "selected">
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/0/type/334" rel="nofollow">
+                  all
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/agrar/type/334" rel="nofollow">
+                  Agrarian
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/erdmaschinen/type/334" rel="nofollow">
+                  Earth machines
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/industrie/type/334" rel="nofollow">
+                  Industry
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/lkw/type/334" rel="nofollow">
+                  truck
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/motorrad/type/334" rel="nofollow">
+                  motorcycle
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/pg/pkwtransporter/type/334" rel="nofollow">
+                  Cars / vans
+                 </a>
+                </li>
+               </ul>
+              </dd>
+             </dl>
+            </div>
+            <div id = "storelist_selection_servicegroup">
+             <dl class = "dropdown" id = "selection_servicegroup">
+              <dt>
+               <a>
+                <span>
+                </span>
+               </a>
+              </dt>
+              <dd>
+               <ul>
+                <li class = "selected">
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/service/0/type/334" rel="nofollow">
+                  all
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/service/as-erntenotdienst/type/334" rel="nofollow">
+                  AS harvest emergency service
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/service/lkw-pannendienst/type/334" rel="nofollow">
+                  Truck breakdown service
+                 </a>
+                </li>
+                <li>
+                 <a class="ajax" href="nc/filialfinder/ort/--location--/distanz/50/service/kfz-service/type/334" rel="nofollow">
+                  Car service
+                 </a>
+                </li>
+               </ul>
+              </dd>
+             </dl>
+            </div>
+           </div>
+          </div>
+          <div class = "storesearch_buttons">
+           <div class = "storesearch_buttons_inner clearfix">
+            <div class = "storelist_section storelist_section_showresult" id = "storelist_selection_submit">
+             <p>
+              <span style = "display: none;">
+               <a class = "storesearch-button button-link button-link-blue" href = "https://www.pneuhage.de/nc/filialfinder/ort/--location--/distanz/50" id = "selection_result ">
+                Ads (0)
+               </a>
+              </span>
+              <a class = "ajax storesearch-button button-link button-link-blue" href = "https://www.pneuhage.de/nc/filialfinder/ort/--location--/distanz/50/type/334 "id =" selection_result_ajax_submit "rel =" nofollow ">
+               Ads (0)
+              </a>
+             </p>
+            </div>
+            <div class = "storelist_section storelist_section_reset" id = "storelist_selection_reset">
+             <p>
+              <a class="ajax" href="https://www.pneuhage.de/nc/filialfinder/type/334" rel="nofollow">
+               reset filter
+              </a>
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "csc-default" id = "c445">
+        <div class = "tx-pneuhagestoresearch-map">
+         <div class = "storesearch_properties">
+          <div class = "clearfix">
+           <div class = "storesearch_tabs">
+            <div class = "storesearch_tabs_inner clearfix">
+             <ul class = "nav nav-tabs">
+              <li class = "active">
+               <a data-toggle="tab" href="nc/filialfinder/filiale/dresden-kaditzmickten#storesearch_properties_contact">
+                Contact
+               </a>
+              </li>
+              <li>
+               <a data-toggle="tab" href="nc/filialfinder/filiale/dresden-kaditzmickten#storesearch_properties_services">
+                Services
+               </a>
+              </li>
+              <li>
+               <a data-toggle="tab" href="nc/filialfinder/filiale/dresden-kaditzmickten#storesearch_properties_prices">
+                Prices
+               </a>
+              </li>
+              <li>
+               <a data-toggle="tab" href="nc/filialfinder/filiale/dresden-kaditzmickten#storesearch_properties_actions">
+                Actions / news / offers
+               </a>
+              </li>
+             </ul>
+             <div class = "storesearch_properties_main">
+              <div class = "storesearch_properties_main_inner clearfix">
+               <div class = "storesearch_properties_image">
+                <img alt = "01139 - Dresden" height = "143" src = "fileadmin / _processed_ / csm_Pneuhage_Dresden_645_717eda65af.jpg" width = "181" />
+               </div>
+              </div>
+             </div>
+             <div class = "tab-content">
+              <div class = "storesearch_properties tab-pane active" id = "storesearch_properties_contact">
+               <div class = "storesearch_properties_inner clearfix">
+                <div class = "storesearch_properties_block_a">
+                 <div class = "storesearch_properties_block_a_inner clearfix">
+                  <div class = "storesearch_properties_block_c">
+                   <div class = "storesearch_properties_block_c_inner clearfix">
+                    <div class = "storesearch_properties_block_e">
+                     <div class = "storesearch_properties_block_e_inner clearfix">
+                      <div class = "storesearch_properties_contact_address">
+                       <p class = "address_block_a">
+                        <strong>
+                         Pneuhage tire services
+                        </strong>
+                        <br/>
+                        <span class = "store">
+                         <span class = "storeUid">
+                          19 -
+                         </span>
+                         Dresden branch, Kaditz / Mickten
+                        </span>
+                        <br/>
+                        <span class = "additionalAdress">
+                         Exit DD-Neustadt, direction Radebeul
+                        </span>
+                        <br/>
+                        <span class = "street">
+                         Kötzschenbroder Strasse 136
+                        </span>
+                        <br/>
+                        <span class = "zip">
+                         01139 Dresden
+                        </span>
+                        <br/>
+                       </p>
+                       <p class = "address_block_b">
+                        <a class="direct_call" href="tel:0351 / 4275800-0" rel="nofollow">
+                         0351 / 4275800-0
+                        </a>
+                       </p>
+                       <p class = "address_block_c">
+                        <span class = "fax">
+                         Fax: 0351 / 4275800-28
+                        </span>
+                        <br/>
+                        <span class = "mail">
+                         E-mail:
+                         <a href="javascript:linkTo_UnCryptMailto('rfnqyt/sq+9:Eusjz3htr');">
+                          nl645
+                          <span>
+                           @
+                          </span>
+                          pneu.com
+                         </a>
+                        </span>
+                        <br/>
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class = "storesearch_properties_block_f">
+                     <div class = "storesearch_properties_block_f_inner clearfix">
+                      <div class = "storesearch_properties_contact_openingTimes">
+                       <h3>
+                        opening hours
+                       </h3>
+                       <p>
+                        Mon-Fri: 07: 00-18: 00
+                        <br/>
+                        Saturday: 08: 00-12: 00
+                       </p>
+                       <h3>
+                        24h truck breakdown service
+                       </h3>
+                       <p class = "additional_service_hotline">
+                        Hairdryer:
+                        <a class="direct_call" href="tel:0721 / 6188-119" rel="nofollow">
+                         0721 / 6188-119
+                        </a>
+                       </p>
+                       <h3>
+                        Harvest emergency service 24/7
+                       </h3>
+                       <p class = "additional_service_hotline">
+                        Hairdryer:
+                        <a class="direct_call" href="tel:0721 / 618898-35" rel="nofollow">
+                         0721 / 618898-35
+                        </a>
+                        <br/>
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class = "storesearch_properties_block_g">
+                     <div class = "storesearch_properties_block_g_inner clearfix">
+                      <div class = "storesearch_properties_contact_buttons">
+                       <a class = "button-link button-link-red-star" href = "https://www.google.com/search?q=Pneuhage%20Reifendienste%20K%C3%B6tzschenbroder%20Stra%C3%9Fe%20140A % 20Dresden & amp; ludocid = 12873946291928917210 & amp; hl = de # lrd = 0x4709cfcdd9369147: 0xb2a971f183e164da, 2 "target =" _ blank ">
+                        Rate branch
+                       </a>
+                       <a class = "button-link button-link-blue" href = "https://www.google.de/maps/dir//K%C3%B6tzschenbroder+Stra%C3%9Fe136%2C01139+Dresden%2CGermany" target = "_ blank">
+                        Plan route
+                       </a>
+                       <a class="button-link button-link-blue button-link-callback" href="https://werkstatttermin.pneuhage.de/?mandator=pmm&amp;location=PMM:NL0645" target="_blank">
+                        Appointment
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class = "storesearch_properties_block_b">
+                 <div class = "storesearch_properties_block_b_inner clearfix">
+                  <div class = "storesearch_properties_contact_contacts">
+                   <div class = "block-persons">
+                    <h3>
+                     Your contact person:
+                    </h3>
+                    <ul class = "panel-group accordion_persons" id = "accordion-19">
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-2499">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Branch manager
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-2499">
+                       <div class = "panel-body">
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Steve Mueller
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0173 / 6293512" rel="nofollow">
+                           0173/6293512
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-98">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Car consultant
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-98">
+                       <div class = "panel-body">
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Steve Mueller
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0351 / 4275800-0" rel="nofollow">
+                           0351 / 4275800-0
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-102">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Industry consultant
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-102">
+                       <div class = "panel-body">
+                        <img alt = "Ralf Köhler" height = "94" src = "fileadmin / _processed_ / csm_Ralf_Koehler_1d83745847.png" width = "75" />
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Ralf Koehler
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0173 / 6293-027" rel="nofollow">
+                           0173 / 6293-027
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-761">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Agricultural consultant
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-761">
+                       <div class = "panel-body">
+                        <img alt = "Jens Friedrich" height = "94" src = "fileadmin / _processed_ / csm_Jens_Friedrich_277aca29d4.png" width = "75" />
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Jens Friedrich
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0173 / 6293-032" rel="nofollow">
+                           0173 / 6293-032
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-2500">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Adviser truck
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-2500">
+                       <div class = "panel-body">
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Sebastian Fröhnert
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0151 / 29255-658" rel="nofollow">
+                           0151 / 29255-658
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                     <li class = "panel panel-default">
+                      <div class = "panel-heading">
+                       <h6 class = "panel-title">
+                        <a class="collapsed" data-parent="#accordion-19" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#person-2501">
+                         <span class = "icon-accordeon">
+                          <span class = "path1">
+                          </span>
+                          <span class = "path2">
+                          </span>
+                          <span class = "path3">
+                          </span>
+                          <span class = "path4">
+                          </span>
+                         </span>
+                         <span class = "panel-heading-text">
+                          Earth machines consultant
+                         </span>
+                        </a>
+                       </h6>
+                      </div>
+                      <div class = "panel-collapse collapse" id = "person-2501">
+                       <div class = "panel-body">
+                        <div class = "text">
+                         <p>
+                          <strong>
+                           Olaf Stöpel
+                          </strong>
+                          <br/>
+                          Hairdryer:
+                          <a class="direct_call" href="tel:0173 / 6293-024" rel="nofollow">
+                           0173 / 6293-024
+                          </a>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </li>
+                    </ul>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class = "storesearch_properties tab-pane" id = "storesearch_properties_services">
+               <div class = "storesearch_properties_inner clearfix">
+                <div class = "storesearch_properties_services_wrap">
+                 <div class = "storesearch_properties_services_wrap_inner clearfix">
+                  <h3 class = "storesearch_properties_servicelistgroup">
+                   Car / van services
+                  </h3>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "Tire assembly" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_ Montage_reifen_5442688f36.png" width = "31" />
+                    </span>
+                    <span class = "services_img_hover">
+                     <img alt = "Hover mounting" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_ Montage_reifen_9b97450f6d.png" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Tire fitting
+                    </span>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "Tire change" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_radwechsel_am_auto_533fb3010a.png" width = "31" />
+                    </span>
+                    <span class = "services_img_hover">
+                     <img alt = "Tire change (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_radwechsel_am_auto_8c0f3b6b4a.png" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Tire change
+                    </span>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/dienstleistungen/reifen-auswuchten">
+                     <span class = "services_img_normal">
+                      <img alt = "Balancing" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_auswuchten_88cea9f513.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Balancing (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_onlineshop_auswuchten_7968fa9a47.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Balancing
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/dienstleistungen/reifeneinlagerung">
+                     <span class = "services_img_normal">
+                      <img alt = "storage" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_einlagern_fbda47dac4.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Storage (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_einlagern_eb8d477bec.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Storage
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/dienstleistungen/raederwaesche">
+                     <span class = "services_img_normal">
+                      <img alt = "wheel wash" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_radwaesche_03d598b92b.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Wheel wash (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_radwaesche_227077ec54.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Wheel washing
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/dienstleistungen/reifengas-pneufill">
+                     <span class = "services_img_normal">
+                      <img alt = "Reifengas Pneufill" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_pneufill_89d601c1df.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Reifengas Pneufill (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_pneufill_2a33087a95.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Tire gas Pneufill
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/dienstleistungen/felgenreparatur">
+                     <span class = "services_img_normal">
+                      <img alt = "Rim repair" height = "31" src = "fileadmin / _processed_ / csm_felgenreparatur_grey_bf0af99855.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Rim repair (hover)" height = "31" src = "fileadmin / _processed_ / csm_felgenreparatur_hover_2cb3220e60.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Rim repair
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <h3 class = "storesearch_properties_servicelistgroup">
+                   Car service
+                  </h3>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/auspuff-service">
+                     <span class = "services_img_normal">
+                      <img alt = "Exhaust Service" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_auspuff_c9ff5067bc.jpg" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Exhaust Service (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_auspuff_1a2b4f3f83.jpg" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Exhaust service
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/bremsen-service">
+                     <span class = "services_img_normal">
+                      <img alt = "Brake Check" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_bremsen_c399211440.jpg" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Brake Check (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_bremsen_0e9a3b9762.jpg" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Brake check
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/stossdaempfer-service">
+                     <span class = "services_img_normal">
+                      <img alt = "Shock Absorber Service" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_stossdaempfer_a0c7ad26f8.jpg" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Shock absorber service (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_stossdaempfer_ebeb1a700f.jpg" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Shock absorber service
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/kfz-inspektion">
+                     <span class = "services_img_normal">
+                      <img alt = "Inspection" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_inspektion_9e630e887c.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Inspection (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_inspektion_e1df29cb84.jpg" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      inspection
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/hauptuntersprüfung">
+                     <span class = "services_img_normal">
+                      <img alt = "General inspection" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_HU_32fab934a9.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "main inspection (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_HU_fc98b40728.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      General inspection
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/klima-service">
+                     <span class = "services_img_normal">
+                      <img alt = "Klima-Service" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_klima_1a5662a4b7.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Klima-Service (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_klima_32cbbc20cd.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Air conditioning service
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/kfz-service/autoglas-service">
+                     <span class = "services_img_normal">
+                      <img alt = "Autoglas-Service" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_glasservice_ecb78ace33.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Autoglas-Service (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_glasservice_ce260e82ae.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Auto glass service
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <h3 class = "storesearch_properties_servicelistgroup">
+                   Products
+                  </h3>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "Car / Transporter Tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_pkw_d686d6c917.png" width = "31" />
+                    </span>
+                    <span class = "services_img_hover">
+                     <img alt = "Car / Transporter tires (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_pkw_8ca8cf6038.png" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Car / van tires
+                    </span>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "Motorcycle Tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_zweirad_b24aaa6c3a.png" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Motorcycle tires
+                    </span>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="lkw/trruck-reifen">
+                     <span class = "services_img_normal">
+                      <img alt = "truck tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_lkw_05f1126c0b.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Truck tires (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_lkw_4d45bee68f.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Truck tires
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="industrie/industrie-reifen">
+                     <span class = "services_img_normal">
+                      <img alt = "Industrial Tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_stapler_e2da80d81f.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Industrial tires (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_stapler_8098f9d688.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Industrial tires
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="agrar/agrar-reifen">
+                     <span class = "services_img_normal">
+                      <img alt = "Agricultural Tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_ackerschlepper_1bd66db448.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Agricultural tires (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_ackerschlepper_b56e98f6f6.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Agricultural tires
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="earthmachines/earthmachine-tires">
+                     <span class = "services_img_normal">
+                      <img alt = "Earth machine tires" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_em_9efe659e65.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "Hover hover" height = "31" src = "fileadmin / _processed_ / csm_Iconset_blau_em_855f679a69.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Earth machine tires
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <a href="pkw-transporter/online-kaufen/alufelgen-nach-fahrzeug">
+                     <span class = "services_img_normal">
+                      <img alt = "aluminum / steel rims" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_aluraeder_8c81408641.png" width = "31" />
+                     </span>
+                     <span class = "services_img_hover">
+                      <img alt = "aluminum / steel rims (hover)" height = "31" src = "fileadmin / _processed_ / csm_Iconset_gelb_aluraeder_7bc72c2a14.png" width = "31" />
+                     </span>
+                     <span class = "services_text">
+                      Aluminum / steel rims
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                  <h3 class = "storesearch_properties_servicelistgroup">
+                   Others
+                  </h3>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "wheel alignment" height = "31" src = "typo3temp / _processed_ / csm_servicesdummy_normal_cfb21008ac.gif" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Wheel alignment
+                    </span>
+                   </div>
+                  </div>
+                  <div class = "storesearch_properties_services_item">
+                   <div class = "storesearch_properties_services_item_inner clearfix">
+                    <span class = "services_img_normal">
+                     <img alt = "Oil change" height = "31" src = "typo3temp / _processed_ / csm_servicesdummy_normal_cfb21008ac.gif" width = "31" />
+                    </span>
+                    <span class = "services_text">
+                     Oil change
+                    </span>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class = "storesearch_properties tab-pane" id = "storesearch_properties_prices">
+               <div class = "storesearch_properties_inner clearfix">
+                <h3>
+                 Prices
+                </h3>
+                <div class = "store_price_content">
+                </div>
+                <div class = "tx-nexusconnect">
+                 <ul class = "panel-group tx-nexusconnect-storeprices" id = "accordion-storeprices">
+                  <li class = "panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class = "panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-0">
+                      <span class = "icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class = "panel-heading-text">
+                       <strong>
+                        Wheel alignment without adjustment
+                       </strong>
+                       -
+                       <em>
+                        Car
+                       </em>
+                       - per set from 49.00 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class = "panel-storeprices panel-collapse collapse" id = "panel-storeprices-0">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class = "tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class = "price-info-wrap">
+                        <strong>
+                         without setting
+                        </strong>
+                        - EUR 49.00 per set
+                       </span>
+                       <span class = "price-link-wrap">
+                        <a class = "button-link button-link-orange" href = "https://www.pneuhage.de/shop/konfigurator/dienstleistungs/nl645/achsvericherung" title = "Order now: without setting - 49 per set 00 EUR ">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                  <li class = "panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class = "panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-1">
+                      <span class = "icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class = "panel-heading-text">
+                       <strong>
+                        Waste tire disposal
+                       </strong>
+                       -
+                       <em>
+                        Car
+                       </em>
+                       - per piece from 3.90 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class="panel-storeprices panel-collapse collapse" id="panel-storeprices-1">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         bis 13 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/13-zoll" title="Jetzt bestellen: bis 13 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         14 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/14-zoll" title="Jetzt bestellen: 14 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         15 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/15-zoll" title="Jetzt bestellen: 15 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         16 inches
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/16-zoll" title="Jetzt bestellen: 16 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         17 Zoll
+                        </strong>
+                        – pro Stück 4,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/17-zoll" title="Jetzt bestellen: 17 Zoll – pro Stück 4,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         18 Zoll
+                        </strong>
+                        – pro Stück 4,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/18-zoll" title="Jetzt bestellen: 18 Zoll – pro Stück 4,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         ab 19 Zoll
+                        </strong>
+                        – pro Stück 4,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/altreifenentsorgung/19-zoll" title="Jetzt bestellen: ab 19 Zoll – pro Stück 4,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class="panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-2">
+                      <span class="icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class="panel-heading-text">
+                       <strong>
+                        Tire storage
+                       </strong>
+                       -
+                       <em>
+                        4 Stück / Saison
+                       </em>
+                       – pro Stück ab 8,90 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class="panel-storeprices panel-collapse collapse" id="panel-storeprices-2">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         bis 13 Zoll
+                        </strong>
+                        – pro Stück ab 8,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/13-zoll" title="Jetzt bestellen: bis 13 Zoll – pro Stück ab 8,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         14 Zoll
+                        </strong>
+                        – pro Stück ab 8,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/14-zoll" title="Jetzt bestellen: 14 Zoll – pro Stück ab 8,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         15 Zoll
+                        </strong>
+                        – pro Stück ab 9,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/15-zoll" title="Jetzt bestellen: 15 Zoll – pro Stück ab 9,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         16 inches
+                        </strong>
+                        – pro Stück ab 9,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/16-zoll" title="Jetzt bestellen: 16 Zoll – pro Stück ab 9,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         17 Zoll
+                        </strong>
+                        – pro Stück ab 10,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/17-zoll" title="Jetzt bestellen: 17 Zoll – pro Stück ab 10,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         18 Zoll
+                        </strong>
+                        – pro Stück ab 10,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/18-zoll" title="Jetzt bestellen: 18 Zoll – pro Stück ab 10,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         ab 19 Zoll
+                        </strong>
+                        – pro Stück ab 10,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/reifeneinlagerung/19-zoll" title="Jetzt bestellen: ab 19 Zoll – pro Stück ab 10,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class="panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-3">
+                      <span class="icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class="panel-heading-text">
+                       <strong>
+                        Radwäsche
+                       </strong>
+                       -
+                       <em>
+                        Car
+                       </em>
+                       – pro Stück ab 1,90 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class="panel-storeprices panel-collapse collapse" id="panel-storeprices-3">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         bis 13 Zoll
+                        </strong>
+                        – pro Stück 1,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/13-zoll" title="Jetzt bestellen: bis 13 Zoll – pro Stück 1,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         14 Zoll
+                        </strong>
+                        – pro Stück 1,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/14-zoll" title="Jetzt bestellen: 14 Zoll – pro Stück 1,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         15 Zoll
+                        </strong>
+                        – pro Stück 2,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/15-zoll" title="Jetzt bestellen: 15 Zoll – pro Stück 2,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         16 inches
+                        </strong>
+                        – pro Stück 2,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/16-zoll" title="Jetzt bestellen: 16 Zoll – pro Stück 2,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         17 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/17-zoll" title="Jetzt bestellen: 17 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         18 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/18-zoll" title="Jetzt bestellen: 18 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         ab 19 Zoll
+                        </strong>
+                        – pro Stück 3,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwasche/19-zoll" title="Jetzt bestellen: ab 19 Zoll – pro Stück 3,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class="panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-4">
+                      <span class="icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class="panel-heading-text">
+                       <strong>
+                        RADWECHSEL INKL. AUSWUCHTEN
+                       </strong>
+                       -
+                       <em>
+                        Radwechsel, Auswuchten etc.
+                       </em>
+                       – pro Stück ab 12,90 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class="panel-storeprices panel-collapse collapse" id="panel-storeprices-4">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         bis 13 Zoll
+                        </strong>
+                        – pro Stück 12,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/13-zoll" title="Jetzt bestellen: bis 13 Zoll – pro Stück 12,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         14 Zoll
+                        </strong>
+                        – pro Stück 12,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/14-zoll" title="Jetzt bestellen: 14 Zoll – pro Stück 12,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         15 Zoll
+                        </strong>
+                        – pro Stück 13,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/15-zoll" title="Jetzt bestellen: 15 Zoll – pro Stück 13,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         16 inches
+                        </strong>
+                        – pro Stück 13,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/16-zoll" title="Jetzt bestellen: 16 Zoll – pro Stück 13,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         17 Zoll
+                        </strong>
+                        – pro Stück 14,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/17-zoll" title="Jetzt bestellen: 17 Zoll – pro Stück 14,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         18 Zoll
+                        </strong>
+                        – pro Stück 14,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/18-zoll" title="Jetzt bestellen: 18 Zoll – pro Stück 14,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         ab 19 Zoll
+                        </strong>
+                        – pro Stück 16,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/radwechsel-standard/19-zoll" title="Jetzt bestellen: ab 19 Zoll – pro Stück 16,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="panel panel-default">
+                   <div class = "panel-heading">
+                    <h6 class="panel-title">
+                     <a class="accordion-toggle collapsed" data-parent="#accordion-storeprices" data-toggle="collapse" href="nc/filialfinder/filiale/dresden-kaditzmickten#panel-storeprices-5">
+                      <span class="icon-accordeon">
+                       <span class = "path1">
+                       </span>
+                       <span class = "path2">
+                       </span>
+                       <span class = "path3">
+                       </span>
+                       <span class = "path4">
+                       </span>
+                      </span>
+                      <span class="panel-heading-text">
+                       <strong>
+                        Ummontage inkl. Auswuchten
+                       </strong>
+                       -
+                       <em>
+                        lose Reifen auf Felge
+                       </em>
+                       – pro Stück ab 18,90 EUR
+                      </span>
+                     </a>
+                    </h6>
+                   </div>
+                   <div class="panel-storeprices panel-collapse collapse" id="panel-storeprices-5">
+                    <div class = "panel-body">
+                     <ul>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         bis 13 Zoll
+                        </strong>
+                        – pro Stück 18,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/13-zoll" title="Jetzt bestellen: bis 13 Zoll – pro Stück 18,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         14 Zoll
+                        </strong>
+                        – pro Stück 18,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/14-zoll" title="Jetzt bestellen: 14 Zoll – pro Stück 18,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         15 Zoll
+                        </strong>
+                        – pro Stück 19,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/15-zoll" title="Jetzt bestellen: 15 Zoll – pro Stück 19,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         16 inches
+                        </strong>
+                        – pro Stück 19,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/16-zoll" title="Jetzt bestellen: 16 Zoll – pro Stück 19,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         17 Zoll
+                        </strong>
+                        – pro Stück 21,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/17-zoll" title="Jetzt bestellen: 17 Zoll – pro Stück 21,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         18 Zoll
+                        </strong>
+                        – pro Stück 21,90 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/18-zoll" title="Jetzt bestellen: 18 Zoll – pro Stück 21,90 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                      <li class="tx-nexusconnect-storeprices-head tx-nexusconnect-storeprices-price">
+                       <span class="price-info-wrap">
+                        <strong>
+                         ab 19 Zoll
+                        </strong>
+                        – pro Stück 24,89 EUR
+                       </span>
+                       <span class="price-link-wrap">
+                        <a class="button-link button-link-orange" href="https://www.pneuhage.de/shop/konfigurator/dienstleistung/nl645/ummontage/19-zoll" title="Jetzt bestellen: ab 19 Zoll – pro Stück 24,89 EUR">
+                         Order now
+                        </a>
+                       </span>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+              <div class="storesearch_properties tab-pane" id="storesearch_properties_actions">
+               <div class="storesearch_properties_inner clearfix">
+                <h3>
+                 Actions / events
+                </h3>
+                <div class="tx-pneuhagepneuhub">
+                 <p>
+                  Keine Aktionen / Veranstaltungen zur Zeit.
+                 </p>
+                </div>
+                <h3>
+                 News
+                </h3>
+                <div class="tx-pneuhagepneuhub">
+                 <p>
+                  Keine News zur Zeit.
+                 </p>
+                </div>
+                <h3>
+                 deals
+                </h3>
+                <div class="tx-pneuhagepneuhub">
+                 <p>
+                  Keine Angebote zur Zeit.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <h2>
+          Weitere Filialen in Ihrer Nähe
+         </h2>
+         <p class="store-backtolist">
+          <a class="storelist_backtolist" href="nc/filialfinder/ort/01139/distanz/50/spage/1/ssort/distanceAsc/sact/list">
+           Alle anzeigen (11)
+          </a>
+         </p>
+         <div class = "clear">
+         </div>
+         <table class="tx_pneuhagestoresearch-store-list-table">
+          <tr>
+           <td class="store-list-td-0">
+            Pneuhage Reifendienste
+           </td>
+           <td class="store-list-td-1">
+            Dresden branch
+           </td>
+           <td class="store-list-td-2">
+            Tharandter Straße 200
+           </td>
+           <td class="store-list-td-3">
+            01187
+           </td>
+           <td class="store-list-td-4">
+            Dresden
+           </td>
+           <td class="store-list-td-5">
+            7 km entfernt
+           </td>
+           <td class="store-list-td-6" style="display:none;">
+            <form action="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-freital" class="showdetailsform" method="post">
+             <div>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@extension]" type="hidden" value="Pneuhagestoresearch"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@vendor]" type="hidden" value="JUBU"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@controller]" type="hidden" value="Store"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@action]" type="hidden" value="show"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][arguments]" type="hidden" value="YToyOntzOjU6InN0b3JlIjtpOjE5O3M6OToic2VsZWN0aW9uIjthOjI6e3M6ODoibG9jYXRpb24iO3M6NToiMDExMzkiO3M6ODoiZGlzdGFuY2UiO2k6NTA7fX0=5557ef3bc067fdc643126f9e924833072b177014"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:19:"Pneuhagestoresearch";s:11:"@controller";s:5:"Store";s:7:"@action";s:4:"show";s:7:"@vendor";s:4:"JUBU";}1608029bbfcbde3d8385f3aa5119e019d2f03a4a'/>
+              <input name="tx_pneuhagestoresearch_pi1[__trustedProperties]" type="hidden" value='a:4:{s:6:"action";i:1;s:5:"store";i:1;s:10:"controller";i:1;s:9:"selection";a:2:{s:8:"location";i:1;s:8:"distance";i:1;}}2ef799c5be5f162b87f2a98cb5e14b344f476131'/>
+             </div>
+             <input name="tx_pneuhagestoresearch_pi1[action]" type="text" value="show"/>
+             <input name="tx_pneuhagestoresearch_pi1[store]" type="text" value="28"/>
+             <input name="tx_pneuhagestoresearch_pi1[controller]" type="text" value="Store"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][location]" type="text" value="01187"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][distance]" type="text" value="51"/>
+             <input name="" type="submit" value="Details"/>
+            </form>
+           </td>
+          </tr>
+          <tr>
+           <td class="store-list-td-0">
+            Pneuhage Reifendienste
+           </td>
+           <td class="store-list-td-1">
+            Filiale Dresden, Striesen
+           </td>
+           <td class="store-list-td-2">
+            Hüblerstraße 36
+           </td>
+           <td class="store-list-td-3">
+            01309
+           </td>
+           <td class="store-list-td-4">
+            Dresden
+           </td>
+           <td class="store-list-td-5">
+            9 km entfernt
+           </td>
+           <td class="store-list-td-6" style="display:none;">
+            <form action="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-striesen" class="showdetailsform" method="post">
+             <div>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@extension]" type="hidden" value="Pneuhagestoresearch"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@vendor]" type="hidden" value="JUBU"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@controller]" type="hidden" value="Store"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@action]" type="hidden" value="show"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][arguments]" type="hidden" value="YToyOntzOjU6InN0b3JlIjtpOjE5O3M6OToic2VsZWN0aW9uIjthOjI6e3M6ODoibG9jYXRpb24iO3M6NToiMDExMzkiO3M6ODoiZGlzdGFuY2UiO2k6NTA7fX0=5557ef3bc067fdc643126f9e924833072b177014"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:19:"Pneuhagestoresearch";s:11:"@controller";s:5:"Store";s:7:"@action";s:4:"show";s:7:"@vendor";s:4:"JUBU";}1608029bbfcbde3d8385f3aa5119e019d2f03a4a'/>
+              <input name="tx_pneuhagestoresearch_pi1[__trustedProperties]" type="hidden" value='a:4:{s:6:"action";i:1;s:5:"store";i:1;s:10:"controller";i:1;s:9:"selection";a:2:{s:8:"location";i:1;s:8:"distance";i:1;}}2ef799c5be5f162b87f2a98cb5e14b344f476131'/>
+             </div>
+             <input name="tx_pneuhagestoresearch_pi1[action]" type="text" value="show"/>
+             <input name="tx_pneuhagestoresearch_pi1[store]" type="text" value="20"/>
+             <input name="tx_pneuhagestoresearch_pi1[controller]" type="text" value="Store"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][location]" type="text" value="01309"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][distance]" type="text" value="51"/>
+             <input name="" type="submit" value="Details"/>
+            </form>
+           </td>
+          </tr>
+          <tr>
+           <td class="store-list-td-0">
+            Pneuhage Reifendienste
+           </td>
+           <td class="store-list-td-1">
+            Filiale Dresden, Reick
+           </td>
+           <td class="store-list-td-2">
+            Gasanstaltstraße 6
+           </td>
+           <td class="store-list-td-3">
+            01237
+           </td>
+           <td class="store-list-td-4">
+            Dresden
+           </td>
+           <td class="store-list-td-5">
+            9 km entfernt
+           </td>
+           <td class="store-list-td-6" style="display:none;">
+            <form action="https://www.pneuhage.de/nc/filialfinder/filiale/dresden-reick" class="showdetailsform" method="post">
+             <div>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@extension]" type="hidden" value="Pneuhagestoresearch"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@vendor]" type="hidden" value="JUBU"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@controller]" type="hidden" value="Store"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@action]" type="hidden" value="show"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][arguments]" type="hidden" value="YToyOntzOjU6InN0b3JlIjtpOjE5O3M6OToic2VsZWN0aW9uIjthOjI6e3M6ODoibG9jYXRpb24iO3M6NToiMDExMzkiO3M6ODoiZGlzdGFuY2UiO2k6NTA7fX0=5557ef3bc067fdc643126f9e924833072b177014"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:19:"Pneuhagestoresearch";s:11:"@controller";s:5:"Store";s:7:"@action";s:4:"show";s:7:"@vendor";s:4:"JUBU";}1608029bbfcbde3d8385f3aa5119e019d2f03a4a'/>
+              <input name="tx_pneuhagestoresearch_pi1[__trustedProperties]" type="hidden" value='a:4:{s:6:"action";i:1;s:5:"store";i:1;s:10:"controller";i:1;s:9:"selection";a:2:{s:8:"location";i:1;s:8:"distance";i:1;}}2ef799c5be5f162b87f2a98cb5e14b344f476131'/>
+             </div>
+             <input name="tx_pneuhagestoresearch_pi1[action]" type="text" value="show"/>
+             <input name="tx_pneuhagestoresearch_pi1[store]" type="text" value="21"/>
+             <input name="tx_pneuhagestoresearch_pi1[controller]" type="text" value="Store"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][location]" type="text" value="01237"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][distance]" type="text" value="51"/>
+             <input name="" type="submit" value="Details"/>
+            </form>
+           </td>
+          </tr>
+          <tr>
+           <td class="store-list-td-0">
+            Pneuhage Reifendienste
+           </td>
+           <td class="store-list-td-1">
+            Filiale Coswig
+           </td>
+           <td class="store-list-td-2">
+            Dresdner Straße 104
+           </td>
+           <td class="store-list-td-3">
+            01640
+           </td>
+           <td class="store-list-td-4">
+            Coswig
+           </td>
+           <td class="store-list-td-5">
+            10 km entfernt
+           </td>
+           <td class="store-list-td-6" style="display:none;">
+            <form action="https://www.pneuhage.de/nc/filialfinder/filiale/coswig" class="showdetailsform" method="post">
+             <div>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@extension]" type="hidden" value="Pneuhagestoresearch"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@vendor]" type="hidden" value="JUBU"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@controller]" type="hidden" value="Store"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@action]" type="hidden" value="show"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][arguments]" type="hidden" value="YToyOntzOjU6InN0b3JlIjtpOjE5O3M6OToic2VsZWN0aW9uIjthOjI6e3M6ODoibG9jYXRpb24iO3M6NToiMDExMzkiO3M6ODoiZGlzdGFuY2UiO2k6NTA7fX0=5557ef3bc067fdc643126f9e924833072b177014"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:19:"Pneuhagestoresearch";s:11:"@controller";s:5:"Store";s:7:"@action";s:4:"show";s:7:"@vendor";s:4:"JUBU";}1608029bbfcbde3d8385f3aa5119e019d2f03a4a'/>
+              <input name="tx_pneuhagestoresearch_pi1[__trustedProperties]" type="hidden" value='a:4:{s:6:"action";i:1;s:5:"store";i:1;s:10:"controller";i:1;s:9:"selection";a:2:{s:8:"location";i:1;s:8:"distance";i:1;}}2ef799c5be5f162b87f2a98cb5e14b344f476131'/>
+             </div>
+             <input name="tx_pneuhagestoresearch_pi1[action]" type="text" value="show"/>
+             <input name="tx_pneuhagestoresearch_pi1[store]" type="text" value="16"/>
+             <input name="tx_pneuhagestoresearch_pi1[controller]" type="text" value="Store"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][location]" type="text" value="01640"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][distance]" type="text" value="51"/>
+             <input name="" type="submit" value="Details"/>
+            </form>
+           </td>
+          </tr>
+          <tr>
+           <td class="store-list-td-0">
+            Pneuhage Reifendienste
+           </td>
+           <td class="store-list-td-1">
+            Filiale Heidenau
+           </td>
+           <td class="store-list-td-2">
+            Güterbahnhofstraße 55
+           </td>
+           <td class="store-list-td-3">
+            01809
+           </td>
+           <td class="store-list-td-4">
+            Heidenau
+           </td>
+           <td class="store-list-td-5">
+            16 km entfernt
+           </td>
+           <td class="store-list-td-6" style="display:none;">
+            <form action="https://www.pneuhage.de/nc/filialfinder/filiale/heidenau" class="showdetailsform" method="post">
+             <div>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@extension]" type="hidden" value="Pneuhagestoresearch"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@vendor]" type="hidden" value="JUBU"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@controller]" type="hidden" value="Store"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@action]" type="hidden" value="show"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][arguments]" type="hidden" value="YToyOntzOjU6InN0b3JlIjtpOjE5O3M6OToic2VsZWN0aW9uIjthOjI6e3M6ODoibG9jYXRpb24iO3M6NToiMDExMzkiO3M6ODoiZGlzdGFuY2UiO2k6NTA7fX0=5557ef3bc067fdc643126f9e924833072b177014"/>
+              <input name="tx_pneuhagestoresearch_pi1[__referrer][@request]" type="hidden" value='a:4:{s:10:"@extension";s:19:"Pneuhagestoresearch";s:11:"@controller";s:5:"Store";s:7:"@action";s:4:"show";s:7:"@vendor";s:4:"JUBU";}1608029bbfcbde3d8385f3aa5119e019d2f03a4a'/>
+              <input name="tx_pneuhagestoresearch_pi1[__trustedProperties]" type="hidden" value='a:4:{s:6:"action";i:1;s:5:"store";i:1;s:10:"controller";i:1;s:9:"selection";a:2:{s:8:"location";i:1;s:8:"distance";i:1;}}2ef799c5be5f162b87f2a98cb5e14b344f476131'/>
+             </div>
+             <input name="tx_pneuhagestoresearch_pi1[action]" type="text" value="show"/>
+             <input name="tx_pneuhagestoresearch_pi1[store]" type="text" value="39"/>
+             <input name="tx_pneuhagestoresearch_pi1[controller]" type="text" value="Store"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][location]" type="text" value="01809"/>
+             <input name="tx_pneuhagestoresearch_pi1[selection][distance]" type="text" value="51"/>
+             <input name="" type="submit" value="Details"/>
+            </form>
+           </td>
+          </tr>
+         </table>
+         <div class="storesearch_properties_offers">
+          <h2>
+           Angebote in Ihrer 24-Stunden Filiale
+          </h2>
+          <div class="storesearch_properties_offers_widget">
+           <div class="tx-nexusconnect">
+            <div class="box-promotion" id="box-promotion">
+             <ul id="slider-box-promotion">
+              <li>
+               <div class="product-grid fpil">
+                <a href="https://www.pneuhage.de/shop/reifen/continental-contiecocontact-5-195-65-r15-91-h">
+                 <!-- <i class="sash sash-medium ">&nbsp;</i> -->
+                 <img alt="CONTINENTAL CONTIECOCONTACT 5 195/65 R15 91 H" class="image" src="https://www.pneuhage.de/shop/media/catalog/product/cache/1/image/224x/9df78eab33525d08d6e5fb8d27136e95/images/005376_a_01_continental_ecocontact-5.jpg"/>
+                </a>
+                <div class="details">
+                 <div class="brand">
+                  <img alt="Continental" height="17" src="https://www.pneuhage.de/shop/media/catalog/brand/logos/tires/resized/123x23_continental.png"/>
+                 </div>
+                 <div class = "price">
+                  <div class = "info">
+                   AKTIONSPREIS
+                  </div>
+                  <div class="current">
+                   70,67 €
+                  </div>
+                 </div>
+                 <a class="name" href="https://www.pneuhage.de/shop/reifen/continental-contiecocontact-5-195-65-r15-91-h">
+                  <span class="tread">
+                   CONTIECOCONTACT 5
+                  </span>
+                  <span class="size">
+                   195/65 R15 91 H
+                  </span>
+                 </a>
+                 <div class = "clearfix">
+                 </div>
+                 <div class="ue-params">
+                  <div class="ue-params__item">
+                   <span class="icon-fuel">
+                   </span>
+                   B
+                  </div>
+                  <div class="ue-params__item">
+                   <span class="icon-wet-grip">
+                   </span>
+                   B
+                  </div>
+                  <div class="ue-params__item">
+                   <span class="icon-noise-2">
+                   </span>
+                   71 dB
+                  </div>
+                 </div>
+                 <div class = "clearfix">
+                 </div>
+                 <div class="button-action">
+                  <form action="https://www.pneuhage.de/shop/konfigurator/reifen/reifenauswahl" method="post">
+                   <input name="tire[id]" type="hidden" value="9188"/>
+                   <select class="select selectbox" name="tire[qty]">
+                    <option value="1">
+                     1
+                    </option>
+                    <option value="2">
+                     2
+                    </option>
+                    <option value="3">
+                     3
+                    </option>
+                    <option selected="selected" value="4">
+                     4th
+                    </option>
+                    <option value="5">
+                     5
+                    </option>
+                    <option value="6">
+                     6th
+                    </option>
+                    <option value="7">
+                     7th
+                    </option>
+                    <option value="8">
+                     8th
+                    </option>
+                   </select>
+                   <button class="button-link btn-36 button-link-orange" title="Warenkorb" type="submit">
+                    <span>
+                     <span>
+                      shopping cart
+                     </span>
+                    </span>
+                   </button>
+                  </form>
+                  <div class = "clearfix">
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "clear">
+         </div>
+         <div class="storesearch_properties_seotext">
+          Herstellerunabhängige, individuell passende Produkte und Beratung rund um Reifen sowie Stahl- und Alufelgen gibt es in Ihrer Pneuhage Filiale in der Kötzschenbroder Str. 136 in 01139 Dresden, Kaditz/Mickten – sowohl für PKW als auch für Nutzfahrzeuge. Unsere hochqualifizierten, hoch motivierten Mitarbeiter bieten Ihnen den gesamten Reifenservice vom professionellen Reifenwechsel über die fachmännische Reifenmontage bis zur fachgerechten Einlagerung Ihrer Sommer- und Winterreifen nach der saisonalen Umrüstung. Ihre Nutzfahrzeuge halten wir konsequent in Bewegung, wie z. B. mit unserem LKW-Pannendienst oder unserem Erntenotdienst, die 24 Stunden an sieben Tagen die Woche für Sie im Einsatz sind. Standzeiten und damit unnötige Kosten erspart Ihnen der voll ausgestattete Mobile Service Ihrer Pneuhage Filiale in der Kötzschenbroder Str. 140a in 01139 Dresden, Kaditz/Mickten. Damit reparieren wir Ihre Nutzfahrzeuge direkt bei Ihnen vor Ort. Mit unserem umfassenden Fleetcheck erhöhen wir die Sicherheit und Laufleistung Ihrer Nutzfahrzeugreifen und reduzieren gezielt die Betriebskosten Ihres Fuhrparks. Profitieren Sie vom Einsparpotenzial – vereinbaren Sie gleich einen Beratungstermin!
+         </div>
+         <script data-ignore = "1" type = "application / ld + json">
+          {
+          "@context": "http://www.schema.org"
+          ,"@type": "LocalBusiness"
+          ,"name": "Pneuhage Reifendienste - Dresden, Kaditz/Mickten"
+          ,"url": "https://www.pneuhage.de/nc/filialfinder/filiale/dresden-kaditzmickten"
+          ,"logo": "http://www.pneuhage.de/fileadmin/pneuhage.de/Resources/Public/Images/logo/pneuhage_screen.png"
+          ,"image": "http://www.pneuhage.de/fileadmin/user_upload/pneuhage.de/00_CI-Hilfsmittel/Filialbilder/Pneuhage_Dresden_645.JPG"
+          ,"description": "Herstellerunabhängige, individuell passende Produkte und Beratung rund um Reifen sowie Stahl- und Alufelgen gibt es in Ihrer Pneuhage Filiale in der Kötzschenbroder Str. 136 in 01139 Dresden, Kaditz/Mickten – sowohl für PKW als auch für Nutzfahrzeuge. Unsere hochqualifizierten, hoch motivierten Mitarbeiter bieten Ihnen den gesamten Reifenservice vom professionellen Reifenwechsel über die fachmännische Reifenmontage bis zur fachgerechten Einlagerung Ihrer Sommer- und Winterreifen nach der saisonalen Umrüstung. Ihre Nutzfahrzeuge halten wir konsequent in Bewegung, wie z. B. mit unserem LKW-Pannendienst oder unserem Erntenotdienst, die 24 Stunden an sieben Tagen die Woche für Sie im Einsatz sind. Standzeiten und damit unnötige Kosten erspart Ihnen der voll ausgestattete Mobile Service Ihrer Pneuhage Filiale in der Kötzschenbroder Str. 140a in 01139 Dresden, Kaditz/Mickten. Damit reparieren wir Ihre Nutzfahrzeuge direkt bei Ihnen vor Ort. Mit unserem umfassenden Fleetcheck erhöhen wir die Sicherheit und Laufleistung Ihrer Nutzfahrzeugreifen und reduzieren gezielt die Betriebskosten Ihres Fuhrparks. Profitieren Sie vom Einsparpotenzial – vereinbaren Sie gleich einen Beratungstermin!"
+          ,"address": {
+                "@type": "PostalAddress"
+                ,"streetAddress": "Kötzschenbroder Straße136"
+                ,"addressLocality": "Dresden"
+                ,"postalCode": "01139"
+                ,"addressCountry": "Deutschland"
+          }
+          ,"hasMap": "https://www.google.de/maps/place/Pneuhage+Reifendienste,+K%C3%B6tzschenbroderStra%C3%9Fe%2C+Dresden%2C%20Kaditz%2FMickten/"
+          ,"openingHours": "Mo, Tu, We, Th, Fr 07:00-18:00  Sa 08:00-12:00"
+          ,"telephone": "+4935142758000"
+          ,"email": "nl645@pneu.com"
+          ,"faxNumber": "+49351427580028"
+        }
+         </script>
+         <img alt="" height="1" src="https://www.facebook.com/tr?id=1796619963936880&amp;ev=Filialfinder&amp;noscript=1" style="display:none" width="1">
+         </img>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "footer">
+    <div class="footer_inner clearfix">
+     <div class="footer_row footer_row_first">
+      <div class="footer_row_inner clearfix">
+       <div class="social">
+        <div class="social_inner clearfix">
+         <div class="csc-default" id="c9648">
+          <div class="contact_social">
+           <div class="contact_social_inner clearfix">
+            <ul>
+             <li>
+              <a href="https://de-de.facebook.com/pneuhage.reifendienste" target="_blank" title="facebook">
+               <img alt="facebook" class="normal" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social-greyscale/facebook.png" title="facebook" width="24">
+                <img alt="facebook" class="hover" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social/facebook.png" title="facebook" width="24"/>
+               </img>
+              </a>
+             </li>
+             <li>
+              <a href="https://www.instagram.com/pneuhage/" target="_top" title="Instagram">
+               <img alt="Instagram" class="normal" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social-greyscale/instagram.png" title="Instagram" width="24"/>
+               <img alt="Instagram" class="hover" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social/instagram.png" title="Instagram" width="24"/>
+              </a>
+             </li>
+             <li>
+              <a href="http://www.youtube.com/user/PneuhageGruppe" target="_blank" title="YouTube">
+               <img alt="YouTube" class="normal" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social-greyscale/youtube.png" title="YouTube" width="49"/>
+               <img alt="YouTube" class="hover" height="24" src="fileadmin/pneuhage.de/Resources/Public/Images/social/youtube.png" title="YouTube" width="49"/>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="footer_row footer_row_second">
+      <div class="footer_row_inner clearfix">
+       <div class="navquick">
+        <div class="navquick_inner clearfix">
+         <div class="navquick_block navquick_block_1">
+          <div class="navquick_block_inner navquick_block_1_inner clearfix">
+           <ul>
+            <li class="first navitem_64">
+             <a href="https://www.pneuhage.de/unternehmen">
+              <span>
+               Companies
+              </span>
+             </a>
+            </li>
+            <li class="navitem_65">
+             <a href="https://www.pneuhage.de/unternehmen/jobs-und-karriere">
+              <span>
+               Jobs & amp; Career
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1007">
+             <a href="https://www.pneuhage.de/nc/kontakt">
+              <span>
+               Contact
+              </span>
+             </a>
+            </li>
+            <li class="navitem_951">
+             <a href="http://www.pneuhage.de/shop/newsletter">
+              <span>
+               Newsletter
+              </span>
+             </a>
+            </li>
+            <li class="open last navitem_67">
+             <a href="https://www.pneuhage.de/hilfefaqs">
+              <span>
+               Hilfe/FAQs
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="navquick_block navquick_block_2">
+          <div class="navquick_block_inner navquick_block_2_inner clearfix">
+           <ul>
+            <li class="first navitem_1638">
+             <a href="https://www.pneuhage.de/rechtsinformation">
+              <span>
+               Rechtsinformation
+              </span>
+             </a>
+            </li>
+            <li class="navitem_9">
+             <a href="https://www.pneuhage.de/impressum">
+              <span>
+               imprint
+              </span>
+             </a>
+            </li>
+            <li class="navitem_10">
+             <a href="https://www.pneuhage.de/agb">
+              <span>
+               Conditions
+              </span>
+             </a>
+            </li>
+            <li class="navitem_350">
+             <a href="https://www.pneuhage.de/datenschutz">
+              <span>
+               data protection
+              </span>
+             </a>
+            </li>
+            <li class="navitem_66">
+             <a href="https://www.pneuhage.de/widerrufsrecht">
+              <span>
+               Right of withdrawal
+              </span>
+             </a>
+            </li>
+            <li class="last navitem_723">
+             <a href="https://www.pneuhage.de/shop/retourenformular">
+              <span>
+               Withdrawal form
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="navquick_block navquick_block_3">
+          <div class="navquick_block_inner navquick_block_3_inner clearfix">
+           <ul>
+            <li class="first navitem_1062">
+             <a href="https://www.pneuhage.de/quicklinks-3/top-12-reifenhersteller">
+              <span>
+               Top 12 Reifenhersteller
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1060">
+             <a href="https://www.pneuhage.de/quicklinks-3/top-20-sommerreifen-profile">
+              <span>
+               Top 20 Sommerreifen Profile
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1059">
+             <a href="https://www.pneuhage.de/quicklinks-3/top-20-sommerreifen-groessen">
+              <span>
+               Top 20 Sommerreifen Größen
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1425">
+             <a href="https://www.pneuhage.de/quicklinks-3/top-20-winterreifen-groessen">
+              <span>
+               Top 20 Winterrreifen Größen
+              </span>
+             </a>
+            </li>
+            <li class="last navitem_1424">
+             <a href="https://www.pneuhage.de/quicklinks-3/top-20-winterreifen-profile">
+              <span>
+               Top 20 Winterreifen Profile
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="navquick_block navquick_block_4">
+          <div class="navquick_block_inner navquick_block_4_inner clearfix">
+           <ul>
+            <li class="first navitem_1251">
+             <a href="https://www.pneuhage.de/pkw-transporter/produkte-angebote/testsieger-pkw-winterreifen-sommerreifen">
+              <span>
+               Tire test winner
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1435">
+             <a href="http://www.pneuhage.de/shop/pkw-suv-transporter/reifengroesse">
+              <span>
+               Reifen nach Größe
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1436">
+             <a href="http://www.pneuhage.de/shop/pkw-suv-transporter/reifenmarken">
+              <span>
+               Reifen nach Hersteller
+              </span>
+             </a>
+            </li>
+            <li class="open navitem_50">
+             <a href="https://www.pneuhage.de/quicklinks-4/reifenlexikon/a">
+              <span>
+               Reifenlexikon
+              </span>
+             </a>
+            </li>
+            <li class="navitem_1364">
+             <a href="https://www.pneuhage.de/quicklinks-4/kundenbewertungen">
+              <span>
+               Customer ratings
+              </span>
+             </a>
+            </li>
+            <li class="last navitem_1597">
+             <a href="https://www.netzsieger.de/e/pneuhage-reifendienst">
+              <span>
+               Netzsieger Testurteil
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "seals">
+        <div class="seals_inner clearfix">
+         <div class="seals_block seals_block_1">
+          <div class="seals_block_inner seals_block_1_inner clearfix">
+           <div class="csc-default" id="c9899">
+            <div class="csc-default" id="c9897">
+             <div class="csc-textpic csc-textpic-center csc-textpic-above">
+              <div class="csc-textpic-imagewrap" data-csc-cols="1" data-csc-images="1">
+               <div class="csc-textpic-center-outer">
+                <div class="csc-textpic-center-inner">
+                 <figure class="csc-textpic-image csc-textpic-last">
+                  <a href="fileadmin/user_upload/pneuhage.de/00_CI-Hilfsmittel/Continental_Siegel/Recommended_Onlineshop_DE_2020.pdf" target="_blank" title="Continental - approved Website">
+                   <img alt="Continental - approved Website" height="105" src="fileadmin/_processed_/csm_Conti_approved_Web_2020_128x122_a166b7f616.png" width="110"/>
+                  </a>
+                 </figure>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="seals_block seals_block_2">
+          <div class="seals_block_inner seals_block_2_inner clearfix">
+           <div class="csc-default" id="c564">
+            <div class="widget_ce widget_trustedshop">
+             <div class="widget_ce_inner widget_trustedshop_inner clearfix">
+              <a href="https://www.trustedshops.de/bewertung/info_X8ABD91A9A4D6E1E5EC91850BDB84CDAA.html" target="_blank" title="TRUSTED SHOPS - Händlerbewertung">
+               <img alt="TRUSTED SHOPS - Händlerbewertung" class="widget_trustedshop_image" src="https://www.trustedshops.com/bewertung/widget/widgets/X8ABD91A9A4D6E1E5EC91850BDB84CDAA.gif" title="TRUSTED SHOPS - Händlerbewertung"/>
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="seals_block seals_block_3">
+          <div class="seals_block_inner seals_block_3_inner clearfix">
+           <div class="csc-default" id="c4943">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="callcenter js-callcenter">
+    <div class="callcenter__button js-callcenter__button">
+     <div class="callcenter__button-inner">
+      <span class="icon-help">
+      </span>
+      <span class="callcenter__button-text">
+       HILFE ?
+      </span>
+     </div>
+    </div>
+    <div class="callcenter__content js-callcenter__content">
+     <div class="callcenter__base js-callcenter__base" id="callCenterContactForm">
+      <div class="callcenter__title">
+       Sie benötigen Hilfe?
+      </div>
+      <div class="callcenter__text">
+       Ihr Pneuhage Experte hilft Ihnen weiter.
+      </div>
+      <div class="callcenter__phone">
+       <span class="icon-phone">
+       </span>
+       0721 6188-203
+      </div>
+      <div class="callcenter__info">
+       <script type = "text / javascript">
+        document.write('Mo-Fr 8-18 Uhr. Sa 8-12 Uhr. Normaler Festnetztarif');
+       </script>
+      </div>
+      <div class="callcenter__label">
+       Nutzen Sie unseren Rückruf-Service.
+      </div>
+      <form action="https://www.pneuhage.de/shop/widget/index/callcenterpost" class="js-form" method="post">
+       <div class="input_wrap">
+        <div class="input_wrap_inner">
+         <input class="js-callcenter__name" name="name" placeholder="Ihr Vor- und Nachname" type="text"/>
+        </div>
+       </div>
+       <div class="input_wrap">
+        <div class="input_wrap_inner">
+         <input class="js-callcenter__phone" name="phone" placeholder="Ihre Telefonnummer" type="text"/>
+        </div>
+       </div>
+       <div class = "clearfix">
+       </div>
+       <div class="callcenter__label callcenter__label--xsmargin">
+        Wann möchten Sie zurückgerufen werden?
+       </div>
+       <div class="callcenter__time">
+        <label>
+         <input checked="" class="ez-checkbox" name="when" type="radio" value="now"/>
+         sofort
+        </label>
+        <label>
+         <input class="ez-checkbox" name="when" type="radio" value="at"/>
+         around
+        </label>
+        <select class="selectbox" name="hour">
+         <option value="8">
+          8th
+         </option>
+         <option value="9">
+          9
+         </option>
+         <option value="10">
+          10
+         </option>
+         <option value="11">
+          11
+         </option>
+         <option value="12">
+          12
+         </option>
+         <option value="13">
+          13
+         </option>
+         <option value="14">
+          14th
+         </option>
+         <option value="15">
+          15th
+         </option>
+         <option value="16">
+          16
+         </option>
+         <option value = "17">
+          17th
+         </option>
+         <option value = "18">
+          18th
+         </option>
+         <option value = "19">
+          19th
+         </option>
+        </select>
+        <label>
+         :
+        </label>
+        <select class="selectbox" name="minute">
+         <option value="00">
+          00
+         </option>
+         <option value="15">
+          15th
+         </option>
+         <option value="30">
+          30th
+         </option>
+         <option value="45">
+          45
+         </option>
+        </select>
+        <label>
+         Uhr
+        </label>
+        <div class = "clearfix">
+        </div>
+        <div style="overflow: hidden; position: relative">
+         <input name="agreement" style="position: absolute; left: -100px;" type="checkbox" value="1"/>
+        </div>
+       </div>
+       <button class="button-link button-link-blue js-callcenter__send">
+        Rückruf anfragen
+       </button>
+      </form>
+     </div>
+     <div class="callcenter__success js-callcenter__success">
+      <div class="callcenter__head">
+       <span class="icon-checkmark">
+       </span>
+       <div class="callcenter__title">
+        Thank you so much!
+       </div>
+       <div class="callcenter__text">
+        Wir rufen Sie in Kürze zurück.
+       </div>
+      </div>
+      <div class="callcenter__description">
+       Sollte Ihre Anfrage außerhalb unserer
+       <br/>
+       Service-Zeiten (Mo-Fr 8-19 Uhr, Sa 9-16 Uhr)
+       <br/>
+       bei uns eingegangen sein, erfolgt der Rückruf
+       <br/>
+       am nächsten Werktag.
+      </div>
+     </div>
+    </div>
+   </div>
+   <noscript>
+    <div class="no-javascript">
+     <p>
+      Bitte aktivieren Sie JavaScript, um die Webseite vollumfänglich nutzen zu können. Thank you so much!
+     </p>
+    </div>
+   </noscript>
+  </div>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+/*tancookiemanager_trigger*/
+document.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof CookieManager && CookieManager.getInstance().overrideOptions({"services":{"initial":[],"async":[{"level":1,"content":"aWYgKHR5cGVvZiBndGFnID09PSAnZnVuY3Rpb24nKSB7DQpndGFnKCdjb25maWcnLCAnR1RNLTVaRldEQkMnLCB7J3BhZ2VfbG9jYXRpb24nOiB3aW5kb3cubG9jYXRpb24ucGF0aG5hbWV9KTsNCn0="}],"html":[{"level":1,"content":"PHNjcmlwdCBhc3luYyBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM\/aWQ9R1RNLTVaRldEQkMiIGRhdGEtaWdub3JlPSIxIj48L3NjcmlwdD4NCjxzY3JpcHQgZGF0YS1pZ25vcmU9IjEiPg0Kd2luZG93LmRhdGFMYXllciA9IHdpbmRvdy5kYXRhTGF5ZXIgfHwgW107DQpmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9DQpndGFnKCdqcycsIG5ldyBEYXRlKCkpOw0KZ3RhZygnY29uZmlnJywgJ0dUTS01WkZXREJDJywgeydhbm9ueW1pemVfaXAnOiB0cnVlfSk7DQo8L3NjcmlwdD4="}]},"bannerUrl":"https:\/\/www.pneuhage.de\/type\/765323?tx_tancookiemanager_module%5Baction%5D=banner&tx_tancookiemanager_module%5Bcontroller%5D=Module&cHash=fc5fcedd152bc3d060135045b7c615f4","overlayUrl":"https:\/\/www.pneuhage.de\/type\/765323?tx_tancookiemanager_module%5Baction%5D=overlay&tx_tancookiemanager_module%5Bcontroller%5D=Module&cHash=f2e4e882cdcc2748010e97312ad4a474","defaultLevel":"0","logUrl":"\/?eID=tancookiemanager_log","overlayHash":"#cookiemanager-control"}).init()});
+
+/*]]>*/
+  </script>
+  <script src="typo3temp/scriptmerger/uncompressed/head-8be45c519d26e28e31866760620d181f.merged.js" type="text/javascript">
+  </script>
+  <!-- headjs -->
+  <script src="typo3temp/scriptmerger/uncompressed/body-3420caa90f90e46c5882e4a9f3bed83d.merged.js" type="text/javascript">
+  </script>
+  <!-- bodyjs -->
+  <script data-ignore="1" src="https://www.pneuhage.de/shop/static/widget/g=js" type="text/javascript">
+  </script>
+  <script async="async" data-ignore="1" src="https://img.adnet.de/conv/adCode_59185.js" type="text/javascript">
+  </script>
+  <script data-ignore="1" type="text/javascript">
+   / * <! [CDATA [* /
+var google_conversion_id = 1021984568;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "EfjJCO7YxFsQuP6o5wM";
+var google_remarketing_only = false;
+/ *]]> * /
+  </script>
+  <script data-ignore="1" src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="//www.googleadservices.com/pagead/conversion/1021984568/?label=EfjJCO7YxFsQuP6o5wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+   </div>
+  </noscript>
+ </body>
+</html>

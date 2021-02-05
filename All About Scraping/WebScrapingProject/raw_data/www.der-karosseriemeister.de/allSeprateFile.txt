@@ -1,0 +1,815 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <link href = "https://der-karosseriemeister.de/wp-content/cache/autoptimize/css/autoptimize_c100ad3236cf92b5639b2604c6c3a1ea.css" media = "all" rel = "stylesheet" />
+  <title>
+   The bodywork master - your car workshop in Dresden-Reick
+  </title>
+  <meta content = "IE = edge, chrome = 1" http-equiv = "X-UA-Compatible" />
+  <meta content = "True" name = "HandheldFriendly" />
+  <meta content = "width = device-width, maximum-scale = 1.0" name = "viewport" />
+  <link href = "https://der-karosseriemeister.de/wp-content/themes/karosseriemeister/favicon.ico?v2" rel = "shortcut icon" />
+  <link href = "https://der-karosseriemeister.de/wp-content/themes/karosseriemeister/favicon.ico?v2" rel = "icon" />
+  <link href = "https://der-karosseriemeister.de/xmlrpc.php" rel = "pingback" />
+  <! - [if lt IE 9]> <script src = "// html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <! [endif] ->
+  <meta content = "The bodywork foreman is a car workshop and bodywork specialist in Dresden. We do all the work related to repairing and servicing your car. We specialize in the implementation of bodywork and painting work." name = "description">
+   <meta content = "index, follow, max-snippet: -1, max-image-preview: large, max-video-preview: -1" name = "robots">
+    <link href = "https://der-karosseriemeister.de/" rel = "canonical">
+     <meta content = "de_DE" property = "og: locale">
+      <meta content = "website" property = "og: type">
+       <meta content = "The body foreman - your car workshop in Dresden-Reick" property = "og: title" />
+       <meta content = "The bodywork foreman is a car workshop and bodywork specialist in Dresden. We do all the work related to repairing and servicing your car. We specialize in the implementation of bodywork and painting work." property = "og: description" />
+       <meta content = "https://der-karosseriemeister.de/" property = "og: url" />
+       <meta content = "The coachbuilder" property = "og: site_name" />
+       <meta content = "2018-04-10T09: 43: 10 + 00: 00" property = "article: modified_time" />
+       <meta content = "summary_large_image" name = "twitter: card" />
+       <script class = "yoast-schema-graph" type = "application / ld + json">
+        {"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://der-karosseriemeister.de/#website "," url ":" https://der-karosseriemeister.de/ "," name ":" Der Karosseriemeister "," description ":" "," potentialAction ": [{" @ type ":" SearchAction ", "target": "https://der-karosseriemeister.de/?s=font>search_term_string}", "query-input": "required name = search_term_string"}], "inLanguage": "de-DE"}, { "@type": "WebPage", "@id": "https://der-karosseriemeister.de/#webpage", "url": "https://der-karosseriemeister.de/", "name": "The bodywork master - your car workshop in Dresden-Reick", "isPartOf": {"@id": "https://der-karosseriemeister.de/#website"}, "datePublished": "2018-01-16T18 : 24: 06 + 00: 00 "," dateModified ":" 2018-04-10T09: 43: 10 + 00: 00 "," description ":" The body foreman is a car workshop and bodywork specialist in Dresden. We take care of all repairs and servicing of your car. We specialize in the execution of bodywork and painting work. "," inLanguage ":" de-DE "," poten tialAction ": [{" @type ":" ReadAction "," target ": [" https://der-karosseriemeister.de/ "]}]}]}
+       </script>
+       <script id = "jquery-core-js" src = "https://der-karosseriemeister.de/wp-includes/js/jquery/jquery.js" type = "text / javascript">
+       </script>
+       <link href = "https://der-karosseriemeister.de/wp-json/" rel = "https://api.w.org/">
+        <link href = "https://der-karosseriemeister.de/wp-json/wp/v2/pages/61" rel = "alternate" type = "application / json">
+         <link href = "https://der-karosseriemeister.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+         <link href = "https://der-karosseriemeister.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+         <meta content = "WordPress 5.5.3" name = "generator" />
+         <link href = "https://der-karosseriemeister.de/" rel = "shortlink" />
+         <link href = "https://der-karosseriemeister.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fder-karosseriemeister.de%2F" rel = "alternate" type = "application / json + oembed "/>
+         <link href = "https://der-karosseriemeister.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fder-karosseriemeister.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+         <link href = "https://der-karosseriemeister.de/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css" id = "metaslider-flex-slider-css" media = "all "property =" stylesheet "rel =" stylesheet "type =" text / css "/>
+         <link href = "https://der-karosseriemeister.de/wp-content/plugins/ml-slider/assets/metaslider/public.css" id = "metaslider-public-css" media = "all" property = " stylesheet "rel =" stylesheet "type =" text / css "/>
+        </link>
+       </link>
+      </meta>
+     </meta>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class = "home page-template-default page page-id-61" itemscope = "" itemtype = "http://schema.org/WebPage">
+  <div id = "navbar">
+   <a href="#">
+    ☰
+   </a>
+  </div>
+  <div id = "mainbody">
+   <header id = "top" itemscope = "" itemtype = "http://schema.org/WPHeader" role = "banner">
+    <div class = "wrapper">
+     <div class = "header-info">
+      <div class = "open">
+       <div class = "widget_text widget">
+        <div class = "textwidget custom-html-widget">
+         <i aria-hidden = "true" class = "icon-alarm">
+         </i>
+         <p>
+          Monday to Friday: 8 a.m. to 6 p.m.
+          <br/>
+          Saturday by appointment
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class = "telephone">
+       <div class = "widget_text widget">
+        <div class = "textwidget custom-html-widget">
+         <i aria-hidden = "true" class = "icon-phone">
+         </i>
+         <p>
+          <a href="tel:+493512818182">
+           Telephone: 0351/281 81 82
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <span class = "logo" itemscope = "" itemtype = "http://schema.org/Organization">
+      <a href="https://der-karosseriemeister.de">
+       The coachbuilder
+      </a>
+     </span>
+    </div>
+   </header>
+   <div class = "slider">
+    <div class = "ml-slider-3-18-4 metaslider metaslider-flex metaslider-28 ml-slider nav-hidden" id = "metaslider-id-28" style = "max-width: 1030px; margin: 0 auto ; ">
+     <div id = "metaslider_container_28">
+      <div id = "metaslider_28">
+       <ul aria-live = "polite" class = "slides">
+        <li class = "slide-36 ms-image" style = "display: block; width: 100%;">
+         <img alt = "" class = "slider-28 slide-36" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/Bugatti-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-37 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-37" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/slide2-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-38 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-38" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/slide3-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-39 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-39" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/slide1-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-40 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-40" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/slide5-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-41 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-41" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/Jaguar-800x233.jpg" width = "1030" />
+        </li>
+        <li class = "slide-42 ms-image" style = "display: none; width: 100%;">
+         <img alt = "" class = "slider-28 slide-42" height = "300" src = "https://der-karosseriemeister.de/wp-content/uploads/2018/01/Benz-800x233.jpg" width = "1030" />
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <nav id = "n" itemscope = "" itemtype = "http://schema.org/SiteNavigationElement">
+    <div class = "wrapper">
+     <ul class = "menu" id = "menu-main-menu">
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-63" id = "menu- item-63 ">
+       <a aria-current="page" href="https://der-karosseriemeister.de/">
+        Home page
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-56" id = "menu-item-56">
+       <a href="https://der-karosseriemeister.de/firma/">
+        company
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-57" id = "menu-item-57">
+       <a href="https://der-karosseriemeister.de/leistungen/">
+        Services
+       </a>
+       <ul class = "sub-menu">
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-73" id = "menu-item-73">
+         <a href="https://der-karosseriemeister.de/leistungen/unfall-karosseriereparatur/">
+          Accident & amp; Body repairs
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-72" id = "menu-item-72">
+         <a href="https://der-karosseriemeister.de/leistungen/inspektions-reparaturservice/">
+          Inspection & amp; Repair service
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-103" id = "menu-item-103">
+         <a href="https://der-karosseriemeister.de/leistungen/kfz-industrielackierung/">
+          Cars & amp; Industrial painting
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-102" id = "menu-item-102">
+         <a href="https://der-karosseriemeister.de/leistungen/smart-repair/">
+          Smart repair
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-101" id = "menu-item-101">
+         <a href="https://der-karosseriemeister.de/leistungen/oldtimerrestaurierung/">
+          Classic car restoration
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-100" id = "menu-item-100">
+         <a href="https://der-karosseriemeister.de/leistungen/karosserie-fahrzeugbau/">
+          Body & amp; vehicle construction
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-99" id = "menu-item-99">
+         <a href="https://der-karosseriemeister.de/leistungen/reifenservice-achsvermessung/">
+          Tire service & amp; Wheel alignment
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-98" id = "menu-item-98">
+         <a href="https://der-karosseriemeister.de/leistungen/autoglas-service/">
+          Auto glass service
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-97" id = "menu-item-97">
+         <a href="https://der-karosseriemeister.de/leistungen/fluessiggas-service/">
+          LPG service
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-96" id = "menu-item-96">
+         <a href="https://der-karosseriemeister.de/leistungen/diagnose-elektronik/">
+          Diagnosis & amp; electronics
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-95" id = "menu-item-95">
+         <a href="https://der-karosseriemeister.de/leistungen/tuev-dekra-hu-au-abnahme/">
+          TÜV / DEKRA (HU / AU acceptance)
+         </a>
+        </li>
+        <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-94" id = "menu-item-94">
+         <a href="https://der-karosseriemeister.de/leistungen/gebrauchte-autoteile/">
+          Used auto parts
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-58" id = "menu-item-58">
+       <a href="https://der-karosseriemeister.de/reorders/">
+        credentials
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-54" id = "menu-item-54">
+       <a href="https://der-karosseriemeister.de/galerie/">
+        gallery
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-55" id = "menu-item-55">
+       <a href="https://der-karosseriemeister.de/blog/">
+        Blog
+       </a>
+      </li>
+      <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-53" id = "menu-item-53">
+       <a href="https://der-karosseriemeister.de/kontakt/">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <div class = "wrapper" id = "content">
+    <div class = "post m-all t-2of3 d-2of3" id = "main" itemprop = "mainContentOfPage" itemscope = "" itemtype = "http://schema.org/Blog">
+     <h1>
+      Car repairs are a matter of trust!
+     </h1>
+     <p>
+      Our customers have trusted us since 1997 when it comes to professional and economical solutions
+      <strong>
+       Car repair
+      </strong>
+      and
+      <strong>
+       Painting work
+      </strong>
+      goes. Classic car enthusiasts appreciate our expertise in
+      <strong>
+       Classic car restoration
+      </strong>
+      . As open-type (free)
+      <strong>
+       Car workshop
+      </strong>
+      we also carry out all mechanical and maintenance work.
+     </p>
+     <p>
+      Find out more about our car service. On the gallery pages you can get a glimpse of the
+      <strong>
+       Classic car restoration
+      </strong>
+      and the
+      <strong>
+       Body shop
+      </strong>
+      . In the blog you will find the latest news and tips from the automotive experts.
+     </p>
+     <p>
+      Do You Have Questions? We would be happy to advise you in detail on the respective problem.
+     </p>
+     <p>
+      <strong>
+       <a href="http://der-karosseriemeister.de/kontakt/">
+        It's best to make an appointment right away!
+       </a>
+      </strong>
+      <br>
+       <strong>
+        <br/>
+        Yours Bernd Gelbrich & amp; team
+       </strong>
+      </br>
+     </p>
+     <hr />
+     <article class = "postbrdr" id = "post-389" role = "article">
+      <header class = "posthead">
+       <h2>
+        <a href="https://der-karosseriemeister.de/gesunde-luft-by-regular-wartung-der-klimaanlage/" rel="bookmark" title="Healthy air through regular maintenance of the air conditioner">
+         Healthy air through regular air conditioning maintenance
+        </a>
+       </h2>
+       <span class = "meta">
+        <i>
+         Published
+         <time datetime = "2020-05-21">
+          May 21, 2020
+         </time>
+         by
+         <a href="https://der-karosseriemeister.de/author/thomasp/" rel="author" title=" Posts by thomasp">
+          thomasp
+         </a>
+         .
+        </i>
+        <i>
+         Filed under
+         <a href="#" rel="category">
+          <a href="https://der-karosseriemeister.de/category/blog/" rel="category tag">
+           Blog
+          </a>
+         </a>
+         . Total of
+         <a href="https://der-karosseriemeister.de/gesunde-luft-durch-regelmassige-wartung-der-klimaanlage/#respond ">
+          no comments
+         </a>
+         in the discussion.
+        </i>
+       </span>
+      </header>
+      <section class = "post-content clearfix">
+       <p>
+        With the pleasantly tempered air, unwanted bacteria, pollen or spores can quickly sneak into the vehicle interior if the air conditioning system is not regularly serviced. The consequences for allergy sufferers include: sneezing and coughing watery eyes itching and reddening of the skin The evaporator and the cabin filter of the air conditioning system provide the ideal breeding ground for microorganisms and allergenic substances.
+        <a class="moretag" href="https://der-karosseriemeister.de/gesunde-luft-durch-regular-wartung-der-klimaanlage/">
+         Continue reading
+        </a>
+       </p>
+      </section>
+     </article>
+    </div>
+    <aside class = "m-all t-1of3 d-1of3" id = "sidebar" role = "complementary">
+     <div class = "widget">
+      <form action = "https://der-karosseriemeister.de/" id = "searchform" method = "get">
+       <input id = "s" name = "s" placeholder = "Search ..." type = "text" />
+       <button class = "submit" id = "searchsubmit" name = "submit" type = "submit" value = "">
+        <i aria-hidden = "true" class = "icon-search">
+        </i>
+       </button>
+      </form>
+     </div>
+     <div class = "widget">
+      <div class = "textwidget">
+       <p>
+        Fa. The bodywork foreman
+        <br/>
+        Owner Bernd Gelbrich
+        <br/>
+        Am Anger 16
+        <br/>
+        01237 Dresden - Reick / Prohlis
+       </p>
+       <p>
+        E-mail:
+        <a href="mailto:info@der-karosseriemeister.de">
+         info@der-karosseriemeister.de
+        </a>
+       </p>
+       <p>
+        Telephone: 0351/281 81 82
+        <br/>
+        Fax: 0351/281 81 83
+       </p>
+      </div>
+     </div>
+     <div class = "widget">
+      <img alt = "" class = "image wp-image-198 attachment-full size-full" height = "165" loading = "lazy" src = "https://der-karosseriemeister.de/wp-content/uploads /2018/01/fachbetrieb.jpg "style =" max-width: 100%; height: auto; " width = "215" />
+     </div>
+     <div class = "widget">
+      <img alt = "" class = "image wp-image-199 attachment-full size-full" height = "220" loading = "lazy" sizes = "(max-width: 220px) 100vw, 220px" src = "https : //der-karosseriemeister.de/wp-content/uploads/2018/01/historische_fahrzeuge.jpg "srcset =" https://der-karosseriemeister.de/wp-content/uploads/2018/01/historische_fahrzeuge.jpg 220w , https://der-karosseriemeister.de/wp-content/uploads/2018/01/historische_fahrzeuge-150x150.jpg 150w "style =" max-width: 100%; height: auto; " width = "220" />
+     </div>
+     <div class = "widget">
+      <img alt = "" class = "image wp-image-249 attachment-full size-full" height = "237" loading = "lazy" src = "https://der-karosseriemeister.de/wp-content/uploads /2018/01/dekra-1.jpg "style =" max-width: 100%; height: auto; " width = "149" />
+     </div>
+    </aside>
+   </div>
+   <br style="clear:both;"/>
+   <footer itemscope = "" itemtype = "http://schema.org/WPFooter" role = "contentinfo">
+    <nav class = "wrapper" id = "nf" itemscope = "" itemtype = "http://schema.org/SiteNavigationElement">
+     <div class = "widget-area">
+      <div class = "m-all t-1of3 d-1of3">
+       <div class = "widget">
+        <span class = "wtitle">
+         Services
+        </span>
+        <div class = "menu-footer-left-container">
+         <ul class = "menu" id = "menu-footer-left">
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-126" id = "menu-item-126">
+           <a href="https://der-karosseriemeister.de/leistungen/gebrauchte-autoteile/">
+            Used auto parts
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-127" id = "menu-item-127">
+           <a href="https://der-karosseriemeister.de/leistungen/tuev-dekra-hu-au-abnahme/">
+            TÜV / DEKRA (HU / AU acceptance)
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-128" id = "menu-item-128">
+           <a href="https://der-karosseriemeister.de/leistungen/diagnose-elektronik/">
+            Diagnosis & amp; electronics
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-129" id = "menu-item-129">
+           <a href="https://der-karosseriemeister.de/leistungen/fluessiggas-service/">
+            LPG service
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-130" id = "menu-item-130">
+           <a href="https://der-karosseriemeister.de/leistungen/autoglas-service/">
+            Auto glass service
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-131" id = "menu-item-131">
+           <a href="https://der-karosseriemeister.de/leistungen/reifenservice-achsvermessung/">
+            Tire service & amp; Wheel alignment
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-132" id = "menu-item-132">
+           <a href="https://der-karosseriemeister.de/leistungen/karosserie-fahrzeugbau/">
+            Body & amp; vehicle construction
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-133" id = "menu-item-133">
+           <a href="https://der-karosseriemeister.de/leistungen/oldtimerrestaurierung/">
+            Classic car restoration
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-134" id = "menu-item-134">
+           <a href="https://der-karosseriemeister.de/leistungen/smart-repair/">
+            Smart repair
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-135" id = "menu-item-135">
+           <a href="https://der-karosseriemeister.de/leistungen/kfz-industrielackierung/">
+            Cars & amp; Industrial painting
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-136" id = "menu-item-136">
+           <a href="https://der-karosseriemeister.de/leistungen/inspektions-reparaturservice/">
+            Inspection & amp; Repair service
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-137" id = "menu-item-137">
+           <a href="https://der-karosseriemeister.de/leistungen/unfall-karosseriereparatur/">
+            Accident & amp; Body repairs
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class = "m-all t-1of3 d-1of3">
+       <div class = "widget">
+        <span class = "wtitle">
+         Informative
+        </span>
+        <div class = "menu-footer-middle-container">
+         <ul class = "menu" id = "menu-footer-middle">
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-122" id = "menu-item-122">
+           <a href="https://der-karosseriemeister.de/firma/">
+            company
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-123" id = "menu-item-123">
+           <a href="https://der-karosseriemeister.de/galerie/">
+            gallery
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-125" id = "menu-item-125">
+           <a href="https://der-karosseriemeister.de/reorders/">
+            credentials
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-124" id = "menu-item-124">
+           <a href="https://der-karosseriemeister.de/kontakt/">
+            Contact
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class = "m-all t-1of3 d-1of3 last-col">
+       <div class = "widget">
+        <span class = "wtitle">
+         Legal
+        </span>
+        <div class = "menu-footer-right-container">
+         <ul class = "menu" id = "menu-footer-right">
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-140" id = "menu-item-140">
+           <a href="https://der-karosseriemeister.de/impressum/">
+            imprint
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-139" id = "menu-item-139">
+           <a href="https://der-karosseriemeister.de/datenschutz/">
+            data protection
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-138" id = "menu-item-138">
+           <a href="https://der-karosseriemeister.de/agb/">
+            Conditions
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "footer-menu">
+      <span>
+       © 2020 The coachbuilder
+      </span>
+     </div>
+    </nav>
+    <! - ngg_resource_manager_marker ->
+    <script id = "comment-reply-js" src = "https://der-karosseriemeister.de/wp-includes/js/comment-reply.min.js" type = "text / javascript">
+    </script>
+    <script id = "contact-form-7-js-extra" type = "text / javascript">
+     / * <! [CDATA [* /
+var wpcf7 = {"apiSettings": {"root": "https: \ / \ / der-karosseriemeister.de \ / wp-json \ / contact-form-7 \ / v1", "namespace": "contact-form -7 \ / v1 "}};
+/ *]]> * /
+    </script>
+    <script id = "contact-form-7-js" src = "https://der-karosseriemeister.de/wp-content/plugins/contact-form-7/includes/js/scripts.js" type = "text / javascript ">
+    </script>
+    <script id = "custom-script-js" src = "https://der-karosseriemeister.de/wp-content/themes/karosseriemeister/files/custom.js" type = "text / javascript">
+    </script>
+    <script id = "metaslider-flex-slider-js" src = "https://der-karosseriemeister.de/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js" type = "text / javascript">
+    </script>
+    <script id = "metaslider-flex-slider-js-after" type = "text / javascript">
+     var metaslider_28 = function ($) {$ ('# metaslider_28'). addClass ('flexslider');
+            $ ('# metaslider_28'). flexslider ({
+                slideshowSpeed: 3000,
+                animation: "fade",
+                controlNav: false,
+                directionNav: true,
+                pauseOnHover: true,
+                direction: "horizontal",
+                reverse: false,
+                animationSpeed: 600,
+                prevText: "Previous",
+                nextText: "Next",
+                fadeFirstSlide: false,
+                slideshow: true
+            });
+            $ (document) .trigger ('metaslider / initialized', '# metaslider_28');
+        };
+        var timer_metaslider_28 = function () {
+            var slider =! window.jQuery? window.setTimeout (timer_metaslider_28, 100):! jQuery.isReady? window.setTimeout (timer_metaslider_28, 1): metaslider_28 (window.jQuery);
+        };
+        timer_metaslider_28 ();
+    </script>
+    <script id = "borlabs-cookie-js-extra" type = "text / javascript">
+     / * <! [CDATA [* /
+var borlabsCookieConfig = {"ajaxURL": "https: \ / \ / der-karosseriemeister.de \ / wp-admin \ /admin-ajax.php", "language": "de", "animation": "1", "animationDelay": "", "animationIn": "fadeInDown", "animationOut": "flipOutX", "blockContent": "1", "boxLayout": "box", "boxLayoutAdvanced": "1", "automaticCookieDomainAndPath" : "", "cookieDomain": "der-karosseriemeister.de", "cookiePath": "\ /", "cookieLifetime": "365", "crossDomainCookie": [], "cookieBeforeConsent": "", "cookiesForBots" : "1", "cookieVersion": "1", "hideCookieBoxOnPages": [], "respectDoNotTrack": "", "reloadAfterConsent": "", "showCookieBox": "1", "cookieBoxIntegration": "javascript", "ignorePreSelectStatus": "1", "cookies": {"essential": ["borlabs-cookie"]}};
+var borlabsCookieCookies = {"essential": {"borlabs-cookie": {"cookieNameList": {"borlabs-cookie": "borlabs-cookie"}, "settings": {"blockCookiesBeforeConsent": "0"}}}} ;
+/ *]]> * /
+    </script>
+    <script id = "borlabs-cookie-js" src = "https://der-karosseriemeister.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js" type = "text / javascript ">
+    </script>
+    <script id = "borlabs-cookie-js-after" type = "text / javascript">
+     document.addEventListener ("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof FB === "object") {FB.XFBML.parse (el.parentElement); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "default": {"id": "default", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "googlemaps": {"id": "googlemaps", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "instagram": {"id": "instagram", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof instgrm === "object") {instgrm.Embeds.process (); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "openstreetmap": {"id": "openstreetmap", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "twitter": {"id": "twitter", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "vimeo": {"id": "vimeo", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "saveThumbnails": false, "videoWrapper": false}}, "youtube": {"id": "youtube", "global": function (contentBlockerData) { }, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "changeURLToNoCookie": true, "saveThumbnails": false, "thumbnailQuality": "maxresdefault", "videoWrapper": false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized! == "object") {
+            borlabsCookiePrioritized = {optInJS: {}};
+        }
+
+        window.BorlabsCookie.init (borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout (BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck ();});
+    </script>
+    <div data-nosnippet = "">
+     <script id = "BorlabsCookieBoxWrap" type = "text / template">
+      <div
+    id = "BorlabsCookieBox"
+    class = "BorlabsCookie"
+    role = "dialog"
+    aria-labelledby = "CookieBoxTextHeadline"
+    aria-describedby = "CookieBoxTextDescription"
+    aria-modal = "true"
+>
+    <div class = "top-center" style = "display: none;">
+        <div class = "_ brlbs-box-wrap">
+            <div class = "_ brlbs-box _brlbs-box-advanced">
+                <div class = "cookie-box">
+                    <div class = "container">
+                        <div class = "row">
+                            <div class = "col-12">
+                                <div class = "_ brlbs-flex-center">
+                                    
+                                    <span role = "heading" aria-level = "3" class = "_ brlbs-h3" id = "CookieBoxTextHeadline"> Privacy settings </span>
+                                </div>
+
+                                <p id = "CookieBoxTextDescription"> This site only uses technically necessary cookies. We do not collect tracking data from third parties! </p>
+
+                                                                    <ul>
+                                                                                <li>
+                                                <label class = "_ brlbs-checkbox">
+                                                    Essential <input
+                                                        id = "checkbox-essential"
+                                                        tabindex = "0"
+                                                        type = "checkbox"
+                                                        name = "cookieGroup []"
+                                                        value = "essential"
+                                                         checked disabled data-borlabs-cookie-checkbox
+                                                    >
+                                                    <div class = "_ brlbs-checkbox-indicator"> </div>
+                                                </label>
+                                            </li>
+                                                                            </ul>
+                                
+                                                                    <p class = "_ brlbs-accept">
+                                        <a
+                                            href = "#"
+                                            tabindex = "0"
+                                            role = "button"
+                                            class = "_ brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all </a>
+                                    </p>
+
+                                    <p class = "_ brlbs-accept">
+                                        <a
+                                            href = "#"
+                                            tabindex = "0"
+                                            role = "button"
+                                            id = "CookieBoxSaveButton"
+                                            class = "_ brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Save </a>
+                                    </p>
+                                
+                                
+                                <p class = "_ brlbs-manage">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Individual data protection settings </a>
+                                </p>
+
+                                <p class = "_ brlbs-legal">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Cookie details </a>
+
+                                                                            <span class = "_ brlbs-separator"> </span>
+                                        <a href="https://der-karosseriemeister.de/datenschutz/" tabindex="0" role="button">
+                                            Privacy policy </a>
+                                    
+                                                                            <span class = "_ brlbs-separator"> </span>
+                                        <a href="https://der-karosseriemeister.de/impressum/" tabindex="0" role="button">
+                                            Imprint </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class = "cookie-preference"
+    aria-hidden = "true"
+    role = "dialog"
+    aria-describedby = "CookiePrefDescription"
+    aria-modal = "true"
+>
+    <div class = "container not-visible">
+        <div class = "row no-gutters">
+            <div class = "col-12">
+                <div class = "row no-gutters align-items-top">
+                    
+                    <div class = "col-12">
+                        <span role = "heading" aria-level = "3" class = "_ brlbs-h3"> Privacy settings </span>
+
+                        <p id = "CookiePrefDescription">
+                            Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and only select certain cookies. </p>
+
+                        <div class = "row no-gutters align-items-center">
+                            <div class = "col-12 col-sm-7">
+                                <p class = "_ brlbs-accept">
+                                                                            <a
+                                            href = "#"
+                                            class = "_ brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex = "0"
+                                            role = "button"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all </a>
+                                    
+                                    <a
+                                        href = "#"
+                                        id = "CookiePrefSave"
+                                        tabindex = "0"
+                                        role = "button"
+                                        class = "_ brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Save </a>
+                                </p>
+                            </div>
+
+                            <div class = "col-12 col-sm-5">
+                                <p class = "_ brlbs-refuse">
+                                    <a
+                                        href = "#"
+                                        class = "_ brlbs-cursor"
+                                        tabindex = "0"
+                                        role = "button"
+                                        data-cookie-back
+                                    >
+                                        Back </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                                                                                        <div class = "bcac-item">
+                                    <div class = "d-flex flex-row">
+                                        <label for = "borlabs-cookie-group-essential" class = "w-75">
+                                            <span role = "heading" aria-level = "4" class = "_ brlbs-h4"> Essential (1) </ span>
+                                        </label>
+
+                                        <div class = "w-25 text-right">
+                                                                                    </div>
+                                    </div>
+
+                                    <div class = "d-block">
+                                        <p> Essential cookies enable basic functions and are necessary for the website to function properly. </p>
+
+                                        <p class = "text-center">
+                                            <a
+                                                href = "#"
+                                                class = "_ brlbs-cursor d-block"
+                                                tabindex = "0"
+                                                role = "button"
+                                                data-cookie-accordion-target = "essential"
+                                            >
+                                                <span data-cookie-accordion-status = "show">
+                                                    Show cookie information </span>
+
+                                                <span data-cookie-accordion-status = "hide" class = "borlabs-hide">
+                                                    Hide cookie information </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class = "borlabs-hide"
+                                        data-cookie-accordion-parent = "essential"
+                                    >
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th> Name </th>
+                                                    <td>
+                                                        <label for = "borlabs-cookie-borlabs-cookie">
+                                                            Borlabs Cookie </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th> Provider </th>
+                                                    <td> Owner of this website </td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th> Purpose </th>
+                                                        <td> Saves the settings of the visitors selected in the Borlabs Cookie cookie box. </td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie Name </th>
+                                                        <td> borlabs-cookie </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th> Cookie runtime </th>
+                                                        <td> 1 year </td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                        </div>
+
+                <div class = "d-flex justify-content-between">
+                    <p class = "_ brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class = "_ brlbs-legal flex-fill">
+                                                    <a href="https://der-karosseriemeister.de/datenschutz/">
+                                Privacy policy </a>
+                        
+                                                    <span class = "_ brlbs-separator"> </span>
+                        
+                                                    <a href="https://der-karosseriemeister.de/impressum/">
+                                Imprint </a>
+                                            </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+     </script>
+    </div>
+   </footer>
+  </div>
+ </body>
+</html>

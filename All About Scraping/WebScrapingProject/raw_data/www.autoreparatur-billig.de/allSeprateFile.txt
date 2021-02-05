@@ -1,0 +1,23 @@
+<html>
+ <head>
+  <title>
+   Car repairs, car spare parts, used cars at Auto Billig in Dresden
+  </title>
+  <meta content = "We are your strong partner in Dresden for car repairs, car spare parts or the purchase of used cars.
+Auto Cheap is a recognized master company of the motor vehicle guild. We have the right service and price. "Name =" description "/>
+  <meta content = "Car repair, car spare parts, used cars, stone chips, car repair, car workshop, independent workshop, spare parts for cars" name = "keywords" />
+  <meta content = "0; URL = http: //www.autobillig-dresden.de" http-equiv = "refresh" />
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type">
+   <meta content = "noindex, follow" name = "robots" />
+  </meta>
+ </head>
+ <body>
+  <p>
+   Automatic forwarding, if it doesn't work, please click
+   <a href="http://www.autobillig-dresden.de">
+    here
+   </a>
+   .
+  </p>
+ </body>
+</html>

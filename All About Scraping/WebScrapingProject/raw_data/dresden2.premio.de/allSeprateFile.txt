@@ -1,0 +1,1454 @@
+<! DOCTYPE HTML>
+<! - [if IE 8]> <html class = "no-js ie8" lang = "de"> <! [endif] ->
+<! - [if gt IE 8]> <! ->
+<html class = "no-js" lang = "de">
+ <! - <! [endif] ->
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <script>
+   dataLayer = [{
+
+                }];
+  </script>
+  <! - Google Tag Manager ->
+  <script>
+   (function (w, d, s, l, i) {w [l] = w [l] || []; w [l] .push ({'gtm.start':
+                new Date (). getTime (), event: 'gtm.js'}); var f = d.getElementsByTagName (s) [0],
+                j = d.createElement (s), dl = l! ​​= 'dataLayer'? '& l =' + l: ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                }) (window, document, 'script', 'dataLayer', 'GTM-MHT76Q');
+  </script>
+  <! - End Google Tag Manager ->
+  <title>
+   Premio tire + car service | Your professional partner
+  </title>
+  <meta content = "Tires, tire service, car service, tire shop, summer tires, winter tires," name = "keywords" />
+  <meta content = "Buy tires and complete wheels, book online appointments for tire and car service." name = "description" />
+  <meta content = "index, follow" name = "robots" />
+  <meta content = "SX17DZ6mxvNMEgJIPI954NJdGUljRDWpwGW2ZswT1HQ" name = "google-site-verification" />
+  <link href = "/ _ ui / desktop / theme-premio / img / favicon.ico" media = "all" rel = "shortcut icon" type = "image / x-icon" />
+  <link href = "/ _ ui / desktop / theme-premio / css / styles.min.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ _ ui / addons / gdhscaptchaaddon / responsive / common / css / gdhscaptchaaddon.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <script src = "/ _ ui / desktop / common / js / head.mod.min.js">
+  </script>
+ </head>
+ <body class = "page-homepage pageType-ContentPage template-pages-layout-contentLayoutPage pageLabel-homepage language-de dealer-selected">
+  <! - Google Tag Manager (noscript) ->
+  <noscript>
+   <iframe height = "0" src = "https://www.googletagmanager.com/ns.html?id=GTM-MHT76Q" style = "display: none; visibility: hidden" width = "0">
+   </iframe>
+  </noscript>
+  <! - End Google Tag Manager (noscript) ->
+  <div class = "page">
+   <a class="accessbility" href="#content">
+    Jump to content
+   </a>
+   <a class="accessbility" href="#navigation">
+    Jump to the navigation menu
+   </a>
+   <div class = "container" id = "cookieheader">
+    <div class = "mod-cookie-consent">
+     <button>
+      Agree
+     </button>
+     <p>
+      We use cookies in order to be able to offer you offers and functions in the future that will improve your purchase.
+      <br/>
+      If you continue, we will assume that you accept the use of cookies.
+      <a href="/datenschutz">
+       <b>
+        Further information
+       </b>
+      </a>
+      .
+     </p>
+    </div>
+    <noscript>
+     <div class = "mod-cookie-consent">
+      <p>
+       We use cookies in order to be able to offer you offers and functions in the future that will improve your purchase.
+       <br>
+        If you continue, we will assume that you accept the use of cookies.
+        <a href="/datenschutz">
+         <b>
+          Further information
+         </b>
+        </a>
+        .
+       </br>
+      </p>
+      <br/>
+      <p>
+       Information: You need JavaScript to experience the full functionality of this website.
+      </p>
+     </div>
+    </noscript>
+   </div>
+   <header class = "container" id = "header">
+    <div class = "row first">
+     <div class = "mod-sitelogo">
+      <div class = "inner">
+       <a href="/">
+        <picture>
+         <source media = "(max-width: 480px)" srcset = "/ _ ui / desktop / theme-premio / img / logo-mobile.png" />
+         <img alt = "Premio Reifen + Autoservice" src = "/ _ ui / desktop / theme-premio / img / logo.png" />
+        </picture>
+       </a>
+      </div>
+      <div class = "shop-seals">
+       <a href="/guetesiegel" target="_blank">
+        <img alt = "" data-content = "Die Welt: Honest retailer, Premio receives 96% customer approval" data-placement = "left" data-toggle = "popover" src = "/ _ ui / desktop / theme-premio / img /Siegel_Ehrlicher_Haendler-2020_premio-Reifen.png "/>
+       </a>
+      </div>
+     </div>
+     <div class = "mod-meta-nav">
+      <ul>
+       <li>
+        <a class="link-menu" href="#">
+        </a>
+       </li>
+       <li>
+        <a class="link-cart" href="/cart">
+        </a>
+       </li>
+       <li>
+        <a class="link-location" href="//maps.google.de/maps?q=F.H. Wheel Center GmbH, Köhlerstraße 16A, 01239 Dresden" target="_blank" title="Location in Google Maps">
+        </a>
+       </li>
+       <li>
+        <a class="social-link link-instagram" href="https://www.instagram.com/premio_tuning" target="_blank" title="Instagram-Seite">
+        </a>
+       </li>
+       <li class = "only-mobile">
+        <a class="social-link link-youtube" href="https://www.youtube.com/c/PremioReifenAutoservice" target="_blank" title="Youtube-Seite">
+        </a>
+       </li>
+       <li>
+        <a class="social-link link-facebook" href="https://www.facebook.com/premio.deutschland" target="_blank" title="Facebook-Seite">
+        </a>
+       </li>
+       <li class = "only-mobile">
+        <a class="link-responsive-switch rs-link" href="#" title="Switch between desktop and mobile view">
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class = "row second">
+     <div class = "mod-dealer-header">
+      <div class = "inner">
+       <div class = "wrapper">
+        <div class = "dealerInfo">
+         <span class = "dealerName">
+          F.H. Wheel Center GmbH
+         </span>
+         <a class="viewDealer" href="/store/0030078356" title="Show more information about the dealer">
+          Details
+         </a>
+         <a class="changeDealer" href="/store-finder" title="Select another dealer">
+          to change
+         </a>
+         <br/>
+         <span class = "headline">
+          Your Premio tire and car service in Dresden-Prohlis
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class = "google-rating">
+       <span>
+        4.5
+       </span>
+       <g-review-stars>
+        <span class = "google-stars-outer">
+         <span class = "google-stars-inner" style = "width: 63.0px;">
+         </span>
+        </span>
+       </g-review-stars>
+       <span class = "google-reviews">
+        <a href = "https://www.google.com/search?q=FH+Wheel+Center+GmbH++Dresden+K%C3%B6hlerstra%C3%9Fe&amp;ludocid=13402162434207771617#lrd=0x0:0xB9FE0BB9E909EBE1, 1 "target =" _ blank ">
+         30th
+            Google reviews
+        </a>
+       </span>
+      </div>
+     </div>
+     <div class = "mod-cms-minicart" data-config = '{"flyoutUrl": "/ cart / rollover / minicart"}'>
+      <div class = "inner">
+       <div class = "wrapper">
+        <div class = "cart">
+         <a href="/cart">
+          <h3>
+           My Cart
+          </h3>
+          <ul>
+           <li class = "itemcount">
+            0 items
+           </li>
+           <li class = "subtotal">
+            € 0.00
+           </li>
+          </ul>
+         </a>
+        </div>
+        <div class = "cartFlyout">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <nav class = "container" id = "navigation">
+    <div class = "row">
+     <div class = "mod-top-navigation">
+      <ul class = "yCmsContentSlot">
+       <li class = "l1 parent">
+        <a href="/reifen" title="Reifen">
+         tires
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href=" /c/tires?q=:stocklevel:feature-width:205.0:feature-ratio:55.0:feature-diameter:16.0:category:winter-tires" title="Tire Search">
+             Tire search
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/summer-tires-online-kaufen" title="Buy summer tires online">
+             Buy summer tires online
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/testsieger/sommerreifen" title="Testsieger Sommerreifen">
+             Test winner summer tires
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/winter-tires-online-kaufen" title="Buy winter tires online">
+             Buy winter tires online
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/testsieger/winterreifen" title="Testsieger Winterreifen">
+             Test winner winter tires
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ all-season-tires-online-kaufen" title=" buy all-season tires online">
+             Buy all-season tires online
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/testsieger/janzjahresreifen" title="Testsieger whole season tires">
+             Test winner all-season tires
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/run-on-flat" title="Runflat-und-UHP-Tire">
+             Runflat and UHP tires
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/marken" title="Marken">
+             Brands
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="/felgenkonfigurator" title="Felgen">
+         rims
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href="/felgen/alufelgen" title="Alufelgen">
+             Alloy wheels
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/felgen/stahlfelgen" title="Stahlfelgen">
+             Steel rims
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/felgen/felgenkonfigurator" title="Felgenkonfigurator">
+             Rim configurator
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/felgen/erklaert-felgenkonfigurator" title="Rims configurator explained">
+             Rim configurator explained
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/felgen/felgen-lexikon" title="Felgen Lexikon">
+             Rims Lexicon
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="/reifenservice" title="Tire service">
+         Tire service
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifen-auswuchten" title="Auswuchten">
+             Balancing
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/achsvergabe" title="Achsvergabe">
+             Wheel alignment
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifeneinlagerung" title="Reifeneinlagerung">
+             Tire storage
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifen Montage" title="Reifen Montage/Reifenwechsel">
+             Tire fitting / tire change
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/raederwaesche" title="Wheel wash">
+             Wheel washing
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifenentsorgung" title="Tire disposal">
+             Tire disposal
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifengas" title="Reifengas">
+             Tire gas
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/radnabenreinigung" title="Radnabenreinigung">
+             Wheel hub cleaning
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifenversicherung" title="Teifenversicherung">
+             Tire insurance
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/reifendruckkontrollsystem" title="Tire pressure control system">
+             Tire pressure monitoring system
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/reifenservice/eu-reifenlabel" title="EU Reifenlabel">
+             EU tire label
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="/werkstatt" title="Werkstatt">
+         Workshop
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/abgasuntersprüfung" title="Abgasprüfung">
+             Emissions test
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/bremsen" title="Bremsen">
+             Brakes
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/hauptuntersprüfung" title="Hauptuntersprüfung">
+             General inspection
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/inspektion" title="Inspektion">
+             inspection
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/klimaservice" title="Klimaservice">
+             Air conditioning service
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/oelwechsel" title="Ölwechsel">
+             Oil change
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/sicherheitscheck" title="Sicherheitscheck">
+             Security check
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/werkstatt/safe-mobility" title="Mobility guarantee">
+             Mobility guarantee
+            </a>
+           </li>
+          </ul>
+          <ul class = "l3">
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="/lkw_nutzfahrzeuge" title="LKW/NfZ">
+         Trucks / commercial vehicles
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href="/lkw/lkw-reifenservice" title="LKW-Reifenservice">
+             Truck tire service
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/lkw/fuhrparkmanager" title="Fuhrparkmanager">
+             Fleet manager
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/lkw/links_downloads" title="Links and Downloads">
+             Links and Downloads
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="http://www.premio-tuning.de/" target="_blank" title="Tuning">
+         Tuning
+        </a>
+       </li>
+       <li class = "l1 parent">
+        <a href="/flottenkunden" title="Flottenkunden">
+         Fleet customers
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1 parent">
+        <a href="/karriere-und-jobs" title="Jobs">
+         Jobs
+        </a>
+       </li>
+       <li class = "l1 parent">
+        <a href="/ratgeber" title="Ratgeber">
+         counselor
+        </a>
+        <ul class = "l2">
+         <li class = "l2">
+          <ul class = "l3">
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/wann_reifen_wechsel" title="Wann change tires">
+             When to change tires
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/reifenprofiltiefe_messen" title="Meifenprofiltiefe">
+             Measure tire tread depth
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/reifenkennzeichen" title="Tire Marking Meaning">
+             Tire labeling meaning
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/warnuchten" title="Control and warning lights">
+             Control and warning lights
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/reifenwechsel_wie_er_funktioniert" title="Tire change instructions">
+             Tire change instructions
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/hauptuntersprüfung_erklaert" title="Hauptuntersprüfung explains">
+             General inspection explained
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/reifendruckkontrollsystem" title="Tire Pressure Control System (RDKS) explained">
+             Tire pressure monitoring system (TPMS) explained
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/reifendruck_pruefen" title="Tiredruckprüfung">
+             Check tire pressure
+            </a>
+           </li>
+           <li class = "yCmsComponent l3">
+            <a href="/ratgeber/winterreifen-im-sommer" title="Winterreifen im Sommer">
+             Winter tires in summer
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+   <div class = "container" id = "content">
+    <div class = "row">
+    </div>
+    <div class = "row">
+     <div class = "slot section1">
+      <div class = "mod-cms-responsivebannercomponent -size-full">
+       <div class = "inner">
+        <a href="https://www.premio.de/corona-informationen" target="_blank">
+         <picture>
+          <Source media = "(max-width: 480px)" srcset = "/ medias / GDHS1910-Notes-2 Lockdown Corona-div banner-02b-low3.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTI5MzgzfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNDQvaGRmLzkwMzYwNDU3MTM0MzguanBnfGUwMjhjOGYwOGY2NGM3Zjc4NDE0MzVjMWNkYTUxZDBmODExOGQyODZlNTNhOTIwMDI2NjFkMGY0YjZkODVmMDY?" />
+          <Source media = "(max-width: 700px)" srcset = "/ medias / GDHS1910-Notes-2 Lockdown Corona-div banner-02b-low2.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTg1OTQ3fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oMWEvaDA5LzkwMzYwNDU2NDc5MDIuanBnfDRjY2I1MDc5YWJmZmJlNmYzOGM5YmZmYTFmZDU0NDlkNWI0YTg3YWE3M2YwYmNhYTE5OWY3NzY2Nzg0M2VjZmM?" />
+          <img alt = "We are still here for you!" src = "/ medias / GDHS1910-Notes-2 Lockdown Corona-div banner-02b-low.jpg? context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjIyODQ0fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oYzkvaDNiLzkwMzYwNDU1ODIzNjYuanBnfDcyMmQ0OWIwNzYzOThkYjM4Y2U4OWI1NjZjMmVjM2M5YTg3ODY3OGY3NmI2NTI5MjlkMzJiMDY0ODM2ZWU0ZmM" />
+         </picture>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsiverotatingimagescomponent -size-full">
+       <div class = "swiper-container">
+        <div class = "swiper-wrapper">
+         <div class = "swiper-slide">
+          <a href="/cashback" tabindex="-1" target="_self">
+           <picture>
+            <Source media = "(max-width: 480px)" srcset = "/ medias / banner-624x400-cashback-0820-premio.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjYxNTk0fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNDAvaGMwLzkwMzU0NzM2MTY5MjYuanBnfDVmMzQzNGU0ZjFkYTgzZWY4NTVmNzRiM2YxNmEzNGM5YTdkOWU5NDZkMTRmNTYzZTFkN2EwODZjNjFkNTIwOGM?" />
+            <Source media = "(max-width: 700px)" srcset = "/ medias / banner-910x400-cashback-0820-premio.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MzUyOTcwfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oMGIvaDc5LzkwMzU0NzM1NTEzOTAuanBnfGE3NDFhOTg2OWVjNTU1ODdjYWVmYzNkY2FkMDU1MjAxM2YzN2NiZWMxODU4Y2M5MTdiNmU2ZGY4YWU5NjMwMjg?" />
+            <Img alt = "Now to back up to 60 euros cash back!" Src = "/ medias / banner-1316x400-cashback-0820-premio.jpg? Context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8NDgxNDEzfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oY2UvaDVhLzkwMzU0NzM0ODU4NTQuanBnfDE2ZmZkMzQ3OGRlY2M1MGQ2ZTQ2MzM5ZDQ1MmM5ZDZlZWM5NWQyZGE3MTM3ZjYzZjRhZDIzOTY0ODdmODdkMWM" />
+           </picture>
+          </a>
+         </div>
+         <div class = "swiper-slide">
+          <a href="/vector-protector-card" tabindex="-1" target="_self">
+           <picture>
+            <Source media = "(max-width: 480px)" srcset = "/ medias / -neueCI-Premio-Vector-Promo-624x400.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTgwMDAwfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oY2YvaDgzLzkwMDc0OTAzNjc1MTguanBnfDFmZTVkZjFkMjVmYjE0ZTEyYjZmYjJkMmFlZjFkZjlmNGQ2OTQ1MTJiZDNmZTYyZjJhMzYxMWM3YTNhOWIyODg?" />
+            <Source media = "(max-width: 700px)" srcset = "/ medias / -neueCI-Premio-Vector-Promo-924x400.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjU2ODczfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNzkvaDcwLzkwMDc0OTAzMDE5ODIuanBnfGVlMjMwNzE4ZDA1YjJmMjIxNTljODNiNjBjOGEwNzAxZmJkZDQ5OTJhNmZkN2NkMGViYjNiZTVhYTNmMzA4NzU?" />
+            <img alt = "Get free Vector Protector insurance!" src = "/ medias / -neueCI-Premio-Vector promo 1316x400.jpg? context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MzQzNTM1fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oZTcvaDBkLzkwMDc0OTAyMzY0NDYuanBnfDBhNjZiM2Y0NzExYTk1ZWQ1Nzk5NmZiYTAyY2M1NTA3YTlkOWZhYTRlNjVkYWU2YzNlMWRkMDdkNzE3NTY0MjY" />
+           </picture>
+          </a>
+         </div>
+         <div class = "swiper-slide">
+          <a href="/reifenservice/reifenversicherung" tabindex="-1" target="_self">
+           <picture>
+            <Source media = "(max-width: 480px)" srcset = "/ medias / premio-banner-mature insurance-summer-2018-624x400.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjMzMjMwfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNDMvaDgyLzg5OTcxODY3MzIwNjIuanBnfDlmOWJiNWQyNTEwYTI5MTgyOGQ3NzUzZmQ1MjdkNDhlMDRjNmE0NTBlMjE4ODllMWNlMGFhY2QwMjI1ZTRiNWU?" />
+            <Source media = "(max-width: 700px)" srcset = "/ medias / premio-banner-mature insurance-summer-2018-910x400.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MzAyODA1fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oOTUvaDUxLzg5OTcxODY2NjY1MjYuanBnfGE2MTJiYmYxMjQxMTU4NjQ5ZmU1Zjc2YzM0ZTEwZTA0YTAxYzdjNzNmNjQ4ODlhM2UxZTQ0MTVmMTJmZDQzYzk?" />
+            <Img alt = "" src = "/ medias / premio-banner-mature insurance-summer-2018-1316x400-1-.jpg? Context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8NDM4NzYwfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oMjEvaDQwLzg5OTcxODY1MzU0NTQuanBnfGU0NWQyMTFiZTk4MjM4Mjc1OWJhY2Q3NDU4Y2QzNjQzMjBkZGNkMmUxNDNjZDQ4MDBjYmQ5NjdiYTc1ZDEwMGI" />
+           </picture>
+          </a>
+         </div>
+         <div class = "swiper-slide">
+          <a href="/m/fulda" tabindex="-1" target="_self">
+           <picture>
+            <Source media = "(max-width: 480px)" srcset = "/ medias / FULDA promo 624x400px.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTIwOTI5fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oZTAvaGZhLzkwMDY1NzI2MzQxNDIuanBnfGJjNjJlNTRiMWU3NTY3Y2JhYjY4ZTIzZGU4OTlhOTBlZjQyYjFjNDZmNzI0ZWQ5M2E4YTNlZGMwODgwMDJlNjA?" />
+            <Source media = "(max-width: 700px)" srcset = "/ medias / FULDA promo 924x400px.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTI5MzEwfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oMDYvaDI3LzkwMDY1NzI1Njg2MDYuanBnfDBmNTFjNGMxNDllNGYyOTg5NjRiMWI0MjY1ZmZmNTU1YmI1OWVhYTQ1NTE2ZjZmM2U5ZDgwZGQ2OTdkNTY4MjI?" />
+            <Img alt = "dodging guaranteed" src = "/ medias / FULDA promo 1316x400px.jpg? Context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTg4NjU0fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNTQvaDk0LzkwMDY1NzIyNDA5MjYuanBnfGI1MzViZmRkODkyZjZjODA2NzllYWU4Yzk1ZDljZjkyMjk4NDExMGM4MzYzOTY4MGM3OWYxMTBlOTU5YzM0Y2U" />
+           </picture>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "swiper-prev">
+       </div>
+       <div class = "swiper-next">
+       </div>
+       <div class = "swiper-pagination">
+       </div>
+      </div>
+      <div class = "mod-cms-responsivetiresearchcomponent-mobile-banner -size-twothird -special">
+       <div class = "ajaxContainer">
+        <div class = "inner" data-config = '{
+                "searchUrl": "/ c / tires? q =",
+                "searchFormUrl": "/ c / tires? fragmentOnly = filter & amp; q =",
+                "useDefaultValues": true
+            } '>
+         <h2>
+          Tire search
+          <a class="toggleHelp" href="#">
+           <span class = "show">
+            Help
+           </span>
+           <span class = "hide">
+            Hide help
+           </span>
+          </a>
+         </h2>
+         <form>
+          <div>
+           <img alt = "" src = "/ _ ui / desktop / common / img / tireinfo.png">
+           </img>
+          </div>
+          <ul>
+           <li class = "width">
+            <label for = "tiresearch-feature-width">
+             width
+            </label>
+            <select id = "tiresearch-feature-width" name = "feature-width">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "ratio">
+            <label for = "tiresearch-feature-ratio">
+             height
+            </label>
+            <select id = "tiresearch-feature-ratio" name = "feature-ratio">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "diameter">
+            <label for = "tiresearch-feature-diameter">
+             inch
+            </label>
+            <select id = "tiresearch-feature-diameter" name = "feature-diameter">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "brand">
+            <label for = "tiresearch-brand">
+             Manufacturer
+            </label>
+            <select id = "tiresearch-brand" name = "brand">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "type">
+            <label for = "tiresearch-category">
+             Tire type
+            </label>
+            <select id = "tiresearch-category" name = "category">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "extendedSearch">
+            <a href="#">
+             <span class = "show">
+              Show Advanced Search
+             </span>
+             <span class = "hide">
+              Hide advanced search
+             </span>
+            </a>
+           </li>
+          </ul>
+          <ul>
+           <li class = "speed">
+            <label for = "tiresearch-feature-speedSymbol">
+             speed
+            </label>
+            <select id = "tiresearch-feature-speedSymbol" name = "feature-speedSymbol">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "loadindex">
+            <label for = "tiresearch-feature-loadIndex">
+             Load index
+            </label>
+            <select id = "tiresearch-feature-loadIndex" name = "feature-loadIndex">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "price">
+            <label for = "tiresearch-price">
+             price
+            </label>
+            <select id = "tiresearch-price" name = "price">
+             <option value = "">
+              all
+             </option>
+            </select>
+           </li>
+           <li class = "reset">
+            <button title = "reset search" type = "reset">
+            </button>
+           </li>
+           <li class = "submit">
+            <button type = "submit">
+             Show tires
+            </button>
+           </li>
+          </ul>
+          <input name = "q" type = "hidden" value = "" />
+          <input name = "searchPerformed" type = "hidden" value = "false" />
+         </form>
+        </div>
+       </div>
+       <div class = "inner search-banner-mobile">
+        <a href="/c/tires" target="_self">
+         <h2>
+          Tire search
+         </h2>
+         <picture>
+          <Source media = "(max-width: 480px)" srcset = "/ medias / premio-mature-looking kachel.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjM1NDM4fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oOTgvaDAxLzg5NDk5NjEyOTM4NTQuanBnfGNjZWQ3N2FiODBlNGUyMGIyZWRmNzNiOTU5NTc3YmVkZWFjYTBmNTI4YTcyYTAxNDA4OWMzZmViYWMwZjc5OGM?" />
+          <Img alt = "" src = "/ medias / premio-mature-looking kachel.jpg? Context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjM1NDM4fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oOTgvaDAxLzg5NDk5NjEyOTM4NTQuanBnfGNjZWQ3N2FiODBlNGUyMGIyZWRmNzNiOTU5NTc3YmVkZWFjYTBmNTI4YTcyYTAxNDA4OWMzZmViYWMwZjc5OGM" />
+         </picture>
+         <p class = "">
+          <span>
+           Show tires
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivebannercomponent -size-onethird -special">
+       <div class = "inner">
+        <a href="/appointment/service" target="_self">
+         <h2>
+          Appointment booking
+         </h2>
+         <picture>
+          <Source media = "(max-width: 480px)" srcset = "/ medias / otp-tile-mobile-premio-sq.png context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTQzMTQyfGltYWdlL3BuZ3xyZXNwb25zaXZlSW1hZ2VzL2hiZC9oNTgvODk1MTM0MDQ2NjIwNi5wbmd8MWI3YWVjYzUxN2FjZGY4OGJjYmM4M2MzMzM4OTcxYmQ1NDFlNGMxZmM5ZDBmNTVlM2VlODJmNzlhZWJkYzg5ZQ?" />
+          <img alt = "Book appointments conveniently online!" src = "/ medias / OTP tile klein.jpg? context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8OTE1OXxpbWFnZS9qcGVnfHJlc3BvbnNpdmVJbWFnZXMvaDM2L2gwMS84OTgxNTQ0NTk5NTgyLmpwZ3wzZjMyNTYwMTMxMGE4NWNiOWNjNWE3MDIyYjgyZjM0YTBmMGYzYTViNjgyYWEzNDkyM2FiZTM1MWIxMjhjNjI1" />
+         </picture>
+         <p class = "">
+          <span>
+           Book an appointment now
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivebannercomponent -size-full">
+       <div class = "inner">
+        <a href="/felgenkonfigurator" target="_self">
+         <h2>
+          The rim configurator from Premio
+         </h2>
+         <picture>
+          <Source media = "(max-width: 480px)" srcset = "/ medias / premio-banner-configurator-2018-624x350-final.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTQzNDYzfGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oMmEvaDc1Lzg5OTA3MTc2NDA3MzQuanBnfGJjZTYyNmE5ODg0ZTJmMTFjNDBkZTgzYTYyMDBmNjZmOGYwYmU3MmQ4NGE1ZWIwZTEzMzY1NjFmZWE2YzAyZTU?" />
+          <Source media = "(max-width: 700px)" srcset = "/ medias / premio-banner-configurator-2018-910x350-final.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTg1ODc0fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oYzkvaGM0Lzg5OTA3MTc1NzUxOTguanBnfDhjODRkZjFhMGY4ODU1MmJkNmU3ODEyMzFmZDBiMWI0OGI2MGRiZGI1MTQ0YmY3NjIzYjM2MDA5Mjg0OGM0NDI?" />
+          <Img alt = "Configure now complete wheels with our Wheel Configurator" src = "/ medias / premio-banner-configurator-2018-1316x350-final.jpg? Context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjUwOTU5fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oZDMvaDExLzg5OTA3MTc1MDk2NjIuanBnfDA3M2ViMjA4ZDNmNGVkOTIzNzFmNzNjZmE5OWJlZDVlZjA0M2MwMjU5ZWU1OTgyYzAyZjdhZDAyYmNhYWQ3YzQ" />
+         </picture>
+         <p class = "">
+          <span>
+           Configure complete bikes now
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivedealerparagraphcomponent -size-full">
+       <div class = "inner" itemscope = "" itemtype = "http://schema.org/LocalBusiness">
+        <h1 itemprop = "name">
+         F.H. Wheel Center GmbH - Your Premio tire and car service in Dresden
+        </h1>
+        <div class = "dealerContent">
+         <div class = "dealerRow">
+          <div class = "dealerInfo">
+           <! - Schema.org Markup Testing tool: https://search.google.com/structured-data/testing-tool ->
+           <h3>
+            <span itemprop = "name">
+             F.H. Wheel Center GmbH
+            </span>
+            <a class="changeDealer" href="/store-finder" title="Select another dealer">
+             to change
+            </a>
+           </h3>
+           <div class = "google-rating">
+            <span>
+             4.5
+            </span>
+            <g-review-stars>
+             <span class = "google-stars-outer">
+              <span class = "google-stars-inner" style = "width: 63.0px;">
+              </span>
+             </span>
+            </g-review-stars>
+            <span class = "google-reviews">
+             <a href = "https://www.google.com/search?q=FH+Wheel+Center+GmbH++Dresden+K%C3%B6hlerstra%C3%9Fe&amp;ludocid=13402162434207771617#lrd=0x0:0xB9FE0BB9E909EBE1, 1 "target =" _ blank ">
+              30th
+            Google reviews
+             </a>
+            </span>
+           </div>
+           <! - This is the site's homepage ->
+           <meta content = "https://dresden2.premio.de" itemprop = "url">
+            <! - This is the configurable meta description from the header! ->
+            <meta content = "Here you can get the complete car service and tires from the experts! Find out more about the extensive range of services now." itemprop = "description" />
+            <div class = "dealerImage">
+             <div class = "mod-store-image">
+              <Img alt = "F.H. Wheel Center GmbH" class = "store image" src = "/ medias / Dresden2-store dealer? Context = bWFzdGVyfHJvb3R8Njg3NzV8aW1hZ2UvanBlZ3xoZTIvaGY5Lzg5MDYxMzg0NTE5OTguanBnfGJiNWQ3ZDZjZTVmZGQ5MDViOGNkOGJkYTg2MjhiZmFhMzJkOTgxMWQ4ODE5MmMxYjQyY2U5MzMyMDUwZGI4NjU">
+              </img>
+             </div>
+            </div>
+            <address itemprop = "address" itemscope = "" itemtype = "http://schema.org/PostalAddress">
+             <span itemprop = "streetAddress">
+              Köhlerstrasse 16A
+             </span>
+             <br/>
+             <span itemprop = "postalCode">
+              01239
+             </span>
+             <span itemprop = "addressLocality">
+              Dresden
+             </span>
+             <br/>
+            </address>
+            <p class = "phone">
+             <span class = "label">
+              Phone:
+             </span>
+             <a href="tel:0351/202660 ">
+              <span itemprop = "telephone">
+               0351/202660
+              </span>
+             </a>
+            </p>
+            <p class = "email">
+             <span class = "label">
+              E-mail:
+             </span>
+             <a href="mailto:komplettradcenter@gmail.com">
+              <span itemprop = "email">
+               komplettradcenter@gmail.com
+              </span>
+             </a>
+            </p>
+            <! - Attention this is also used in dealer-components ->
+            <div class = "mod-store-opening-schedule">
+             <table class = "openingHours">
+              <tbody>
+               <tr class = "open">
+                <th>
+                 Mon
+                </th>
+                <td>
+                 8:00 am - 6:00 pm
+                </td>
+               </tr>
+               <tr class = "open">
+                <th>
+                 Tuesday
+                </th>
+                <td>
+                 8:00 am - 6:00 pm
+                </td>
+               </tr>
+               <tr class = "open">
+                <th>
+                 Wed
+                </th>
+                <td>
+                 8:00 am - 6:00 pm
+                </td>
+               </tr>
+               <tr class = "open">
+                <th>
+                 do
+                </th>
+                <td>
+                 8:00 am - 6:00 pm
+                </td>
+               </tr>
+               <tr class = "open">
+                <th>
+                 Fr.
+                </th>
+                <td>
+                 8:00 am - 6:00 pm
+                </td>
+               </tr>
+               <tr class = "open">
+                <th>
+                 Sat
+                </th>
+                <td>
+                 09:00 - 12:00
+                </td>
+               </tr>
+               <tr class = "closed">
+                <th>
+                 So
+                </th>
+                <td>
+                 closed
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+           </meta>
+          </div>
+          <div class = "dealerMap">
+           <div class = "storeMaps">
+            <! - Attention this is also used in dealer-components ->
+            <div class = "mod-store-map">
+             <div class = "map" data-lat = "51.00329" data-lng = "13.78757" id = "storeMap">
+             </div>
+             <script>
+              var googleMapsLoaded = false;
+            function setGoogleMapsLoaded () {
+                googleMapsLoaded = true;
+            }
+
+            // Storefinder result items
+            var jsconfig = jsconfig || {};
+            jsconfig.storefinder = jsconfig.storefinder || {};
+
+            jsconfig.storefinder.marker = {
+                    "lat": 51.00329,
+                    "lng": 13.78757
+            };
+             </script>
+             <script src = "// maps.googleapis.com/maps/api/js?language=de&amp;callback=setGoogleMapsLoaded&amp;key=&amp;key=AIzaSyAxwiYnH8-1m79Ed5_VR2cKJSvppXBHWZc">
+             </script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "dealerButtons">
+        </div>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivebannercomponent -size-onethird">
+       <div class = "inner">
+        <a href="/guetesiegel" target="_self">
+         <h2>
+          seal of approval
+         </h2>
+         <picture>
+          <Img alt = "Honest merchants - seal of approval" src = "/ medias / premio-website-ehrlicher20-kachel.jpg context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MjI0Mjh8aW1hZ2UvanBlZ3xyZXNwb25zaXZlSW1hZ2VzL2gwYS9oZDUvOTAzMjU3Njg2MDE5MC5qcGd8ZmM5OGQwZmUyMjk4NzE4OTNiZDgwMDQxMWI4MDkzM2ZlN2M4ZGViZWFlMjc5NDZhMDcxNTA0OGY0YWQzOGEwOQ?" />
+         </picture>
+         <p class = "">
+          <span>
+           Further information
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivebannercomponent -size-onethird">
+       <div class = "inner">
+        <a href="/autoservice" target="_self">
+         <h2>
+          Car service
+         </h2>
+         <picture>
+          <img alt = "Car service from professionals!" src = "/ medias / car service-home-neu.png? context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTQ0Njg3fGltYWdlL3BuZ3xyZXNwb25zaXZlSW1hZ2VzL2gzMS9oZWIvOTAwMjE5ODc5NDI3MC5wbmd8YTdkZGVjOGM0NWEzOGI1NmM3ODBhYjUyYjNkOGU4ZTVhOTU1MzFiOWRkYjgzYzkzNTVhYjc4Njk1NGFmMjRhYQ" />
+         </picture>
+         <p class = "">
+          <span>
+           Further information
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class = "mod-cms-responsivebannercomponent -size-onethird">
+       <div class = "inner">
+        <a href="http://katalog.premio-tuning.de/" target="_blank">
+         <h2>
+          Tuning catalog 2020
+         </h2>
+         <picture>
+          <img alt = "Leaf through our tuning catalog!" src = "/ medias / BlaetterKatalog-02.jpg? context = bWFzdGVyfHJlc3BvbnNpdmVJbWFnZXN8MTA3OTA4fGltYWdlL2pwZWd8cmVzcG9uc2l2ZUltYWdlcy9oNjQvaGIxLzkwMTQ3MzIxMjgyODYuanBnfDNlZDRkNDM4NzQ2NTRjYjU1ZDk0MTk5MGZkMmJlMzMwY2IzZjIzYmQ4OGY3MDI3NmE5M2I5NWMyZDM2MWVkMmE" />
+         </picture>
+         <p class = "">
+          <span>
+           Watch now
+          </span>
+         </p>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer class = "container" id = "footer">
+    <div class = "row">
+     <div class = "mod-cms-footer -has-9-items">
+      <ul class = "l1">
+       <li class = "l1">
+        <h3 class = "l1">
+         Most popular brands
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/m/Goodyear" title="Goodyear">
+           Goodyear
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/m/dunlop" title="Dunlop">
+           Dunlop
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/m/fulda" title="Fulda">
+           Fulda
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/m/sava" title="Sava">
+           Sava
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/m/debica" title="Debica">
+           Debica
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/michelin" title=" Michelin">
+           Michelin
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/bridgestone" title="Bridgestone">
+           Bridgestone
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/falken" title="Falken">
+           Hawks
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/continental" title="Continental">
+           Continental
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/pirelli" title="Pirelli">
+           Pirelli
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+        </ul>
+       </li>
+       <li class = "l1">
+        <h3 class = "l1">
+         Most popular winter tires
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/goodyear-ultragrip-9-plus" title="Goodyear Ultragrip 9+">
+           Goodyear Ultragrip 9+
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/goodyear-ultragrip-performance-plus" title="Goodyear Ultragrip Performance +">
+           Goodyear Ultragrip Performance +
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/dunlop-winter-sport-5" title="Dunlop Winter Sport 5">
+           Dunlop Winter Sport 5
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/dunlop-winter-response-2" title="Dunlop Winter Response 2">
+           Dunlop Winter Response 2
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/fulda-kristall-control-hp" title="Fulda Kristall Control HP 2">
+           Fulda Kristall Control HP 2
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/debica_frigo_hp2" title="Debica Frigo HP2">
+           Debica Frigo HP2
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/continental-winter-contact-ts-860" title="Continental Winter Contact TS 860">
+           Continental Winter Contact TS 860
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/michelin-alpin-6" title=" Michelin Alpin 6">
+           Michelin Alpin 6
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/m/pirelli_cinturato_winter" title="Pirelli Cinturato Winter">
+           Pirelli Cinturato Winter
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/goodyear-vector-4seasons" title="Goodyear Vector 4Seasons (year-round tires )">
+           Goodyear Vector 4Seasons (all-season tires)
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="https://www.premio.de/c/tires?q=:stocklevel:brand:FU:category:allseason-tires" title="Fulda Multicontrol (year-round tires )">
+           Fulda Multicontrol (all-season tires)
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1">
+        <h3 class = "l1">
+         Tire sizes
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href = "/ Reifen / 205-55-R16 / c / tires? q =: stocklevel: feature-width: 205.0: feature-ratio: 55.0: feature-diameter: 16.0: category: summer-tires" title = " Summer tires 205 55 R16 ">
+           Summer tires 205 55 R16
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href = "/ Reifen / 225-45-R17 / c / tires? q =: stocklevel: feature-width: 225.0: feature-ratio: 45.0: feature-diameter: 17.0: category: summer-tires" title = " Summer tires 225 45 R17 ">
+           Summer tires 225 45 R17
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href = "/ Reifen / 195-65-R15 / c / tires? q =: stocklevel: feature-width: 195.0: feature-ratio: 65.0: feature-diameter: 15.0: category: summer-tires" title = " Summer tires 195 65 R15 ">
+           Summer tires 195 65 R15
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/c/tires?q=:stocklevel:feature-width:225.0:feature-ratio:40.0:feature-diameter:18.0" title="Summer tires 225 40 R18">
+           Summer tires 225 40 R18
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/c/tires?q=:stocklevel:feature-width:235.0:feature-ratio:35.0:feature-diameter:19.0" title="Summer tires 235 35 R19">
+           Summer tires 235 35 R19
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/ all-season tires-195-65-r15" title=" all-season tires 195 65 R15">
+           All season tires 195 65 R15
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/ all-season tires-225-45-r17" title=" all-season tires 225 45 R17">
+           All season tires 225 45 R17
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href = "/ Reifen / 205-55-R16 / c / tires? q =: stocklevel: feature-width: 205.0: feature-ratio: 55.0: feature-diameter: 16.0: category: allseason-tires" title = " All season tires 205 55 R16 ">
+           All season tires 205 55 R16
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/winter tire-205-55-r16" title="Winter tire 205 55 R16">
+           Winter tires 205 55 R16
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/winter tires-195-65-r15" title="Winter tires 195 65 R15">
+           195 65 R15 winter tires
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href = "/ Reifen / 205-60-R16 / c / tires? q =: stocklevel: feature-width: 205.0: feature-ratio: 60.0: feature-diameter: 16.0: category: winter-tires" title = " Winter tires 205 60 R16 ">
+           Winter tires 205 60 R16
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1">
+        <h3 class = "l1">
+         Tire service
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/reifenservice/reifen-auswuchten" title="Auswuchten">
+           Balancing
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/reifenservice/achsvergabe" title="Achsvergabe">
+           Wheel alignment
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/reifenservice/reifeneinlagerung" title="Reifeneinlagerung">
+           Tire storage
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/reifenservice/reifen Montage" title="Reifen Montage/Reifenwechsel">
+           Tire fitting / tire change
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/raederwaesche" title="Wheel wash">
+           Wheel washing
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/reifenentsorgung" title="Tire disposal">
+           Tire disposal
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/reifengas" title="Reifengas">
+           Tire gas
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/radnabenreinigung" title="Radnabenreinigung">
+           Wheel hub cleaning
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/reifenversicherung" title="Teifenversicherung">
+           Tire insurance
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/reifendruckkontrollsystem" title="Tire Pressure Control System (RDKS )">
+           Tire pressure monitoring system (TPMS)
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/reifenservice/eu-reifenlabel" title="EU Reifenlabel">
+           EU tire label
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1">
+        <h3 class = "l1">
+         Workshop
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/autoservice/abgasuntersprüfung" title="Abgasprüfung">
+           Emissions test
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/autoservice/autoglas" title="Autoglas">
+           Car glass
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/autoservice/bremsen" title="Bremsen">
+           Brakes
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/autoservice/hauptuntersprüfung" title="Hauptuntersprüfung">
+           General inspection
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/autoservice/inspektion" title="Inspektion">
+           inspection
+          </a>
+         </li>
+        </ul>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/autoservice/klimaservice" title="Klimaservice">
+           Air conditioning service
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/autoservice/safe-mobility" title="Mobility guarantee">
+           Mobility guarantee
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/autoservice/oelwechsel" title="Ölwechsel">
+           Oil change
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc right_col">
+          <a href="/autoservice/sicherheitscheck" title="Sicherheitscheck">
+           Security check
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "l1">
+        <h3 class = "l1">
+         tires
+        </h3>
+        <ul class = "l2">
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/summer-tires-online-kaufen" title="Buy summer tires online">
+           Buy summer tires online
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/winter-tires-online-kaufen" title="Buy winter tires online">
+           Buy winter tires online
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/ all-season-tires-online-kaufen" title="buy all-season tires online">
+           Buy all-season tires online
+          </a>
+         </li>
+         <li class = "yCmsComponent Fc left_col">
+          <a href="/run-on-flat" title="Runflat-und UHP-Teifen">
+           Runflat and UHP tires
+          </a>
+         </li>
+         <li class="yCmsComponent Fc left_col">
+          <a href="/testsieger/winterreifen" title="Testsieger Winterreifen">
+           Testsieger Winterreifen
+          </a>
+         </li>
+        </ul>
+        <ul class="l2">
+         <li class="yCmsComponent Fc right_col">
+          <a href="/testsieger/ganzjahresreifen" title="Testsieger Ganzjahresreifen">
+           Testsieger Ganzjahresreifen
+          </a>
+         </li>
+         <li class="yCmsComponent Fc right_col">
+          <a href="/testsieger/sommerreifen" title="Testsieger Sommerreifen">
+           Testsieger Sommerreifen
+          </a>
+         </li>
+         <li class="yCmsComponent Fc right_col">
+          <a href="/die-besten-Winterreifen" title="Die besten Winterreifen">
+           Die besten Winterreifen
+          </a>
+         </li>
+         <li class="yCmsComponent Fc right_col">
+          <a href="/die-besten-sommerreifen" title="Die besten Sommerreifen">
+           Die besten Sommerreifen
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="l1">
+        <h3 class="l1">
+         Premio
+        </h3>
+        <ul class="l2">
+         <li class="yCmsComponent Fc left_col">
+          <a href="/impressum" title="Impressum">
+           imprint
+          </a>
+         </li>
+         <li class="yCmsComponent Fc left_col">
+          <a href="/formulare" title="Kontakt">
+           Contact
+          </a>
+         </li>
+         <li class="yCmsComponent Fc left_col">
+          <a href="/zahlung" title="Zahlungsmöglichkeiten">
+           Payment options
+          </a>
+         </li>
+         <li class="yCmsComponent Fc left_col">
+          <a href="/agb" title="AGB">
+           Conditions
+          </a>
+         </li>
+         <li class="yCmsComponent Fc left_col">
+          <a href="/datenschutz" title="Datenschutz">
+           data protection
+          </a>
+         </li>
+        </ul>
+        <ul class="l2">
+         <li class="yCmsComponent Fc right_col">
+          <a href="/widerrufsbelehrung" title="Widerrufsbelehrung">
+           Right of withdrawal
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <p>
+      </p>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script>
+   var jsconfig = jsconfig || {};
+    jsconfig.foocfg = "bar from page config";
+  </script>
+  <script>
+   var jslang = jslang || {};
+    jslang.foolng = "bar from page language vars";
+  </script>
+  <script src="/_ui/desktop/common/js/body.mod.min.js">
+  </script>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+        
+        var ACC = { config: {} };
+            ACC.config.contextPath = "";
+            ACC.config.encodedContextPath = "";
+            ACC.config.commonResourcePath = "/_ui/desktop/common";
+            ACC.config.themeResourcePath = "/_ui/desktop/theme-premio";
+            ACC.config.siteResourcePath = "/_ui/desktop/site-premio";        
+        / *]]> * /
+  </script>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+	ACC.addons = {};	//JS holder for addons properties
+
+
+/ *]]> * /
+  </script>
+  <script src="/_ui/addons/gdhscaptchaaddon/responsive/common/js/gdhscaptchaaddon.js" type="text/javascript">
+  </script>
+ </body>
+</html>

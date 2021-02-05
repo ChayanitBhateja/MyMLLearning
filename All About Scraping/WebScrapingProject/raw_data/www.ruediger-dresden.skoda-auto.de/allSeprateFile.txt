@@ -1,0 +1,1204 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD HTML 4.01 Transitional // EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang = "de">
+ <head>
+  <title>
+   ŠKODA dealers in Dresden | Autohaus Rüdiger GmbH
+  </title>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "Autohaus Rüdiger GmbH; 01067 Dresden Hamburger Strasse 35;" name = "author" />
+  <meta content = "de" name = "DC.Language" />
+  <meta content = "ŠKODA dealer in Dresden | Autohaus Rüdiger GmbH" name = "DC.Title" />
+  <meta content = "Official ŠKODA dealer in Dresden | Autohaus Rüdiger GmbH ✔ ŠKODA new cars ✔ ŠKODA used cars ✔ ŠKODA Service ➤ Make a test drive & amp; make an appointment for an inspection" name = "description" />
+  <meta content = "follow; index;" name = "robots" />
+  <meta content = "Skoda; Superb; Octavia; Fabia; Karoq; Kodiaq; Scala; Auto; Automobile; Workshop; Service; Dealership" name = "keywords" />
+  <meta content = "IE = edge" http-equiv = "x-ua-compatible" />
+  <meta content = "DE" name = "geo.region" />
+  <meta content = "51.060299980802; 13.696155444827" name = "geo.position" />
+  <meta content = "Dresden" name = "geo.placename" />
+  <meta content = "https://www-ruediger-dresden.skoda-auto.de" property = "og: url" />
+  <meta content = "website" property = "og: type" />
+  <meta content = "Official ŠKODA dealer in Dresden | Autohaus Rüdiger GmbH ✔ ŠKODA new cars ✔ ŠKODA used cars ✔ ŠKODA Service ➤ Test drive & amp; Make an appointment for inspection" property = "og: description" />
+  <meta content = "https://www-ruediger-dresden.skoda-auto.de/getpic.php?id=58310&amp;kat=410&amp;w=600&amp;h=315&amp;anmp;q=90&amp;name=a1a7bffd21f466efd8bb389f48abc80f "property =" og: image "/>
+  <meta content = "ŠKODA dealer in Dresden | Autohaus Rüdiger GmbH" property = "og: title" />
+  <meta content = "width = device-width, initial-scale = 1.0" name = "viewport" />
+  <link href = "/ css / slick.css" rel = "stylesheet" />
+  <link href = "/ css / stylesheet.1.0.5.css" rel = "stylesheet" />
+  <link href = "/ font-awesome-4.7.0 / css / font-awesome.min.css" rel = "stylesheet" />
+  <style type = "text / css">
+   .sliderImage1 {background-Image: url (/getpic.php?id=58383&kat=395&w=1920&h=500&q=90&name=a1a7bffd21f466efd8bb389f48abc80f);}
+  </style>
+  <style type = "text / css">
+   #mod_rating_container {text-align: center;} @ media only screen and (max-width: 350px) {# mod_rating_container {clear: both;}} @ media only screen and (min-width: 1350px) {# mod_rating_container {position: absolute; right: 0px; top: 600px;}}
+  </style>
+  <script src = "/ js / jquery.js" type = "text / javascript">
+  </script>
+  <script language = "javascript" src = "/ js / jquery / jquery-ui-1.12.1.custom / jquery-ui.min.js" type = "text / javascript">
+  </script>
+  <script charset = "UTF-8" src = "/ js / slick.js" type = "text / javascript">
+  </script>
+  <script charset = "UTF-8" language = "javascript" src = "/ js / skoda / cookieconsent.min.js" type = "text / javascript">
+  </script>
+  <script src = "/ js / javascript.1.0.3.js" type = "text / javascript">
+  </script>
+  <script language = "javascript" type = "text / javascript">
+   var _domainName = "www-ruediger-dresden.skoda-auto.de"; var _dealerType = "Full"
+  </script>
+  <script src = "// scripts.psyma.com/scripts/abhb/abhbde_skoda.php" type = "text / javascript">
+  </script>
+  <script language = "javascript" type = "text / javascript">
+   $ (document) .ready (function () {$ (". headerText"). hide (); $ ("# headerMessageContainer"). html ($ (". headerText"). html ()); $ ("# headerMessageContainer span "). css ({" font-size ":" larger "," font-weight ": 700," font-family ":" SKODA Next W01 Bold "," color ":" # f79800 "}); });
+  </script>
+  <! - <script language = "JavaScript" type = "text / javascript"> $ (document) .ready (function () {$ ("# aktionteaserbox"). startSlider ();}); </script> - ->
+  <link href = "/ css / cookieconsent.min.css" rel = "stylesheet" />
+  <! - CSS ->
+ </head>
+ <body>
+  <div class = "main" style = "position: relative">
+   <div class = "navigation">
+    <! - <div class = "logo"> </div> ->
+    <a href="/index_haendler.php?e=1" title="Autohaus Rüdiger GmbH in Dresden">
+     <img alt = "SKODA Logo Autohaus Rüdiger GmbH in Dresden" class = "logo" src = "/ pics / skoda-logo-landscape.png" />
+    </a>
+    <! - start menu ->
+    <div class = "menu-Punkte">
+     <div class = "mobile-back">
+      <i class = "fa fa-chevron-left">
+      </i>
+     </div>
+     <ul>
+      <li>
+       <a href="/index_haendler.php?e=1" rel="1" title="Startseite">
+        Home page
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="2" title="Unternehmen">
+        Companies
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=2-15" rel="2-15" title="Unternehmen">
+          Companies
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-1" rel="2-1" title="Mitarbeiter">
+          Employee
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-3" rel="2-3" title="opening times">
+          opening hours
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-7" rel="2-7" title="Verified Seller">
+          Verified seller
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="5" title="Aktionen">
+        Actions
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=5-4" rel="5-4" title="In the dealership">
+          In the dealership
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-45" rel="5-45" title="E-Mobility">
+          E-mobility
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-9" rel="5-9" title="Service-Aktion Winter 2020">
+          Service promotion winter 2020
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-35" rel="5-35" title="The anniversary models DRIVE 125">
+          The anniversary models DRIVE 125
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-15" rel="5-15" title="Teilerabatt x2">
+          Part discount x2
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-20" rel="5-20" title="ŠKODA Connect">
+          ŠKODA Connect
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-28" rel="5-28" title="Simply Clever">
+          Simply clever
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="3" title="Modelle">
+        Models
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=3-42" rel="3-42" title="Modeloverview">
+          Model overview
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-43" rel="3-43" title="ENYAQ iV">
+          ENYAQ iV
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-20" rel="3-20" title="FABIA">
+          FABIA
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-19" rel="3-19" title="FABIA COMBI">
+          FABIA COMBI
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-38" rel="3-38" title="SCALA">
+          SCALA
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-39" rel="3-39" title="KAMIQ">
+          KAMIQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-41" rel="3-41" title="OCTAVIA NEW">
+          OCTAVIA NEW
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-40" rel="3-40" title="OCTAVIA COMBI NEW">
+          OCTAVIA COMBI NEW
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-23" rel="3-23" title="KAROQ">
+          KAROQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-24" rel="3-24" title="KODIAQ">
+          KODIAQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-28" rel="3-28" title="SUPERB">
+          SUPERB
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-30" rel="3-30" title="SUPERB COMBI">
+          SUPERB COMBI
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-33" rel="3-33" title="Konfigurator">
+          Configurator
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="6" title="Service">
+        service
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=6-15" rel="6-15" title="Our Service">
+          our service
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-11" rel="6-11" title="Accessories">
+          equipment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-16" rel="6-16" title="Service make an appointment">
+          Arrange a service appointment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-17" rel="6-17" title="Hygiene-Tipps">
+          Hygiene tips
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/index_haendler.php?e=7" rel="7" title="Used cars">
+        used cars
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="4" title="Contact">
+        Contact
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=4-2" rel="4-2" title="Test drive">
+          Test drive
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-3" rel="4-3" title="Questions and wishes">
+          Questions and requests
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-1" rel="4-1" title="Prospekte">
+          Brochures
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-4" rel="4-4" title="Service appointment request">
+          Service appointment request
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <ul class = "special-menu" id = "special">
+        <li>
+         <a href="https://cc.skoda-auto.com/deu/de-DE?options=%7B%22dealerid%22%3A%22107-56499%22%7D" target="_blank">
+          <img alt = "SKODA configurator | Autohaus Rüdiger GmbH in Dresden" src = "/ pics / icons / icon-configurator.png" />
+          CONFIGURATOR
+         </a>
+        </li>
+        <li>
+         <a href="/probefahrt">
+          <img alt = "SKODA test drive at Autohaus Rüdiger GmbH in Dresden" src = "/ pics / icons / icon-navi-probefahrt.png" />
+          Test drive
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <div class = "smaler-menu">
+      <div class = "smal-mobile" style = "float: left; line-height: 69px; padding: 0 20px;">
+       <a title="Menü">
+        menu
+       </a>
+      </div>
+     </div>
+     <div class = "mobile-menu">
+      ☰
+     </div>
+     <div class = "right-section">
+      <div class = "car-config">
+       <a href="https://cc.skoda-auto.com/deu/de-DE?options=%7B%22dealerid%22%3A%22107-56499%22%7D" target="_blank">
+        <img alt = "SKODA configurator | Autohaus Rüdiger GmbH in Dresden" src = "/ pics / icons / icon-configurator.png" />
+        CONFIGURATOR
+       </a>
+      </div>
+      <div class = "partner">
+       <a href="?e=4-2">
+        <img alt = "SKODA test drive at Autohaus Rüdiger GmbH in Dresden" src = "/ pics / icons / icon-probefahrt.png" />
+        Test drive
+       </a>
+      </div>
+      <div class = "arrow">
+       <a>
+        <i class = "fa fa-chevron-down">
+        </i>
+       </a>
+      </div>
+      <div class = "search">
+       <img alt = "" src = "getpic.php? kat = 316 & amp; id = 56644 & amp; h = 50 & amp; b = 6564990" />
+      </div>
+     </div>
+    </div>
+    <! - end ->
+    <! - Desktop Menu End ->
+    <! - start menu right part ->
+    <! - End of menu right part ->
+   </div>
+   <! - beginning of tablet menu ->
+   <div class = "smaler-menu-navi" id = "smaler-menu-navi">
+    <div class = "row">
+     <ul>
+      <li>
+       <a href="/index_haendler.php?e=1" rel="1" title="Startseite">
+        Home page
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="2" title="Unternehmen">
+        Companies
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=2-15" rel="2-15" title="Unternehmen">
+          Companies
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-1" rel="2-1" title="Mitarbeiter">
+          Employee
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-3" rel="2-3" title="opening times">
+          opening hours
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=2-7" rel="2-7" title="Verified Seller">
+          Verified seller
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="5" title="Aktionen">
+        Actions
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=5-4" rel="5-4" title="In the dealership">
+          In the dealership
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-45" rel="5-45" title="E-Mobility">
+          E-mobility
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-9" rel="5-9" title="Service-Aktion Winter 2020">
+          Service promotion winter 2020
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-35" rel="5-35" title="The anniversary models DRIVE 125">
+          The anniversary models DRIVE 125
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-15" rel="5-15" title="Teilerabatt x2">
+          Part discount x2
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-20" rel="5-20" title="ŠKODA Connect">
+          ŠKODA Connect
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=5-28" rel="5-28" title="Simply Clever">
+          Simply clever
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="3" title="Modelle">
+        Models
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=3-42" rel="3-42" title="Modeloverview">
+          Model overview
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-43" rel="3-43" title="ENYAQ iV">
+          ENYAQ iV
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-20" rel="3-20" title="FABIA">
+          FABIA
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-19" rel="3-19" title="FABIA COMBI">
+          FABIA COMBI
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-38" rel="3-38" title="SCALA">
+          SCALA
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-39" rel="3-39" title="KAMIQ">
+          KAMIQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-41" rel="3-41" title="OCTAVIA NEW">
+          OCTAVIA NEW
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-40" rel="3-40" title="OCTAVIA COMBI NEW">
+          OCTAVIA COMBI NEW
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-23" rel="3-23" title="KAROQ">
+          KAROQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-24" rel="3-24" title="KODIAQ">
+          KODIAQ
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-28" rel="3-28" title="SUPERB">
+          SUPERB
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-30" rel="3-30" title="SUPERB COMBI">
+          SUPERB COMBI
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=3-33" rel="3-33" title="Konfigurator">
+          Configurator
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#" rel="6" title="Service">
+        service
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=6-15" rel="6-15" title="Our Service">
+          our service
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-11" rel="6-11" title="Accessories">
+          equipment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-16" rel="6-16" title="Service make an appointment">
+          Arrange a service appointment
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=6-17" rel="6-17" title="Hygiene-Tipps">
+          Hygiene tips
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/index_haendler.php?e=7" rel="7" title="Used cars">
+        used cars
+       </a>
+      </li>
+      <li>
+       <a href="#" rel="4" title="Contact">
+        Contact
+       </a>
+       <ul>
+        <li>
+         <a href="/index_haendler.php?e=4-2" rel="4-2" title="Test drive">
+          Test drive
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-3" rel="4-3" title="Questions and wishes">
+          Questions and requests
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-1" rel="4-1" title="Prospekte">
+          Brochures
+         </a>
+        </li>
+        <li>
+         <a href="/index_haendler.php?e=4-4" rel="4-4" title="Service appointment request">
+          Service appointment request
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <! - End of Tablet Menu ->
+   <div class = "out">
+    <div class = "navi-shadow">
+    </div>
+    <div id = "headerMessageContainer">
+    </div>
+    <div class = "header-pic unterNehmen">
+     <img alt = "Crystal design" class = "prisma" src = "/ pics / caleidoscope.png" />
+     <! - Slider ->
+     <div class = "slider">
+      <div class = "sliderImages sliderImage1">
+      </div>
+     </div>
+     <! - end ->
+     <! - vehicle search top ->
+     <script>
+      var fzg_teaser = {"SKODA": ["CITIGO", "ENYAQ", "FABIA", "FABIA COMBI", "KAMIQ", "KAROQ", "KODIAQ", "OCTAVIA", "OCTAVIA COMBI", "RAPID" , "SCALA", "SUPERB", "SUPERB COMBI", "YETI"], "KIA": ["Sportage"], "Toyota": ["Verso"], "Nissan": ["Qashqai"], " Porsche ": [" 911 "]," Volkswagen ": [" Golf "]};
+        var fzg_conter = {"FABIA COMBI": 8, "SKODA": 170, "OCTAVIA COMBI": 62, "OCTAVIA": 9, "SUPERB": 9, "SUPERB COMBI": 41, "KODIAQ": 5, " RAPID ": 8," Sportage ": 1," KIA ": 1," KAMIQ ": 5," Verso ": 1," Toyota ": 1," CITIGO ": 3," SCALA ": 4," FABIA " : 6, "KAROQ": 7, "YETI": 2, "Qashqai": 1, "Nissan": 1, "ENYAQ": 1, "911": 1, "Porsche": 1, "Golf": 1 , "Volkswagen": 1, "All": 175};
+        var fzg_teaser_marke = "All";
+        var fzg_teaser_modell = "All";
+        
+                $ (document) .ready (function () {
+                    $ ("# fzg_action"). on ("click", function () {
+                        var fzg_marke = "";
+                        
+                        var params = {brand: fzg_teaser_marke, model: fzg_teaser_modell}
+                        var str = jQuery.param (params);
+                        var fzg_teaser_link = $ ("# fzg_action"). attr ("href");
+                        $ ("# fzg_action"). attr ("href", fzg_teaser_link + "&" + str);
+                    });
+                
+            $ ("# teaserFzgMarke"). on ("change", function () {
+                        var selected = $ ("# teaserFzgMarke option: selected"). text ();
+                        fzg_teaser_marke = selected;
+                        $ ("# teaserFzgModell option"). remove ();
+                                                
+                        if (selected == "brand") {
+                        $ ("# teaserFzgModell"). append ($ ("<option>", {text: "Model"}));
+                        }
+                        else {
+                        $ ("# teaserFzgModell"). append ($ ("<option>", {text: "All"}));
+                        }
+                        
+                        var fzg_teaser_counter = fzg_conter [selected];
+                        $ ("# fzgTeaserCounter"). text (fzg_teaser_counter);
+                
+                        $ (fzg_teaser [selected]). each (function (key, val) {
+                            $ ("# teaserFzgModell"). append ($ ("<option>", {
+                                text: val
+                            }));
+                        });
+                        // return false;
+                    });
+                
+                    $ ("# teaserFzgModell"). on ("change", function () {
+                        var selected_modell = $ ("# teaserFzgModell option: selected"). text ();
+                        fzg_teaser_modell = selected_modell;
+                        if (selected_modell == "All") {
+                            selected_modell = $ ("# teaserFzgMarke option: selected"). text ();
+                        }
+                        var fzg_teaser_counter = fzg_conter [selected_modell];
+                        $ ("# fzgTeaserCounter"). text (fzg_teaser_counter);
+                    });
+                    $ ("# teaserBottomFzgMarke"). on ("change", function () {
+var selected = $ ("# teaserBottomFzgMarke option: selected"). text ();
+fzg_teaser_marke = selected;
+$ ("# teaserBottomFzgModell option"). remove ();
+
+if (selected == "brand") {
+$ ("# teaserBottomFzgModell"). append ($ ("<option>", {text: "Model"}));
+}
+else {
+$ ("# teaserBottomFzgModell"). append ($ ("<option>", {text: "All"}));
+}
+
+var fzg_teaser_counter = fzg_conter [selected];
+$ ("# fzgBottomTeaserCounter"). text (fzg_teaser_counter);
+
+$ (fzg_teaser [selected]). each (function (key, val) {
+$ ("# teaserBottomFzgModell"). append ($ ("<option>", {
+text: val
+}));
+});
+// return false;
+});
+
+$ ("# teaserBottomFzgModell"). on ("change", function () {
+var selected_modell = $ ("# teaserBottomFzgModell option: selected"). text ();
+fzg_teaser_modell = selected_modell;
+if (selected_modell == "All") {
+selected_modell = $ ("# teaserBottomFzgMarke option: selected"). text ();
+}
+var fzg_teaser_counter = fzg_conter [selected_modell];
+// $ ("# fzgBottomTeaserCounter"). text (fzg_teaser_counter);
+// var test = $ (". teaserFzgSubmit"). val ();
+// alert (test + "" + fzg_teaser_counter);
+//$(".teaserFzgSubmit").val("value ");
+
+
+
+                    });
+                    
+                });
+     </script>
+     <div class = "parentWidget">
+      <div class = "widgetTop">
+       <img src = "/ img / Fahrzeuguche-Icon-neu-pos.png" />
+       <form action = "? e = 7" class = "vehicle search" method = "POST">
+        <label>
+         Vehicle search
+        </label>
+        <div class = "select-wrapper">
+         <select id = "teaserFzgMarke" name = "Marke">
+          <option value = "All">
+           brand
+          </option>
+          <option>
+           KIA
+          </option>
+          <option>
+           Nissan
+          </option>
+          <option>
+           Porsche
+          </option>
+          <option>
+           SKODA
+          </option>
+          <option>
+           Toyota
+          </option>
+          <option>
+           Volkswagen
+          </option>
+         </select>
+        </div>
+        <div class = "select-wrapper">
+         <select id = "teaserFzgModell" name = "model">
+          <option disabled = "" selected = "" value = "">
+           model
+          </option>
+         </select>
+        </div>
+        <input class = "teaserFzgSubmit" type = "submit" value = "Abenden" />
+        <div style = "clear: both">
+        </div>
+       </form>
+      </div>
+     </div>
+     <! - end ->
+     <div class = "intro-text company">
+      <h2>
+      </h2>
+     </div>
+    </div>
+    <div class = "content company">
+     <div class = "inner">
+      <! - content ->
+      <div class = "headerText">
+       <div class = "" style = "background-color: # 000; color: #fff; font-weight: bold; text-align: center; padding: 10px;">
+        <span class = "o">
+         +++ CURRENT:
+        </span>
+        Take advantage of the temporary
+        <span class = "o">
+         VAT REDUCTION by 3% +++
+        </span>
+       </div>
+      </div>
+      <div class = "column1">
+       <h1>
+        Welcome to the ŠKODA dealership RÜDIGER!
+       </h1>
+       <div>
+        <div>
+         we invite you to take a look around our website. Here you can get to know all ŠKODA models, regardless of whether they are new or used. With our configurator you can configure your desired model and then book a test drive with us. If you would like to experience ŠKODA live, just come and see us. Our dedicated team will advise you competently and individually.
+         <br/>
+         <strong>
+          <br/>
+          Also take a look at our website
+          <a href="https://www.autohaus-ruediger.de/" target="_blank">
+           www.SKODA-Dresden.de
+          </a>
+          past!
+         </strong>
+        </div>
+       </div>
+      </div>
+      <! - INCLUDE-INT ->
+      <br/>
+      <div class = "tbox">
+       <! - INCLUDE-INT ->
+      </div>
+      <! - INCLUDE-INT ->
+      <! - INCLUDE-INT ->
+      <div class = "Content-intro" id = "OID6306">
+       <div class = "inner">
+        <div class = "content-intro clearfix" style = "padding-bottom: 15px; overflow: hidden;">
+         <div class = "left-content aktion_teaser_box" style = "">
+          <a href="?e=5-15#aid0">
+           <img alt = "ŠKODA Teilerabatt" src = "/ getpic.php? id = 56620 & amp; kat = 362 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96" style = "max-height;": />
+          </a>
+          <h4>
+           <a href="?e=5-15#aid0">
+            ŠKODA part discount
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-15#aid0">
+            The older, the cheaper ...
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-15#aid0">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+         <div class = "right-content aktion_teaser_box" style = "overflow: hidden;">
+          <a href="?e=5-9#aid0">
+           <img alt = "Service campaign: Already fit for winter?" src = "/ getpic.php? id = 58419 & amp; kat = 411 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96" style = "max-height: 265px;" />
+          </a>
+          <h4>
+           <a href="?e=5-9#aid0">
+            Service campaign: Already ready for winter?
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-9#aid0">
+            Make an appointment now!
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-9#aid0">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class = "content-intro clearfix" style = "padding-bottom: 15px; overflow: hidden;">
+         <div class = "left-content aktion_teaser_box" style = "overflow: hidden;">
+          <a href="?e=5-37#aid0">
+           <img alt = "The new ŠKODA OCTAVIA" src = "/ getpic.php? id = 57793 & amp; kat = 395 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96" style = "max-height ; "/>
+          </a>
+          <h4>
+           <a href="?e=5-37#aid0">
+            The new ŠKODA OCTAVIA
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-37#aid0">
+            The fourth generation of the ŠKODA bestseller ...
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-37#aid0">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+         <div class = "right-content aktion_teaser_box" style = "overflow: hidden;">
+          <a href="?e=5-35#aid0">
+           <img alt = "The ŠKODA anniversary models DRIVE 125" src = "/ getpic.php? id = 57852 & amp; kat = 394 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96": style = " 265px; "/>
+          </a>
+          <h4>
+           <a href="?e=5-35#aid0">
+            The ŠKODA anniversary models DRIVE 125
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-35#aid0">
+            SCALA, KODIAQ, KAROQ and FABIA with great price advantages ...
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-35#aid0">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class = "content-intro clearfix" style = "padding-bottom: 15px; overflow: hidden;">
+         <div class = "left-content aktion_teaser_box" style = "overflow: hidden;">
+          <a href="?e=5-45#aid0">
+           <img alt = "Electromobility at ŠKODA" src = "/ getpic.php? id = 58479 & amp; kat = 413 & amp; w = 465 & amp; h = 265 & amp; q = 95 & amp; name = aecc1f0775e3cf576874d91930d8cc96" style = "max-height: 265px; "/>
+          </a>
+          <h4>
+           <a href="?e=5-45#aid0">
+            Electromobility at ŠKODA
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-45#aid0">
+            ŠKODA iV family
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-45#aid0">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+         <div class = "right-content aktion_teaser_box" style = "overflow: hidden;">
+          <a href="?e=5-4#aid3219">
+           <img alt = "ŠKODA entrepreneur program" src = "/ globals / img / aktion / 6564990_aktion_1562321082_bild.JPG" />
+          </a>
+          <h4>
+           <a href="?e=5-4#aid3219">
+            ŠKODA entrepreneur program
+           </a>
+          </h4>
+          <p>
+           <a href="?e=5-4#aid3219">
+            As a company with your very own needs ...
+           </a>
+          </p>
+          <span>
+           <a href="?e=5-4#aid3219">
+            Learn more & gt;
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <br/>
+      <div class = "Content-intro" id = "OID7853">
+       <div class = "inner">
+       </div>
+      </div>
+      <br/>
+      <! - end of content ->
+     </div>
+    </div>
+    <! - <footer> ->
+    <div class = "footer">
+     <div class = "skoda-apps">
+      <div class = "inner">
+       <div class = "apps">
+        <h2>
+         Download ŠKODA apps
+        </h2>
+        <div class = "android-app">
+         <a href = "https://play.google.com/store/apps/developer?id=%C5%A0KODA+AUTO+a.s." target = "_ blank" title = "">
+          <img alt = "Google Play Store" src = "/ pics / Google_Play_Button_180x60Px.png" />
+         </a>
+        </div>
+        <div class = "apple-app">
+         <a href="https://itunes.apple.com/de/developer/skoda-auto-a-s/id420627878" target="_blank" title="">
+          <img alt = "Apple Play Store" src = "/ pics / App-Store_Button_180x60Px.png" />
+         </a>
+        </div>
+        <div class = "clear">
+        </div>
+       </div>
+      </div>
+     </div>
+     <! - Bubbles edition ->
+     <div class = "selection">
+      <div class = "inner">
+       <div class = "selection-box">
+        <div class = "selection-text">
+         <div class = "shadow1">
+          <img alt = "" src = "pics / icons / 80x80-Fit.png" style = "width: 40px; height: 40px;" />
+          <h5>
+           Configurator
+          </h5>
+          <p>
+           Configure your ŠKODA
+          </p>
+          <a class="more-choice" href="http://carconfig.skoda-auto.de" target="_blank">
+           Learn more
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "selection-box">
+        <div class = "selection-text">
+         <div class = "shadow1">
+          <img alt = "" src = "pics / icons / 80x80-Fit-1.png" style = "width: 40px; height: 40px;" />
+          <h5>
+           Autohaus Rüdiger GmbH
+          </h5>
+          <p>
+           Visit us in Dresden
+          </p>
+          <a class="more-choice" href="/index_haendler.php?e=2-15">
+           Learn more
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "selection-box">
+        <div class = "selection-text">
+         <div class = "shadow1">
+          <img alt = "" src = "pics / icons / 80x80-Fit-2.png" style = "width: 40px; height: 40px;" />
+          <h5>
+           Test drive
+          </h5>
+          <p>
+           Schedule an appointment
+          </p>
+          <a class="more-choice" href="/index_haendler.php?e=4-2">
+           Learn more
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <! - End of issue Bubbles ->
+     <! - vehicle search bottom ->
+     <! - vehicle search bottom ->
+     <! -
+<div class = "window">
+<div class = "close"> <img src = "/ img / close-x.svg"> </div>
+<div class = "triangle"> </div>
+<form action = "? e = 7" class = "vehicle search" method = "POST">
+<label> Vehicle search </label>
+<div class = "select-wrapper">
+<select name = "Marke" id = "teaserBottomFzgMarke"> <option value = "Alle"> Brand </option> <option> KIA </option> <option> Nissan </option> <option> Porsche </option> <option>SKODA</option><option>Toyota</option><option>Volkswagen</option> </select>
+</div>
+<div class = "select-wrapper">
+<select name = "model" id = "teaserBottomFzgModell">
+<option value = "" disabled selected> model </option>
+</select>
+</div>
+<input type = "submit" value = "Send">
+<div style = "clear: both"> </div>
+</form>
+</div>
+->
+     <! -
+<div class = "bottomParent">
+<div class = "bottomWidget">
+<div class = "display">
+<span class = "show"> <i> <img src = "/ img / Pfeil-solo.svg" class = "pfeilBottom"> </i> </span>
+<img src = "/ img / GW-Suche-Icon-1.png">
+<span class = "vehicle search"> vehicle search </span>
+</div>
+
+</div>
+</div>
+->
+     <! - vehicle search bottom end ->
+     <! - vehicle search bottom end ->
+     <div class = "footer-menu">
+      <div class = "inner">
+       <! - output address ->
+       <div class = "address">
+        <h5>
+         Autohaus Rüdiger GmbH
+        </h5>
+        <p>
+         Hamburger Strasse 35
+        </p>
+        <p>
+         01067 Dresden
+        </p>
+        <p>
+         Tel:
+         <a href="tel:+493518675310" title="CallAutohaus Rüdiger GmbH in Dresden">
+          0351-86753-10
+         </a>
+        </p>
+        <p>
+         Fax: 0351-86753-20
+        </p>
+        <div class = "more">
+         Find out more about ŠKODA
+         <i class = "fa fa-chevron-down footer">
+         </i>
+        </div>
+       </div>
+       <! - End of output address ->
+       <! - Issue Footer Navi ->
+       <ul style = "margin: 0px; padding: 0px;">
+        <li>
+         <h5>
+          Companies
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=2-15" target="_self" title="Unternehmen">
+            Companies
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-1" target="_self" title="Employee">
+            Employee
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-3" target="_self" title="opening hours">
+            opening hours
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-7" target="_self" title="Verified Seller">
+            Verified seller
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <h5>
+          Models
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=3-42" target="_self" title="Model Overview">
+            Model overview
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-43" target="_self" title="ENYAQ iV">
+            ENYAQ iV
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-20" target="_self" title="FABIA">
+            FABIA
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-19" target="_self" title="FABIA COMBI">
+            FABIA COMBI
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-38" target="_self" title="SCALA">
+            SCALA
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-39" target="_self" title="KAMIQ">
+            KAMIQ
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-41" target="_self" title="OCTAVIA NEW">
+            OCTAVIA NEW
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-40" target="_self" title="OCTAVIA COMBI NEW">
+            OCTAVIA COMBI NEW
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-23" target="_self" title="KAROQ">
+            KAROQ
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-24" target="_self" title="KODIAQ">
+            KODIAQ
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-28" target="_self" title="SUPERB">
+            SUPERB
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-30" target="_self" title="SUPERB COMBI">
+            SUPERB COMBI
+           </a>
+          </li>
+          <li>
+           <a href="?e=3-33" target="_self" title="Konfigurator">
+            Configurator
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <h5>
+          used cars
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=7" target="_self" title="Used cars">
+            search
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <h5>
+          Legal
+         </h5>
+         <ul>
+          <li>
+           <a href="?e=2-12-1" target="_self" title="Imprint">
+            imprint
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-3" target="_self" title="Data Usage">
+            use of data
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-4" target="_self" title="Cookie Policy">
+            Cookie Policy
+           </a>
+          </li>
+          <li>
+           <a href="?e=2-12-5" target="_self" title="Datenschutz">
+            data protection
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <! - End of issue Footer Navi ->
+       <div class = "clear">
+       </div>
+       <div class = "less">
+        Fewer
+        <i class = "fa fa-chevron-up footer">
+        </i>
+       </div>
+      </div>
+     </div>
+     <div class = "footer-end">
+      <div class = "inner">
+       <! - Social issue ->
+       <div style = "text-align: right; padding-right: 20px;">
+        <span style = "padding-right: 15px;">
+         <a href="https://www.facebook.com/SkodaRuediger" style="" target="_blank" title="Here it goes to Facebook">
+          <img alt = "Click here for Facebook" src = "/ img / icon / facebook_big.png" style = "border: 0px; height: 31px; width: 19px;" />
+         </a>
+        </span>
+        <span style = "padding-right: 15px;">
+         <a href="https://www.youtube.com/user/SkodaRuediger" style="" target="_blank" title="Here it goes to YouTube">
+          <img alt = "Click here for YouTube" src = "/ img / icon / youtube_big.png" style = "border: 0px; height: 31px; width: 19px;" />
+         </a>
+        </span>
+       </div>
+       <! - End of issue Social ->
+       <hr class = "headerHr" />
+       <div class = "hr-under clearfix">
+        <! - <div class = "hr-right"> <a> Cookies </a> <a> Sitemap </a> </div> ->
+        <div class = "hr-left">
+         <a>
+          © 2020 Copyright ŠKODA
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style = "width: 100%; background-color: # 000;">
+      <div class = "inner">
+      </div>
+     </div>
+     <! - </footer> ->
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

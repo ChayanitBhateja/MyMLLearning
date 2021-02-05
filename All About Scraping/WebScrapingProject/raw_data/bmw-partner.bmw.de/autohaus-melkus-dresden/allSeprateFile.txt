@@ -1,0 +1,2831 @@
+<! DOCTYPE html>
+<html class = "no-js" lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "ie = edge" http-equiv = "x-ua-compatible" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "We offer you extensive services such as new BMW cars, used cars, promotions as well as service and accessories for your BMW. Have a look!" name = "description" />
+  <meta content = "" name = "keywords" />
+  <meta content = "index, follow" name = "robots">
+   <title>
+    Autohaus Melkus GmbH: BMW vehicles, services, offers and much more.
+   </title>
+   <meta content = "" property = "og: title">
+    <meta content = "We offer you extensive services such as new BMW cars, used cars, promotions as well as service and accessories for your BMW. Have a look!" property = "og: description">
+     <script type = "text / javascript">
+      window.consentManagerSettings = window.consentManagerSettings || {};
+            window.consentManagerSettings.currentHash = "8D5B01DA77D6C8310F95D3914B7ADD0A";
+            window.consentManagerSettings.config = {
+  "optional": [
+    {
+      "operator": "bmwinteractive.de",
+      "purpose": "",
+      "domains": [
+        "bmwinteractive.de"
+      ],
+      "privacyLink": "",
+      "key": ""
+    },
+    {
+      "operator": "BMW AG",
+      "purpose": "",
+      "domains": [
+        "bmw.de",
+        "www.bmw.de",
+        "onlineservices.bmw.de"
+      ],
+      "privacyLink": "https://www.bmw.de/datenschutz",
+      "optOutLink": "https://www.bmw.de/de/footer/footer-section/cookie-policy.html",
+      "key": ""
+    },
+    {
+      "operator": "IUCP used vehicle exchange",
+      "purpose": "This data processing is carried out in order to save selected vehicle searches so that these search queries are available at a later point in time and the corresponding functions do not have to be used again by the user previous search result suggest suitable vehicles. ",
+      "domains": [
+        "sta-bps.bmw.com",
+        "bps.bmw.com"
+      ],
+      "privacyLink": "https://www.bmw.de/datenschutz",
+      "optOutLink": "https://www.bmw.de/de/footer/footer-section/cookie-policy.html",
+      "key": "",
+      "cookies": [
+        {
+          "name": "CarPark",
+          "purpose": "This cookie saves the selected vehicles for the car park for users who have not logged in to the used vehicle exchange.",
+          "scope": "Session",
+          "set_by": "BMW AG",
+          "domains": [
+            "sta-bps.bmw.com",
+            "bps.bmw.com"
+          ]
+        }, {
+          "name": "Comparison",
+          "purpose": "This cookie saves the selected vehicles for the comparison page for users who are not logged in.",
+          "scope": "Session",
+          "set_by": "BMW AG",
+          "domains": [
+            "sta-bps.bmw.com",
+            "bps.bmw.com"
+          ]
+        }, {
+          "name": "SavedSearch",
+          "purpose": "This cookie saves the selected search criteria in order to display the vehicles that match the search, as well as similar vehicles."
+          "scope": "Session",
+          "set_by": "BMW AG",
+          "domains": [
+            "sta-bps.bmw.com",
+            "bps.bmw.com"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "BMW newsletter registration from Atrivio",
+      "purpose": "",
+      "domains": [
+        "bmw-registration.atrivio.de"
+      ],
+      "privacyLink": "https://www.atrivio.de/datenschutz",
+      "key": ""
+    },
+    {
+      "operator": "BMW Group performance and statistics using Psyma",
+      "Purpose": "This data processing enables the BMW Group to collect user feedback on the quality of the website and to compare it with that of other websites.",
+      "domains": [
+        "DEALERDOMAINS"
+      ],
+      "privacyLink": "https://psyma.com/de/datenschutz/",
+      "optOutLink": "",
+      "key": "",
+      "cookies": [
+        {
+          "name": "psyma_participation",
+          "purpose": "This cookie is used to avoid double invitations to the user survey (Psyma) when visiting this website multiple times.",
+          "scope": "30 days",
+          "set_by": "BMW AG",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "Facebook",
+      "purpose": "",
+      "domains": [
+        "facebook.com",
+        "www.facebook.com",
+        "connect.facebook.net"
+      ],
+      "privacyLink": "https://www.facebook.com/privacy/explanation",
+      "key": "facebookPixel",
+      "cookies": [
+        {
+          "name": "fbq",
+          "purpose": "This cookie is used to link your page view with Facebook.",
+          "scope": "28 days",
+          "set_by": "Facebook",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_fbp",
+          "purpose": "This cookie is used to display advertising products on Facebook.",
+          "scope": "28 days",
+          "set_by": "Facebook",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "fbq",
+          "purpose": "This cookie is used to link your page view with Facebook, to display advertisements and to record the effectiveness of advertisements via different browsers and devices of the user.",
+          "scope": "28 days",
+          "set_by": "Facebook",
+          "domains": [
+            "facebook.com"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "Google Inc (Maps)",
+      "purpose": "",
+      "domains": [
+        "maps.googleapis.com",
+        "maps.google.de"
+      ],
+      "privacyLink": "https://policies.google.com/privacy",
+      "optOutLink": "",
+      "key": "googlemaps"
+    },
+    {
+      "operator": "www.onlinebewerbungsserver.de",
+      "domains": [
+        "www.onlinebewerbungsserver.de"
+      ],
+      "privacyLink": "",
+      "optOutLink": "",
+      "key": "",
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "purpose": "",
+          "scope": "Session",
+          "set_by": "Sage GmbH",
+          "domains": [
+            "www.onlinebewerbungsserver.de"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "Signalize",
+      "purpose": "Push notifications \ n \ nIf push notifications are activated by the \" Signalize \ "service for this website, a function of your Internet browser or mobile operating system will be used to provide the notifications for you. Only anonymous or pseudonymous data is transmitted for sending messages. Depending on the configuration of the website, this can be: \ n \ nPseudonymous user ID: a randomly generated value (example: 108bf9a85547edb1108bf9a85547edb1), which is stored in a tracking cookie ID \ nPseudonymous digital fingerprints, pseudonymous mobile device codes and, if applicable, pseudonymous cross-device identifiers \ n \ nThis data is only processed to deliver the notifications you have subscribed to and to make notification-related settings. We ask for your consent to save this data. Legal basis the data processing in this case is Art. 6 para. 1 lit. a GDPR. You can object to the receipt of notifications at any time via the settings of your browser or mobile device. Information about unsubscribing from push notifications can be found at https://signalize.com/docs/sonstiges/opt-out-info/.\nIn order to make the content of the push notifications meaningful for you, we use a pseudonym User profile by means of tracking pixels and, with consent, also collected by means of cookies and merge your notification ID with the user profile of the website solely for the purpose of sending personalized messages. The tracking technology is also used for the statistical analysis of notifications on our behalf. In this way it can be determined whether a notification has been delivered and whether it has been clicked. The data generated in this way is processed and stored exclusively in Germany on our behalf by etracker GmbH from Hamburg, which provides the Signalize service, and is therefore subject to strict German and European data protection laws and standards. In this regard, etracker has been independently checked, certified and is entitled to bear the data protection seal of approval ePrivacyseal. \ nThe data processing for statistical analysis of notifications and to better adapt future notifications to the interests of the recipients is based on our legitimate interest in personalized direct advertising in accordance with Art . 6 para. 1 lit. f GDPR. Since the privacy of our visitors is very important to us, the data that may allow a reference to a single person, such as the IP address, login or device IDs, are anonymized or pseudonymized as soon as possible. A direct personal reference is excluded. It will not be used for any other purpose, combined with other data or passed on to third parties. \ nYou can object to the data processing described above at any time. \ n ",
+      "domains": [
+        "signalize.com"
+      ],
+      "privacyLink": "",
+      "optOutLink": "",
+      "key": "",
+      "cookies": [
+        {
+          "name": "_et_coid",
+          "purpose": "cookie recognition",
+          "scope": "2 years",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        },
+        {
+          "name": "et_oi_v2",
+          "Purpose": "The opt-in cookie stores the visitor's decision when the tracking opt-in is played out on the customer's side. It is also used for a possible opt-out.",
+          "scope": "\" no \ "- 50 years, \" yes \ "- 480 days",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        },
+        {
+          "name": "et_oip",
+          "purpose": "OptIn-Cookie for \" signalize \ ". If the customer chooses \" no \ ", the cookie is set with the value \" no \ "and a duration of 30 days. If the customer chooses \" x \ "or press the ESC key (no decision), the cookie is set with the value \" no \ "for a period of 1 day. A value of \" yes \ "is not required, as this is implicit in the consent to actual browser push is given. ",
+          "scope": "\" no \ "- 30 days, \" no \ "(session) 1 day",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        },
+        {
+          "name": "et_allow_cookies",
+          "purpose": "When using the \" data-block-cookies \ "parameter, this cookie is set by the _etracker.enableCookies () API call to indicate that etracker may set cookies",
+          "scope": "16 months",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        },
+        {
+          "name": "BT_sdc",
+          "purpose": "Contains Base64-encoded data of the current visitor session (referrer, number of pages, number of seconds since the beginning of the session), which are used for personalization purposes.",
+          "scope": "Session",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        },
+        {
+          "name": "BT_pdc",
+          "purpose": "Contains Base64-coded data from the visitor history (is customer, newsletter recipient, etc.) for personalization.",
+          "scope": "1 year",
+          "set_by": "Signalize",
+          "domains": [
+            "signalize.com"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "Userlike UG (limited liability)",
+      "domains": [
+        "userlike.com"
+      ],
+      "privacyLink": "https://www.userlike.com/de/terms#privacy-policy",
+      "optoutLink": "",
+      "key": "userlike",
+      "cookies": [
+        {
+          "name": "BMW_USERLIKE_STATE",
+          "purpose": "This cookie is used to save the status of the Userlike widget during the session.",
+          "scope": "Session",
+          "set_by": "DEALERNAME",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "uslk_s",
+          "Purpose": "In order to ensure the functionality of the software, we store cookies in the end user's browser for the application status. They contain the persisted state, machine state, session ID and chat statistics. These cookies are saved at the end of the browser Session deleted. ",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "uslk_e",
+          "Purpose": "So that end users can be identified when they return to your website, we store cookies with user information in the end user's browser. You can specify an individual user ID, name of the end user, email address and the number of of visits. These cookies are stored for one year by default. ",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_widget_config",
+          "purpose": "Contains technical configuration details for the widget.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_widget_key",
+          "purpose": "Contains the widget key, a unique identifier of the widget in the backend.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_state",
+          "purpose": "Contains the application status (chat, offline, idle ...)",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_app_key",
+          "purpose": "Contains the app key, which is used for the use of Userlike with a third-party plugin or an application. \ n",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_app_state",
+          "purpose": "Contains the application status (chat, offline, idle ...)",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_referrer",
+          "purpose": "Contains the referrer, the website through which the user came to the current website or file.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_chat_meta_id",
+          "purpose": "Contains the chat ID, the unique identifier of the chat in the backend. \ n",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_id",
+          "purpose": "Contains the chat identifier (= ID)",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_ct",
+          "purpose": "Contains the client termination value, the number of messages sent to the messenger.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_co",
+          "purpose": "Contains the client originating value, the number of messages originating from the messenger.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_created",
+          "purpose": "Contains information on creating a slot.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_operator_binding",
+          "purpose": "Contains information about the operator assignment.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_operator_id",
+          "purpose": "Contains the unique identifier of the operator in the backend.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_operator_name",
+          "purpose": "Contains operator name.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_operator_display_name",
+          "purpose": "Contains the display name of the operator.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_operator",
+          "purpose": "Contains information about the Userlike operator.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_bootstrapped",
+          "purpose": "Contains initialization data.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_active",
+          "purpose": "Contains information about the activity status of the chat.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_page_impressions",
+          "purpose": "Counts the number of page views.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_email",
+          "purpose": "Contains the email address given by the Webvisitor.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_name",
+          "purpose": "Contains the name given by the Webvisitor. \ n",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_uuid",
+          "purpose": "Contains the unique user identifier to identify returning visitors.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_additional01",
+          "purpose": "Contains information from additional field 1",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_additional02",
+          "purpose": "Contains information from additional field 2",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_additional03",
+          "purpose": "Contains information from additional field 3",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_visits",
+          "purpose": "Contains information about the number of page visits.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_test",
+          "purpose": "Checks cookie support in the browser",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_drag",
+          "purpose": "Contains information about the positioning of the messenger window on the page.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_goal_reached",
+          "purpose": "Contains information about whether a widget Goal was achieved.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_ip",
+          "purpose": "Contains the IP address of the Webvisitor.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_longitude",
+          "purpose": "Contains the longitude of the user location when using the Geolocation Browser API.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_latitude",
+          "purpose": "Contains the latitude of the user location when using the Geolocation Browser API.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_in_service_time",
+          "purpose": "Contains the information whether the widget was called within the service hours.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_chatbutler_start_time",
+          "purpose": "Contains the time at which a chat with Chat Butler was started.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_chatbutler_dialog",
+          "purpose": "Contains the dialog sequence from the configuration of the Chat Butler.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_chatbutler_topic",
+          "purpose": "Contains the topic specified by Webvisitor for a chat with the chat butler.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_chatbutler_extra_info",
+          "purpose": "Contains additional information given by the webvisitor in the chat butler.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_was_proactive",
+          "purpose": "Contains the information whether the chat was started via the proactive mode.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_initial_url",
+          "purpose": "Contains the URL on which the chat connection was initiated.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_locale",
+          "purpose": "Contains the \" session locale \ ", the set of settings that defines the locale parameters (location parameters).",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_debug",
+          "purpose": "Contains the information about whether the chat widget is in debug mode or not.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_inject",
+          "purpose": "Contains configuration information about the widget.",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "_uslk_locale",
+          "purpose": "Contains the \" session locale \ ", the set of settings that defines the locale parameters (location parameters).",
+          "scope": "Session",
+          "set_by": "Userlike UG (limited liability)",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        }
+      ]
+    },
+    {
+      "operator": "Vimeo",
+      "purpose": "",
+      "domains": [
+        "vimeo.com",
+        "www.vimeo.com"
+      ],
+      "privacyLink": "https://vimeo.com/privacy",
+      "key": ""
+    },
+    {
+      "operator": "Google Ireland Ltd. / Youtube",
+      "purpose": "This data processing is carried out by YouTube to ensure the functionality of the player.",
+      "domains": [
+        "www.youtube.com",
+        "youtube.de",
+        "www.youtube.de",
+        "youtube.com"
+      ],
+      "privacyLink": "https://policies.google.com/privacy",
+      "optOutLink": "https://www.google.com/settings/ads",
+      "key": "youtube",
+      "cookies": [
+        {
+          "name": "yt-player-two-stage-token",
+          "purpose": "This local storage element saves the settings of the user if a YouTube video has been embedded.",
+          "scope": "never",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-device-id",
+          "purpose": "This local storage element is set by the YouTube channel plug-in to save user settings.",
+          "scope": "never",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-connected-devices",
+          "purpose": "This local storage element saves the settings of the user if a YouTube video has been embedded.",
+          "scope": "never",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-session-app",
+          "purpose": "This cookie saves the user's settings when a YouTube video has been embedded.",
+          "scope": "Session",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-session-name",
+          "purpose": "This cookie saves the user's settings when a YouTube video has been embedded.",
+          "scope": "Session",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-fast-check-period",
+          "purpose": "This cookie saves the user's settings when a YouTube video has been embedded.",
+          "scope": "Session",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-cast-installed",
+          "purpose": "This cookie saves the user's settings when a YouTube video has been embedded.",
+          "scope": "Session",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt-remote-cast-available",
+          "purpose": "This HTML storage key controls the behavior of the integrated YouTube video player.",
+          "scope": "Session",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt.innertube :: nextId",
+          "purpose": "This local storage element saves the settings of the user if YouTube video has been embedded.",
+          "scope": "never",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "yt.innertube :: requests",
+          "purpose": "This local storage element saves the settings of the user if YouTube video has been embedded.",
+          "scope": "never",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "VISITOR_INFO1_LIVE",
+          "purpose": "This cookie is used by YouTube to measure the bandwidth of the user. Based on this data, either the old or the new player interface is played.",
+          "scope": "6 months",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }, {
+          "name": "PREF",
+          "purpose": "This cookie can be set by Google or Doubleclick and used by advertising partners to create interest profiles so that relevant advertising is displayed on other pages. Based on the unique identification of browser and device.",
+          "scope": "8 months",
+          "set_by": "Google Ireland Ltd.",
+          "domains": [
+            "www.youtube.com",
+            "youtube.de",
+            "www.youtube.de",
+            "youtube.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "required": [
+    {
+      "operator": "DEALERNAME",
+      "domains": [
+        "DEALERDOMAINS"
+      ],
+      "key": "",
+      "cookies": [
+        {
+          "name": "cookiesAllowed",
+          "Purpose": "This cookie is used to record whether a user has consented to the use of the various categories of cookies on the website. The cookie is permanent. However, it is deleted when the user changes his cookie settings.",
+          "scope": "2 years",
+          "set_by": "DEALERNAME",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "JSESSIONID",
+          "Purpose": "This session cookie indicates that an anonymous user is currently actively using the website; it also counts how many anonymous users are visiting the website at the time. This cookie is deleted as soon as you close your browser . ",
+          "scope": "Session",
+          "set_by": "DEALERNAME",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "SMSESSION",
+          "Purpose": "This session cookie provides the user with an anonymized ID while he is surfing the website so that the web server can react to user actions (e.g. by providing personalized information)." ,
+          "scope": "Session",
+          "set_by": "DEALERNAME",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        },
+        {
+          "name": "UqZBPD3n",
+          "purpose": "This cookie is set by the LoadBalancer. This distributes the traffic to the server and notes in the cookie to which the server was routed. The cookie is deleted when the session is ended.",
+          "scope": "Session",
+          "set_by": "DEALERNAME",
+          "domains": [
+            "DEALERDOMAINS"
+          ]
+        }
+      ]
+    }
+  ],
+  "requiredOTV": [
+    {
+      "operator": "soft-nrg - online appointment scheduling",
+      "domains": [
+        "plan.soft-nrg.com"
+      ],
+      "key": "",
+      "cookies": [
+        {
+          "name": "BDCID",
+          "purpose": "Is used by the web server as a session identifier.",
+          "scope": "7 days",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "ETCH_ND",
+          "purpose": "Used by the web server to identify the application making the requirements.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "ETCH_NM",
+          "purpose": "Used by the web server to identify the application making the requirements.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "XSRF-TOKEN-ND",
+          "purpose": "Anti-CSRF tokens to prevent Cross Site Request Forgery (CSRF) attacks.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "XSRF-TOKEN-NM",
+          "purpose": "Anti-CSRF tokens to prevent Cross Site Request Forgery (CSRF) attacks.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "TKN_ND",
+          "purpose": "Used in the authentication process to determine whether a visitor is really who he claims to be.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "TKN_NM",
+          "purpose": "Used in the authentication process to determine whether a visitor is really who he claims to be.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        },
+        {
+          "name": "STL or STL_ND",
+          "purpose": "Enables the website to lead the user into a workflow process that is requested by the user himself (e.g. forgotten password, express login. etc.",
+          "scope": "Session",
+          "set_by": "soft-nrg development GmbH",
+          "domains": [
+            "plan.soft-nrg.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
+;
+            window.consentManagerSettings.siteName = "bmw-melkus.de";
+            window.consentManagerSettings.siteAliases = [
+
+                "bmw-melkus.de",
+
+                "www.bmw-melkus.de",
+
+            ];
+            window.consentManagerSettings.additionalDomains = [
+
+                "bmw-registration.atrivio.net",
+
+            ];
+     </script>
+     <script src = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / js / cookie_controller.js? 1598363541000" type = "text / javascript">
+     </script>
+     <link href = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / css / style.css? 1598363538000" rel = "stylesheet" type = "text / css" />
+     <script src = "// assets.adobedtm.com/7e530431ebc6040a493335ce44e66648adfeab7a/satelliteLib-0f0d1f17a17feb4a342b609d4cfae37945cbfa70.js">
+     </script>
+     <script type = "text / javascript">
+      var digitalData = digitalData || {page: {attributes: {dealerName: {}}}};
+        digitalData.page.attributes.dealerName = "bmw-melkus.de";
+     </script>
+     <! - [if! allCookiesAllowed and! acceptedServices contains ', adobedtm,'] ->
+     <script type = "text / javascript">
+      _satellite.track ('opt-out');
+     </script>
+     <! - [endif] ->
+     <! - [if allCookiesAllowed or acceptedServices contains ', adobedtm,']
+    <script type = "text / javascript">
+        _satellite.track ('opt-in');
+    </script>
+    [endif] ->
+     <style>
+      .isEditMode #LayerArea {
+            min-height: 100px;
+            margin-top: 50px;
+        }
+     </style>
+     <script language = "javascript">
+      window ['bmw.dealer.googleMaps.key'] = "AIzaSyDzKdnSK0a71VaoehTTO3QwIBKVxyCJM08";
+        window.digitalData = window.digitalData || {};
+        window.digitalData.userlike = {
+            autoOpen: true,
+            autoOpenSeconds: 25,
+            showWithoutOperators: false,
+        };
+     </script>
+     <style type = "text / css">
+      body.path - de-cookies: not (.isEditMode) #contentcontainer .bmw_normal {
+display: none;
+        }
+        body.path - de-cookies.isEditMode #contentcontainer .bmw_normal {
+            background-color: rgba (255,0,0, .5);
+        }
+     </style>
+     <! - headincludes begin ->
+     <! - headincludes end ->
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class = "path - de-home" data-hyphenator-path = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / js / hyphenator / Hyphenator.js">
+  <div class = "main remodal-bg">
+   <div id = "LayerArea">
+    <div class = "row page-padding cookielayer height-only-0">
+     <div class = "row bmw-padding-1-top">
+      <div class = "large-9 small-12 columns bmw-padding-1-bottom">
+       <h5 class = "bmw-font-hl-m hyphenate bmw-padding-2-bottom">
+        Cookies on this website
+       </h5>
+       <div class = "bmw-body-copy-xs wysiwyg hyphenate bmw-padding-1-bottom">
+        This website uses cookies and external content to collect information about the use of the website by visitors.
+These cookies and external content help us to offer you the best possible online experience, to constantly improve our website and to offer you offers
+to submit that are tailored to your interests. By clicking the "Agree" button, you consent to the use of all cookies and
+I agree to external content. For more information about the use of cookies and external content, or to change your settings
+please click on "More about the use and rejection of cookies and external content".
+       </div>
+       <a class="arrow-link" href="/de/cookies/index.html" target="_self">
+        More about the use and rejection of cookies and external content
+       </a>
+      </div>
+      <div class = "large-3 medium-6 small-12 columns end bmw-padding-1-bottom">
+       <a class="button primary closeCookieLayer" href="#">
+        Agree
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <header class = "bmw-header">
+    <div class = "bmw-header-bg">
+     <div class = "row page-padding">
+      <div class = "column-nav">
+       <div class = "top-nav-container" id = "topnavicontainer">
+        <div>
+         <a class="menu-icon js-open-mobile-menu bmw-font-hl-s no-scroll" data-mobile-menu-target="#mainMenu" href="#mainMenu">
+          Menu
+         </a>
+         <a class="title bmw-font-hl-l" href="/">
+          <div class = "bmw-dealer-logo">
+           <img alt = "Dealer Logo" class = "logo-on-hollow" src = "/ export / sites / bmw-melkus.de / LOGO_Melkus_weiss_transparent.png" />
+           <img alt = "Dealer Logo Black" class = "logo-on-filled" src = "/ export / sites / bmw-melkus.de / LOGO_Melkus_blau_transparent.png" />
+          </div>
+          Autohaus Melkus GmbH
+         </a>
+        </div>
+       </div>
+       <div class = "bmw-main-menu-wrapper">
+        <ul class = "bmw-main-menu bmw-top-level-menu js-main-menu clearfix" data-menu-state = "open" id = "mainMenu">
+         <li>
+          <div class = "search-mobile">
+           <label>
+            <input aria-describedby = "" class = "search small-12" name = "search" pattern = "" placeholder = "search" type = "text" />
+            <span class = "form-error">
+            </span>
+           </label>
+          </div>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/actions/">
+           Actions
+          </a>
+         </li>
+         <li class = "has-submenu">
+          <a class="bmw-font-hl-s no-scroll js-second-level-menu-trigger" href="#902382dd-820a-4a7b-8f42-8c2ffe87aae0">
+           New car
+          </a>
+         </li>
+         <li class = "has-submenu">
+          <a class="bmw-font-hl-s no-scroll js-second-level-menu-trigger" href="#dbe1466f-e13b-41fc-9587-635e71e485bb">
+           used cars
+          </a>
+         </li>
+         <li class = "has-submenu">
+          <a class="bmw-font-hl-s no-scroll js-second-level-menu-trigger" href="#fe0241e2-ee64-407b-8c53-2dbebed73930">
+           Service & amp; equipment
+          </a>
+         </li>
+         <li class = "has-submenu">
+          <a class="bmw-font-hl-s no-scroll js-second-level-menu-trigger" href="#05b6faf4-2123-4d6f-b57d-386ae12340ee">
+           about us
+          </a>
+         </li>
+         <li>
+          <button class = "search-button" data-search-path = "/ de / search /">
+           <span class = "icon header-icon search">
+            search
+           </span>
+          </button>
+         </li>
+        </ul>
+       </div>
+       <div class = "search-desktop search-wrapper" id = "desktop-search-wrapper">
+        <label>
+         <input aria-describedby = "" class = "search small-12 medium-8" name = "search" pattern = "" placeholder = "search" type = "text" />
+         <span class = "form-error">
+         </span>
+        </label>
+       </div>
+       <div class = "bmw-claim">
+        <img alt = "BMW Claim" src = "/ system / modules / de.bmw.opencms.stagetwo / resources / images / logos / bmw_claim_freude-am-fahren_white.svg? 1598363539000" />
+       </div>
+      </div>
+      <div class = "column-logo">
+       <a class="bmw-identity-module" href="/">
+        <div class = "logo-wrapper">
+         <img alt = "BMW Logo" class = "logo-on-filled" src = "/ system / modules / de.bmw.opencms.stagetwo / resources / images / logos / BMW_Grey-Colour_RGB.svg? 1586354959000" />
+         <img alt = "BMW Logo" class = "logo-on-hollow" src = "/ system / modules / de.bmw.opencms.stagetwo / resources / images / logos / BMW_White-Colour_RGB.svg? 1586354945000" />
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class = "bmw-sub-menu-wrapper">
+     <div class = "row page-padding">
+      <div class = "row">
+       <div class = "column hide-for-sm-large bmw-top-level-menu-clone">
+       </div>
+       <div class = "sm-large-4 column">
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "107a3b5a-143c-4d16-b8d5-d86b29638550">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#107a3b5a-143c-4d16-b8d5-d86b29638550">
+           <span>
+            Actions
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "902382dd-820a-4a7b-8f42-8c2ffe87aae0">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#902382dd-820a-4a7b-8f42-8c2ffe87aae0">
+           <span>
+            New car
+           </span>
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/uebersicht/">
+           Overview
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/neuwagenboerse/">
+           New car exchange
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/modell-find/">
+           Find model
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/bmw-i/">
+           BMW i
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/geschaefts-sonderkunden/">
+           Business & amp; Special customers
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/finanzierung-versicherung/">
+           Finance & amp; Assure
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/neuwagen/inangebotenahme/">
+           Trade-in
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "dbe1466f-e13b-41fc-9587-635e71e485bb">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#dbe1466f-e13b-41fc-9587-635e71e485bb">
+           <span>
+            used cars
+           </span>
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/usedwagen/uebersicht/">
+           Overview
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/usedwagen/usedwagenboerse/">
+           Used car exchange
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/used-wagen/bmw-premium-selection/">
+           BMW Premium Selection
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/used-wagen/garantien/">
+           Guarantees
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/used-wagen/finanzierung-versicherung/">
+           Finance & amp; Assure
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/used-car/in-payment/">
+           Trade-in
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/used-wagen/freier-ankauf/">
+           Free purchase
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "fe0241e2-ee64-407b-8c53-2dbebed73930">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#fe0241e2-ee64-407b-8c53-2dbebed73930">
+           <span>
+            Service & amp; equipment
+           </span>
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/uebersicht/">
+           Overview
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/onlineterminverordnung/">
+           Online appointment arrangement
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/service-reparatur/">
+           Service & amp; repair
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/original-bmw-teile-zubehoer/">
+           Original BMW Parts & amp; equipment
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/bmw-lifestyle/">
+           BMW Lifestyle
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/service-zubehoer/Rad-und-Reifentermin/">
+           Bike and tire appointment
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "05b6faf4-2123-4d6f-b57d-386ae12340ee">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#05b6faf4-2123-4d6f-b57d-386ae12340ee">
+           <span>
+            about us
+           </span>
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/ueber-uns/standorte-team/">
+           Locations & amp; team
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/ueber-uns/news-events/">
+           News & amp; Events
+          </a>
+         </li>
+         <li class = "">
+          <a class="bmw-font-hl-s no-scroll" href="/de/ueber-uns/karriere/">
+           Career
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu secondLevel" data-menu-state = "closed" data-parent-menu = "# mainMenu" id = "37b68415-a12a-4d07-9fc8-288846eec70e">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#37b68415-a12a-4d07-9fc8-288846eec70e">
+           <span>
+            search
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class = "sm-large-8 column">
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "82e6b91d-a5c3-4689-a33d- 59865aed232b ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Overview
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "ce6bfa14-f51a-45e4-b26c- 2622818b199a ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            New car exchange
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "f4b6d743-f2b4-427e-9b5f- 80c1da6ea238 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Find model
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "13394121-e609-4d54-8f30- 31e2b0b27219 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            BMW i
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "1bbe0e6d-16c4-4113-a795- 181479151dfa ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Business & amp; Special customers
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "3c4184c3-c5d1-417b-8fd4- 7a4afc659fce ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Finance & amp; Assure
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 902382dd-820a-4a7b-8f42-8c2ffe87aae0" id = "ac9fa40a-58da-4bfe-b7a3- 1e32fa6ae4b5 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Trade-in
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "04f1b091-510f-436e-ae0b- 60a0425230f3 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Overview
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "cfccf9aa-738c-4d09-a5f4- 20e414a624cd ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Used car exchange
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "498a24ea-94f0-49a1-be24- 827ce0792493 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            BMW Premium Selection
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "848a053d-4fc7-48dc-9508- f9e591de203e ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Guarantees
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "26a0d4dd-0e75-4aca-92d6- 45c979174bed ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Finance & amp; Assure
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "71d72501-9a14-4abd-b317- 0b4ff065d10e ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Trade-in
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# dbe1466f-e13b-41fc-9587-635e71e485bb" id = "219dacc7-d5fe-4167-af7e- 6c90f57235c7 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Free purchase
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "253a0b48-553a-4302-9f8d- ace1b67f6ae7 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Overview
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "7a56e5d0-63c6-4fe1-89ad- 04f247015553 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Online appointment arrangement
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "49ed24d7-f581-46f8-9e52- e6efce0e746b ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Service & amp; repair
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "1177c517-660e-439a-b242- f18e88dec924 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Original BMW Parts & amp; equipment
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "d3c77c9f-5636-4202-8313- 08a08f431723 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            BMW Lifestyle
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# fe0241e2-ee64-407b-8c53-2dbebed73930" id = "1d10e04d-46f9-4c0d-b2cf- 44bfba1cfff5 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Bike and tire appointment
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 05b6faf4-2123-4d6f-b57d-386ae12340ee" id = "5db19fd4-d47d-4955-a0da- 3d726a46619a ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Locations & amp; team
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 05b6faf4-2123-4d6f-b57d-386ae12340ee" id = "67cfe23c-2d6a-4b16-a122- 6a5fe154bf6e ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            News & amp; Events
+           </span>
+          </a>
+         </li>
+        </ul>
+        <ul class = "bmw-sub-menu thirdLevel" data-menu-state = "closed" data-parent-menu = "# 05b6faf4-2123-4d6f-b57d-386ae12340ee" id = "903ec458-7f73-4846-9ab3- 2c730255bde8 ">
+         <li class = "menu-header hide-for-sm-large">
+          <a class="js-parent-menu-trigger bmw-font-hl-s no-scroll" href="#">
+           <span>
+            Career
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <button class = "button wraped close-menu js-close-menu">
+        <span class = "icon header-icon close">
+         close
+        </span>
+       </button>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main style = "min-height: 10px;">
+    <div id = "contactcontainer">
+     <div>
+     </div>
+    </div>
+    <div id = "headercontainer">
+    </div>
+    <div id = "headercontainerslider">
+     <div class = "slick-slider bmw-padding-6-bottom bmw-component bmw-full-width-container">
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "4f6be63b-d46b-11e7-8818-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / home / home-teaser / Neue_Nav_Flaggen.jpg_1357613043.jpg, small], [/ export / shared / Images / home / home- teaser / Neue_Nav_Flaggen.jpg_1535604017.jpg, medium], [/export/shared/Images/home/home-teaser/Neue_Nav_Flaggen.jpg_135530156.jpg, large] "src =" / export / shared / Images / home / home-teaser / Neue_Nav_Flaggen.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page black">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            Welcome to your Autohaus Melkus GmbH.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            Your partner for sheer driving pleasure.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/en/about-us/locations-team/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "54568278-1daf-11eb-a5f3-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / home / 2020_JGA_Herbst / 2020_bmw_genau-right-jga-kampagne-1680x756px.jpg_1357613043.jpg, small], [/ export / shared / Images / home / 2020_JGA_Herbst / 2020_bmw_genau-right-jga-kampagne-1680x756px.jpg_1535604017.jpg, medium], [/export/shared/Images/home/2020_JGA_Herbst/2020_bmw_genau-richtig-jga-kampagne5-1630156.px ] "src =" / export / shared / Images / home / 2020_JGA_Herbst / 2020_bmw_genau-proper-jga-kampagne-1680x756px.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            EXACTLY RIGHT AND AVAILABLE IMMEDIATELY.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            FIND THE RIGHT BOY USED WITH US.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/gebrauchtwagen/gebrauchtwagenboerse/?bookmark=aHR0cHM6Ly9icHMuYm13LmNvbS9ERS9kZV9ERS8wMzgxMy1kZy9zZWFyY2g/cT0lM0FyZWxldmFuY2UlM0ElM0FjcmVhdGlvbkRhdGVTb3J0LWRlc2MlM0Fjb25kaXRpb24tcHJldmlvdXNVc2FnZSUzQUp1bmdlciUyQkdlYnJhdWNodGVyJnNlYXJjaElkPQ==" target="_self">
+            Find vehicle
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "f6df745b-f2a0-11ea-aabf-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020_bmw-2er-gran-coupe-m-automobil / BMW_2er_Gran_Coupe_MSport_Stageteaser_bmw.de_1680x756.jpg_1357613043.jpg, small], [/ export / shared / Images / aktionen / 2020_bmw-2er-gran-coupe-m-automobil / BMW_2er_Gran_Coupe_MSport_Stageteaser_bmw.de_1680x756.jpg_1535604017.jpg, medium], [/ export / shared / Images / aktionen / 2020_bmw-2er-gran-coupe-m -automobil / BMW_2er_Gran_Coupe_MSport_Stageteaser_bmw.de_1680x756.jpg_135530156.jpg, large] "src =" / export / shared / Images / aktionen / 2020_bmw-2er-gran-coupe-m-automobil. / BMW_2er_Gran_m156
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            THE 2
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            THE BMW 2 SERIES GRAN COUPÉ. ALSO AS MODEL M SPORT *
+            <br/>
+            ON ATTRACTIVE CONDITIONS.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/action/all-action/2020-das-bmw-2er-gran-coupe-mit-m-sportpaket/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-padding-2-top bmw-padding-4-top-large bmw-component">
+        <div class = "row">
+         <div class = "small-12 end columns">
+          <div class = "wysiwyg small-12">
+           <p>
+            * Optionally available.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "ce7f73bf-fc00-11ea-9c44-005056b914d9">
+       <Img alt = "" class = "" data-interchange = "[/ export / shared / Images / actions / 2020_bmw_4er_vkf / 2020_4er_vkf_BMW_4er_Coupe_430i_Stageteaser_1680x756.jpg_1357613043.jpg, small], [/ export / shared / Images / actions / 2020_bmw_4er_vkf / 2020_4er_vkf_BMW_4er_Coupe_430i_Stageteaser_1680x756. jpg_1535604017.jpg, medium], [/export/shared/Images/aktionen/2020_bmw_4er_vkf/2020_4er_vkf_BMW_4er_Coupe_430i_Stageteaser_1680x756.jpg_135530156.jpg, large] "src =" / export / shared / Images / actions / 2020_bmw_4er_vkf / 2020_4er_vkf_BMW_4er_Coupe_430i_Stageteaser_1680x756.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            The 4
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            THE NEW BMW 4 SERIES COUPÉ. NOW WITH US.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/das-neue-bmw-4er-coupe/" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "aed56ccc-dc9d-11ea-b015-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020-bmw-service-5 / bmw-5-plus-stage-teaser-1680x756px.jpg_1357613043.jpg, small ], [/export/shared/Images/aktion/2020-bmw-service-5/bmw-5-plus-stage-teaser-1680x756px.jpg_1535604017.jpg, medium], [/ export / shared / Images / aktionen / 2020 -bmw-service-5 / bmw-5-plus-stage-teaser-1680x756px.jpg_135530156.jpg, large] "src =" / export / shared / Images / aktionen / 2020-bmw-service-5 / bmw-5- plus-stage-teaser-1680x756px.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            BEST SERVICE, 20%
+            <sup>
+             17th
+            </sup>
+            CHEAPER.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            BMW SERVICE 5+.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/2020-bmw-service-5/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-padding-2-top bmw-padding-4-top-large bmw-component">
+        <div class = "row">
+         <div class = "small-12 end columns">
+          <div class = "wysiwyg small-12">
+           <p>
+            <sup>
+             17th
+            </sup>
+            At least 20% discount on selected services on the recommended retail price for Original BMW parts and brake fluid as well as on the respective labor value. Applies to selected BMW models and only at participating dealers.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "c6f3ea5b-d001-11ea-a078-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020_my_bmw_app / bmw-connected-app-buehne-1680x756px.jpg_1357613043.jpg, small], [/ export / shared / Images / aktionen / 2020_my_bmw_app / bmw-connected-app-buehne-1680x756px.jpg_1535604017.jpg, medium], [/export/shared/Images/angebote/2020_my_bmw_app/bmw-connected-app-buehne-1680x756px.jpg_135530. Large156.jpg, large156.jpg_135530 ] "src =" / export / shared / Images / aktionen / 2020_my_bmw_app / bmw-connected-app-stage-1680x756px.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            <br/>
+            MY MOST IMPORTANT TO-DO:
+            <br/>
+            LESS TO-DOS.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            Simplify your everyday life -
+            <br/>
+            With BMW Teleservices
+            <sup>
+             20th
+            </sup>
+            and the My BMW app
+            <sup>
+             21st
+            </sup>
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/2020-my-bmw-app/" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "82087356-638a-11ea-9257-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020_Elektromobilitaetstag / bmw_breitentag_elektromobilitaet_stage_1680x756px.jpg_1357613043.jpg, small], [/ export / shared / Images / aktionen / 2020_Elekttag75_bobiletagionen / 2020_Elektromobil. jpg_1535604017.jpg, medium], [/export/shared/Images/aktion/2020_Elektromobilitaetstag/bmw_breitentag_elektromobilitaet_stage_1680x756px.jpg_135530156.jpg, large] "src =" / export / shared / Images / Actions / 2020_Ereitag
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            EXPERIENCE WHAT ELECTRIFIES.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            Find out more about BMW electromobility from us.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/2020-der-bmw-elektromobilitaetstag/" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "22e15c7e-638b-11ea-9257-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020_bmw_neue_umweltpraemie / 2020-bmw-new-bmw-environment-bonus-new-environment-bonus-1680x756px.jpg_1357613043.jpg, small] [/export/shared/Images/aktion/2020_bmw_neue_umweltpraemie/2020-bmw-neue-bmw-umweltpraemie-neuer-umweltbonus-1680x756px.jpg_1535604017.jpg, medium], [/ export / shared / Images / aktionen / 2020_bmw_praemwie -neue-bmw-environment-award-new-environment-bonus-1680x756px.jpg_135530156.jpg, large] "src =" / export / shared / Images / aktionen / 2020_bmw_neue_umweltpraemie / 2020-bmw-new-bmw-environment-award-1680xpx-new-environment-bonus756px. jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            THE NEW BMW ENVIRONMENTAL AWARD.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            WITH THE NEW BMW ENVIRONMENTAL AWARD
+            <sup>
+             12
+            </sup>
+            AND THE ENVIRONMENTAL BONUS
+            <sup>
+             13
+            </sup>
+            SECURE A TOTAL ADVANTAGE OF UP TO EUR 9,000.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/action/all-action/2020-new-bmw-umweltpraemie-und-umweltbonus/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "1fba90d2-1dfa-11e8-b37f-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / aktionen / bmw-startklar-fur-alles / bmw-startklar-fuer-alles-stage_3360x1512 .jpg_1357613043.jpg, small], [/export/sites/bmw-melkus.de/assets/images/aktion/bmw-startklar-fur-alles/bmw-startklar-fuer-alles-stage_3360x1512.jpg_1535604017.jpg, medium] , [/export/sites/bmw-melkus.de/assets/images/aktion/bmw-startklar-fur-alles/bmw-startklar-fuer-alles-stage_3360x1512.jpg_135530156.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / aktionen / bmw-startklar-fur-alles / bmw-startklar-fuer-alles-stage_3360x1512.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            READY TO GO FOR EVERYTHING.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            The new BMW 2 Series Active and Gran Tourer.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/bmw-startklar-fuer-alles/index.html#" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "8d7227af-3293-11e8-aa67-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / aktionen / bmw-vom-motorsport-auf-die-strasse / roc-bmw-vom -motorsport-auf-die-strasse-3360x1512.jpg_1357613043.jpg, small], [/export/sites/bmw-melkus.de/assets/images/aktion/bmw-vom-motorsport-auf-die-strasse/roc- bmw-vom-motorsport-auf-die-strasse-3360x1512.jpg_1535604017.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/aktion/bmw-vom-motorsport-auf-die-strasse /roc-bmw-vom-motorsport-auf-die-strasse-3360x1512.jpg_135530156.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / aktionen / bmw-vom-motorsport- auf-die-strasse / roc-bmw-vom-motorsport-auf-die-strasse-3360x1512.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            FROM MOTORSPORT TO THE ROAD.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            BMW M Performance Parts.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/aktion/alle-aktion/bmw-vom-motorsport-auf-die-strasse/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "5a80d416-d4a7-11e9-9b1b-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / aktionen / 2019-bmw-jga-bps / 2019-JGA-Teaser-bmw-jga -2019-stage-bps-badge-1680x756px.jpg_1357613043.jpg, small], [/export/sites/bmw-melkus.de/assets/images/aktion/2019-bmw-jga-bps/2019-JGA-Teaser- bmw-jga-2019-stage-bps-badge-1680x756px.jpg_1535604017.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/aktion/2019-bmw-jga-bps/2019-JGA -Teaser-bmw-jga-2019-stage-bps-badge-1680x756px.jpg_135530156.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / aktionen / 2019-bmw-jga- bps / 2019-JGA-Teaser-bmw-jga-2019-stage-bps-badge-1680x756px.jpg_1535604017.jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            SEARCH. CLICK. DRIVE.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            THE LARGE ONLINE SELECTION OF OUR YOUNG USED BY BMW
+            <br/>
+            LEAD OR BUY AT ATTRACTIVE CONDITIONS.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/gebrauchtwagen/gebrauchtwagenboerse/?bookmark=aHR0cHM6Ly9icHMuYm13LmNvbS9ERS9kZV9ERS8wMzgxMy1kZy9zZWFyY2g/cT0lM0FyZWxldmFuY2UlM0Fjb25kaXRpb24tcHJlbWl1bVNlbGVjdGlvbiUzQXRydWUlM0Fjb25kaXRpb24tcHJldmlvdXNVc2FnZSUzQUp1bmdlciUyQkdlYnJhdWNodGVyJnNlYXJjaElkPQ==" target="_self">
+            Seek now
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "acf8d758-a9f9-11e8-b813-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / bmw-onlineterminvereinschrift / roc-otv-2018-bmw-onlineterminvereinschrift -stage-1680x756.jpg_1357613043.jpg, small], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/bmw-onlineterminvereinigung/roc-otv-2018-bmw-onlineterminvereinigung-stage- 1680x756.jpg_1535604017.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/bmw-onlineterminvereinigung/roc-otv-2018-bmw-onlineterminvereinigung-stage-1680x756.jpg_135530156 .jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / bmw-onlineterminvereinigung / roc-otv-2018-bmw-onlineterminvereinigung-stage-1680x756.jpg_1535604017. jpg "/>
+       <div class = "bmw-large-teaser-content large-teaser-content-page white">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            "GOOD SERVICE STARTS ONLINE."
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            FAST, EASY, ANYTIME. BMW ONLINE APPOINTMENT.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/service-zubehoer/onlineterminverordnung/" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+      <div class = "viewport-animate bmw-large-teaser bmw_normal bmw-full-width-container" id = "9579052b-2183-11ea-a0af-005056b914d9">
+       <img alt = "" class = "" data-interchange = "[/ export / shared / Images / aktionen / 2020_BMW_Service_jahresstart_Bild_Austausch_Sommer_Motiv / bmw-service-repair-year-start-summer-motif-1680x756px.jpg_1357613043.jpg, small], [/ export / shared / Images / aktionen / 2020_BMW_Service_jahresstart_Bild_Austausch_Sommer_Motiv / bmw-service-repair-Jahresstart-sommer-motiv-1680x756px.jpg_1535604017.jpg, medium], [/ export / shared / Images / aktionen / 2020_BMW-shared / Images / aktionen / 2020_BMW-service_Service_Year -sommer-motiv-1680x756px.jpg_135530156.jpg, large] "src =" / export / shared / Images / aktionen / 2020_BMW_Service_jahresstart_Bild_Austausch_Sommer_Motiv / bmw-service-repair-Jahresstart-sommer-motiv-1680x756
+       <div class = "bmw-large-teaser-content large-teaser-content-page black">
+        <div class = "row page-padding bmw-padding-4-top bmw-padding-3-top-large">
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns bmw_normal">
+           <h2 class = "bmw-font-hl-versal-xxl bmw-padding-6-right-large hyphenate">
+            ENJOY WORRY-FREE DRIVING PLEASURE.
+           </h2>
+          </div>
+         </div>
+         <div class = "row bmw-padding-1-bottom">
+          <div class = "small-12 columns">
+           <h3 class = "bmw-font-hl-l bmw-padding-6-right">
+            THE BMW SERVICE PACKAGES AT A COMPLETE PRICE.
+           </h3>
+          </div>
+         </div>
+         <div class = "row bmw-padding-2-3rd-bottom">
+          <div class = "small-12 medium-6 large-3 columns end">
+           <a class="button primary" href="/de/service-zubehoer/service-reparatur/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row page-padding bmw-component">
+        <div class = "row">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id = "contentcontainer">
+     <div class = "bmw_normal row page-padding bmw-margin-2-bottom viewport-animate" id = "67d34e79-d46b-11e7-8818-005056b914d9">
+      <div>
+      </div>
+      <div class = "row">
+       <div class = "small-12 columns end">
+        <div>
+         <h2 class = "hyphenate">
+          Current actions.
+         </h2>
+         <h4 class = "hyphenate">
+         </h4>
+        </div>
+        <div class = "wysiwyg bmw-component small-12">
+        </div>
+       </div>
+      </div>
+      <div class = "row">
+      </div>
+      <div class = "row">
+      </div>
+     </div>
+     <div class = "row bmw-margin-6-bottom bmw-component" id = "4e8a8506-49c0-11e9-a6f4-005056b914d9">
+      <div class = "viewport-animate bmw-page-padding">
+       <! - tabs ->
+       <div>
+        <div data-equalizer = "">
+         <ul class = "row tabs hide-for-small-only" data-deep-link = "true" data-deep-link-smudge = "true" data-deep-link-smudge-delay = "500" data- tabs = "" data-tabs-mobile-drop = "" data-update-history = "true" id = "example-tabs">
+          <li class = "bmw-margin-1-bottom tabs-title is-active medium-4 large-2 columns end" data-equalizer-watch = "">
+           <a aria-selected="true" class="bmw-font-old-hl-s hyphenate" href="#accordion-tab_1d699er67">
+            All actions
+           </a>
+          </li>
+         </ul>
+        </div>
+        <! - dropdown ->
+        <div class = "hide-for-medium bmw-margin-1-bottom">
+         <! - dropdown ->
+         <div class = "bmw-dropdown">
+          <a class="secondary js-tab-to-drop hollow button" data-toggle="tab-dd-4e8a8506-49c0-11e9-a6f4-005056b914d9-container" type="a">
+           All actions
+          </a>
+          <div class = "dropdown-pane" data-alignment = "left" data-allow-overlap = "true" data-close-on-click = "true" data-dropdown = "" data-position = "bottom" id = "tab-dd-4e8a8506-49c0-11e9-a6f4-005056b914d9-container">
+           <ul aria-idden = "true" class = "vertical menu" data-dropdown-content = "" tabindex = "- 1">
+            <li>
+             <a end="" href="#accordion-tab_1d699er67">
+              All actions
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <! - content ->
+       <div class = "tabs-content" data-tabs-content = "example-tabs">
+        <div class = "bmw-padding-1-top tabs-panel is-active" id = "accordion-tab_1d699er67">
+         <div>
+          <div class = "microstory bmw_normal" id = "6adc2050-3a70-11e9-9291-005056b914d9">
+           <div class = "row">
+            <div class = "small-12 columns">
+             <div class = "microstory viewport-animate row">
+              <! - microstory image ->
+              <div class = "small-12 medium-12 large-6 columns microstory-image bmw-margin-1-bottom">
+               <img alt = "" class = "" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / current-actions-BMW-Melkus.jpg_1758632412.jpg, small], [/ export / sites / bmw-melkus.de / assets / images / current-Actions-BMW-Melkus.jpg_340131214.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/aktuelle-Aktionen-BMW-Melkus .jpg_1694188007.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / current-actions-BMW-Melkus.jpg_340131214.jpg "/>
+              </div>
+              <! - microstory text ->
+              <div class = "small-12 medium-12 large-6 columns microstory-info end">
+               <h2 class = "hyphenate bmw-margin-2-bottom bmw-margin-1-right">
+                Current actions.
+               </h2>
+               <div class = "wysiwyg bmw-body-copy-xs bmw-margin-2-bottom small-12">
+                <p>
+                 Discover our current promotions here.
+                </p>
+               </div>
+               <div class = "row">
+                <div class = "small-12 medium-6 columns bmw-margin-1-bottom end">
+                 <a class="button primary" href="/de/actions/index.html" target="_self">
+                  To the actions
+                 </a>
+                </div>
+               </div>
+               <div class = "row">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "bmw_normal row page-padding bmw-margin-2-bottom viewport-animate" id = "67da7a6b-d46b-11e7-8818-005056b914d9">
+      <div>
+      </div>
+      <div class = "row">
+       <div class = "small-12 columns end">
+        <div>
+         <h2 class = "hyphenate">
+          The way to your BMW.
+         </h2>
+         <h4 class = "hyphenate">
+         </h4>
+        </div>
+        <div class = "wysiwyg bmw-component small-12">
+        </div>
+       </div>
+      </div>
+      <div class = "row">
+      </div>
+      <div class = "row">
+      </div>
+     </div>
+     <div class = "row page-padding bmw-margin-6-bottom bmw-component" data-equalize-by-row = "true" data-equalizer = "" id = "4adfced3-d46b-11e7-8818-005056b914d9" >
+      <div class = "grid-x grid-padding-x align-stretch row">
+       <div class = "small-12 medium-12 large-6 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "5103c4bb-d46b-11e7-8818-005056b914d9">
+        <div class = "stage2Teaser viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / home / find-you-your-new-car.jpg_1758632412. jpg, small], [/export/sites/bmw-melkus.de/assets/images/home/finden-sie-ihren-neuwagen.jpg_340131214.jpg, medium], [/export/sites/bmw-melkus.de/ assets / images / home / find-your-your-new-car.jpg_1694188007.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / home / find-your-your-new-car.jpg_340131214 .jpg "/>
+          <h2 class = "hyphenate bmw-padding-1-bottom">
+           New car exchange.
+          </h2>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Here you will find our immediately available new cars.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/neuwagen/neuwagenboerse/index.html" target="_self">
+            To the new car exchange
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-12 large-6 cell columns bmw-padding-1-bottom bmw_normal end" data-equalizer-watch = "" id = "50f768a9-d46b-11e7-8818-005056b914d9">
+        <div class = "stage2Teaser viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / gebrauchtwagen / uebersichtsseite / find-your-used-vehicle. jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/gebannedwagen/uebersichtsseite/finden-sie-ihren-gebrauchwagen.jpg_340131214.jpg, medium], [/ export / sites / bmw- melkus.de/assets/images/gebannedwagen/uebersichtsseite/finden-sie-ihren-gebannedwagen.jpg_1694188007.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / gebrauchtwagen / uebersichtsseite / find -you-your-used-vehicle.jpg_340131214.jpg "/>
+          <h2 class = "hyphenate bmw-padding-1-bottom">
+           Used car exchange.
+          </h2>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Here you can go directly to our used cars.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/usedwagen/gebendetwagenboerse/index.html" target="_self">
+            To the used car exchange
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "bmw_normal row page-padding bmw-margin-2-bottom viewport-animate" id = "67e1cd6d-d46b-11e7-8818-005056b914d9">
+      <div>
+      </div>
+      <div class = "row">
+       <div class = "small-12 columns end">
+        <div>
+         <h2 class = "hyphenate">
+          Find out more about us.
+         </h2>
+         <h4 class = "hyphenate">
+         </h4>
+        </div>
+        <div class = "wysiwyg bmw-component small-12">
+        </div>
+       </div>
+      </div>
+      <div class = "row">
+      </div>
+      <div class = "row">
+      </div>
+     </div>
+     <div class = "row page-padding bmw-margin-6-bottom bmw-component" data-equalize-by-row = "true" data-equalizer = "" id = "4ae41495-d46b-11e7-8818-005056b914d9" >
+      <div class = "grid-x grid-padding-x align-stretch row">
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "52bce6e1-d46b-11e7-8818-005056b914d9">
+        <! - online appointment planner. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / uebersichtsseite / online-appointment-agreement. jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/uebersichtsseite/online-terminvereinigung.jpg_320789499.jpg, medium], [/ export / sites / bmw- melkus.de/assets/images/service-und-zubehoer/uebersichtsseite/online-terminvereinigung.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / service-und-zubehoer /uebersichtsseite/online-terminvereinigung.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Online appointment planner.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Simple and convenient: our online appointment planner.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/service-zubehoer/onlineterminverordnung/index.html" target="_self">
+            Make an appointment now
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "137264cb-a7a0-11e8-b963-005056b914d9">
+        <! - Wheel / tire change appointment planner ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / bmw-service-aktionen / Radwechsel-Teaser.JPG_588759444. jpg, small], [/export/sites/bmw-melkus.de/assets/images/bmw-service-aktion/Radwechsel-Teaser.JPG_493275019.jpg, medium], [/export/sites/bmw-melkus.de/ assets / images / bmw-service-aktionen / Radwechsel-Teaser.JPG_1033496855.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / bmw-service-aktionen / Radwechsel-Teaser.JPG_493275019 .jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Wheel / tire change scheduler
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Without detours to change wheels and tires.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/service-zubehoer/Rad-und-Reifentermin/index.html" target="_blank">
+            Make an appointment now
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "18738518-cd33-11e8-8efa-005056b914d9">
+        <! - Online Shop. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / original-bmw -teile- und-zubehoer / bmw -teile-und-zubehoer-teaser-large.jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/original-bmw-teile -und-zubehoer / bmw -teile-und-zubehoer-teaser-large.jpg_320789499.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/original-bmw- teile-und-zubehoer / bmw -teile-und-zubehoer-teaser-large.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / original -bmw-parts-and-accessories / bmw-parts-and-accessories-teaser-large.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Online shop.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Original BMW accessories, parts and lifestyle products.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="https://shop.bmw.de/melkus-dresden" target="_blank">
+            To the Online shop
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "5299805b-d46b-11e7-8818-005056b914d9">
+        <! - Service & accessories. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / uebersichtsseite / service-und- repair.jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/service-und-zubehoer/uebersichtsseite/service-und-reparatur.jpg_320789499.jpg, medium], [/ export / sites / bmw-melkus.de / assets / images / service-und-zubehoer / uebersichtsseite / service-und-repair.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images /service-und-zubehoer/uebersichtsseite/service-und-reparatur.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Service & amp; Equipment.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            We offer you a wide range of services, original BMW parts and accessories for your vehicle.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/service-zubehoer/uebersicht/index.html" target="_self">
+            Learn more
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "52b08acd-d46b-11e7-8818-005056b914d9">
+        <! - locations. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / home / bmw-generisches-haendler-bild.jpg_1758632412. jpg, small], [/export/sites/bmw-melkus.de/assets/images/home/bmw-generisches-haendler-bild.jpg_320789499.jpg, medium], [/export/sites/bmw-melkus.de/ assets / images / home / bmw-generisches-haendler-bild.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / home / bmw-generisches-haendler-bild.jpg_320789499 .jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Locations.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Discover our locations and services.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/ueber-us/standorte-team/index.html" target="_self">
+            To overview
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "52c3ebc3-d46b-11e7-8818-005056b914d9">
+        <! - News & Events. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / home / news-und-events.jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/home/news-und-events.jpg_320789499.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/ home / news-und-events.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / home / news-und-events.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           News & amp; Events.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Find out more about our events.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/ueber-uns/news-events/index.html" target="_self">
+            Go to News & amp; Events
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "52b6572f-d46b-11e7-8818-005056b914d9">
+        <! - Facebook. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / home / facebook.jpg_1758632412.jpg, small], [ /export/sites/bmw-melkus.de/assets/images/home/facebook.jpg_320789499.jpg, medium], [/export/sites/bmw-melkus.de/assets/images/home/facebook.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images / home / facebook.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Facebook.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Visit us on Facebook.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="https://de-de.facebook.com/BMW.Melkus/" target="_blank">
+            Become a fan now
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal" data-equalizer-watch = "" id = "52caf0a5-d46b-11e7-8818-005056b914d9">
+        <! - career. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / ueber-uns / career / your-future-at- uns.jpg_1758632412.jpg, small], [/export/sites/bmw-melkus.de/assets/images/ueber-uns/karriere/ihre-zukunft-bei-uns.jpg_320789499.jpg, medium], [/ export / sites / bmw-melkus.de / assets / images / ueber-uns / karriere / ihr-Zukunft-bei-uns.jpg_1812185863.jpg, large] "src =" / export / sites / bmw-melkus.de / assets / images /ueber-uns/karriere/ihre-zukunft-bei-uns.jpg_320789499.jpg "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Career.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Start your path to success with us.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/ueber-uns/karriere/index.html" target="_self">
+            Our job offers
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "small-12 medium-6 large-3 cell columns bmw-padding-1-bottom bmw_normal end" data-equalizer-watch = "" id = "52e9752d-d46b-11e7-8818-005056b914d9">
+        <! - Newsletter. ->
+        <! - ->
+        <div class = "stage2Teaser hyphenate viewport-animate grid-x">
+         <div class = "align-top cell">
+          <img alt = "" class = "bmw-padding-1-bottom" data-interchange = "[/ export / sites / bmw-melkus.de / assets / images / home / thumbnail_newsletter.png_1758632412.png, small], [ /export/sites/bmw-melkus.de/assets/images/home/thumbnail_newsletter.png_320789499.png, medium], [/export/sites/bmw-melkus.de/assets/images/home/thumbnail_newsletter.png_1812185863.png, large] "src =" / export / sites / bmw-melkus.de / assets / images / home / thumbnail_newsletter.png_320789499.png "/>
+          <h3 class = "hyphenate bmw-font-hl-l bmw-padding-1-bottom">
+           Newsletter.
+          </h3>
+          <div class = "bmw-body-copy-xs wysiwyg small-12 bmw-padding-1-bottom">
+           <p>
+            Our news, events and offers.
+           </p>
+          </div>
+         </div>
+         <div class = "align-bottom cell">
+          <div class = "small-12 bmw-padding-1-bottom">
+           <a class="arrow-link" href="/de/Newsletter/" target="_self">
+            Register now
+           </a>
+          </div>
+          <div class = "small-12">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "bmw_normal row page-padding bmw-margin-2-bottom viewport-animate" id = "16710d60-8ea0-11e9-8aab-005056b914d9">
+      <div>
+      </div>
+      <div class = "row">
+       <div class = "small-12 columns end">
+        <div>
+         <h2 class = "hyphenate">
+         </h2>
+         <h4 class = "hyphenate">
+         </h4>
+        </div>
+        <div class = "wysiwyg bmw-component small-12">
+         <p>
+          <sup>
+           1
+          </sup>
+          A non-binding example of leasing by BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices including 19% VAT, as of 10/2020. If the lessee is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the leasing conditions, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           1a
+          </sup>
+          A non-binding example of leasing from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices including 16% VAT, as of 10/2020. If the lessee is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the leasing conditions, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           2
+          </sup>
+          A non-binding financing example from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices incl. 19% VAT, as of 10/2020. If the borrower is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the loan terms, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           2a
+          </sup>
+          A non-binding financing example from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices incl. 16% VAT, as of 10/2020. If the borrower is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the loan terms, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           3
+          </sup>
+          Bound for the entire contract period.
+         </p>
+         <p>
+          <sup>
+           4th
+          </sup>
+          The monthly costs for the optional conclusion of an insurance contract for the installment protection insurance for death and incapacity to work with Deutsche Lebensversicherungs-AG, An den Treptowers 3 in 12435 Berlin. Details can be found in the general conditions for insurance from Deutsche Lebensversicherungs-AG and the insurance application.
+         </p>
+         <p>
+          <sup>
+           5
+          </sup>
+          We broker leasing contracts and financing contracts exclusively to BMW Bank GmbH, Lilienthalallee 26, 80939 Munich.
+         </p>
+         <p>
+          <sup>
+           6th
+          </sup>
+          We broker leasing contracts and financing contracts to BMW Bank GmbH, Lilienthalallee 26, 80939 Munich and other partners.
+         </p>
+         <p>
+          <sup>
+           7th
+          </sup>
+          Optionally available.
+         </p>
+         <p>
+          <sup>
+           8th
+          </sup>
+          A non-binding leasing example from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices excl. 19% VAT, as of 07/2020. If the lessee is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the leasing conditions, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           8a
+          </sup>
+          A non-binding leasing example from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices excluding 16% VAT, as of 07/2020. If the lessee is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the leasing conditions, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           9
+          </sup>
+          A non-binding example of financing from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices excl. 19% VAT, as of 10/2020. If the borrower is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the loan terms, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           9a
+          </sup>
+          A non-binding example of financing from BMW Bank GmbH, Lilienthalallee 26, 80939 Munich, all prices excl. 16% VAT, as of 10/2020. If the borrower is a consumer, there is a statutory right of withdrawal after the contract has been concluded. According to the loan terms, there is an obligation to take out fully comprehensive insurance for the vehicle.
+         </p>
+         <p>
+          <sup>
+           10
+          </sup>
+          The gross list price as the assessment basis for determining the monetary benefit within the framework of the lump-sum 1% rule for private use is halved. This applies to the lump-sum 1% rule for trips between home and the first place of work (0.03% per kilometer of distance) and for family trips. In accordance with the letter of the Federal Ministry of Finance dated December 19, 2018 (IV C 5 - S 2334/14 / 10002-07), the funding applies to fully electrically powered company vehicles and externally chargeable hybrid electric vehicles that are provided by the employer to the employee for private use and that are in accordance with Section 3 (2) EmoG less than 50 g CO
+          <sub>
+           2
+          </sub>
+          / km or their range is at least 40 km when using the electric drive machine alone. Further prerequisites for the funding are that the employee was given the vehicle for the first time after December 31, 2018 and before January 01, 2022 and that this vehicle was not previously provided by the employer to an employee for private use (e.g. for private trips, trips between home and first place of work, trips pursuant to Section 9 (1) sentence 3 no. 4a, sentence 3 EStG or family trips home within the framework of a double household) Rounding of the gross list price to a full 100, - EUR in accordance with tax law provisions according to R 8.1 Paragraph 9 No. 1 Clause 6 LStR.
+         </p>
+         <p>
+          <sup>
+           11
+          </sup>
+          The amount and entitlement to claim the environmental bonus can be found on the website of the Federal Office of Economics and Export Control at
+          <a href="http://www.bafa.de/umweltbonus" target="_blank">
+           www.bafa.de/umweltbonus
+          </a>
+          available funding guidelines. There is no legal entitlement to the environmental bonus. The environmental bonus ends when the funds provided are exhausted, no later than December 31, 2025.
+         </p>
+         <p>
+          <sup>
+           12
+          </sup>
+          The BMW environmental bonus of EUR 3,000 (net) is available when purchasing a new BMW vehicle and EUR 2,000 (net) when purchasing a BMW demonstration vehicle (first registration via BMW partner / branch, max. 15 months and 20,000 km until second registration) or a BMW boy used (max. 18 months until second registration) available. The vehicle purchased with the BMW environmental bonus must be registered in Germany for the same owner as the vehicle to be traded in. This must have been approved for the holder since at least October 1, 2018. As an alternative to trade-in, according to § 15 Vehicle Registration Ordinance, the scrapping of a vehicle that meets the criteria for trade-in can be proven by the buyer within six weeks of the vehicle purchased being registered. The respective BMW partner or the BMW branch are the responsible contact persons with regard to the scrapping. An offer for private, commercial and business customers.
+         </p>
+         <p>
+          <sup>
+           13
+          </sup>
+          The subsidy amounts to 6,000 EUR for a fully electric vehicle (with "innovation premium": 9,000 EUR) for a basic vehicle with a net list price of less than 40,000 EUR and 5,000 EUR (with "innovation premium": 7,500 EUR) for a basic vehicle with a net list price of over 40,000 EUR.
+         </p>
+         <p>
+          For the plug-in hybrid models, the subsidy amounts to 4,500 EUR (with "innovation bonus": 6,750 EUR) for a basic vehicle with a net list price of less than 40,000 EUR and 3,750 EUR (with "innovation bonus": 5,625 EUR) for a basic vehicle with a net list price of over 40,000 EUR.
+         </p>
+         <p>
+          The grant is granted up to a maximum net list price of the base vehicle of EUR 65,000. If the net list price of the base vehicle exceeds this amount, there is no subsidy. The automobile manufacturer and the federal government each provide half of the funding. As part of the “innovation bonus”, the federal government's share of the funding will be doubled until December 31, 2021 for a limited time. The manufacturer's share is paid out net, that of the federal government gross for net (real subsidy).
+         </p>
+         <p>
+          The amount and entitlement to claim the environmental bonus is regulated by the funding guidelines available on the website of the Federal Office of Economics and Export Control at www.bafa.de/umweltbonus. There is no legal entitlement to the environmental bonus. The environmental bonus ends when the funds provided are exhausted, no later than December 31, 2025.
+         </p>
+         <p>
+          <sup>
+           14th
+          </sup>
+          <span>
+           Optional further leasing contract service. The monthly costs of the insurance benefit for motor vehicle liability and fully comprehensive insurance as part of the total monthly leasing rate are valid for BMW new and demonstration vehicles if a BMW Plus Leasing V contract is concluded with BMW Bank GmbH until June 31, 2020. Admission until September 30, 2020. The contractual partner and risk carrier is Allianz Versicherungs-AG, Koeniginstrasse 28, 80802 Munich. Deductible: VK 1,000.00 / TK 500.00 EUR per claim. Details can be found in the insurance documents.
+          </span>
+         </p>
+         <p>
+          <sup>
+           15th
+          </sup>
+          The optional leasing installment insurance for death or incapacity for work (contractual partner and risk carrier for the risk of death is Credit Life AG, Rheinlandplatz, 41460 Neuss; contractual partner and risk carrier for the risk of incapacity for work is RheinLand Versicherungs AG, Rheinlandplatz, 41460 Neuss) ensures the continued payment of the agreed Leasing installments in the event of incapacity for work and certain payment obligations in the event of death. For more information, please refer to the general and special insurance conditions for leasing installment insurance.
+         </p>
+         <p>
+          <sup>
+           16
+          </sup>
+          Optional further leasing contract service. All necessary inspection work according to the manufacturer's specifications. Wear repairs that become necessary when the vehicle is used properly and in accordance with the contract. Assumption of the costs for the general inspection including exhaust emission inspection. Details can be found in the leasing application.
+         </p>
+         <p>
+          <sup>
+           17th
+          </sup>
+          On selected BMW models. At least 20% discount on the recommended retail price including VAT for original BMW parts and brake fluid as well as on the respective labor value.
+         </p>
+         <p>
+          <sup>
+           18th
+          </sup>
+          Offer valid for vehicles older than 5 years. No M models, only Condition Based Service vehicles of the following series: BMW 1 Series (E81, E82, E87, E88, F20, F21), BMW 2 Series (F22, F23, F45, F46), BMW 3 Series (E90, E91, E92, E93, F30, F31, F34, F35), BMW 4 Series (F32, F33, F36), BMW 5 Series (E60, E61, F10, F11, F18), BMW 6 Series (E63, E64, F12, F13), BMW 7 Series ( E65, E66, F01, F02, F03, F04, G11, G12), BMW X1 (E84, F48), BMW X3 (F25), BMW X4 (F26), BMW X5 (E70), BMW X6 (E71, E72) , BMW Z4 (E85, E86, E89).
+         </p>
+         <p>
+          <sup>
+           19th
+          </sup>
+          Price savings when purchasing the BMW Service Inclusive Package for used automobiles 3 years / 40,000 km compared to the regular individual prices of the individual services included in the package based on the recommended retail price for original spare parts and the average service costs (costs and duration of work, costs of oils, etc. .) the BMW Service Partner in the Federal Republic of Germany (as of June 2020). The actual savings vary depending on the vehicle model.
+         </p>
+         <p>
+          <sup>
+           20th
+          </sup>
+          BMW Teleservices do not incur any additional costs. However, BMW Teleservices are only available with BMW ConnectedDrive Services (standard equipment from 07/2017, before that available from 03/2013 as standard or optional equipment depending on the model), which are free for the first three years. With the current scope of services, BMW Teleservices are available in vehicles built from 03/2013. The special equipment BMW Teleservices (SA 6AE) is a prerequisite: This is automatically available in vehicles built from 03/2015. For vehicles built from 03/2013 or later, it is either included in the standard scope of delivery or it can be activated in vehicles equipped with the special equipment intelligent emergency call including teleservices (option 6AC).
+         </p>
+         <p>
+          <sup>
+           21st
+          </sup>
+          My BMW is optimized for BMW vehicles built from 2014 onwards. The app's features depend on your contract status and the equipment of your vehicle.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class = "row">
+      </div>
+      <div class = "row">
+      </div>
+     </div>
+     <div class = "bmw_normal row page-padding bmw-margin-2-bottom viewport-animate" id = "233f7a6b-9104-11e9-a44c-005056b914d9">
+      <div>
+      </div>
+      <div class = "row">
+       <div class = "small-12 columns end">
+        <div>
+         <h2 class = "hyphenate">
+         </h2>
+         <h4 class = "hyphenate">
+         </h4>
+        </div>
+        <div class = "wysiwyg bmw-component small-12">
+         <p>
+          The official information on fuel consumption, CO
+          <sub>
+           2
+          </sub>
+          -Emissions and electricity consumption were determined in accordance with the prescribed measuring method VO (EU) 715/2007 in the currently applicable version. The information takes into account differences in the selected wheel and tire size for ranges. This vehicle can be used to calculate taxes and other vehicle-related charges that (also) on the CO
+          <sub>
+           2
+          </sub>
+          -Shut off emissions, values ​​other than those specified here apply. Pictures show optional equipment. The vehicle is determined on the basis of the new WLTP test cycle and recalculated to the NEDC for comparability.
+          <br/>
+          <br/>
+          Further information on the WLTP and NEDC test procedures can be found at
+          <a href="http://www.bmw.de/wltp" target="_blank">
+           www.bmw.de/wltp
+          </a>
+          More information on the official fuel consumption and the official specific CO
+          <sub>
+           2
+          </sub>
+          -Emissions from new passenger cars can be found in the 'Guide on fuel consumption, CO
+          <sub>
+           2
+          </sub>
+          Emissions and electricity consumption of new passenger vehicles', which is available at all sales outlets at Deutsche Automobil Treuhand GmbH (DAT), Hellmuth-Hirth-Str. 1, 73760 Ostfildern-Scharnhausen, and at
+          <a href="https://www.dat.de/co2/" target="_blank">
+           https://www.dat.de/co2/
+          </a>
+          is available free of charge. Range depends on various factors, in particular: personal driving style, route characteristics, outside temperature, heating / air conditioning, pre-temperature control.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class = "row">
+      </div>
+      <div class = "row">
+      </div>
+     </div>
+    </div>
+   </main>
+   <footer class = "bmw-margin-4-top bmw-padding-2-top bmw-padding-5-bottom">
+    <div class = "row page-padding">
+     <div class = "row">
+      <div id = "footernavicontainer">
+       <div>
+        <div class = "small-12 small-collapse medium-2 columns footer-list-title">
+         <p>
+          Locations & amp; Teams
+         </p>
+        </div>
+        <div class = "small-12 small-collapse medium-9 columns footer-list-menu end">
+         <ul>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/ueber-us/locations-team/filiale-dresden/index.html" target="_self">
+            Dresden branch
+           </a>
+          </li>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/ueber-uns/standorte-team/filiale-chemnitz/index.html" target="_self">
+            Chemnitz branch
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div>
+        <div class = "small-12 small-collapse medium-2 columns footer-list-title">
+         <p>
+          Brands
+         </p>
+        </div>
+        <div class = "small-12 small-collapse medium-9 columns footer-list-menu end">
+         <ul>
+          <li>
+           <a class="bmw-font-old-hl-s" href="http://www.bmw.de/de/home.html" target="_blank">
+            BMW
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div>
+        <div class = "small-12 small-collapse medium-2 columns footer-list-title">
+         <p>
+          Legal
+         </p>
+        </div>
+        <div class = "small-12 small-collapse medium-9 columns footer-list-menu end">
+         <ul>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/leglicher-hinweis/index.html" target="_self">
+            Legal notice
+           </a>
+          </li>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/impressum/index.html" target="_self">
+            imprint
+           </a>
+          </li>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/datenschutz/index.html" target="_self">
+            data protection
+           </a>
+          </li>
+          <li>
+           <a class="bmw-font-old-hl-s" href="/de/cookies/" target="_self">
+            Cookies
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class = "small-12 small-collapse medium-2 columns footer-list-title footer-social-media">
+       <p>
+        Share on
+       </p>
+      </div>
+      <div class = "small-12 small-collapse medium-9 columns footer-list-menu footer-social-media">
+       <ul>
+        <li>
+         <a class = "icon social-media-icon facebook" href = "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbmw-melkus.de%2Fde%2Fhome% 2Findex.html & amp; t = Autohaus + Melkus + GmbH% 3A + BMW + vehicles% 2C + Services% 2C + offers + and much more " onclick = "javascript: window.open (this.href, '', 'menubar = no, toolbar = no, resizable = yes, scrollbars = yes, height = 300, width = 600'); return false;" title = "Share on Facebook">
+          facebook
+         </a>
+        </li>
+        <li>
+         <a class = "icon social-media-icon twitter" href = "https://twitter.com/share?url=http%3A%2F%2Fbmw-melkus.de%2Fde%2Fhome%2Findex.html&gt;&amp; text = Autohaus + Melkus + GmbH% 3A + BMW + vehicles% 2C + Services% 2C + offers + and much more " onclick = "javascript: window.open (this.href, '', 'menubar = no, toolbar = no, resizable = yes, scrollbars = yes, height = 300, width = 600'); return false;" target = "_ blank" title = "Share on Twitter">
+          twitter
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class = "small-12 small-collapse columns footer-copyright text-right">
+       <div class = "copyright">
+        <hr />
+        <span>
+         © BMW AG 2020
+        </span>
+       </div>
+      </div>
+      <div id = "sticky_sales_bar-container">
+       <div>
+        <section class = "sticky-sales-bar">
+         <ul class = "sticky-sales-bar-list">
+          <li class = "sticky-sales-bar-item">
+           <a class="sticky-sales-bar-link" href="/de/about-us/locations-team/" target="_self">
+            <div class = "sticky-sales-bar-icon icon sales-bar-icon phone">
+            </div>
+            <span class = "sticky-sales-bar-label bmw-font-old-hl-xs">
+             Contact
+            </span>
+           </a>
+          </li>
+          <li class = "sticky-sales-bar-item">
+           <a class="sticky-sales-bar-link" href="/de/service-zubehoer/online-appointment-agreement/" target="_self">
+            <div class = "sticky-sales-bar-icon icon sales-bar-icon calendar-one">
+            </div>
+            <span class = "sticky-sales-bar-label bmw-font-old-hl-xs">
+             Make an appointment online
+            </span>
+           </a>
+          </li>
+          <li class = "sticky-sales-bar-item">
+           <a class="sticky-sales-bar-link" href="https://www.bmw-melkus.de/de/anfragen/angebotsnachfrage/" target="_self">
+            <div class = "sticky-sales-bar-icon icon sales-bar-icon steering-wheel">
+            </div>
+            <span class = "sticky-sales-bar-label bmw-font-old-hl-xs">
+             Arrange test drive
+            </span>
+           </a>
+          </li>
+          <li class = "sticky-sales-bar-item">
+           <a class="sticky-sales-bar-link" href="/de/usedwagen/gebendetwagenboerse/" target="_self">
+            <div class = "sticky-sales-bar-icon icon sales-bar-icon car-salesbar">
+            </div>
+            <span class = "sticky-sales-bar-label bmw-font-old-hl-xs">
+             Used car exchange
+            </span>
+           </a>
+          </li>
+         </ul>
+        </section>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script type = "text / javascript">
+   window ['de.bmw.opencms.stagetwo.brandnames'] = {'BMW I8': 'BMW i8', 'I3´S': 'i3´S', 'BMW X3 XDRIVE30E': 'BMW X3 xDrive30e', 'BMW I': 'BMW i', 'THE I8': 'THE i8', 'BMW 745E': 'BMW 745e', '1ER': '1er', '2ER': '2er', '3ER': '3er', '4ER': '4er', '5ER': '5er', '6ER': '6er', '7ER': '7er', 'AHG AUTOHANDELSGESELLSCHAFT MBH': 'ahg Autohandelsgesellschaft mbH', '8ER ':' 8er ',' The X7 ':' THE X7 ',' The 1 ':' THE 1 ',' The X6 ':' THE X6 ',' The 2 ':' THE 2 ',' The X5 ' : 'THE X5', 'The 3': 'THE 3', 'BMW 330E': 'BMW 330e', 'The X4': 'THE X4', 'THE i3': 'THE i3', 'The 4' : 'THE 4', 'The X3': 'THE X3', 'The 5': 'THE 5', 'BMW X5 XDRIVE45E': 'BMW X5 xDrive45e', 'The X2': 'THE X2', 'The X1 ':' THE X1 ',' The 6 ':' THE 6 ',' The 7 ':' THE 7 ',' BMW 530E ':' BMW 530e ',' The 8 ':' THE 8 ',' BMW I3 ':' BMW i3 ',' BMW 225XE ':' BMW 225xe ',' 3ER ':' 3er ',' 4ER ':' 4er ',' 5ER ':' 5er ',' 6ER ':' 6er ', 'BMW I': 'BMW i', '7ER': '7er', '8ER': '8er', 'BMW I8': 'BMW i8', 'BMW I3': 'BMW i3', 'I3´S ':' i3´S ',' 1ER ':' 1er ',' 2ER ':' 2er '}
+  </script>
+  <script type = "text / javascript">
+   _satellite.pageBottom ();
+        _satellite.track ('page_load');
+  </script>
+  <script src = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / js / vendor / vendor.js? 1598363541000" type = "text / javascript">
+  </script>
+  <script src = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / js / foundation.js? 1598363540000" type = "text / javascript">
+  </script>
+  <script src = "/ export / system / modules / de.bmw.opencms.stagetwo / resources / js / bmw.js? 1598363540000" type = "text / javascript">
+  </script>
+ </body>
+</html>

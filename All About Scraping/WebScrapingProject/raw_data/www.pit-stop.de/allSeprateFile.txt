@@ -1,0 +1,1797 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <link href = "/" rel = "canonical" />
+  <meta charset = "utf-8" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no" name = "viewport" />
+  <meta content = "de" name = "content-language">
+   <meta content = "de" name = "language">
+    <meta content = "pitstop.de GmbH" name = "author" />
+    <meta content = "YRERbMWJjrFuobswzeGjYD9g1KC_s_IYVMQciq8Rp6o" name = "google-site-verification" />
+    <meta content = "https://www.pitstop.de/Images/fb-logo.png" property = "og: image" />
+    <link href = "https://www.pitstop.de/Images/fb-logo.png" rel = "image_src" />
+    <meta content = "/" name = "path" />
+    <meta content = "354" name = "id" />
+    <title>
+     pitstop.de ► Buy car workshop service and tires online & amp; save up
+    </title>
+    <meta content = "pitstop.de: Buy car workshop services online: inspection, brake service and much more ✔ Online shop for car parts✔ Huge tire selection in the tire shop✔ Appointments✔" name = "description" />
+    <meta content = "pitstop, workshop, online shop, workshop service, vehicle repairs" name = "keywords" />
+    <link href = "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel = "stylesheet" type = "text / css" />
+    <link href = "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap" rel = "stylesheet" />
+    <link href = "/ content / css? v = xo291NSBn8-a_NbuhkgeJJvY1k28V20TBkJRAmKC5BA1" rel = "stylesheet">
+     <link href = "/ content / css2019Pitstop? v = QxBdwEtUC49WQTAYrDp4mrDFR-09-rCI6OD_CJHaKtU1" rel = "stylesheet">
+      <script>
+       (function (w, d, s, l, i)
+        {
+            w [l] = w [l] || []; w [l] .push ({
+                'gtm.start': new Date (). getTime (), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName (s) [0],
+                j = d.createElement (s),
+                dl = l! ​​= 'dataLayer'? '& l =' + l: '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore (j, f);
+        }) (window, document, 'script', 'dataLayer', 'GTM-WS2GKP4');
+      </script>
+      <script async = "" src = "// widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js" type = "text / javascript">
+      </script>
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body id = "body-pitstop">
+  <noscript>
+   <iframe height = "0" src = "https://www.googletagmanager.com/ns.html?id=GTM-WS2GKP4" style = "display: none; visibility: hidden" width = "0">
+   </iframe>
+  </noscript>
+  <div aria-labelledby = "modal-cookie-terms" class = "modal bootstrap-modal" data-backdrop = "static" id = "modal-cookie-terms" role = "dialog" style = "z-index: 1041 ; " tabindex = "- 1">
+   <div class = "modal-dialog modal-lg" role = "document">
+    <div class = "modal-content">
+     <div class = "modal-header">
+      <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+       <span aria-hidden = "true">
+        ×
+       </span>
+      </button>
+      <h3 class = "modal-title" id = "myModalLabel">
+       Privacy settings
+      </h3>
+     </div>
+     <div class = "modal-body">
+      <div class = "small">
+       <div data-cms-content = "3425">
+       </div>
+       <div class = "top-space-15">
+        <a href="/Unternehmen/Agb#datenschutz">
+         Privacy Policy | Cookie Policy
+        </a>
+        . *
+       </div>
+      </div>
+      <div class = "top-space-15">
+       <div>
+        <div>
+         <div>
+          <label>
+           <input id = "cookie-terms-checkbox-analyzes" name = "cookie-terms-checkbox-analyzes" type = "checkbox" />
+           Analyzes
+          </label>
+         </div>
+         <div>
+          <ul>
+           <li>
+            Monitoring website usage and optimizing the user experience
+           </li>
+           <li>
+            Evaluation of the most successful marketing channels
+           </li>
+           <li>
+            Analyze aggregated data on website usage to better understand our customers. Creation of random identifiers to share with partners.
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div>
+         <div>
+          <label>
+           <input id = "cookie-terms-checkbox-personalization" name = "cookie-terms-checkbox-personalization" type = "checkbox" />
+           personalization
+          </label>
+         </div>
+         <div>
+          <ul>
+           <li>
+            Storage of your preferences from previous visits.
+           </li>
+           <li>
+            Collecting user feedback to improve our website
+           </li>
+           <li>
+            Recording of your interests in order to offer tailor-made content and offers.
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div>
+         <div>
+          <label>
+           <input id = "cookie-terms-checkbox-advertising" name = "cookie-terms-checkbox-advertising" type = "checkbox" />
+           advertising
+          </label>
+         </div>
+         <div>
+          <ul>
+           <li>
+            Increase the relevance of online and social advertising to you
+           </li>
+           <li>
+            Identification of customer groups that we will address repeatedly for certain products
+           </li>
+           <li>
+            Share data with our advertising and social media partners via their third-party cookies to serve your interests
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "modal-footer">
+      <a class="btn btn-default-bordered" data-dismiss="modal" href="#" id="btn-cookie-terms-selection">
+       Save Selection
+      </a>
+      <a class="btn btn-primary" data-dismiss="modal" href="#" id="btn-cookie-terms-all">
+       Agree with everyone
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <! -
+<div id = "cookie-terms">
+    <div class = "container">
+        <div class = "row display-flex">
+            <div class = "col-sm-9">
+                We use cookies and similar technologies to ensure the proper functioning of our websites, to personalize content and advertising, to provide social media functions, to analyze data traffic and to inform advertising and analysis partners about the use of our website.
+                <br />
+                Information, setting options, data subject rights under: <a href="/Unternehmen/Agb#datenschutz"> data protection declaration | Cookie Policy </a>. *
+            </div>
+            <div class = "col-sm-3 display-flex align-items-flex-end">
+                <a class="btn btn-xs btn-primary top-space-15" href="#"> Agree </a>
+            </div>
+        </div>
+    </div>
+</div>
+->
+  <div id = "page">
+   <div id = "site-header">
+    <div id = "site-header-content">
+     <div class = "container-fluid" id = "site-header-container">
+      <div class = "row">
+       <div class = "col-xs-2 col-sm-3">
+        <div id = "site-top">
+         <! - here I implement the burger menu for mobile ->
+         <a class = "visible-xs visible-sm hidden-lg hidden-md menu-toggle" data-control = "toggle" data-toggle-autohide = "true" data-toggle-hide = "# modal-login, # filialefinder-nav, # main-nav "data-toggle-show =" # main-mobile-nav ">
+          <img class = "icon icon-white" src = "/ Content / Images2019 / Pitstop / base / icon-menu-white.svg" />
+          <img class = "icon icon-black" src = "/ Content / Images2019 / Pitstop / base / icon-menu-black.svg" />
+         </a>
+         <ul class = "list-unstyled clearfix visible-md visible-lg">
+          <li>
+           <a class = "menu-toggle" data-control = "toggle" data-toggle-autohide = "true" data-toggle-hide = "# modal-login, # filialefinder-nav, # main-mobile-nav" data -toggle-show = "# main-nav">
+            <img class = "icon icon-white" src = "/ Content / Images2019 / Pitstop / base / icon-menu-white.svg" />
+            <img class = "icon icon-black" src = "/ Content / Images2019 / Pitstop / base / icon-menu-black.svg" />
+           </a>
+          </li>
+          <! -
+                                    <li> <a href="/Home/Filiale"> FILIALFINDER </a> </li>
+                                    <li> <a href="/Termin"> MAKE AN APPOINTMENT </a> </li>
+                                    <li> <a href="~/Unternehmen/Karriere/OffeneStellen"> Jobs </a> </li>
+                                        <li> <a data-control = "toggle" data-toggle-show = "# modal-login" data-toggle-hide = "# main-nav, # filialefinder-nav" data-toggle-autohide = "true" > <i class = "fa fa-lock"> </i> Register </a> </li>
+                                    ->
+         </ul>
+        </div>
+       </div>
+       <div class = "col-xs-8 col-sm-6 text-center">
+        <div id = "site-title" itemscope = "" itemtype = "http://www.pitstop.de">
+         <a href="/" id="logo" itemprop="url" title="Startseite">
+          <img id = "logo" itemprop = "logo" src = "https://www.pitstop.de/content/images/base/logo.png" />
+         </a>
+        </div>
+       </div>
+       <div class = "col-xs-2 col-sm-3 text-right">
+        <a class = "link-login-logout" data-control = "toggle" data-toggle-autohide = "true" data-toggle-hide = "# main-nav, # filialefinder-nav, # main-mobile-nav "data-toggle-show =" # modal-login "href =" # ">
+         <span class = "hidden-xs hidden-sm">
+          register
+         </span>
+         <img class = "icon icon-white" src = "/ Content / Images2019 / Pitstop / base / icon-profil-white.svg" />
+         <img class = "icon icon-black" src = "/ Content / Images2019 / Pitstop / base / icon-profil-black.svg" />
+        </a>
+        <div class = "cart-info cart clearfix right">
+         <a href="/" title="Startseite">
+          <img class = "icon icon-white" src = "/ Content / Images2019 / Pitstop / base / shoppingcart-white.svg" />
+          <img class = "icon icon-black" src = "/ Content / Images2019 / Pitstop / base / shoppingcart-black.svg" />
+          <span class = "cart-item-count hidden-xs hidden-sm">
+           0
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "site-header-info-auth hidden" id = "site-header-info">
+     <div class = "container-fluid">
+      <div class = "row">
+       <div class = "col-sm-4">
+       </div>
+       <div class = "col-sm-4 text-center">
+        <b>
+         powered by
+        </b>
+        <img src = "/ Content / Images / base / logo.png" style = "width: 64px; margin-top: -8px;" />
+       </div>
+       <div class = "col-sm-4">
+       </div>
+      </div>
+     </div>
+    </div>
+    <! - Mobile menu ->
+    <div id = "main-mobile-nav" style = "display: none; width: 100%! important; float: left;">
+     <ul class = "list-unstyled clearfix" id = "list-nav-main">
+      <li>
+       <a data-control="toggle" data-toggle-autohide="true" data-toggle-hide="#main-mobile-nav" data-toggle-show="#modal-login">
+        <i class = "fa fa-lock">
+        </i>
+        register
+       </a>
+      </li>
+      <li>
+       <a href="/Home/Filiale">
+        Branch Finder
+       </a>
+      </li>
+      <li>
+       <a href="/Termin">
+        make an appointment
+       </a>
+      </li>
+      <li>
+       <a class="link_mobile_menu" href="/Vahrzeug">
+        Please choose
+       </a>
+      </li>
+      <li>
+       <a class="link_mobile_menu" href="/Home/Filiale">
+        Please choose
+       </a>
+      </li>
+      <li>
+       <a href="#" onclick="$('#list-nav-services, #list-nav-main').toggleClass('hidden');">
+        Services
+        <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-right">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/ReifenFelgen">
+        Tires rim
+       </a>
+      </li>
+      <li>
+       <a href="/Felgen/Rdks">
+        TPMS
+       </a>
+      </li>
+      <li>
+       <a href="#" onclick="$('#list-nav-flottenkunden, #list-nav-main').toggleClass('hidden');">
+        Fleet customers
+        <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-right">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="#" onclick="$('#list-nav-ueber-uns, #list-nav-main').toggleClass('hidden');">
+        about us
+        <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-right">
+        </span>
+       </a>
+      </li>
+     </ul>
+     <ul class = "list-unstyled hidden" id = "list-nav-services">
+      <li>
+       <div>
+        <a href="#" onclick="$('#list-nav-services, #list-nav-main').toggleClass('hidden');">
+         <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-left">
+         </span>
+         Services
+        </a>
+       </div>
+      </li>
+      <li>
+       <a href="/Services/Inspektion">
+        inspection
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Hauptuntersprüfung">
+        TÜV
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Oel">
+        Oil change
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Bremsen">
+        brake
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Endschalldaempfer">
+        Exhaust
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Stossdaempfer">
+        landing gear
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Radwechsel">
+        Wheel change
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Glas">
+        Glass
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Klima">
+        climate
+       </a>
+      </li>
+      <li>
+       <a href="/Services/Batterie">
+        Electrics
+       </a>
+      </li>
+     </ul>
+     <ul class = "list-unstyled hidden" id = "list-nav-fleet customers">
+      <li>
+       <div>
+        <a href="#" onclick="$('#list-nav-flottenkunden, #list-nav-main').toggleClass('hidden');">
+         <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-left">
+         </span>
+         Fleet customers
+        </a>
+       </div>
+      </li>
+      <li>
+       <a href="/Flottenkunden">
+        Fleet customers
+       </a>
+      </li>
+      <li>
+       <a href="/Flottenkunden/Leistungen">
+        Services
+       </a>
+      </li>
+      <li>
+       <a href="/Flottenkunden/Flottenservice">
+        Fleet service
+       </a>
+      </li>
+      <li>
+       <a href="/Flottenkunden/Flottenkunden- werden">
+        Become a fleet customer
+       </a>
+      </li>
+     </ul>
+     <ul class = "list-unstyled hidden" id = "list-nav-about-us">
+      <li>
+       <div>
+        <a href="#" onclick="$('#list-nav-ueber-uns, #list-nav-main').toggleClass('hidden');">
+         <span aria-hidden = "true" class = "glyphicon glyphicon-triangle-left">
+         </span>
+         about us
+        </a>
+       </div>
+      </li>
+      <li>
+       <a href="/Unternehmen/Profil">
+        about us
+       </a>
+      </li>
+      <li>
+       <a href="/FAIRrechen">
+        FAIR speaking
+       </a>
+      </li>
+      <li>
+       <a href="/Unternehmen/Karriere/OffeneStellen">
+        Career
+       </a>
+      </li>
+      <li>
+       <a href="/Contact">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </div>
+    <! - Mobile menu End ->
+    <div id = "main-nav">
+     <div class = "container">
+      <ul class = "row list-unstyled clearfix">
+       <li class = "col-xs-6">
+        <ul class = "list-unstyled clearfix" style = "margin-top: 0;">
+         <li>
+          <div style = "width: 60px;">
+           <! - dummy, replacement for shop ->
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class = "col-xs-6">
+        <ul class = "list-unstyled clearfix" style = "margin-top: 0;">
+         <li>
+          <div id = "selected-vehicle">
+           <label>
+            Your vehicle:
+           </label>
+           <a href="/Vehicle">
+            Please choose
+           </a>
+          </div>
+         </li>
+         <li>
+          <div id = "selected-garage">
+           <label>
+            Your branch:
+           </label>
+           <a href="/Home/Filiale">
+            Please choose
+           </a>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class = "col-xs-6">
+        Services
+        <ul class = "list-unstyled clearfix">
+         <li>
+          <a href="/Services/Inspektion">
+           <i class = "fa fa-angle-right">
+           </i>
+           inspection
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Hauptuntersprüfung">
+           <i class = "fa fa-angle-right">
+           </i>
+           TÜV
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Oel">
+           <i class = "fa fa-angle-right">
+           </i>
+           Oil change
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Bremsen">
+           <i class = "fa fa-angle-right">
+           </i>
+           brake
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Endschalldaempfer">
+           <i class = "fa fa-angle-right">
+           </i>
+           Exhaust
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Stossdaempfer">
+           <i class = "fa fa-angle-right">
+           </i>
+           landing gear
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Radwechsel">
+           <i class = "fa fa-angle-right">
+           </i>
+           Wheel change
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Glas">
+           <i class = "fa fa-angle-right">
+           </i>
+           Glass
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Klima">
+           <i class = "fa fa-angle-right">
+           </i>
+           climate
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Batterie">
+           <i class = "fa fa-angle-right">
+           </i>
+           Electrics
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "col-xs-6">
+        tires
+        <ul class = "list-unstyled clearfix">
+         <li>
+          <a href="/ReifenFelgen">
+           <i class = "fa fa-angle-right">
+           </i>
+           Tires rim
+          </a>
+         </li>
+         <! - <li> <a href="/Tire"> <i class = "fa fa-angle-right"> </i> Tire shop </a> </li> ->
+         <li>
+          <a href="/Felgen">
+           <i class = "fa fa-angle-right">
+           </i>
+           Rim shop
+          </a>
+         </li>
+         <li>
+          <a href="/Felgen/Rdks">
+           <i class = "fa fa-angle-right">
+           </i>
+           TPMS / TPMS
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "col-xs-6">
+        Fleet customers
+        <ul class = "list-unstyled clearfix">
+         <li>
+          <a href="/Flottenkunden">
+           <i class = "fa fa-angle-right">
+           </i>
+           Fleet customers
+          </a>
+         </li>
+         <li>
+          <a href="/Flottenkunden/Leistungen">
+           <i class = "fa fa-angle-right">
+           </i>
+           Services
+          </a>
+         </li>
+         <li>
+          <a href="/Flottenkunden/Flottenservice">
+           <i class = "fa fa-angle-right">
+           </i>
+           Fleet service
+          </a>
+         </li>
+         <li>
+          <a href="/Flottenkunden/Flottenkunden- werden">
+           <i class = "fa fa-angle-right">
+           </i>
+           Become a fleet customer
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "col-xs-6">
+        Companies
+        <ul class = "list-unstyled clearfix">
+         <li>
+          <a href="/Unternehmen/Profil">
+           <i class = "fa fa-angle-right">
+           </i>
+           about us
+          </a>
+         </li>
+         <li>
+          <a href="/FAIRrechen">
+           <i class = "fa fa-angle-right">
+           </i>
+           FAIR speaking
+          </a>
+         </li>
+         <li>
+          <a href="/Unternehmen/Karriere/OffeneStellen">
+           <i class = "fa fa-angle-right">
+           </i>
+           Career
+          </a>
+         </li>
+         <li>
+          <a href="/Contact">
+           <i class = "fa fa-angle-right">
+           </i>
+           Contact
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id = "modal-login">
+     <div class = "container">
+      <div class = "col-xs-12 col-md-6 col-lg-6">
+       <form action = "/ Account / Login" id = "login-form" method = "post">
+        <p>
+         Do you already have an account at pitstop.de? Then you can log in here with your access data.
+        </p>
+        <div class = "row form-group">
+         <div class = "col-xs-10">
+          <span class = "form-label">
+           e-mail
+          </span>
+          <input class = "form-control form-control-var2" id = "Login" name = "Login" type = "text" value = "">
+          </input>
+         </div>
+        </div>
+        <div class = "row form-group">
+         <div class = "col-xs-10">
+          <span class = "form-label">
+           password
+          </span>
+          <input class = "form-control form-control-var2" id = "Password" name = "Password" type = "password" value = "">
+          </input>
+         </div>
+        </div>
+        <input name = "__ RequestVerificationToken" type = "hidden" value = "_ IHEgJrE40mZynN5xCDzOXRZCXMwE_AvAhbn28ik8CSPMptHyV3oLTduMM9RUyL_SqNvqS0M9RaadHasY2">
+         <input id = "ReturnUrl" name = "ReturnUrl" type = "hidden" value = "/" />
+         <button class = "btn btn-default btn-default-var2" type = "submit">
+          register
+         </button>
+         <a class="link-button" href="/Account/PasswordRecovery" style="margin-left: 15px;">
+          Forgot Password
+         </a>
+        </input>
+       </form>
+      </div>
+      <div class = "col-xs-12 col-md-6 col-lg-6 register-mobile top-space-30">
+       <h4>
+        Don't have an account yet?
+       </h4>
+       <p>
+        If you do not yet have a customer account, you can register here quickly and easily. After registering at pitstop.de, you can use all the advantages of My pitstop and view and manage your details and orders.
+       </p>
+       <a class="btn btn-default btn-default-var2" href="/Account/Registration">
+        to register
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id = "site-content">
+    <div id = "home-index">
+     <! - Mobile optimization ->
+     <div class = "container fullscreen" id = "service-nav-wrapper" style = "background: url (/Content/Images2019/Pitstop/bg-service-nav.jpg) no-repeat; background-size: cover; background -position: center; ">
+      <div class = "area-headline hidden-xs hidden-sm" style = "position: absolute; z-index: 10; left: 50%; top: -100px; transform: translate (-50%, -200px); ">
+       Book your service
+      </div>
+      <div class = "area-headline-outer hidden-xs hidden-sm text-center" id = "home-headline">
+       <a class="button button-lg bottom-space-15 font-size-32 line-height-36 padding-h-50" href="#jumplink-services" id="main-area-headline">
+        Your car.
+        <br/>
+        Your individual price.
+        <br/>
+        Your appointment.
+       </a>
+       <br/>
+      </div>
+      <div class = "box" id = "service-nav">
+       <div class = "box-content">
+        <div class = "area-headline-outer top-space-30 visible-xs visible-sm">
+         <a class="button button-md bottom-space-15" href="#jumplink-services" id="main-area-headline">
+          Your car.
+          <br/>
+          Your individual price.
+          <br/>
+          Your appointment.
+         </a>
+         <br/>
+        </div>
+        <h1 class = "font-weight-light bottom-space-20" id = "jumplink-services">
+         Book your service
+        </h1>
+        <ul class = "list-unstyled list-inline clearfix">
+         <li>
+          <a href="/Services/Inspektion">
+           <span class = "service-image service-image-inspection">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / inspektion_w.svg" />
+           </span>
+           <label class = "service-caption">
+            inspection
+           </label>
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Hauptuntersprüfung">
+           <span class = "service-image service-image-hu-au">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / tuev_w.svg" />
+           </span>
+           <label class = "service-caption">
+            TÜV
+           </label>
+          </a>
+         </li>
+         <li>
+          <a href="/Services/Oel">
+           <span class = "service-image service-image-oil">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / oel_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Oil change
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Bremsen">
+           <span class = "service-image service-image-brakes">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / bremse_w.svg" />
+           </span>
+           <label class = "service-caption">
+            brake
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Endschalldaempfer">
+           <span class = "service-image service-image-emission">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / auspuff_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Exhaust
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Stossdaempfer">
+           <span class = "service-image service-image-shocker">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / fahrwerk_w.svg" />
+           </span>
+           <label class = "service-caption">
+            landing gear
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Radwechsel">
+           <span class = "service-image service-image-tires-change">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / radwechsel_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Wheel change
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Glas">
+           <span class = "service-image service-image-glass">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / glas_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Glass
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Klima">
+           <span class = "service-image service-image-air-cond">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / klima_w.svg" />
+           </span>
+           <label class = "service-caption">
+            climate
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <li>
+          <a href="/Services/Batterie">
+           <span class = "service-image service-image-electric">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / Batterie_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Electrics
+           </label>
+          </a>
+         </li>
+         <li>
+          <a href="/ReifenFelgen">
+           <span class = "service-image service-image-tires-change">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / reifen_w.svg" />
+           </span>
+           <label class = "service-caption">
+            tires
+           </label>
+          </a>
+         </li>
+         <li>
+          <a href="/ReifenFelgen">
+           <span class = "service-image service-image-tires-change">
+            <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / base / komplettrad_w.svg" />
+           </span>
+           <label class = "service-caption">
+            Complete wheels
+           </label>
+          </a>
+         </li>
+         <! -
+->
+         <! -
+->
+        </ul>
+        <div class = "text-center hidden-xs">
+         <h1>
+          <a href="#link-page-down">
+           <span aria-hidden = "true" class = "glyphicon glyphicon-chevron-down text-color-white">
+           </span>
+          </a>
+         </h1>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin top-space-30" id = "link-page-down">
+      <div class = "row bottom-space-30 top-space-30">
+       <div class = "col-xs-12" style = "background: url (/Content/Images2019/Pitstop/bg-reifenshop.jpg) no-repeat; background-size: cover; background-position: center;">
+        <div class = "row">
+         <div class = "col-sm-12 text-center bottom-space-15">
+          <div class = "display-flex align-items-center justify-content-center" style = "min-height: 400px;">
+           <a class="button button-lg" href="/ReifenFelgen">
+            Find your tire
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class = "search-panel clearfix" id = "tire-search-panel">
+         <form action = "/ Tires / Search" class = "clearfix form-inline" data-refresh-action = "/ Tires / Dimensions" method = "get">
+          <select class = "form-control" data-val = "true" data-val-required = 'The field "VehicleType" is required.' id = "tire-vehicletype" name = "VehicleType">
+           <option selected = "selected" value = "PASSENGER_CAR">
+            Car
+           </option>
+           <option value = "SUV">
+            SUV
+           </option>
+           <option value = "LIGHTTRUCK">
+            Vans
+           </option>
+          </select>
+          <select class = "form-control" data-val = "true" data-val-required = 'The field "Season" is required.' id = "tire-season" name = "Season">
+           <option selected = "selected" value = "WINTER">
+            Winter tires
+           </option>
+           <option value = "SUMMER">
+            Summer tires
+           </option>
+           <option value = "ALLSEASON">
+            All season tires
+           </option>
+          </select>
+          <select class = "form-control" data-val = "true" data-val-number = 'The "Width" field must be a number.' data-val-required = 'The "Width" field is required.' id = "tire-width" name = "Width">
+           <option>
+            125
+           </option>
+           <option>
+            135
+           </option>
+           <option>
+            145
+           </option>
+           <option>
+            155
+           </option>
+           <option>
+            165
+           </option>
+           <option>
+            175
+           </option>
+           <option>
+            185
+           </option>
+           <option selected = "selected">
+            195
+           </option>
+           <option>
+            205
+           </option>
+           <option>
+            215
+           </option>
+           <option>
+            225
+           </option>
+           <option>
+            235
+           </option>
+           <option>
+            245
+           </option>
+           <option>
+            255
+           </option>
+           <option>
+            265
+           </option>
+           <option>
+            275
+           </option>
+           <option>
+            285
+           </option>
+           <option>
+            295
+           </option>
+           <option>
+            305
+           </option>
+           <option>
+            315
+           </option>
+           <option>
+            325
+           </option>
+           <option>
+            335
+           </option>
+          </select>
+          <select class = "form-control" data-val = "true" data-val-number = 'The "Section" field must be a number.' data-val-required = 'The "Section" field is required.' id = "tire-section" name = "Section">
+           <option>
+            45
+           </option>
+           <option>
+            50
+           </option>
+           <option>
+            55
+           </option>
+           <option>
+            60
+           </option>
+           <option selected = "selected">
+            65
+           </option>
+           <option>
+            70
+           </option>
+           <option>
+            80
+           </option>
+          </select>
+          <select class = "form-control" data-val = "true" data-val-number = 'The "Diameter" field must be a number.' data-val-required = 'The "Diameter" field is required.' id = "tire-diameter" name = "Diameter">
+           <option>
+            14th
+           </option>
+           <option selected = "selected">
+            15th
+           </option>
+           <option>
+            16
+           </option>
+          </select>
+          <div class = "hidden-xs display-inline-block">
+           <button class = "btn btn-info" type = "submit">
+            Search
+           </button>
+          </div>
+          <div class = "visible-xs text-right">
+           <button class = "btn btn-info" type = "submit">
+            Search
+           </button>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin top-space-30">
+      <div class = "row bottom-space-30 top-space-30">
+       <div class = "col-xs-12" style = "background: url (/Content/Images2019/Pitstop/bg-reifenshop.jpg) no-repeat; background-size: cover; background-position: center;">
+        <div class = "row">
+         <div class = "col-sm-12 text-center bottom-space-15">
+          <div class = "display-flex align-items-center justify-content-center" style = "min-height: 400px;">
+           <a class="button button-lg" href="/ReifenFelgen">
+            Tires and rims / complete wheels
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin bottom-space-30" id = "pitstop-offers-discover">
+      <div class = "row">
+       <h1 class = "animated animation-zoom-in" id = "offers-discover" style = "visibility: hidden">
+        Discover offers
+       </h1>
+       <div class = "bg-color-var1 clearfix">
+        <div>
+         <div class = "col-sm-9" style = "background: url (/Content/Images2019/Pitstop/bg_deutschland_hat_gewaehlt.jpg) no-repeat; background-size: cover; background-position: center;">
+          <div>
+           <img class = "img-responsive center-block" id = "pitstop-offers-discover-award" src = "/ Content / Images2019 / Pitstop / honors / Beste_Kfz-Werkstaetten_2020_21_Marke.png" />
+          </div>
+         </div>
+         <div class = "col-sm-3">
+          <div class = "item-caption">
+           <h3>
+            GERMANY HAS VOTED
+           </h3>
+           A total of 39 pitstop branches among the 1,000 best workshops
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "row top-space-30">
+       <div class = "col-sm-3">
+        <div class = "item" style = "background: url (/Content/Images2019/Pitstop/bg-item-checkliste.jpg) no-repeat; background-size: cover; background-position: left center;">
+         <div class = "item-caption">
+          <h4>
+           Inspection due?
+          </h4>
+          According to the manufacturer's specifications, including a 24-month mobility guarantee
+          <a class="btn btn-primary btn-block top-space-20" href="/Services/Inspektion">
+           Determine the fair price
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "col-sm-3">
+        <div class = "item" style = "background: url (/Images/Mobox/mobox_banner_1000x500_1.jpg) no-repeat; background-size: 100% auto; background-position: top; background-color: # 000000;">
+         <div class = "item-caption">
+          <h4>
+           Discover Mobox now
+          </h4>
+          <a class="btn btn-primary btn-block top-space-20" href="/Mobox">
+           Book online now
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "col-sm-3">
+        <div class = "item" style = "background: url (/Content/Images2019/Pitstop/bg-item-reifen_slider.jpg) no-repeat; background-size: cover; background-position: center;">
+         <div class = "item-caption">
+          <h4>
+           Top summer tires
+          </h4>
+          from all brands at the best price updated every day!
+          <a class="btn btn-primary btn-block top-space-20" href="/Tire">
+           Find tires
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class = "col-sm-3">
+        <div class = "item" style = "background: url (/Content/Images2019/Pitstop/bg-item-wizard_bremsen_bg_200180228.jpg) no-repeat; background-size: cover; background-position: center;">
+         <div class = "item-caption">
+          <h4>
+           Save up to 40% on brake service! *
+          </h4>
+          Only when booking online
+          <a class="btn btn-primary btn-block top-space-20" href="/Services/Bremsen">
+           Determine the fair price
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin">
+      <div class = "row">
+       <h1 class = "animated" id = "reasons-for-pitstop" style = "visibility: hidden">
+        5 reasons for pitstop
+        <br/>
+        <span>
+         Our fair speech to you
+        </span>
+       </h1>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin bottom-space-30" style = "background: linear-gradient (to right, rgba (255,255,255,1) 0%, rgba (255,255,255,1) 5%, rgba (255,255,255 , 0) 5%, rgba (255,255,255,0) 95%, rgba (255,255,255,1) 95%, rgba (255,255,255,1) 100%), url (/ Content / Images2019 / Pitstop / bg-5-gruende-fuer -pitstop.jpeg) no-repeat; background-size: cover; background-position: center; ">
+      <div class = "row usp-wrapper bottom-space-30">
+       <div class = "usp-list">
+        <div class = "usp-item usp-item-price col-xs-12 col-sm-6 col-md-4">
+         <div class = "usp-item-inner">
+          <div data-cms-content = "1399">
+           <h2>
+            Fair prices
+           </h2>
+           <p>
+            With us there are no hidden costs! Before the start of the repair, you will receive a detailed cost estimate listing all services.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class = "usp-item usp-item-appointment col-xs-12 col-sm-6 col-md-4">
+         <div class = "usp-item-inner">
+          <div data-cms-content = "1400">
+           <h2>
+            Fair dates
+           </h2>
+           <p>
+            Make an appointment online, by phone or in person, or drop by spontaneously - we always do everything we can to ensure that you are mobile again quickly.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class = "usp-item usp-item-service col-xs-12 col-sm-6 col-md-4">
+         <div class = "usp-item-inner">
+          <div data-cms-content = "1401">
+           <h2>
+            Fair service
+           </h2>
+           <p>
+            We won't do anything without your approval. We tell you openly and honestly which repairs are necessary and you decide for yourself what should and should not be done.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class = "usp-item usp-item-quality col-xs-12 col-sm-6 col-md-6">
+         <div class = "usp-item-inner">
+          <div data-cms-content = "1402">
+           <h2>
+            Fair quality
+           </h2>
+           <p>
+            Your safety is particularly important to us. That is why we only install spare parts in OEM quality. In this way, your vehicle warranty is also retained.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class = "usp-item usp-item-work col-xs-12 col-sm-12 col-md-6">
+         <div class = "usp-item-inner">
+          <div data-cms-content = "1403">
+           <h2>
+            Fair work
+           </h2>
+           <p>
+            We keep all removed auto parts until the vehicle is picked up so that you can get an idea for yourself. All work is documented by us.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid bottom-space-30" style = "background: linear-gradient (0deg, rgba (43, 83, 151, 0.5), rgba (43, 83, 151, 0.5)), url ( /Content/Images2019/Pitstop/bg-trustpilot.jpg) no-repeat; background-size: cover; background-position: center; ">
+      <div class = "row">
+       <div class = "col-xs-12 news text-center">
+        <div class = "row top-space-30 bottom-space-30">
+         <div class = "col-sm-1">
+         </div>
+         <div class = "col-sm-10">
+          <div class = "trustpilot-wrapper">
+           <div class = "row display-flex align-items-center">
+            <div class = "col-xs-12 col-sm-6">
+             <div class = "margin-1111">
+              <! - TrustBox widget - Mini Carousel ->
+              <div class = "trustpilot-widget" data-businessunit-id = "5804927c0000ff0005962397" data-locale = "de-DE" data-stars = "4,5" data-style-height = "350px" data-style-width = "100%" data-template-id = "539ad0ffdec7e10e686debd7" data-theme = "dark">
+               <a href="https://de.trustpilot.com/review/www.pitstop.de" rel="noopener" target="_blank">
+                Trustpilot
+               </a>
+              </div>
+              <! - End TrustBox widget ->
+             </div>
+            </div>
+            <div class = "col-xs-12 col-sm-6">
+             <! - Workshop expert widget ->
+             <div class = "werkstattkenner-widget">
+              <iframe frameborder = "0" height = "210" scrolling = "no" src = "https://www.werkstattkenner.de/Widget/22/3448/" width = "220">
+              </iframe>
+             </div>
+             <! - Workshop expert widget ->
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "col-sm-1">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id = "partner-area">
+      <div class = "container-fluid container-margin">
+       <div class = "row">
+        <div class = "col-sm-12">
+         <div class = "row brand-wrapper">
+          <h1 class = "animated" id = "pitstop-brands" style = "visibility: hidden">
+           Partnerships
+          </h1>
+          <div class = "brand-list">
+           <div class = "display-flex align-items-center justify-content-center">
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/Sachs">
+              <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-sachs.png" />
+             </a>
+            </div>
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/MANN">
+              <img # = "" class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-mann.png" />
+             </a>
+            </div>
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/ATE">
+              <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-ate.png" />
+             </a>
+            </div>
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/Castrol">
+              <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-castrol.png" />
+             </a>
+            </div>
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/Bridgestone">
+              <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-bridgestone.png" />
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class = "brand-list">
+           <div class = "display-flex align-items-center justify-content-center">
+            <div class = "box-shadow margin-1111">
+             <a href="/Marken/TUV">
+              <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-tuev-rheinland.png" />
+             </a>
+            </div>
+            <div class = "box-shadow margin-1111">
+             <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-adac.png" />
+            </div>
+            <div class = "box-shadow margin-1111">
+             <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / partner-logo-huk.png" />
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "teaser-wrapper parallax-section-1 bottom-space-30 hidden-xs">
+      <div class = "teaser parallax-section-1 mobox-parallax" data-cms-content = "1414" style = "background-image: url ('/ Image / Mobox / V1_Mobox_PitstopBanners_2600x1200_Homepage.png')">
+       <div class = "container">
+        <div class = "teaser-content">
+         <h2>
+          <a href="https://www.pitstop.de/mobox" style="font-size: 1px; height: 590px; width: 150%; position: absolute; top: 0; left: -290px;">
+          </a>
+         </h2>
+         <h3>
+         </h3>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "top-space-30 clearfix">
+      <div class = "container-fluid container-margin top-space-30" id = "pitstop-in -zahlen-area" style = "background: url (/Content/Images2019/Pitstop/bg-pitstop-zahlen.jpg) no-repeat center center; background-size: cover ">
+       <div class = "row">
+        <div class = "item col-sm-4">
+         <h1 class = "animated" id = "pitstop-numbers" style = "visibility: hidden">
+          pitstop numbers
+         </h1>
+        </div>
+        <div class = "item col-sm-4">
+         <div data-cms-content = "1404">
+          <span class = "number">
+           1400
+          </span>
+          <h2>
+           Employee
+          </h2>
+          <p>
+           Around 1,400 well-trained mechanics, mechatronics and master mechanics work for you with us.
+          </p>
+         </div>
+        </div>
+        <div class = "item col-sm-4">
+         <div data-cms-content = "1405">
+          <span class = "number">
+           300
+          </span>
+          <h2>
+           Branches
+          </h2>
+          <p>
+           In the north, south, west and east: our teams are approx. 300 branches throughout Germany are there for you.
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class = "row">
+        <div class = "item col-sm-4">
+         <div data-cms-content = "1406">
+          <span class = "number">
+           200
+          </span>
+          <h2>
+           Cities
+          </h2>
+          <p>
+           You can find us in approx. 200 cities, even several times in metropolitan areas. Definitely also in your area.
+          </p>
+         </div>
+        </div>
+        <div class = "item col-sm-4">
+         <div data-cms-content = "1407">
+          <span class = "number">
+           1506
+          </span>
+          <h2>
+           Lifting platforms
+          </h2>
+          <p>
+           Our customers' cars are made fit again on our 1506 modern lifting platforms.
+          </p>
+         </div>
+        </div>
+        <div class = "item col-sm-4">
+         <div data-cms-content = "1408">
+          <span class = "number">
+           1971
+          </span>
+          <h2>
+           Opening of the 1st branch
+          </h2>
+          <p>
+           As one of the first workshop chains, we are at your side with over 40 years of experience.
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "container-fluid container-margin">
+      <div class = "row">
+       <h1 class = "animated" id = "about-pitstop" style = "visibility: hidden">
+        About pitstop
+        <br/>
+        <span>
+         What we offer you
+        </span>
+       </h1>
+      </div>
+     </div>
+     <div class = "bg-color-var1" id = "about-pitstop-area">
+      <div class = "container-fluid container-margin">
+       <div class = "row display-flex align-items-center">
+        <div class = "col-sm-4 padding-x0x0">
+         <div>
+          <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / ueber-pitstop-1.jpg" />
+         </div>
+        </div>
+        <div class = "col-sm-6 col-lg-4 col-sm-push-1 col-sm-pull-1 col-lg-push-2 col-lg-pull-2">
+         <div>
+          <div class = "text-color-white top-space-30 bottom-space-30">
+           <h3>
+            pitstop: fair car service from professionals
+           </h3>
+           <p>
+            Fair service all along the line: We are committed to this goal. We work in over 300 master workshops all over Germany every day to ensure that you can be mobile again quickly and enjoy your car for a long time. Regardless of whether
+            <a href="/Services/Hauptuntersprüfung">
+             HU / AU
+            </a>
+            ,
+            <a href="/Services/Inspektion">
+             Vehicle inspection
+            </a>
+            ,
+            <a href="/Services/Stossdaempfer">
+             Shock absorbers
+            </a>
+            - or
+            <a href="/Services/Bremsen">
+             Brake change
+            </a>
+            ,
+            <a href="/Services/Radwechsel">
+             Tire change
+            </a>
+            , Tire storage,
+            <a href="/Services/Glas">
+             Car glass
+            </a>
+            -Service or
+            <a href="/Services/Batterie">
+             Replacing the car battery
+            </a>
+            - We are there for you in all matters relating to vehicles. You can conveniently book many of the services offered by our vehicle workshops online. This will save you time and effort. If your car has to stay longer in the workshop, we will keep you moving with a replacement vehicle that can easily be booked.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row display-flex align-items-center">
+        <div class = "col-sm-4 padding-x0x0">
+         <div>
+          <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / ueber-pitstop-2.jpg" />
+         </div>
+        </div>
+        <div class = "col-sm-6 col-lg-4 col-sm-push-1 col-sm-pull-1 col-lg-push-2 col-lg-pull-2">
+         <div>
+          <div class = "text-color-white top-space-30 bottom-space-30">
+           <h3>
+            Order tires and car accessories conveniently online
+           </h3>
+           <p>
+            pitstop not only offers you car service, but also an extensive range
+            <a href="/Tire">
+             Summer tires, winter tires and all-season tires
+            </a>
+            for every need. Easily find the right tire online and book the tire service at the desired date. Of course, you can also store your tires with us until the next tire change. It couldn't be easier. And if you are still missing something to make your car happy, have a look at our online shop for car accessories: We offer you for example
+            <a href="/Shop/zubehoer/einparkhilfe">
+             Parking aids
+            </a>
+            or
+            <a href="/Shop/anhaengerkupplung-transport">
+             Trailer hitches with installation service
+            </a>
+            ,
+            <a href="/Shop/licht-sicht">
+             Car headlights with assembly
+            </a>
+            and much more at low prices.
+            <br/>
+            <br/>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row display-flex align-items-center">
+        <div class = "col-sm-4 padding-x0x0">
+         <div>
+          <img class = "img-responsive" src = "/ Content / Images2019 / Pitstop / ueber-pitstop-3.jpg" />
+         </div>
+        </div>
+        <div class = "col-sm-6 col-lg-4 col-sm-push-1 col-sm-pull-1 col-lg-push-2 col-lg-pull-2">
+         <div>
+          <div class = "text-color-white top-space-30 bottom-space-30">
+           <h3>
+            Quality and openness are our trump cards
+           </h3>
+           <p>
+            Thanks to our more than 40 years of experience in car service, we know how important quality is for the safety of our customers. That is why we only use branded car parts in OEM quality for all our work. This means that your vehicle guarantee is retained in any case. We also always make our prices and the processing fair: We discuss everything thoroughly with you in advance, never carry out work without your okay and provide you with a detailed proof of performance and a well-kept checkbook when you pick it up. In addition, we keep all removed parts for you until the vehicle is picked up so that you can get an idea for yourself. Because we don't just want to give our best every day, we also want to give that crucial little bit more.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      <div class = "container-fluid container-margin">
+       <div class = "row payment-wrapper">
+        <h1 class = "animated" id = "pitstop-safe-payment" style = "visibility: hidden">
+         Safe payment
+        </h1>
+        <ul class = "payment-list list-unstyled">
+         <li class = "payment-visa" data-title = "At pitstop.de you can pay with credit cards from VISA and Mastercard. Your data is protected by the SSL process.">
+         </li>
+         <li class = "payment-mastercard" data-title = "At pitstop.de you can pay with credit cards from VISA and Mastercard. Your data is protected by the SSL process.">
+         </li>
+         <li class = "payment-direct-banking" data-title = "For the payment by instant transfer you need PIN and TAN as well as account number and bank code. Your data is protected by SSL encryption.">
+         </li>
+         <li class = "payment-paypal" data-title = "A payment via PayPal reaches us within a very short time. You can do this at the end of the order with PayPal.">
+         </li>
+         <li class = "payment-paydirekt" data-title = "A payment via PayDirekt reaches us within a very short time. You make this at the end of the order with PayDirekt.">
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id = "site-footer" style = "background: url (/Content/Images2019/Pitstop/bg-footer.jpg) no-repeat; background-size: cover;">
+    <div class = "container">
+     <div class = "row top-space-30">
+      <form action = "https://eu2.cleverreach.com/f/160196-169368/wcs/" autocomplete = "off" method = "post" target = "_ blank">
+       <div class = "col-sm-1">
+       </div>
+       <div class = "col-xs-12 col-sm-3" id = "newsletter-text">
+        <h4>
+         Subscribe to Newsletter
+         <br>
+          <span style = "font-size: 73%;">
+           and never miss an offer
+          </span>
+         </br>
+        </h4>
+       </div>
+       <div class = "col-xs-7 col-sm-5">
+        <input class = "form-control" name = "email" type = "text" />
+       </div>
+       <div class = "col-xs-5 col-sm-2">
+        <button class = "button w-100 newsletter-button" type = "submit">
+         Submit
+        </button>
+       </div>
+      </form>
+     </div>
+     <div class = "row">
+      <div class = "col-xs-12">
+       <div class = "linklist" data-cms-content = "1702">
+        <header>
+         <h3>
+          pitstop services
+         </h3>
+        </header>
+        <ul class = "linklist-body">
+         <li class = "linklist-item">
+          <a href="/Services/Inspektion">
+           <span class = "linklist-item-text">
+            inspection
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Hauptuntersprüfung">
+           <span class = "linklist-item-text">
+            TÜV
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Oel">
+           <span class = "linklist-item-text">
+            Oil change
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Bremsen">
+           <span class = "linklist-item-text">
+            brake
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Endschalldaempfer">
+           <span class = "linklist-item-text">
+            Exhaust
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Stossdaempfer">
+           <span class = "linklist-item-text">
+            landing gear
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Radwechsel">
+           <span class = "linklist-item-text">
+            Wheel change
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Glas">
+           <span class = "linklist-item-text">
+            Glass
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Klima">
+           <span class = "linklist-item-text">
+            climate
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Services/Batterie">
+           <span class = "linklist-item-text">
+            Electrics
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "col-xs-12">
+       <div class = "linklist" data-cms-content = "1705">
+        <header>
+         <h3>
+          pitstop partner
+         </h3>
+        </header>
+        <ul class = "linklist-body">
+         <li class = "linklist-item">
+          <a href="/Marken/ATE">
+           <span class = "linklist-item-text">
+            ATE
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Marken/Castrol">
+           <span class = "linklist-item-text">
+            Castrol
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Marken/Sachs">
+           <span class = "linklist-item-text">
+            Sachs
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Marken/MANN">
+           <span class = "linklist-item-text">
+            MAN FILTER
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Marken/TUV">
+           <span class = "linklist-item-text">
+            TÜV Rheinland
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "col-xs-12">
+       <div class = "linklist" data-cms-content = "1709">
+        <header>
+         <h3>
+          pitstop workshops
+         </h3>
+        </header>
+        <ul class = "linklist-body">
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Berlin">
+           <span class = "linklist-item-text">
+            Workshop in Berlin
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Dresden">
+           <span class = "linklist-item-text">
+            Workshop in Dresden
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Frankfurt">
+           <span class = "linklist-item-text">
+            Workshop in Frankfurt
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Hamburg">
+           <span class = "linklist-item-text">
+            Workshop in Hamburg
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Koeln">
+           <span class = "linklist-item-text">
+            Workshop in Cologne
+           </span>
+          </a>
+         </li>
+         <li class = "linklist-item">
+          <a href="/Werkstatt/Muenchen">
+           <span class = "linklist-item-text">
+            Workshop in Munich
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id = "meta-nav">
+    <div class = "container clearfix">
+     <div class = "row">
+      <div class = "col-xs-12 col-sm-12 text-center">
+       <ul class = "list-unstyled">
+        <li>
+         <a href="/Unternehmen/Profil">
+          about us
+         </a>
+        </li>
+        <li>
+         <a href="/Unternehmen/Karriere/OffeneStellen">
+          Career
+         </a>
+        </li>
+        <li>
+         <a href="/Unternehmen/Agb">
+          Conditions
+         </a>
+        </li>
+        <li>
+         <a href="/Unternehmen/Agb#datenschutz">
+          data protection
+         </a>
+        </li>
+        <li>
+         <a href="/Unternehmen/Impressum">
+          imprint
+         </a>
+        </li>
+        <li>
+         <a href="/Help">
+          Help & amp; FAQ
+         </a>
+        </li>
+        <li>
+         <a href="/Contact">
+          Contact
+         </a>
+        </li>
+        <li>
+         <a href="/Account/Newsletter">
+          Newsletter
+         </a>
+        </li>
+        <li>
+         <a href="https://de-de.facebook.com/pitstop.de" target="_blank" title="facebook">
+          <img src = "/ Images / logo_facebook.png" />
+         </a>
+         <a href="https://www.instagram.com/pitstop.de/?hl=de "target="_blank" title="google+">
+          <img src = "/ Images / logo_instagram.png" />
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <! - Container for modal popup for searching a vehicle ->
+  <div id = "chooseVehicleModalContainer">
+  </div>
+  <script src = "/ scripts / jquery? v = hm4u2I6oKiyxnnbNVpP0RxpUbVqmwqZDPWY6huFHx_81">
+  </script>
+  <script src = "/ scripts / app? v = cBr6nG8wHSwxiGtR343VoGaPSB06zg52Bu9CpVPKCks1">
+  </script>
+  <script src = "/ scripts / threesixty.js">
+  </script>
+ </body>
+</html>

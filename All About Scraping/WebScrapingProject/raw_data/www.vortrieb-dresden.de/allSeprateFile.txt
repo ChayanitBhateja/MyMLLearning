@@ -1,0 +1,220 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <title>
+   DRESDEN DRIVE | Car workshop for high-quality vehicles and autogas conversions
+  </title>
+  <meta content = "" name = "description" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <link href = "assets / css / style.css" rel = "stylesheet" />
+  <link href = "assets / css / normalize.css" rel = "stylesheet" />
+  <link href = "assets / css / skeleton.css" rel = "stylesheet" />
+  <link href = "assets / fonts / trenda-heavy / webfonts / trenda-heavy.css" rel = "stylesheet" />
+  <link href = "assets / fonts / trenda-regular / webfonts / trenda-regular.css" rel = "stylesheet" />
+  <link href = "assets / fonts / trenda-bold / webfonts / trenda-bold.css" rel = "stylesheet" />
+  <link href = "images / favicon.png" rel = "icon" type = "image / png" />
+ </head>
+ <body id = "home">
+  <div class = "animate fadeIn fade" id = "main">
+   <div class = "navbar">
+    <div class = "burger" id = "nav-icon3">
+     <span>
+     </span>
+     <span>
+     </span>
+     <span>
+     </span>
+     <span>
+     </span>
+    </div>
+   </div>
+   <div class = "mainnav" id = "mainnav">
+    <ul>
+     <li>
+      <a data-scroll="" href="#home">
+       BEGIN
+      </a>
+     </li>
+     <li>
+      <a data-scroll="" href="#about">
+       ABOUT US
+      </a>
+     </li>
+     <li>
+      <a data-scroll="" href="#kontakt">
+       CONTACT
+      </a>
+     </li>
+    </ul>
+   </div>
+   <section class = "header" style = "background: url (assets / img / TITEL.jpg) no-repeat; background-size: cover;">
+    <div class = "headerimage">
+    </div>
+    <div class = "headertext">
+     <div class = "headerlogo">
+      <img src = "assets / img / VORTRIEB_LOGO.png" />
+     </div>
+    </div>
+   </section>
+   <section class = "intro dark" id = "about">
+    <div class = "container" style = "max-width: 800px;">
+     <h2>
+      MOVING WORKSHOP MOMENTS
+     </h2>
+     <p>
+      A force that keeps things moving is also called DRIVE. In this energy
+we have found our calling - because we will convince you that we
+Your honest alternative to an authorized workshop.
+     </p>
+     <p>
+      Passion for vehicles, highly qualified employees, short-term appointments, personal
+Master supervision as well as understandable, transparent communication are the basis of our
+daily work. This demand for perfection and attention to detail is reflected in everyone
+Repair again - regardless of whether it is a mid-range or sports car.
+     </p>
+    </div>
+   </section>
+   <div class = "fit-image">
+    <img <= "" div = "" src = "assets / img / WERKSTATTMOMENTE.jpg" />
+    <section class = "intro dark" id = "studio">
+     <div class = "container" style = "max-width: 800px;">
+      <h2>
+       ALL THINGS NEW? DO THE OTHERS.
+      </h2>
+      <p>
+       Up until now, it was preferred to carry out “replacement diagnoses” for your vehicle instead of the problem
+really to get to the bottom of it? Are you met with big question marks at reception?
+Don't you want to hear the sound that is still there? // If you like these states
+are not strangers or you just want to get to know us, make an appointment.
+      </p>
+      <p>
+       A specialty of the house is the restoration and maintenance of old and youngtimers.
+We have a wide range of experience, especially in the BMW, Mercedes and Porsche sectors.
+      </p>
+     </div>
+    </section>
+    <div class = "fit-image">
+     <img <= "" div = "" src = "assets / img / MOHDOHR.jpg" />
+     <div class = "headline" id = "contact">
+      <div class = "container">
+       <h3>
+        CONTACT
+       </h3>
+      </div>
+     </div>
+     <section class = "footer">
+      <div class = "container">
+       <div class = "row">
+        <div class = "five columns">
+         <p>
+          <b>
+           DRESDEN DRIVE
+           <br/>
+           Hamburger Strasse 65a
+           <br/>
+           01097 Dresden
+          </b>
+          <p>
+           <span>
+            We are looking forward to it,
+            <br/>
+            you and
+Get to know your vehicle.
+           </span>
+          </p>
+          <p>
+           <span class = "lbl">
+            HAIRDRYER
+           </span>
+           0351.206 63 12
+           <br/>
+           <span class = "lbl">
+            MOBILE
+           </span>
+           0172.795 09 75
+           <br/>
+           <span class = "lbl">
+            MAIL
+           </span>
+           <a href="mailto:mail@vortrieb-dresden.de">
+            mail@vortrieb-dresden.de
+           </a>
+          </p>
+          <p class = "primary">
+           <span>
+            You can find us at the »Dresdner
+Automile «at the Flügelwegbrücke
+right next to the Fugel car dealership.
+           </span>
+          </p>
+         </p>
+        </div>
+        <div class = "seven columns">
+         <iframe allowfullscreen = "" frameborder = "0" height = "450" ​​src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.6117641400247!2d13.68554551575356! 3d51.060256079564176! 2m3! 1f0! 2f0! 3f0! 3m2! 1i1024! 2i768! 4f13.1! 3m3! 1m2! 1s0x4709cf92f1b06ac1% 3A0xa64c95374e3196de 1i1024! 2sVORTRIEB37! 1m2! style = "border: 0" width = "600">
+         </iframe>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section class = "imprint">
+      <div class = "container">
+       © 2020 VORTRIEB DRESDEN ·
+       <a href="datenschutz.html">
+        DATA PROTECTION
+       </a>
+       ·
+       <a href="impressum.html">
+        IMPRINT
+       </a>
+       ·
+       <a href=" https://www.instagram.com/vortriebdresden/" target="_blank">
+        INSTAGRAM
+       </a>
+      </div>
+     </section>
+    </div>
+    <script crossorigin = "anonymous" integrity = "sha256-BbhdlvQf / xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44 =" src = "// code.jquery.com/jquery-2.2.4.min.js">
+    </script>
+    <script src = "assets / js / galerie.js">
+    </script>
+    <script src = "assets / js / smooth-scroll.js">
+    </script>
+    <script src = "assets / js / pjax.vendor.js">
+    </script>
+    <! - script src = "assets / js / pjax.js"> </script-->
+    <script>
+     $ (document) .ready (function () {
+    
+// Random BG Image
+    var classCycle = ['black'];
+    var randomNumber = Math.floor (Math.random () * classCycle.length);
+    var classToAdd = classCycle [randomNumber];
+    $ ('body'). addClass (classToAdd);
+    
+// Scroll To Animation Init
+    var scroll = new SmoothScroll ('. js-scroll, [data-scroll]');
+      if ($ (". artists .item.image"). length> 0) {
+var lightbox = $ ('. artists .item.image a'). simpleLightbox ({/ * options * /});
+}
+
+// Burger Click
+    $ ('# nav-icon3'). click (function () {
+$ ("body"). toggleClass ('mopen');
+$ (this) .toggleClass ('open');
+$ ('. mainnav'). toggleClass ('open');
+});
+
+$ ('. mainnav li a'). click (function () {
+$ ('body'). toggleClass ('mopen');
+$ ('. mainnav'). toggleClass ('open');
+$ ('# nav-icon3'). toggleClass ('open');
+});
+
+
+});
+    </script>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1829 @@
+<! DOCTYPE html>
+<html class = "avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template" lang = "de-DE" prefix = "og: http://ogp.me / ns # fb: http://ogp.me/ns/fb# ">
+ <head>
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <title>
+   APM - car care Munthel from Dresden
+  </title>
+  <link href = "// maps.googleapis.com" rel = "dns-prefetch" />
+  <link href = "// s.w.org" rel = "dns-prefetch" />
+  <link href = "https://apm-autopflege.de/feed/" rel = "alternate" title = "APM - Autopflege Munthel from Dresden» Feed "type =" application / rss + xml "/>
+  <link href = "https://apm-autopflege.de/comments/feed/" rel = "alternate" title = "APM - Autopflege Munthel from Dresden» comment feed "type =" application / rss + xml "/>
+  <meta content = "Home" property = "og: title" />
+  <meta content = "article" property = "og: type" />
+  <meta content = "https://apm-autopflege.de/" property = "og: url" />
+  <meta content = "APM - Autopflege Munthel from Dresden" property = "og: site_name" />
+  <meta content = "YOUR CAR CARE IN DRESDEN
+Vehicle preparation and maintenance with more than 20 years of experience
+WELCOME TO THE PROS
+Whether complete vehicle preparation, lacquer sealing, nano-sealing, repair of rims or "property =" og: description "/>
+  <meta content = "https://apm-autopflege.de/wp-content/uploads/2018/05/logo_header.png" property = "og: image" />
+  <script type = "text / javascript">
+   window._wpemojiSettings = {"baseUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ /12.0.0-1 \ / 72x72 \ /", "ext": ". png", "svgUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ /12.0.0-1 \ / svg \ /", "svgExt": ". svg", "source": { "concatemoji": "https: \ / \ / apm-autopflege.de \ / wp-includes \ / js \ /wp-emoji-release.min.js? ver = 5.2.9"}};
+! function (a, b, c) {function d (a, b) {var c = String.fromCharCode; l.clearRect (0,0, k.width, k.height), l.fillText (c.apply ( this, a), 0,0); var d = k.toDataURL (); l.clearRect (0,0, k.width, k.height), l.fillText (c.apply (this, b), 0 , 0); var e = k.toDataURL (); return d === e} function e (a) {var b; if (! L ||! L.fillText) return! 1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) {case "flag": return! (b = d ([55356,56826,55356,56819], [55356,56826,8203,55356,56819]) )) && (b = d ([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447], [55356,57332,8203,56128,56423,8203 , 56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]) ,! b); case "emoji": return b = d ([55357,56424, 55356,57342,8205,55358,56605,8205,55357,56424,55356,57340], [55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),! B } return! 1} function f (a) {var c = b.createElement ("script"); c.src = a, c.defer = c.type = "text / javascript", b.getElementsByTagName ("head" ) [0] .appendChild (c)} var g, h, i, j, k = b.createElement ("canvas"), l = k.getContext && k.getContext ("2d"); for (j = Array ("flag", "emoji"), c.supports = {everything:! 0, everythingExceptFlag:! 0}, i = 0; i <j. length; i ++) c.supports [j [i]] = e (j [i]), c.supports.everything = c.supports.everything && c.supports [j [i]], "flag"! == j [ i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports [j [i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag &&! c.supports.flag, c.DOMReady =! 1, c.readyCallback = function () {c.DOMReady =! 0}, c.supports.everything || (h = function () {c.readyCallback ()}, b.addEventListener? (b.addEventListener ("DOMContentLoaded", h,! 1), a.addEventListener ("load", h,! 1)) :( a.attachEvent ("onload", h), b.attachEvent ("onreadystatechange", function () {"complete" == = b.readyState && c.readyCallback ()})), g = c.source || {}, g.concatemoji? f (g.concatemoji): g.wpemoji && g.twemoji && (f (g.twemoji), f (g. wpemoji)))} (window, document, window._wpemojiSettings);
+  </script>
+  <style type = "text / css">
+   img.wp-smiley,
+img.emoji {
+display: inline! important;
+border: none! important;
+box-shadow: none! important;
+height: 1em! important;
+width: 1em! important;
+margin: 0 .07em! important;
+vertical-align: -0.1em! important;
+background: none! important;
+padding: 0! important;
+}
+  </style>
+  <link href = "https://apm-autopflege.de/wp-content/plugins/wd-google-maps/css/bootstrap.css?ver=1.0.51" id = "bootstrap-css-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://apm-autopflege.de/wp-content/plugins/wd-google-maps/css/frontend_main.css?ver=1.0.51" id = "frontend_main-css-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://apm-autopflege.de/wp-content/themes/Avada/assets/css/style.min.css?ver=6.1.0" id = "avada-stylesheet-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://apm-autopflege.de/wp-content/themes/Avada-Child-Theme/style.css?ver=5.2.9" id = "child-style-css" media = "all "rel =" stylesheet "type =" text / css "/>
+  <! - [if IE]>
+<link rel = 'stylesheet' id = 'avada-IE-css' href =' https: //apm-autopflege.de/wp-content/themes/Avada/assets/css/ie.min.css? ver = 6.1 .0 'type =' text / css' media = 'all' />
+<style id = 'avada-IE-inline-css' type = 'text / css'>
+.avada-select-parent .select-arrow {background-color: # 444d62}
+.select-arrow {background-color: # 444d62}
+</style>
+<! [endif] ->
+  <link href = "https://apm-autopflege.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.1.0-7" id = "borlabs-cookie-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <style id = "wp-typography-custom-inline-css" type = "text / css">
+   sup, sub {font-size: 75%; line-height: 100%} sup {vertical-align: 60%} sub {vertical-align: -10%}. amp {font-family: Baskerville, "Goudy Old Style ", Palatino," Book Antiqua "," Warnock Pro ", serif; font-size: 1.1em; font-style: italic; font-weight: normal; line-height: 1em} .caps {font-size: 90% } .dquo {margin-left: -0.4em} .quo {margin-left: -0.2em} .pull-single {margin-left: -0.15em} .push-single {margin-right: 0.15em} .pull -double {margin-left: -0.38em} .push-double {margin-right: 0.38em}
+  </style>
+  <style id = "wp-typography-safari-font-workaround-inline-css" type = "text / css">
+   body {-webkit-font-feature-settings: "league"; font-feature-settings: "league"; - ms-font-feature-settings: normal;}
+  </style>
+  <link href = "https://apm-autopflege.de/wp-content/uploads/fusion-styles/24ac1259e2d8e27ea1c920812cd11c9b.min.css?ver=2.1" id = "fusion-dynamic-css-css" media = "all "rel =" stylesheet "type =" text / css "/>
+  <script src = "https://apm-autopflege.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type = "text / javascript">
+  </script>
+  <script src = "https://apm-autopflege.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type = "text / javascript">
+  </script>
+  <script src = "https://maps.googleapis.com/maps/api/js?libraries=places%2Cgeometry&amp;v=3.exp&amp;language=de&amp;key=AIzaSyC5Pmc-Lgz3bLvgItPNWzc8KEpu_ROudS4.9 ";ver = "text / javascript">
+  </script>
+  <script src = "https://apm-autopflege.de/wp-content/plugins/wd-google-maps/js/init_map.js?ver=1.0.51" type = "text / javascript">
+  </script>
+  <script src = "https://apm-autopflege.de/wp-content/plugins/wd-google-maps/js/frontend_main.js?ver=1.0.51" type = "text / javascript">
+  </script>
+  <link href = "https://apm-autopflege.de/wp-json/" rel = "https://api.w.org/" />
+  <link href = "https://apm-autopflege.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+  <link href = "https://apm-autopflege.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+  <meta content = "WordPress 5.2.9" name = "generator" />
+  <link href = "https://apm-autopflege.de/" rel = "canonical" />
+  <link href = "https://apm-autopflege.de/" rel = "shortlink" />
+  <link href = "https://apm-autopflege.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fapm-autopflege.de%2F" rel = "alternate" type = "application / json + oembed "/>
+  <link href = "https://apm-autopflege.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fapm-autopflege.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+  <style id = "css-fb-visibility" type = "text / css">
+   @media screen and (max-width: 640px) {body: not (.fusion-builder-ui-wireframe) .fusion-no-small-visibility {display: none! important;}} @ media screen and (min-width : 641px) and (max-width: 1024px) {body: not (.fusion-builder-ui-wireframe) .fusion-no-medium-visibility {display: none! Important;}} @ media screen and (min-width : 1025px) {body: not (.fusion-builder-ui-wireframe) .fusion-no-large-visibility {display: none! Important;}}
+  </style>
+  <style type = "text / css">
+   .recentcomments a {display: inline! important; padding: 0! important; margin: 0! important;}
+  </style>
+  <script type = "text / javascript">
+   var doc = document.documentElement;
+doc.setAttribute ('data-useragent', navigator.userAgent);
+  </script>
+ </head>
+ <body class = "home page-template page-template-100-width page-template-100-width-php page page-id-7 fusion-image-hovers fusion-pagination-sizing fusion-button_size-large fusion-button_type- flat fusion-button_span-yes avada-image-rollover-circle-no avada-image-rollover-yes avada-image-rollover-direction-fade fusion-body ltr fusion-sticky-header no-mobile-slidingbar no-mobile-totop avada-has-rev-slider-styles fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow-none layout-scroll-offset- full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-hide-pagination-text fusion-header-layout-v1 avada-responsive avada- footer-fx-none avada-menu-highlight-style-bar fusion-search-form-classic fusion-main-menu-search-dropdown fusion-avatar-square avada-dropdown-styles avada-blog-layout-large avada-blog -archive-layout-grid avada-header-shadow-yes avada-menu-icon-position-left avada-has-megam enu-shadow avada-has-mainmenu-dropdown-divider avada-has-pagetitle-bg-full avada-has-100-footer avada-has-titlebar-hide avada-has-footer-widget-bg-image avada-header- border-color-full-transparent avada-social-full-transparent avada-has-transparent-timeline_color avada-has-pagination-padding avada-flyout-menu-direction-top ">
+  <a class="skip-link screen-reader-text" href="#content">
+   Skip to content
+  </a>
+  <div id = "boxed-wrapper">
+   <div class = "fusion-sides-frame">
+   </div>
+   <div class = "fusion-wrapper" id = "wrapper">
+    <div id = "home" style = "position: relative; top: -1px;">
+    </div>
+    <header class = "fusion-header-wrapper fusion-header-shadow">
+     <div class = "fusion-header-v1 fusion-logo-alignment fusion-logo-left fusion-sticky-menu- fusion-sticky-logo- fusion-mobile-logo-1 fusion-mobile-menu-design-modern">
+      <div class = "fusion-header-sticky-height">
+      </div>
+      <div class = "fusion-header">
+       <div class = "fusion-row">
+        <div class = "fusion-logo" data-margin-bottom = "31px" data-margin-left = "0px" data-margin-right = "0px" data-margin-top = "10px">
+         <a class="fusion-logo-link" href="https://apm-autopflege.de/">
+          <! - standard logo ->
+          <img alt = "APM - Autopflege Munthel from Dresden Logo" class = "fusion-standard-logo" data-retina_logo_url = "" height = "75" src = "https://apm-autopflege.de/wp-content/ uploads / 2018/05 / logo_header.png "srcset =" https://apm-autopflege.de/wp-content/uploads/2018/05/logo_header.png 1x "width =" 237 "/>
+          <! - mobile logo ->
+          <img alt = "APM - Autopflege Munthel from Dresden Logo" class = "fusion-mobile-logo" data-retina_logo_url = "" height = "75" src = "https://apm-autopflege.de/wp-content/ uploads / 2018/05 / logo_header.png "srcset =" https://apm-autopflege.de/wp-content/uploads/2018/05/logo_header.png 1x "width =" 237 "/>
+         </a>
+        </div>
+        <nav aria-label = "main menu" class = "fusion-main-menu">
+         <ul class = "fusion-menu" id = "menu-main-menu">
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-2147" data-item-id = "2147" id = "menu-item-2147">
+           <a class="fusion-bar-highlight" href="https://apm-autopflege.de/">
+            <span class = "menu-text">
+             Home
+            </span>
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2151 fusion-dropdown-menu" data-item-id = "2151" id = "menu-item-2151">
+           <a class="fusion-bar-highlight">
+            <span class = "menu-text">
+             Our services
+            </span>
+            <span class = "fusion-caret">
+             <i class = "fusion-dropdown-indicator">
+             </i>
+            </span>
+           </a>
+           <ul class = "sub-menu" role = "menu">
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2326 fusion-dropdown-submenu" id = "menu-item-2326">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-innenraumreinigung/">
+              <span>
+               Interior cleaning
+              </span>
+             </a>
+            </li>
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2327 fusion-dropdown-submenu" id = "menu-item-2327">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-komplettaufnahm/">
+              <span>
+               Complete preparation
+              </span>
+             </a>
+            </li>
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2328 fusion-dropdown-submenu" id = "menu-item-2328">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-waschprogramm/">
+              <span>
+               Washing program
+              </span>
+             </a>
+            </li>
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2329 fusion-dropdown-submenu" id = "menu-item-2329">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-felgeninstandsetzung/">
+              <span>
+               Rim repair
+              </span>
+             </a>
+            </li>
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2330 fusion-dropdown-submenu" id = "menu-item-2330">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-unterbodenschutz/">
+              <span>
+               Underbody protection
+              </span>
+             </a>
+            </li>
+            <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2331 fusion-dropdown-submenu" id = "menu-item-2331">
+             <a class="fusion-bar-highlight" href="https://apm-autopflege.de/service-spot-repair/">
+              <span>
+               Spot repair
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-2150" data-item-id = "2150" id = "menu-item-2150">
+           <a class="fusion-bar-highlight" href="https://apm-autopflege.de/download/APM_Flyer_2014.pdf" rel="noopener noreferrer" target="_blank">
+            <span class = "menu-text">
+             Download flyer
+            </span>
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2148" data-item-id = "2148" id = "menu-item-2148">
+           <a class="fusion-bar-highlight" href="https://apm-autopflege.de/ueberuns/">
+            <span class = "menu-text">
+             about us
+            </span>
+           </a>
+          </li>
+          <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-2149 fusion-menu-item-button" data-item-id = "2149" id = "menu-item -2149 ">
+           <a class="fusion-bar-highlight" href="https://apm-autopflege.de/kontakt/">
+            <span class = "menu-text fusion-button button-default button-medium">
+             Contact
+            </span>
+           </a>
+          </li>
+         </ul>
+        </nav>
+        <div class = "fusion-mobile-menu-icons">
+         <a aria-expanded="false" aria-label="Toggle mobile menu" class="fusion-icon fusion-icon-bars" href="#">
+         </a>
+        </div>
+        <nav aria-label = "Main Menu Mobile" class = "fusion-mobile-nav-holder fusion-mobile-menu-text-align-left">
+        </nav>
+       </div>
+      </div>
+     </div>
+     <div class = "fusion-clearfix">
+     </div>
+    </header>
+    <div id = "sliders-container">
+    </div>
+    <div class = "avada-page-titlebar-wrapper">
+    </div>
+    <main class = "clearfix width-100" id = "main">
+     <div class = "fusion-row" style = "max-width: 100%;">
+      <section class = "full-width" id = "content">
+       <div class = "post-7 page type-page status-publish hentry" id = "post-7">
+        <span class = "entry-title rich-snippet-hidden">
+         Home
+        </span>
+        <span class = "vcard rich-snippet-hidden">
+         <span class = "fn">
+          <a href="https://apm-autopflege.de/author/roberth/" rel="author" title=" Posts by Roberth">
+           Roberth
+          </a>
+         </span>
+        </span>
+        <span class = "updated rich-snippet-hidden">
+         2018-10-09T16: 00: 57 + 00: 00
+        </span>
+        <div class = "post-content">
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style = 'background-color: rgba (255,255,255,0 ); background-image: url ("https://apm-autopflege.de/wp-content/uploads/2015/12/panorama.png"); background-position: center center; background-repeat: no-repeat; padding-top: 0px; padding-right: 30px; padding-bottom: 0px; padding-left: 30px; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover ; background-size: cover; '>
+          <div class = "fusion-builder-row fusion-row">
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style = "margin-top: 10px; margin-bottom: 10px ; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-sep-clear">
+             </div>
+             <div class = "fusion-separator fusion-full-width-sep sep-none" style = "margin-left: auto; margin-right: auto; margin-top: 100px;">
+             </div>
+             <div class = "imageframe-align-center">
+              <span class = "fusion-imageframe imageframe-none imageframe-1 hover-type-none">
+               <img alt = "" class = "img-responsive wp-image-1951" height = "184" sizes = "(max-width: 1000px) 100vw, 496px" src = "https://apm-autopflege.de/ wp-content / uploads / 2018/05 / logo_main_white.png "srcset =" https://apm-autopflege.de/wp-content/uploads/2018/05/logo_main_white-200x74.png 200w, https: // apm- autopflege.de/wp-content/uploads/2018/05/logo_main_white-400x148.png 400w, https://apm-autopflege.de/wp-content/uploads/2018/05/logo_main_white.png 496w "title =" logo_main_white "width =" 496 "/>
+              </span>
+             </div>
+             <div class = "fusion-sep-clear">
+             </div>
+             <div class = "fusion-separator fusion-full-width-sep sep-none" style = "margin-left: auto; margin-right: auto; margin-top:; margin-bottom: 100px;">
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-2 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style = "background-color: #ffffff; background-position: left top; background-repeat: no-repeat; padding-top: 90px; padding-right: 30px; padding-bottom: 3.5%; padding-left: 30px; border-top-width: 0px; border-bottom-width: 0px; border -color: # e7e4e2; border-top-style: solid; border-bottom-style: solid; ">
+          <div class = "fusion-builder-row fusion-row">
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-2 fusion-one-sixth fusion-column-first fusion-no-small-visibility 1_6" style = "margin-top: 10px; margin-bottom : 10px; width: 13.3333%; margin-right: 4%; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_2_3 fusion-builder-column-3 fusion-two-third 2_3" style = "margin-top: 10px; margin-bottom: 10px; width: 65.3333%; margin-right: 4%; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "imageframe-align-center">
+              <span class = "fusion-imageframe imageframe-none imageframe-2 hover-type-none">
+               <img alt = "" class = "img-responsive wp-image-1958" height = "81" src = "https://apm-autopflege.de/wp-content/uploads/2018/05/logo_m.png" title = "logo_m" width = "132" />
+              </span>
+             </div>
+             <div class = "fusion-sep-clear">
+             </div>
+             <div class = "fusion-separator fusion-full-width-sep sep-none" style = "margin-left: auto; margin-right: auto; margin-top: 40px;">
+             </div>
+             <div class = "fusion-text">
+              <h2 style = "text-align: center;">
+               <span class = "caps">
+                YOUR
+               </span>
+               <span class = "caps">
+                CAR CARE
+               </span>
+               <span class = "caps">
+                IN
+               </span>
+               <span class = "caps">
+                DRESDEN
+               </span>
+              </h2>
+             </div>
+             <div class = "fusion-text">
+              <p style = "text-align: center; font-size: 20px;">
+               Vehicle preparation and maintenance with more than 20 years of experience
+              </p>
+             </div>
+             <div class = "fusion-sep-clear">
+             </div>
+             <div class = "fusion-separator sep-single sep-solid" style = "border-color: # cd5456; border-top-width: 1px; margin-left: auto; margin-right: auto; margin-top: 15px ; margin-bottom: 35px; width: 100%; max-width: 170px; ">
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-4 fusion-one-sixth fusion-column-last fusion-no-small-visibility 1_6" style = "margin-top: 10px; margin-bottom : 10px; width: 13.3333% ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_3_5 fusion-builder-column-5 fusion-three-fifth fusion-column-first 3_5" style = "margin-top: 10px; margin-bottom: 10px; width: 60% ; width: calc (60% - ((5%) * 0.6)); margin-right: 5%; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 10px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-column-content-centered">
+              <div class = "fusion-column-content">
+               <div class = "fusion-text">
+                <h3>
+                 <span class = "caps">
+                  WELCOME
+                 </span>
+                 <span class = "caps">
+                  AT
+                 </span>
+                 <span class = "caps">
+                  THE
+                 </span>
+                 <span class = "caps">
+                  PROFESSIONALS
+                 </span>
+                </h3>
+               </div>
+               <div class = "fusion-text">
+                <p class = "h2" style = "text-align: left;">
+                 <a href="https://apm-autopflege.de/download/TUEV-Zertifikat-APM.pdf" rel="noopener" target="_blank">
+                  <img alt = "" class = "size-full wp-image-1986 alignleft" height = "152" src = "https://apm-autopflege.de/wp-content/uploads/2018/05/dekra.png "width =" 116 "/>
+                 </a>
+                 Whether complete vehicle preparation, paint sealing, nano-sealing, repair of rims or spot repair: with us your vehicle is in good hands. We always remain true to our philosophy: high quality at a fair price. In addition, we are after
+                 <span class = "caps">
+                  ISO
+                 </span>
+                 9001 certified. Welcome to the pros.
+                </p>
+                <p class = "h2bold" style = "text-align: left;">
+                 <strong>
+                  Heard for more than 20 years
+                  <span class = "caps">
+                   APM
+                  </span>
+                  | Autopflege Munthel GmbH became one of the leading vehicle preparation companies in Dresden. We are at your disposal with our know-how in both the end customer and the corporate customer sector.
+                  <br/>
+                 </strong>
+                </p>
+               </div>
+               <div class = "fusion-button-wrapper fusion-alignleft">
+                <style type = "text / css">
+                 .fusion-button.button-1 {border-radius: 2px;}. fusion-button.button-1 .fusion-button-text {text-transform: uppercase;}
+                </style>
+                <a class = "fusion-button button-flat fusion-button-default-size button-default button-1 fusion-button-span-no fusion-button-default-type" href = "https: // apm-autopflege. en / contact / # form "target =" _ self ">
+                 <span class = "fusion-button-text">
+                  Request a quote
+                 </span>
+                </a>
+               </div>
+               <div class = "fusion-sep-clear">
+               </div>
+               <div class = "fusion-separator fusion-no-medium-visibility fusion-no-large-visibility fusion-full-width-sep sep-none" style = "margin-left: auto; margin-right: auto; margin- top:; margin-bottom: 70px; ">
+               </div>
+              </div>
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_2_5 fusion-builder-column-6 fusion-two-fifth fusion-column-last 2_5" style = "margin-top: 10px; margin-bottom: 10px; width: 40% ; width: calc (40% - ((5%) * 0.4)); ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "background-color: # f7f5f4; padding: 10px 20px 20px 20px; background-position: left top; background-repeat: no-repeat ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-text">
+              <h3>
+               <span class = "caps">
+                ASK
+               </span>
+               <span class = "caps">
+                AND
+               </span>
+               <span class = "caps">
+                REPLY
+               </span>
+              </h3>
+             </div>
+             <style type = "text / css">
+              # accordion-7-1 .fusion-panel: hover, # accordion-7-1 .fusion-panel.hover {background-color: #ffffff} # accordion-7-1 .fusion-panel {border-color: # e7e4e2 ; border-width: 0px; background-color: #ffffff; } .fusion-accordian # accordion-7-1 .panel-title a .fa-fusion-box {color: # cd5456;}. fusion-accordian # accordion-7-1 .panel-title a .fa-fusion-box : before {font-size: 25px; width: 25px;}. fusion-accordian # accordion-7-1 .panel-title a {font-size: 15px;}. fusion-accordian # accordion-7-1 .panel-title a: hover, # accordion-7 -1 .fusion-toggle-boxed-mode: hover .panel-title a {color: # cd5456;}. Fusion-accordian # accordion-7-1 .fusion-toggle-boxed-mode: hover .panel-title a. fa-fusion-box {color: # cd5456;}. fusion-accordian # accordion-7-1.fusion-toggle-icon-unboxed .fusion-panel .panel-title a: hover .fa-fusion-box {color: # cd5456! important;}
+             </style>
+             <div class = "accordian fusion-accordian">
+              <div class = "panel-group fusion-toggle-icon-unboxed" id = "accordion-7-1">
+               <div class = "fusion-panel panel-default fusion-toggle-no-divider fusion-toggle-boxed-mode">
+                <div class = "panel-heading">
+                 <h4 class = "panel-title toggle">
+                  <a aria-controls = "8e6d6209018be25c6" aria-expanded = "false" data-parent = "# accordion-7-1" data-target = "# 8e6d6209018be25c6" data-toggle = "collapse" href = "# 8e6d6209018be25c6" role = "radiobutton">
+                   <span aria-hidden = "true" class = "fusion-toggle-icon-wrapper">
+                    <i class = "fa-fusion-box">
+                    </i>
+                   </span>
+                   <span class = "fusion-toggle-heading">
+                    <span class = "caps">
+                     AS
+                    </span>
+                    <span class = "caps">
+                     FAST
+                    </span>
+                    <span class = "caps">
+                     GET
+                    </span>
+                    <span class = "caps">
+                     I
+                    </span>
+                    <span class = "caps">
+                     ONE
+                    </span>
+                    <span class = "caps">
+                     MEETING
+                    </span>
+                    ?
+                   </span>
+                  </a>
+                 </h4>
+                </div>
+                <div class = "panel-collapse collapse" id = "8e6d6209018be25c6">
+                 <div class = "panel-body toggle-content fusion-clearfix">
+                  <p>
+                   At the moment we are giving appointments with a lead time of 3 to 4 weeks. Please note this period if, for example, you want to have a leasing vehicle refurbished. Here you can easily make an appointment request:
+                   <a href="https://apm-autopflege.de/kontakt/#formular">
+                    »Appointment request
+                   </a>
+                  </p>
+                 </div>
+                </div>
+               </div>
+               <div class = "fusion-panel panel-default fusion-toggle-no-divider fusion-toggle-boxed-mode">
+                <div class = "panel-heading">
+                 <h4 class = "panel-title toggle">
+                  <a aria-controls = "9a8b8f1d3af750bac" aria-expanded = "false" data-parent = "# accordion-7-1" data-target = "# 9a8b8f1d3af750bac" data-toggle = "collapse" href = "# 9a8b8f1d3af750bac" role = "radiobutton">
+                   <span aria-hidden = "true" class = "fusion-toggle-icon-wrapper">
+                    <i class = "fa-fusion-box">
+                    </i>
+                   </span>
+                   <span class = "fusion-toggle-heading">
+                    <span class = "caps">
+                     TO LEAD
+                    </span>
+                    <span class = "caps">
+                     YOU
+                    </span>
+                    <span class = "caps">
+                     RIM REPAIRS
+                    </span>
+                    <span class = "caps">
+                     BY
+                    </span>
+                    ?
+                   </span>
+                  </a>
+                 </h4>
+                </div>
+                <div class = "panel-collapse collapse" id = "9a8b8f1d3af750bac">
+                 <div class = "panel-body toggle-content fusion-clearfix">
+                  <p>
+                   Yes. Also high-sheen and TÜV-certified. Further information is available at
+                   <a href="https://apm-autopflege.de/service-felgeninstandsetzung/">
+                    »Rim repair
+                   </a>
+                  </p>
+                 </div>
+                </div>
+               </div>
+               <div class = "fusion-panel panel-default fusion-toggle-no-divider fusion-toggle-boxed-mode">
+                <div class = "panel-heading">
+                 <h4 class = "panel-title toggle">
+                  <a aria-controls = "9d5d45b729dd7c6a0" aria-expanded = "false" data-parent = "# accordion-7-1" data-target = "# 9d5d45b729dd7c6a0" data-toggle = "collapse" href = "# 9d5d45b729dd7c6a0" role .c6a0 " = "radiobutton">
+                   <span aria-hidden = "true" class = "fusion-toggle-icon-wrapper">
+                    <i class = "fa-fusion-box">
+                    </i>
+                   </span>
+                   <span class = "fusion-toggle-heading">
+                    <span class = "caps">
+                     GOT TO
+                    </span>
+                    <span class = "caps">
+                     MY
+                    </span>
+                    <span class = "caps">
+                     VEHICLE
+                    </span>
+                    <span class = "caps">
+                     IN FRONT
+                    </span>
+                    <span class = "caps">
+                     PLACE
+                    </span>
+                    <span class = "caps">
+                     STAY
+                    </span>
+                    ?
+                   </span>
+                  </a>
+                 </h4>
+                </div>
+                <div class = "panel-collapse collapse" id = "9d5d45b729dd7c6a0">
+                 <div class = "panel-body toggle-content fusion-clearfix">
+                  <p>
+                   In the case of complete reprocessing and interior reprocessing, we need time for quality cleaning. Therefore, your vehicle will stay with us for 2 days. Please plan this when handing over, as we do not have any rental cars.
+                  </p>
+                 </div>
+                </div>
+               </div>
+               <div class = "fusion-panel panel-default fusion-toggle-no-divider fusion-toggle-boxed-mode">
+                <div class = "panel-heading">
+                 <h4 class = "panel-title toggle">
+                  <a aria-controls = "2404f6bfaa82e16d1" aria-expanded = "false" data-parent = "# accordion-7-1" data-target = "# 2404f6bfaa82e16d1" data-toggle = "collapse" href = "# 2404f6bfaa82e16d1" role = "radiobutton">
+                   <span aria-hidden = "true" class = "fusion-toggle-icon-wrapper">
+                    <i class = "fa-fusion-box">
+                    </i>
+                   </span>
+                   <span class = "fusion-toggle-heading">
+                    <span class = "caps">
+                     WHAT
+                    </span>
+                    <span class = "caps">
+                     COST
+                    </span>
+                    <span class = "caps">
+                     IT
+                    </span>
+                    ?
+                   </span>
+                  </a>
+                 </h4>
+                </div>
+                <div class = "panel-collapse collapse" id = "2404f6bfaa82e16d1">
+                 <div class = "panel-body toggle-content fusion-clearfix">
+                  <p>
+                   You will find the relevant categories under the link “Our Services”. These are divided into our services, where you will also find the corresponding price information.
+                  </p>
+                 </div>
+                </div>
+               </div>
+               <div class = "fusion-panel panel-default fusion-toggle-no-divider fusion-toggle-boxed-mode">
+                <div class = "panel-heading">
+                 <h4 class = "panel-title toggle">
+                  <a aria-controls = "9d0a4974d92f9f11d" aria-expanded = "false" data-parent = "# accordion-7-1" data-target = "# 9d0a4974d92f9f11d" data-toggle = "collapse" href = "# 9d0a4974d92f9f11d" role = "radiobutton">
+                   <span aria-hidden = "true" class = "fusion-toggle-icon-wrapper">
+                    <i class = "fa-fusion-box">
+                    </i>
+                   </span>
+                   <span class = "fusion-toggle-heading">
+                    <span class = "caps">
+                     AS
+                    </span>
+                    <span class = "caps">
+                     CAN
+                    </span>
+                    <span class = "caps">
+                     I
+                    </span>
+                    <span class = "caps">
+                     PAY
+                    </span>
+                    ?
+                   </span>
+                  </a>
+                 </h4>
+                </div>
+                <div class = "panel-collapse collapse" id = "9d0a4974d92f9f11d">
+                 <div class = "panel-body toggle-content fusion-clearfix">
+                  <p>
+                   Payment is made upon collection in cash or by EC card. Credit cards are currently not possible.
+                  </p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-3 hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility" style = "background-color: # f7f5f4; background-position: center center; background-repeat: no-repeat; padding-top: 0px; padding-right: 30px; padding-bottom: 0px; padding-left: 30px; ">
+          <div class = "fusion-builder-row fusion-row">
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-7 fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height 1_1" style = "margin- top: 0px; margin-bottom: 20px; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-section-separator section-separator bigtriangle" style = "padding: 0; margin-left: -30px; margin-right: -30px;">
+              <svg class = "fusion-big-triangle-candy" height = "100" preserveaspectratio = "none" style = "fill: #ffffff; padding: 0;" version = "1.1" viewbox = "0 0 100 100" width = "100%">
+               <path d = "M-1 -1 L50 99 L101 -1 Z">
+               </path>
+              </svg>
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-4 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility" style = " background-color: rgba (255,255,255,0); background-position: center center; background-repeat: no-repeat; padding-top: 0px; padding-right: 30px; padding-bottom: 0px; padding-left: 30px; ">
+          <div class = "fusion-builder-row fusion-row">
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-8 fusion-one-full fusion-column-first fusion-column-last 1_1" style = "margin-top: 10px; margin-bottom: 10px ; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-sep-clear">
+             </div>
+             <div class = "fusion-separator fusion-no-medium-visibility fusion-no-large-visibility fusion-full-width-sep sep-none" style = "margin-left: auto; margin-right: auto; margin- top:; margin-bottom: 70px; ">
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-5 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style = "background-color: # f7f5f4; background-position: left top; background-repeat: no-repeat; padding-top: 4%; padding-right: 30px; padding-bottom: 50px; padding-left: 30px; border-top-width: 0px; border-bottom-width: 0px; border -color: # e7e4e2; border-top-style: solid; border-bottom-style: solid; ">
+          <div class = "fusion-builder-row fusion-row">
+           <div class = "fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-9 fusion-one-full fusion-column-first fusion-column-last 1_1" style = "margin-top: 10px; margin-bottom: 10px ; ">
+            <div class = "fusion-column-wrapper" data-bg-url = "" style = "padding: 0px 0px 0px 0px; background-position: left top; background-repeat: no-repeat; -webkit-background-size : cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+             <div class = "fusion-text">
+              <h2 style = "text-align: center;">
+               <span class = "caps">
+                OUR
+               </span>
+               <span class = "caps">
+                SERVICES
+               </span>
+              </h2>
+             </div>
+             <div class = "fusion-menu-anchor" id = "our-services">
+             </div>
+             <div class = "fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "fusion-fullwidth fullwidth-box fusion-builder-row-6 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style = "background-color: # f7f5f4; background-position: center center; background-repeat: no-repeat; padding-top: 0px; padding-right: 30px; padding-bottom: 0px; padding-left: 30px; ">
+          <div class = "fusion-builder-row fusion-row">
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-10 fusion-one-third fusion-column-first 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-1 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Innenraumreinigung
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-3 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2184" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_innenraumreinigung.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_innenraumreinigung-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_innenraumreinigung.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Eine Innen­raum­rei­ni­gung ent­fernt unan­ge­neh­me Gerü­che, schont das Inte­ri­eur und trägt aktiv zur Wert­stei­ge­rung Ihres
+               <span class="caps">
+                Car
+               </span>
+               oder Trans­por­ters bei.
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 53,- €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-2 {border-radius:2px;}.fusion-button.button-2 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-2 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-innenraumreinigung/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-11 fusion-one-third 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-2 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Komplettaufbereitung
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-4 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2181" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_komplettaufbereitung.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_komplettaufbereitung-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_komplettaufbereitung.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Mit unse­ren Rund­um-Pake­ten tref­fen Sie immer die rich­ti­ge Wahl – ob Kom­plett­auf­be­rei­tung, Nano­ver­sie­ge­lung, Lack­ar­bei­ten oder das Ent­fer­nen von Krat­zern.
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 185,- €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-3 {border-radius:2px;}.fusion-button.button-3 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-3 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-komplettaufbereitung/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-12 fusion-one-third fusion-column-last 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-3 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Waschprogramm
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-5 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2182" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_waschprogramm.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_waschprogramm-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_waschprogramm.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Scho­nen­de Wäsche mit unse­rer voll­au­to­ma­ti­schen Wasch­an­la­ge. Natür­lich behan­deln wir auf Wunsch Fel­gen und Fahr­zeug­lack mit spe­zi­el­len Rei­ni­gern vor.
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 9,90 €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-4 {border-radius:2px;}.fusion-button.button-4 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-4 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-waschprogramm/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fusion-fullwidth fullwidth-box fusion-builder-row-7 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #f7f5f4;background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:30px;padding-bottom:0px;padding-left:30px;">
+          <div class="fusion-builder-row fusion-row">
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-13 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:10px;margin-bottom:10px;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-14 fusion-one-third fusion-column-first 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-4 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Felgeninstandsetzung
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-6 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2192" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_felgeninstandsetzung.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_felgeninstandsetzung-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_felgeninstandsetzung.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Bei uns gibt’s glanz­ge­dreh­te, sand­ge­strahl­te oder gebeiz­te Alu­fel­genauf­be­rei­tung für Bord­stein- und Kor­ro­si­ons­schä­den. Natür­lich alles
+               <span class="caps">
+                TÜV
+               </span>
+               geprüft!
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 75,- €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-5 {border-radius:2px;}.fusion-button.button-5 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-5 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-felgeninstandsetzung/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-15 fusion-one-third 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-5 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Unterbodenschutz
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-7 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2194" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_unterbodenschutz.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_unterbodenschutz-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_unterbodenschutz.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Streu­salz­ab­la­ge­run­gen und Feuch­tig­keit kön­nen dem Unter­bo­den Scha­den zufü­gen. Wir kon­ser­vie­ren den Unter­bo­dens mit pro­fes­sio­nel­len Mit­teln.
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 210,- €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-6 {border-radius:2px;}.fusion-button.button-6 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-6 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-unterbodenschutz/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-16 fusion-one-third fusion-column-last 1_3" style="margin-top:10px;margin-bottom:10px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );">
+            <div class="fusion-column-wrapper" data-bg-url="" style="background-color:#ffffff;padding: 10% 5% 10% 5%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <style type = "text / css">
+             </style>
+             <div class="fusion-title title fusion-title-6 fusion-title-center fusion-title-text fusion-title-size-three" style="margin-top:0px;margin-bottom:30px;">
+              <div class="title-sep-container title-sep-container-left">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+              <h3 class="title-heading-center" style="margin:0;">
+               Spot repair
+              </h3>
+              <div class="title-sep-container title-sep-container-right">
+               <div class="title-sep sep-single sep-solid" style="border-color:rgba(231,228,226,0);">
+               </div>
+              </div>
+             </div>
+             <div class="imageframe-align-center">
+              <span class="fusion-imageframe imageframe-none imageframe-8 hover-type-none">
+               <img alt="" class="img-responsive wp-image-2195" height="126" sizes="(max-width: 1000px) 100vw, 271px" src="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_spotrepair.png" srcset="https://apm-autopflege.de/wp-content/uploads/2018/09/icon_spotrepair-200x93.png 200w, https://apm-autopflege.de/wp-content/uploads/2018/09/icon_spotrepair.png 271w" title="" width="271"/>
+              </span>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <p style = "text-align: center;">
+               Repa­ra­tu­ren ohne teu­re Ersatz­tei­le scho­nen Ner­ven, Zeit und Ihren Geld­beu­tel! Spie­gel, Stoß­fän­ger, Türen – wir repa­rie­ren schnell
+               <span class="amp">
+                & amp;
+               </span>
+               pro­fes­sio­nell.
+              </p>
+             </div>
+             <div class="fusion-text">
+              <h3 style="text-align: center;">
+               <span style="color: #cd5456;">
+                schon ab 70,- €
+               </span>
+              </h3>
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-7 {border-radius:2px;}.fusion-button.button-7 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat fusion-button-default-size button-default button-7 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-spot-repair/" target="_self">
+               <span class="fusion-button-text">
+                read more
+               </span>
+              </a>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-17 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:10px;margin-bottom:10px;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;">
+             </div>
+             <div class="fusion-text">
+              <h6 style="text-align: center;">
+               Alle Pflegepakete ab dem genannten Preis erhältlich. Preisangaben für
+               <span class="caps">
+                Car
+               </span>
+               (Transporter gesonderte Preise). Angaben in Euro inklusive Mehrwertsteuer. Preisänderungen vorbehalten. Stand 05/2018.
+              </h6>
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility fusion-no-medium-visibility" style='background-color: rgba(255,255,255,0);background-image: url("https://apm-autopflege.de/wp-content/uploads/2018/05/glanzgedreht2.png");background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;'>
+          <div class="fusion-builder-row fusion-row">
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-18 fusion-one-sixth fusion-column-first 1_6" style="margin-top:10px;margin-bottom:10px;width:16.66%;width:calc(16.66% - ( ( 4% + 4% ) * 0.1666 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3 fusion-builder-column-19 fusion-two-third 2_3" style="margin-top:10px;margin-bottom:10px;width:66.66%;width:calc(66.66% - ( ( 4% + 4% ) * 0.6666 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:100px;">
+             </div>
+             <div class="fusion-text">
+              <h1>
+               <span style="color: #cd5456;">
+                <span class="caps">
+                 BORDSTEIN
+                </span>
+                <span class="caps">
+                 GEKÜSST
+                </span>
+                ?
+               </span>
+              </h1>
+             </div>
+             <div class="fusion-text">
+              <h2>
+               <span style = "color: #ffffff;">
+                No problem! Bei uns gibt´s die fachgerechte Alufelgen-
+                <br/>
+                Aufbereitung für Bordstein- und Korrosionsschäden.
+                <br/>
+                TÜV-geprüft!
+               </span>
+              </h2>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:40px;">
+             </div>
+             <div class="fusion-button-wrapper">
+              <style type = "text / css">
+               .fusion-button.button-8 {border-radius:2px;}.fusion-button.button-8 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat button-xlarge button-default button-8 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-felgeninstandsetzung/" target="_self">
+               <span class="fusion-button-text">
+                <span class="caps">
+                 MORE
+                </span>
+                <span class="caps">
+                 LESEN
+                </span>
+               </span>
+              </a>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;">
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-20 fusion-one-sixth fusion-column-last 1_6" style="margin-top:10px;margin-bottom:10px;width:16.66%;width:calc(16.66% - ( ( 4% + 4% ) * 0.1666 ) );">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-parallax-none hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-large-visibility" style='background-color: rgba(255,255,255,0);background-image: url("https://apm-autopflege.de/wp-content/uploads/2018/05/glanzgedreht2.png");background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;'>
+          <div class="fusion-builder-row fusion-row">
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-21 fusion-one-sixth fusion-column-first 1_6" style="margin-top:10px;margin-bottom:10px;width:16.66%;width:calc(16.66% - ( ( 4% + 4% ) * 0.1666 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3 fusion-builder-column-22 fusion-two-third 2_3" style="margin-top:10px;margin-bottom:10px;width:66.66%;width:calc(66.66% - ( ( 4% + 4% ) * 0.6666 ) );margin-right: 4%;">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:100px;">
+             </div>
+             <div class="fusion-text">
+              <h1 style = "text-align: center;">
+               <span style="color: #cd5456;">
+                <span class="caps">
+                 BORDSTEIN
+                </span>
+                <span class="caps">
+                 GEKÜSST
+                </span>
+                ?
+               </span>
+              </h1>
+             </div>
+             <div class="fusion-text">
+              <h2 style="text-align: center;">
+               <span style = "color: #ffffff;">
+                No problem! Bei uns gibt´s die fachgerechte Alufelgen-
+                <br/>
+                Aufbereitung für Bordstein- und Korrosionsschäden.
+                <br/>
+                TÜV-geprüft!
+               </span>
+              </h2>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:40px;">
+             </div>
+             <div class="fusion-button-wrapper fusion-aligncenter">
+              <style type = "text / css">
+               .fusion-button.button-9 {border-radius:2px;}.fusion-button.button-9 .fusion-button-text {text-transform:uppercase;}
+              </style>
+              <a class="fusion-button button-flat button-xlarge button-default button-9 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/service-felgeninstandsetzung/" target="_self">
+               <span class="fusion-button-text">
+                <span class="caps">
+                 MORE
+                </span>
+                <span class="caps">
+                 LESEN
+                </span>
+               </span>
+              </a>
+             </div>
+             <div class="fusion-sep-clear">
+             </div>
+             <div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;">
+             </div>
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+           <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6 fusion-builder-column-23 fusion-one-sixth fusion-column-last 1_6" style="margin-top:10px;margin-bottom:10px;width:16.66%;width:calc(16.66% - ( ( 4% + 4% ) * 0.1666 ) );">
+            <div class="fusion-column-wrapper" data-bg-url="" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;">
+             <div class="fusion-clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <!-- fusion-row -->
+    </main>
+    <! - #main ->
+    <div class="fusion-footer">
+     <footer class="fusion-footer-widget-area fusion-widget-area">
+      <div class="fusion-row">
+       <div class="fusion-columns fusion-columns-5 fusion-widget-area">
+        <div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+         <section class="widget_text fusion-footer-widget-column widget widget_custom_html" id="custom_html-3">
+          <h4 class = "widget-title">
+           <span class="caps">
+            ADDRESS
+           </span>
+          </h4>
+          <div class = "textwidget custom-html-widget">
+           <ul class="fusion-checklist fusion-checklist-1" style="font-size:14px;line-height:23.8px;">
+            <li class="fusion-li-item">
+             <span class="icon-wrapper circle-no" style="height:23.8px;width:23.8px;margin-right:9.8px;">
+              <i class="fusion-li-icon fa fa-home" style="color:#717171;">
+              </i>
+             </span>
+             <div class="fusion-li-item-content" style="margin-left:33.6px;">
+              <p>
+               Autopflege Munthel GmbH
+               <br>
+                Fritz-Meinhardt-Straße 3
+                <br>
+                 01239 Dresden
+                </br>
+               </br>
+              </p>
+             </div>
+            </li>
+           </ul>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </section>
+        </div>
+        <div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+         <section class="widget_text fusion-footer-widget-column widget widget_custom_html" id="custom_html-4">
+          <h4 class = "widget-title">
+           <span class="caps">
+            CONTACT
+           </span>
+          </h4>
+          <div class = "textwidget custom-html-widget">
+           <ul class="fusion-checklist fusion-checklist-2" style="font-size:14px;line-height:23.8px;">
+            <li class="fusion-li-item">
+             <span class="icon-wrapper circle-no" style="height:23.8px;width:23.8px;margin-right:9.8px;">
+              <i class="fusion-li-icon fa fa-phone" style="color:#717171;">
+              </i>
+             </span>
+             <div class="fusion-li-item-content" style="margin-left:33.6px;">
+              0351-281 66 34
+             </div>
+            </li>
+            <li class="fusion-li-item">
+             <span class="icon-wrapper circle-no" style="height:23.8px;width:23.8px;margin-right:9.8px;">
+              <i class="fusion-li-icon fa fa-fax" style="color:#717171;">
+              </i>
+             </span>
+             <div class="fusion-li-item-content" style="margin-left:33.6px;">
+              0351-281 66 50
+             </div>
+            </li>
+            <li class="fusion-li-item">
+             <span class="icon-wrapper circle-no" style="height:23.8px;width:23.8px;margin-right:9.8px;">
+              <i class="fusion-li-icon fa fa-envelope-o" style="color:#717171;">
+              </i>
+             </span>
+             <div class="fusion-li-item-content" style="margin-left:33.6px;">
+              <a href="mailto:info@apm-autopflege.de" style="padding: 0;border-bottom: none">
+               info@apm-autopflege.de
+              </a>
+             </div>
+            </li>
+           </ul>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </section>
+        </div>
+        <div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+         <section class="widget_text fusion-footer-widget-column widget widget_custom_html" id="custom_html-5">
+          <h4 class = "widget-title">
+           <span class="caps">
+            OPENING HOURS
+           </span>
+          </h4>
+          <div class = "textwidget custom-html-widget">
+           <ul class="fusion-checklist fusion-checklist-3" style="font-size:14px;line-height:23.8px;">
+            <li class="fusion-li-item">
+             <span class="icon-wrapper circle-no" style="height:23.8px;width:23.8px;margin-right:9.8px;">
+              <i class="fusion-li-icon fa fa-clock-o" style="color:#717171;">
+              </i>
+             </span>
+             <div class="fusion-li-item-content" style="margin-left:33.6px;">
+              Montag - Donnerstag:
+              <br>
+               08:00 - 17:00 Uhr
+               <br>
+                Freitag:
+                <br>
+                 08:00 - 16:00 Uhr
+                </br>
+               </br>
+              </br>
+             </div>
+            </li>
+           </ul>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </section>
+        </div>
+        <div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+         <section class="widget_text fusion-footer-widget-column widget widget_custom_html" id="custom_html-6">
+          <h4 class = "widget-title">
+           <span class="caps">
+            LEFT
+           </span>
+          </h4>
+          <div class = "textwidget custom-html-widget">
+           <ul class="fusion-checklist fusion-checklist-4" style="font-size:14px;line-height:23.8px;">
+            <a href="https://apm-autopflege.de/impressum/" rel="noopener noreferrer" target="_self">
+             imprint
+            </a>
+            <br/>
+            <a href="https://apm-autopflege.de/datenschutz/" rel="noopener noreferrer" target="_self">
+             Data protection
+            </a>
+           </ul>
+           <br/>
+           <hr />
+           <br/>
+           <div class="fusion-button-wrapper">
+            <style type = "text / css">
+             .fusion-button.button-10 {border-radius:2px;}.fusion-button.button-10 .fusion-button-text {text-transform:uppercase;}
+            </style>
+            <a class="fusion-button button-flat button-medium button-default button-10 fusion-button-span-no fusion-button-default-type" href="https://apm-autopflege.de/kontakt/" rel="noopener noreferrer" target="_self">
+             <span class="fusion-button-text">
+              CONTACT
+             </span>
+            </a>
+           </div>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </section>
+        </div>
+        <div class="fusion-column fusion-column-last col-lg-2 col-md-2 col-sm-2">
+         <section class="widget_text fusion-footer-widget-column widget widget_custom_html" id="custom_html-7">
+          <h4 class = "widget-title">
+           <span class="caps">
+            GOOGLE
+           </span>
+          </h4>
+          <div class = "textwidget custom-html-widget">
+           <div class="gmwd_container_wrapper">
+            <div class="gmwd_container">
+             <div id="gmwd_container_1">
+              <script>
+               if(typeof gmwdmapData == 'undefined'){                            var gmwdmapData = [];                         }                                                                gmwdmapData["widget" + '2'] = "";                                           gmwdmapData["mapId" + '2'] = Number("2");                                           gmwdmapData["centerLat" + '2'] = Number("50.9993364");                        gmwdmapData["centerLng" + '2'] = Number("13.794093800000041");	                        gmwdmapData["zoom" + '2'] = Number("14");                        gmwdmapData["mapType" + '2'] = "0";                        gmwdmapData["maxZoom" + '2'] = Number("22");                        gmwdmapData["minZoom" + '2'] = Number("2");                        gmwdmapData["mapWhellScrolling" + '2'] = Number("0") == 1 ? true : false;				                        gmwdmapData["infoWindowOpenOn" + '2'] = "click" ;				                        gmwdmapData["mapDragable" + '2'] = Number("1") == 1 ? true : false;	                            gmwdmapData["mapDbClickZoom" + '2'] = Number("0") == 1 ? true : false;	                                                            gmwdmapData["enableZoomControl" + '2'] = Number("1") == 1 ? true : false;                        gmwdmapData["enableMapTypeControl" + '2'] = Number("0") == 1 ? true : false;			                        gmwdmapData["mapTypeControlOptions" + '2'] = {};                                                gmwdmapData["enableScaleControl" + '2'] = Number("0") == 1 ? true : false;                        gmwdmapData["enableStreetViewControl" + '2'] = Number("0") == 1 ? true : false;                        gmwdmapData["enableFullscreenControl" + '2'] = Number("0") == 1 ? true : false;                        gmwdmapData["enableRotateControl" + '2'] = Number("0") == 1 ? true : false;                        gmwdmapData["mapTypeControlPosition" + '2'] = Number("0");                                                gmwdmapData["zoomControlPosition" + '2'] = Number("0");                        gmwdmapData["streetViewControlPosition" + '2'] = Number("0");                                                gmwdmapData["fullscreenControlPosition" + '2'] = Number("0");                                                gmwdmapData["mapTypeControlStyle" + '2'] = Number("0");				                        gmwdmapData["mapBorderRadius" + '2'] = "";                        gmwdmapData["enableBykeLayer" + '2'] =  Number("0");	                        gmwdmapData["enableTrafficLayer" + '2'] =  Number("0");				                        gmwdmapData["enableTransitLayer" + '2'] =  Number("0");	                        gmwdmapData["geoRSSURL" + '2'] = "";	                        gmwdmapData["KMLURL" + '2'] = "";	                        gmwdmapData["fusionTableId" + '2'] = '';	                                        gmwdmapData["mapTheme" + '2'] = '';			                        gmwdmapData["mapMarkers" + '2'] = JSON.parse('{"8":{"id":"8","map_id":"2","lat":"50.9993364","lng":"13.794093800000041","category":"0","title":"APM_Footer","address":"Fritz-Meinhardt-Stra\u00dfe 3, Dresden, Deutschland","animation":"NONE","enable_info_window":"1","info_window_open":"0","marker_size":"32","custom_marker_url":"","choose_marker_icon":"1","description":"","link_url":"","pic_url":"","published":"1"}}');                        gmwdmapData["mapPolygons" + '2'] =  JSON.parse('[]');                        gmwdmapData["mapPolylines" + '2'] = JSON.parse('[]');                                                gmwdmapData["enableCategoryFilter" + '2'] = "0";                                                gmwdmapData["enableDirections" + '2'] = "0";                        gmwdmapData["enableStoreLocatior" + '2'] = "0";                        gmwdmapData["storeLocatorDistanceIn" + '2'] = "km";                                                gmwdmapData["storeLocatorStrokeWidth" + '2'] = Number("2");                        gmwdmapData["storeLocatorFillColor" + '2'] = "#" + "7FDF16";                        gmwdmapData["storeLocatorFillOpacity" + '2'] = Number("0.3");                        gmwdmapData["storeLocatorLineColor" + '2'] = "#" + "000";                        gmwdmapData["storeLocatorLineOpacity" + '2'] = Number("0.6");                                                gmwdmapData["markerListingType" + '2'] = "0";                        gmwdmapData["markerListInsideMap" + '2'] = "0";                        gmwdmapData["markerListPosition" + '2'] = Number("0");                        gmwdmapData["infoWindowInfo" + '2'] = "title,address,desc,pic";                        gmwdmapData["advancedInfoWindowPosition" + '2'] = Number("10");                        gmwdmapData["geolocateUser" + '2'] = Number("0");                        gmwdmapData["items" + '2'] = "3";                                                gmwdmapData["enableSerchBox" + '2'] = "0";                        gmwdmapData["serchBoxPosition" + '2'] = Number("3");                                                gmwdmapData["allMarkers" + '2'] = [];                               gmwdmapData["allPolygons" + '2'] = [];                        gmwdmapData["allPolygonMarkers" + '2'] = [];                        gmwdmapData["allPolylines" + '2'] = [];                        gmwdmapData["allPolylineMarkers" + '2'] = [];                        gmwdmapData["infoWindows" + '2'] = [];                        gmwdmapData["ajaxData" + '2']  = {};                                                var ajaxURL = "https://apm-autopflege.de/wp-admin/admin-ajax.php";                        var markerDefaultIcon = "";                        var GMWD_URL = "https://apm-autopflege.de/wp-content/plugins/wd-google-maps";                        jQuery( document ).ready(function() {					                            gmwdInitMainMap("wd-map2",false, '2');                            gmwdReadyFunction('2');                        });
+              </script>
+              <div class="wd-clear">
+               <div class="wd-row" id="wd-map2" style=" height:170px; width:100%">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </section>
+        </div>
+        <div class="fusion-clearfix">
+        </div>
+       </div>
+       <!-- fusion-columns -->
+      </div>
+      <!-- fusion-row -->
+     </footer>
+     <!-- fusion-footer-widget-area -->
+     <footer class="fusion-footer-copyright-area fusion-footer-copyright-center" id="footer">
+      <div class="fusion-row">
+       <div class="fusion-copyright-content">
+        <div class="fusion-copyright-notice">
+         <div>
+          © APM Autopflege Munthel GmbH 1994 -
+          <script>
+           document.write(new Date().getFullYear());
+          </script>
+          | Version 3.1.1 | Was ist ein Grizzly in einem Auto? Ein Brummbär.
+         </div>
+        </div>
+       </div>
+       <!-- fusion-fusion-copyright-content -->
+      </div>
+      <!-- fusion-row -->
+     </footer>
+     <!-- #footer -->
+    </div>
+    <!-- fusion-footer -->
+    <div class="fusion-sliding-bar-wrapper">
+    </div>
+   </div>
+   <!-- wrapper -->
+  </div>
+  <!-- #boxed-wrapper -->
+  <div class="fusion-top-frame">
+  </div>
+  <div class="fusion-bottom-frame">
+  </div>
+  <div class="fusion-boxed-shadow">
+  </div>
+  <a class="fusion-one-page-text-link fusion-page-load-link">
+  </a>
+  <div class="avada-footer-scripts">
+   <script id = "BorlabsCookieBoxWrap" type = "text / template">
+    <div id="BorlabsCookieBox" class="BorlabsCookie">
+    <div class="borlabs-hide middle-center">
+        <div class = "_ brlbs-box-wrap">
+            <div class = "_ brlbs-box _brlbs-box-advanced">
+                <div class = "cookie-box">
+                    <div class = "container">
+                        <div class = "row">
+                            <div class = "col-12">
+                                <div class = "_ brlbs-flex-center">
+                                                                        <img class="cookie-logo" src="https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png" srcset="https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png, https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png 2x" alt="">
+                                                                        <h3>Hinweis zu Cookies</h3>
+                                </div>
+                                <p>Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</p>
+                                <ul><li>
+                                            <label for="checkbox-essential" class="_brlbs-checkbox">
+                                                Essenziell                                                <input id="checkbox-essential" type="checkbox" name="cookieGroup[]" value="essential" checked disabled data-borlabs-cookie-checkbox>
+                                                <div class = "_ brlbs-checkbox-indicator"> </div>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label for="checkbox-statistics" class="_brlbs-checkbox">
+                                                Statistiken                                                <input id="checkbox-statistics" type="checkbox" name="cookieGroup[]" value="statistics" checked data-borlabs-cookie-checkbox>
+                                                <div class = "_ brlbs-checkbox-indicator"> </div>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label for="checkbox-marketing" class="_brlbs-checkbox">
+                                                Marketing                                                <input id="checkbox-marketing" type="checkbox" name="cookieGroup[]" value="marketing" checked data-borlabs-cookie-checkbox>
+                                                <div class = "_ brlbs-checkbox-indicator"> </div>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label for="checkbox-external-media" class="_brlbs-checkbox">
+                                                Externe Medien                                                <input id="checkbox-external-media" type="checkbox" name="cookieGroup[]" value="external-media" checked data-borlabs-cookie-checkbox>
+                                                <div class = "_ brlbs-checkbox-indicator"> </div>
+                                            </label>
+                                        </li>
+                                        </ul>                                <p class="_brlbs-accept"><a class="_brlbs-btn _brlbs-btn-accept-all cursor" data-cookie-accept-all>Alle akzeptieren</a></p>
+                                <p class="_brlbs-accept"><a class="_brlbs-btn cursor" data-cookie-accept>Speichern</a></p>
+                                                                                                <p class="_brlbs-manage"><a class="cursor" data-cookie-individual>Individuelle Datenschutzeinstellungen</a></p>
+                                <p class = "_ brlbs-legal">
+                                    <a class="cursor" data-cookie-individual>Cookie Details</a>
+                                    <span class="_brlbs-separator"></span><a href="https://apm-autopflege.de/datenschutzerklaerung/">Datenschutzerklärung</a><span class="_brlbs-separator"></span><a href="https://apm-autopflege.de/impressum/">Impressum</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cookie-preference">
+    <div class = "container not-visible">
+        <div class = "row no-gutters">
+            <div class = "col-12">
+                <div class = "row no-gutters align-items-top">
+                                        <div class="col-2">
+                        <img class="cookie-logo" src="https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png" srcset="https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png, https://diagnostikum-oschatz.de/de/wp-content/uploads/2019/10/cookie.png 2x" alt="">
+                    </div>
+                                        <div class="col-10">
+                        <h3>Datenschutzeinstellungen</h3>
+                        <p>Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Zustimmung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.</p>
+
+                        <div class = "row no-gutters align-items-center">
+                            <div class = "col-12 col-sm-7">
+                                <p class = "_ brlbs-accept">
+                                                                <a class="_brlbs-btn _brlbs-btn-accept-all cursor" data-cookie-accept-all>Alle akzeptieren</a>
+                                                                <a class="_brlbs-btn cursor" data-cookie-accept>Speichern</a></p>
+                            </div>
+                            <div class = "col-12 col-sm-5">
+                                <p class = "_ brlbs-refuse">
+                                    <a class="cursor" data-cookie-back>Zurück</a>                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-cookie-accordion>
+                                    <div class = "bcac-item">
+                        <div class = "d-flex flex-row">
+                            <div class="w-75">
+                                <h4>Essenziell (1)</h4>
+                            </div>
+                            <div class = "w-25 text-right">
+                                                            </div>
+                        </div>
+                        <div class = "d-block">
+                            <p> Essential cookies enable basic functions and are necessary for the website to function properly. </p>
+                            <p class = "text-center">
+                                <a class="cursor d-block" data-cookie-accordion-target="essential">
+                                    <span data-cookie-accordion-status="show">Cookie-Informationen anzeigen</span>
+                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">Cookie-Informationen ausblenden</span>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="borlabs-hide" data-cookie-accordion-parent="essential">
+                                                        <table>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Borlabs Cookie</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Owner of this website </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Saves the settings of the visitors selected in the Borlabs Cookie cookie box. </td>
+                                </tr>
+                                                                                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td> borlabs-cookie </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 1 year </td>
+                                </tr>
+                                                            </table>
+                                                    </div>
+                    </div>
+                                        <div class = "bcac-item">
+                        <div class = "d-flex flex-row">
+                            <div class="w-75">
+                                <h4>Externe Medien (7)</h4>
+                            </div>
+                            <div class = "w-25 text-right">
+                                                                <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                <label class = "_ brlbs-btn-switch">
+                                    <input type="checkbox" name="cookieGroup[]" value="external-media" checked data-borlabs-cookie-switch>
+                                    <span class = "_ brlbs-slider"> </span>
+                                </label>
+                                                            </div>
+                        </div>
+                        <div class = "d-block">
+                            <p> Content from video platforms and social media platforms is blocked by default. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Zustimmung mehr.</p>
+                            <p class = "text-center">
+                                <a class="cursor d-block" data-cookie-accordion-target="external-media">
+                                    <span data-cookie-accordion-status="show">Cookie-Informationen anzeigen</span>
+                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">Cookie-Informationen ausblenden</span>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="borlabs-hide" data-cookie-accordion-parent="external-media">
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="facebook" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td> Facebook </td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Facebook </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Is used to unblock Facebook content. </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://www.facebook.com/privacy/explanation" target="_blank" rel="nofollow noopener noreferrer">https://www.facebook.com/privacy/explanation</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td> .facebook.com </td>
+                                </tr>
+                                                                                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="googlemaps" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Google Maps</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Google </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Used to unblock Google Maps content. </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://policies.google.com/privacy" target="_blank" rel="nofollow noopener noreferrer">https://policies.google.com/privacy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td> .google.com </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td> NID </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 6 months </td>
+                                </tr>
+                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="instagram" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Instagram</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Facebook </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td>Wird verwendet, um Instagram-Inhalte zu entsperren.</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://www.instagram.com/legal/privacy/" target="_blank" rel="nofollow noopener noreferrer">https://www.instagram.com/legal/privacy/</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td>.instagram.com</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td>pigeon_state</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td>Sitzung</td>
+                                </tr>
+                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="openstreetmap" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>OpenStreetMap</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td>OpenStreetMap Foundation</td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td>Wird verwendet, um OpenStreetMap-Inhalte zu entsperren.</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://wiki.osmfoundation.org/wiki/Privacy_Policy" target="_blank" rel="nofollow noopener noreferrer">https://wiki.osmfoundation.org/wiki/Privacy_Policy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td>.openstreetmap.org</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td>_osm_location, _osm_session, _osm_totp_token, _osm_welcome, _pk_id., _pk_ref., _pk_ses., qos_token</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td>1-10 Jahre</td>
+                                </tr>
+                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="twitter" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Twitter</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td>Twitter</td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td>Wird verwendet, um Twitter-Inhalte zu entsperren.</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://twitter.com/privacy" target="_blank" rel="nofollow noopener noreferrer">https://twitter.com/privacy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td>.twimg.com, .twitter.com</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td>__widgetsettings, local_storage_support_test</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td>Unbegrenzt</td>
+                                </tr>
+                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="vimeo" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Vimeo</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td>Vimeo</td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td>Wird verwendet, um Vimeo-Inhalte zu entsperren.</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://vimeo.com/privacy" target="_blank" rel="nofollow noopener noreferrer">https://vimeo.com/privacy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td>player.vimeo.com</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td>vuid</td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 2 years </td>
+                                </tr>
+                                                            </table>
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label class = "_ brlbs-btn-switch">
+                                            <input type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="youtube" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td> YouTube </td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> YouTube </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Used to unblock YouTube content. </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://policies.google.com/privacy" target="_blank" rel="nofollow noopener noreferrer">https://policies.google.com/privacy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td> google.com </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td> NID </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 6 months </td>
+                                </tr>
+                                                            </table>
+                                                    </div>
+                    </div>
+                                    </div>
+                <div class = "d-flex justify-content-between">
+                    <p class = "_ brlbs-branding flex-fill">
+                                            </p>
+                    <p class="_brlbs-legal flex-fill"><a href="https://apm-autopflege.de/datenschutzerklaerung/">Datenschutzerklärung</a><span class="_brlbs-separator"></span><a href="https://apm-autopflege.de/impressum/">Impressum</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+   </script>
+   <script src="https://apm-autopflege.de/wp-content/plugins/wp-typography/js/clean-clipboard.min.js?ver=5.6.0" type="text/javascript">
+   </script>
+   <script src="https://apm-autopflege.de/wp-content/uploads/fusion-scripts/41c322b990bc8e188db02a4953f024ce.min.js?ver=2.1" type="text/javascript">
+   </script>
+   <script src="https://apm-autopflege.de/wp-includes/js/wp-embed.min.js?ver=5.2.9" type="text/javascript">
+   </script>
+   <script type = "text / javascript">
+    / * <! [CDATA [* /
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/apm-autopflege.de\/wp-admin\/admin-ajax.php","language":"de","animation":"1","animationDelay":"","animationIn":"fadeInDown","animationOut":"flipOutX","blockContent":"1","boxLayout":"box","automaticCookieDomainAndPath":"1","cookieDomain":"apm-autopflege.de","cookiePath":"\/","cookieLifetime":"7","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"1","hideCookieBoxOnPages":[],"respectDoNotTrack":"1","reloadAfterConsent":"","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie"],"statistics":[],"marketing":[],"external-media":["facebook","googlemaps","instagram","openstreetmap","twitter","vimeo","youtube"]}};
+var borlabsCookieCookies = {"external-media":{"facebook":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImZhY2Vib29rIik7IH08L3NjcmlwdD4=","optOutJS":""},"googlemaps":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"instagram":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImluc3RhZ3JhbSIpOyB9PC9zY3JpcHQ+","optOutJS":""},"openstreetmap":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoIm9wZW5zdHJlZXRtYXAiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"twitter":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInR3aXR0ZXIiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"vimeo":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInZpbWVvIik7IH08L3NjcmlwdD4=","optOutJS":""},"youtube":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/ *]]> * /
+   </script>
+   <script src="https://apm-autopflege.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js?ver=2.1.0" type="text/javascript">
+   </script>
+   <script type = "text / javascript">
+    jQuery (document) .ready (function () {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof FB === "object") {FB.XFBML.parse (el.parentElement); } },"settings": []},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": []},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": []},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": []},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": []},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": []},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"saveThumbnails":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"changeURLToNoCookie":true,"saveThumbnails":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+(function () { var borlabsCookieCheck = function () { if (typeof window.BorlabsCookie === "object") { clearInterval(borlabsCookieLoaded); window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker); } };var borlabsCookieLoaded = setInterval(borlabsCookieCheck, 50); })();});
+   </script>
+   <script type = "text / javascript">
+    jQuery( document ).ready( function() {
+					var ajaxurl = 'https://apm-autopflege.de/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+});
+}
+});
+   </script>
+  </div>
+ </body>
+</html>

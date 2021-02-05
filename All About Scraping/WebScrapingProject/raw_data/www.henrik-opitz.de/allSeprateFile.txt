@@ -1,0 +1,131 @@
+<html>
+ <head>
+  <title>
+   Henrik Opitz - Motor vehicle workshop tire service motorsport
+  </title>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "de" http-equiv = "Content-Language" />
+  <meta content = "Henrik Opitz, car workshop, tire service, motorsport. GDR champion 1990 in Formula E1600, today known as Formula Easter. Member of the GDR national team from 1988. Here you can find out a lot of interesting facts about GDR motorsport and formula racing the eighties. " name = "description" />
+  <meta content = "henrik opitz, formula easter, formula mondial, formula e 1300, formula e 1600, gdr, motorsport, formula sport, mt77, mt 77, ml89, ml 89, cup for peace and friendship, schleiz, frohburg, sachsenring, gdr meister, narva, ulli melkus, dresden, lada "name =" keywords "/>
+  <meta content = "deutsch, de" name = "language" />
+  <meta content = "index, follow" name = "robots" />
+  <meta content = "Steffen Enke, http://www.as-elektroservice.de" name = "author" />
+  <meta content = "XNaa5P3O3X1wZne + soL12EUNIHs1Hm9k1oG5FS4lQ9A =" name = "verify-v1">
+   <link href = "favicon.ico" rel = "shortcut icon" />
+   <link href = "css / hopitz.css" rel = "stylesheet" type = "text / css" />
+   <script language = "JavaScript1.2" src = "javascript / effect.js" type = "text / javascript">
+   </script>
+  </meta>
+ </head>
+ <body leftmargin = "0" marginheight = "0" marginwidth = "0" topmargin = "0">
+  <a name="oben">
+  </a>
+  <span style = "position: absolute; left: 209; top: 33">
+   <img border = "0" height = "118" src = "images / head / banner01a.gif" width = "484" />
+  </span>
+  <table border = "0" cellspacing = "0" height = "195" width = "100%">
+   <tr>
+    <td width = "50">
+    </td>
+    <td width = "305">
+     <img border = "0" height = "175" src = "images / head / banner_l.gif" width = "305" />
+    </td>
+    <td>
+    </td>
+    <td width = "349">
+     <img border = "0" height = "175" src = "images / head / banner_r.gif" width = "349" />
+    </td>
+   </tr>
+  </table>
+  <img border = "0" height = "15" src = "images / clearpixel.gif" />
+  <table border = "0" cellspacing = "0" width = "100%">
+   <tr align = "center">
+    <td width = "18%">
+    </td>
+    <td width = "16%">
+     <a href = "ueberuns.htm" onmouseout = "changeIt ('img1', 'images / navi / ueberuns1.gif'); return true" onmouseover = "changeIt ('img1', 'images / navi / ueberuns2.gif' ); return true ">
+      <img alt = "ABOUT US" border = "0" height = "15" name = "img1" src = "images / navi / ueberuns1.gif" title = "ABOUT US" width = "100" />
+     </a>
+    </td>
+    <td width = "16%">
+     <a href = "Leistungsungen.htm" onmouseout = "changeIt ('img2', 'images / navi /leistungs1.gif'); return true" onmouseover = "changeIt ('img2', 'images / navi /leistungs2.gif' ); return true ">
+      <img alt = "SERVICES" border = "0" height = "15" name = "img2" src = "images / navi / Leistungsungen1.gif" title = "SERVICES" width = "100" />
+     </a>
+    </td>
+    <td width = "16%">
+     <a href = "motorsport.htm" onmouseout = "changeIt ('img3', 'images / navi / motorsport1.gif'); return true" onmouseover = "changeIt ('img3', 'images / navi / motorsport2.gif' ); return true ">
+      <img alt = "MOTORSPORT" border = "0" height = "15" name = "img3" src = "images / navi / motorsport1.gif" title = "MOTORSPORT" width = "100" />
+     </a>
+    </td>
+    <td width = "16%">
+     <a href = "kontakt.htm" onmouseout = "changeIt ('img4', 'images / navi / kontakt1.gif'); return true" onmouseover = "changeIt ('img4', 'images / navi / kontakt2.gif' ); return true ">
+      <img alt = "KONTAKT" border = "0" height = "15" name = "img4" src = "images / navi / kontakt1.gif" title = "KONTAKT" width = "100" />
+     </a>
+    </td>
+    <td width = "18%">
+    </td>
+   </tr>
+  </table>
+  <img border = "0" height = "15" src = "images / clearpixel.gif" />
+  <table border = "0" cellspacing = "0" width = "100%">
+   <tr width = "100%">
+    <td>
+     <div align = "center">
+      <center>
+       <table border = "0" cellpadding = "5" cellspacing = "5" width = "85%">
+        <tr>
+         <td align = "center" width = "100%">
+          <img border = "0" height = "399" src = "images / titel.jpg" width = "600" />
+         </td>
+        </tr>
+        <tr>
+         <td align = "center" width = "100%">
+          <p>
+           Motor vehicle workshop and tire service Henrik Opitz Talstr. 4 01156 Dresden-Cossebaude
+          </p>
+          <p>
+           Last update: 07/08/2019
+          </p>
+          <! - <p> <img src = "/ tinc? key = CbPeyPpi"> </p> // ->
+          <p>
+           <img border = "0" height = "30" src = "images / clearpixel.gif" />
+          </p>
+         </td>
+        </tr>
+       </table>
+      </center>
+     </div>
+    </td>
+   </tr>
+  </table>
+  <hr width = "85%" />
+  <p align = "center" class = "navi">
+   <a class="navi" href="#oben">
+    | UP |
+   </a>
+   <a class="navi" href="ueberuns.htm">
+    | ABOUT US |
+   </a>
+   <a class="navi" href="leistungen.htm">
+    | SERVICES |
+   </a>
+   <a class="navi" href="motorsport.htm">
+    | MOTORSPORT |
+   </a>
+   <a class="navi" href="kontakt.htm">
+    | CONTACT |
+   </a>
+   <a class="navi" href="impressum.htm">
+    | IMPRINT |
+   </a>
+   <a class="navi" href="impressum.htm#datenschutz">
+    | DATA PROTECTION |
+   </a>
+   <a class="navi" href="sitemap.htm">
+    | SITEMAP |
+   </a>
+  </p>
+  <p>
+  </p>
+ </body>
+</html>

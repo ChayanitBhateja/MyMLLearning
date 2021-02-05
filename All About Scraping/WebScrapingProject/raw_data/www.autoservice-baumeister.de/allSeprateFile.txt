@@ -1,0 +1,107 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Transitional // EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang = "de" xml: lang = "de" xmlns = "http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Auto service builder
+  </title>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "In the independent workshop - Auto Service Baumeister - cars and vans from all manufacturers are being followed
+Customer requirements and manufacturer specifications serviced and repaired.
+I have particularly specialized in vehicles from the car brand BMW "name =" description "/>
+  <meta "smart =" "01139 =" "32, =" "exhaust gas investigation, =" "axle adjustment, =" "axle measurement, =" "all =" "au, =" "auto repair, =" "auto repair shop, =" " baumeister, = "" petrol- = "" provision = "" bmw, = "" bremsen- = "" content = "?? car service" dekra, = "" diesel vehicles, = "" dresden, = "" own = "" electronic = "" replacement vehicle, = "" vehicle conversions, = "" fault diagnosis, = "" glass repair, = "" glass service, = "" main inspection, = "" manufacturer, = "" hu, = "" maintenance, = "" small vans , = "" air conditioning service, = "" assemble, = "" name = "?? KEYWORDS ??" obd, = "" car, = "" ralf = "" tire service, = "" tire change, = "" repair "? ? = "" repair, = "" rethelstraße = "" sachsen, = "" service, = "" special acceptance, = "" shock absorber test, = "" south, = "" tester, = "" tuning, = "" tüv = "" and = "" accident, = "" accident repair, = "" full report, = "" maintenance, = "" balancing, = "" üigau, = "" />
+  <meta content = "INDEX, FOLLOW" name = "ROBOTS">
+   <meta content = "Andreas Schulze" name = "author" />
+   <meta content = "Andreas Schulze" name = "copyright" />
+   <link href = "./ css / screen.css" media = "screen" rel = "stylesheet" type = "text / css" />
+  </meta>
+ </head>
+ <body style = "background: url (./ pics / background.gif); background-position: center;">
+  <div id = "MainBlock">
+   <center>
+    <div id = "Background" style = "background: url (./ pics / background_2.gif); height: 1000px; text-align: right;">
+     <div id = "Content" style = "background: url (./ pics / baumeister_web_schatten_2.gif) no-repeat; background-position: left top;">
+      <div id = "Top">
+       <img alt = "" border = "0" src = "./ pics / logo_baumeister.gif" />
+      </div>
+      <div id = "Left" style = "background: url (./ pics / background_left.gif);">
+       <div id = "LeftTop">
+        <table border = "0" cellpadding = "0" cellspacing = "0" style = "width: 128px; display: block;">
+         <tr>
+          <td height = "366" valign = "bottom">
+           <a class="TopNav" href="index.html" id="TopNavAktiv">
+            Home
+           </a>
+           <a class="TopNav" href="ueber_uns.html">
+            about us
+           </a>
+           <a class="TopNav" href="werkstatt.html">
+            Workshop
+           </a>
+           <a class="TopNav" href="motorsport.html">
+            Motorsport
+           </a>
+           <a class="TopNav" href="kontakt.html">
+            Contact
+           </a>
+           <a class="TopNavBottom" href="anfahrt.html">
+            Directions
+           </a>
+          </td>
+         </tr>
+        </table>
+       </div>
+      </div>
+      <div id = "Right">
+       <div id = "RightTop" style = "background: url (./ pics / background_home.jpg); background-position: right top;">
+        <div id = "RightTopNull">
+        </div>
+        <div id = "RightTopContent">
+         <div style = "width: 580px; padding-top: 150px;">
+          <p>
+           Welcome to my free car workshop
+          </p>
+          <p>
+           <strong>
+            Opening hours :
+           </strong>
+          </p>
+          <div class = "T1Col1">
+           Mon - Fri
+          </div>
+          <div class = "T1Col2">
+           7.30 a.m. - 6.00 p.m.
+          </div>
+          <div class = "T1Col1">
+           Sat
+          </div>
+          <div class = "T1Col2">
+           by arrangement
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style = "text-alin: right; padding-right: 110px;">
+      <font style = "color: # 919090;">
+       Copyright 2007
+      </font>
+     </div>
+     <center>
+      <img alt = "" border = "0" src = "./ pics / logos.gif" />
+     </center>
+    </div>
+   </center>
+  </div>
+  <script type = "text / javascript">
+   var gaJsHost = (("https:" == document.location.protocol)? "https: // ssl.": "http: // www.");
+document.write (unescape ("% 3Cscript src = '" + gaJsHost + "google-analytics.com/ga.js' type = 'text / javascript'% 3E% 3C / script% 3E"));
+  </script>
+  <script type = "text / javascript">
+   try {
+var pageTracker = _gat._getTracker ("UA-578629-11");
+pageTracker._trackPageview ();
+} catch (err) {}
+  </script>
+ </body>
+</html>

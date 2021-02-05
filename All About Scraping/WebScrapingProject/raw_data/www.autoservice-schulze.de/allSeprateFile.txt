@@ -1,0 +1,287 @@
+<! DOCTYPE>
+<html>
+ <head>
+  <! - Meta ->
+  <meta charset = "utf-8" />
+  <meta content = "initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no" name = "viewport">
+   <meta content = "de" http-equiv = "language" />
+   <meta content = "Autoservice Schulze from Dresden Löbtau is your independent workshop for all brands as a specialist for English vehicles and classic cars" name = "description" />
+   <title>
+    Autoservice Schulze Dresden - Independent workshop - English vehicles - Oldtimer
+   </title>
+   <! - Fonts ->
+   <link href = "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel = "stylesheet" type = "text / css" />
+   <! - CSS internal ->
+   <link href = "https://www.autoservice-schulze.de/de/style.css" rel = "stylesheet" type = "text / css">
+    <! - CSS external ->
+    <link href = "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel = "stylesheet" />
+    <! - Javascript ->
+    <script src = "https://code.jquery.com/jquery-2.0.0.js">
+    </script>
+    <script src = "https://www.autoservice-schulze.de/images/js/event.move.js">
+    </script>
+    <script src = "https://www.autoservice-schulze.de/images/js/slider.js">
+    </script>
+    <script src = "https://www.autoservice-schulze.de/images/js/twentytwenty.js">
+    </script>
+    <! - Global site tag (gtag.js) - Google Analytics ->
+    <script async = "" src = "https://www.googletagmanager.com/gtag/js?id=UA-137736632-9">
+    </script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+function gtag () {dataLayer.push (arguments);}
+gtag ('js', new Date ());
+
+gtag ('config', 'UA-137736632-9');
+    </script>
+   </link>
+  </meta>
+ </head>
+ <body>
+  <div id = "content">
+   <header>
+    <div>
+     <section>
+      <div class = "center xl max">
+       <div id = "logo">
+        <a href="https://www.autoservice-schulze.de/de">
+         <img alt = "Autoservice Schulze" src = "https://www.autoservice-schulze.de/images/upload/logo/autoservice-schulze.svg" />
+        </a>
+       </div>
+      </div>
+      <div class = "center max">
+       <menu class = "web">
+        <ul>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/frei-werkstatt-dresden" target="_self" title="Freie Werkstatt">
+           Free workshop
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/spezialist-englische-fahrzeug" target="_self" title="English vehicles">
+           English vehicles
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/oldtimer-werkstatt-restauration-instandsetzung" target="_self" title="Oldtimer">
+           Antique car
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/kontakt" target="_self" title="Kontakt">
+           Contact
+          </a>
+         </li>
+        </ul>
+       </menu>
+       <menu class = "app">
+        <form action = "https://www.autoservice-schulze.de/de/change/menue" method = "post">
+         <select name = "menu change" onchange = "this.form.submit ()">
+          <option>
+           menu
+          </option>
+          <option value = "https://www.autoservice-schulze.de/de/frei-werkstatt-dresden">
+           Free workshop
+          </option>
+          <option value = "https://www.autoservice-schulze.de/de/spezialist-englische-fahrzeuge">
+           English vehicles
+          </option>
+          <option value = "https://www.autoservice-schulze.de/de/oldtimer-werkstatt-restauration-instandsetzung">
+           Antique car
+          </option>
+          <option value = "https://www.autoservice-schulze.de/de/kontakt">
+           Contact
+          </option>
+         </select>
+        </form>
+       </menu>
+      </div>
+     </section>
+    </div>
+   </header>
+   <figure>
+    <div class = "slider-xl slider-carousel slider-theme">
+     <div style = "background-image: url (https://www.autoservice-schulze.de/images/slider/18.jpg)">
+      <div class = "grid">
+       <section>
+        <div>
+         <p>
+          Your specialist for English vehicles
+         </p>
+        </div>
+       </section>
+      </div>
+     </div>
+     <div style = "background-image: url (https://www.autoservice-schulze.de/images/slider/03.jpg)">
+      <div class = "grid">
+       <section>
+        <div>
+         <p>
+          Free workshop for
+          <br/>
+          almost all vehicle types
+         </p>
+        </div>
+       </section>
+      </div>
+     </div>
+     <div style = "background-image: url (https://www.autoservice-schulze.de/images/slider/09.jpg)">
+      <div class = "grid">
+       <section>
+        <div>
+         <p>
+          Classic car restoration
+         </p>
+        </div>
+       </section>
+      </div>
+     </div>
+     <div style = "background-image: url (https://www.autoservice-schulze.de/images/slider/13.jpg)">
+      <div class = "grid">
+       <section>
+        <div>
+         <p>
+          Over 30 years of company history
+         </p>
+        </div>
+       </section>
+      </div>
+     </div>
+    </div>
+   </figure>
+   <footer>
+    <div>
+     <section>
+      <div class = "xs">
+       <div>
+        <h3>
+         General
+        </h3>
+        <ul>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/startseite" target="_self" title="Startseite">
+           Home page
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/presse" target="_self" title="Presse">
+           Press
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/datenschutz" target="_self" title="Datenschutz">
+           data protection
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/impressum" target="_self" title="Impressum">
+           imprint
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "xs">
+       <div>
+        <h3>
+         service
+        </h3>
+        <ul>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/spezialist-englische-fahrzeug" target="_self" title="English vehicles">
+           English vehicles
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/oldtimer-werkstatt-restauration-instandsetzung" target="_self" title="Oldtimer">
+           Antique car
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/galerie" target="_self" title="Galerie">
+           gallery
+          </a>
+         </li>
+         <li>
+          <a href="https://www.autoservice-schulze.de/de/kontakt" target="_self" title="Kontakt">
+           Contact
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "xs">
+       <div>
+        <h3>
+         address
+        </h3>
+        <p>
+         Froebelstrasse 22
+         <br/>
+         01159 Dresden
+        </p>
+       </div>
+      </div>
+      <div class = "xs">
+       <div>
+        <h3>
+         Contact
+        </h3>
+        <p>
+         Telephone 0351/49 62 823
+         <br/>
+         Fax 0351/49 54 872
+         <br/>
+         info@autoservice-schulze.de
+        </p>
+       </div>
+      </div>
+     </section>
+    </div>
+   </footer>
+  </div>
+  <map id = "map-canvas" name = "map-canvas">
+  </map>
+  <script src = "https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyCoIL6EL2_Z319FHB7WSjPY-E0i3sS1kwM">
+  </script>
+  <script src = "https://www.autoservice-schulze.de/images/js/twentytwenty.user.js">
+  </script>
+  <script src = "https://www.autoservice-schulze.de/de/lösungen/google-maps.js">
+  </script>
+  <script>
+   jQuery (document) .ready (function ($) {
+$ ('. slider-xl'). sliderCarousel ({
+animateOut: 'fadeOut',
+animateIn: 'fadeIn',
+mouseDrag: false,
+touchDrag: false,
+pullDrag: false
+});
+
+$ ('. slider-l'). sliderCarousel ({
+animateOut: 'fadeOut',
+animateIn: 'fadeIn',
+mouseDrag: false,
+touchDrag: false,
+pullDrag: false
+});
+
+$ ('. slider-m'). sliderCarousel ({
+animateOut: 'fadeOut',
+animateIn: 'fadeIn',
+mouseDrag: false,
+touchDrag: false,
+pullDrag: false
+});
+
+$ ('. slider-s'). sliderCarousel ({
+animateOut: 'fadeOut',
+animateIn: 'fadeIn',
+mouseDrag: false,
+touchDrag: false,
+pullDrag: false
+});
+});
+  </script>
+ </body>
+</html>

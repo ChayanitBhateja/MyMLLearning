@@ -1,0 +1,410 @@
+<! DOCTYPE html>
+<html dir = "ltr" lang = "de-de">
+ <head>
+  <meta content = "width = device-width, initial-scale = 1.0" name = "viewport" />
+  <meta charset = "utf-8" />
+  <base href = "http://www.autoglasprofi-dresden.de/" />
+  <meta content = "Autoglas, Sattlerei, Mohorner Straße 21, 01159 Dresden," name = "description" />
+  <meta content = "Joomla! - Open Source Content Management" name = "generator" />
+  <title>
+   Home - Autoglas Profi Eßlinger
+  </title>
+  <link href = "/ index.php? format = feed & amp; type = rss" rel = "alternate" title = "RSS 2.0" type = "application / rss + xml" />
+  <link href = "/ index.php? format = feed & amp; type = atom" rel = "alternate" title = "Atom 1.0" type = "application / atom + xml" />
+  <link href = "/ templates / protostar / favicon.ico" rel = "shortcut icon" type = "image / vnd.microsoft.icon" />
+  <link href = "/ templates / protostar / css / template.css? 74d70ff05be051e582e990e7f03c9f97" rel = "stylesheet" />
+  <style>
+   body.site {
+border-top: 3px solid # 2800d2;
+background-color: # c0c0c0;
+}
+a {
+color: # 2800d2;
+}
+.nav-list> .active> a,
+.nav-list> .active> a: hover,
+.dropdown menu li> a: hover,
+.dropdown-menu .active> a,
+.dropdown-menu .active> a: hover,
+.nav-pills> .active> a,
+.nav-pills> .active> a: hover,
+.btn-primary {
+background: # 2800d2;
+}
+  </style>
+  <script src = "/ media / jui / js / jquery.min.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <script src = "/ media / jui / js / jquery-noconflict.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <script src = "/ media / jui / js / jquery-migrate.min.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <script src = "/ media / system / js / caption.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <script src = "/ media / jui / js / bootstrap.min.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <script src = "/ templates / protostar / js / template.js? 74d70ff05be051e582e990e7f03c9f97">
+  </script>
+  <! - [if lt IE 9]> <script src = "/ media / jui / js / html5.js? 74d70ff05be051e582e990e7f03c9f97"> </script> <! [endif] ->
+  <script>
+   jQuery (window) .on ('load', function () {
+new JCaption ('img.caption');
+});
+  </script>
+ </head>
+ <body class = "site com_content view-featured no-layout no-task itemid-101">
+  <! - Body ->
+  <div class = "body" id = "top">
+   <div class = "container">
+    <! - Header ->
+    <header class = "header" role = "banner">
+     <div class = "header-inner clearfix">
+      <a class="brand pull-left" href="/">
+       <img alt = "Autoglas Profi Eßlinger" src = "http://www.autoglasprofi-dresden.de/images/headers/Slide1.jpg" />
+      </a>
+      <div class = "header-search pull-right">
+      </div>
+     </div>
+    </header>
+    <nav class = "navigation" role = "navigation">
+     <div class = "navbar pull-left">
+      <a class="btn btn-navbar collapsed" data-target=".nav-collapse" data-toggle="collapse">
+       <span class = "element-invisible">
+        Navigation on / off
+       </span>
+       <span class = "icon-bar">
+       </span>
+       <span class = "icon-bar">
+       </span>
+       <span class = "icon-bar">
+       </span>
+      </a>
+     </div>
+     <div class = "nav-collapse">
+      <ul class = "nav menu nav-pills mod-list">
+       <li class = "item-101 default current active">
+        <a href="/index.php">
+         Home
+        </a>
+       </li>
+       <li class = "item-104">
+        <a href="/index.php/sattlerei.html">
+         saddlery
+        </a>
+       </li>
+       <li class = "item-126">
+        <a href="/index.php/autoglas-profi-h-eßlinger.html">
+         Car glass
+        </a>
+       </li>
+       <li class = "item-106">
+        <a href="https://www.facebook.com/Autoglasprofi-HEßlinger-216033871813882/timeline?ref=page_internal" rel="noopener noreferrer" target="_blank">
+         Facebook
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div class = "row-fluid">
+     <main class = "span9" id = "content" role = "main">
+      <! - Begin Content ->
+      <div id = "system-message-container">
+      </div>
+      <div class = "blog-featured" itemscope = "" itemtype = "https://schema.org/Blog">
+       <div class = "items-leading clearfix">
+        <div class = "leading-0 clearfix" itemprop = "blogPost" itemscope = "" itemtype = "https://schema.org/BlogPosting">
+         <hr />
+         <p>
+          <span style = "color: # 2800d2; font-family: verdana, geneva;">
+           <strong>
+            <span style = "font-size: 18pt;">
+             Auto glass professional H. Eßlinger
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+          </span>
+         </p>
+         <p style = "text-align: left;">
+          <span style = "color: # 000000; font-size: 14pt; font-family: verdana, geneva;">
+           <strong>
+            Hagen Esslinger
+            <br/>
+           </strong>
+          </span>
+         </p>
+         <p style = "text-align: left;">
+          <span style = "font-size: 12pt; font-family: verdana, geneva;">
+           <span style = "color: # 000000;">
+           </span>
+           <span style = "color: # 808080;">
+            <strong>
+             Mohorner Strasse 21
+            </strong>
+           </span>
+          </span>
+         </p>
+         <p style = "text-align: left;">
+          <span style = "font-size: 12pt; color: # 808080; font-family: verdana, geneva;">
+           <strong>
+            01159 Dresden
+           </strong>
+          </span>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+           <strong style = "color: # 808080; font-size: 16px;">
+            <strong style = "font-size: 16px;">
+             <span style = "color: # 808080;">
+              <span id = "cloak1622b087ba4f6325168abb5ec0267e62">
+               This email address is being protected from spam bots! To display JavaScript must be turned on!
+              </span>
+              <script type = "text / javascript">
+               document.getElementById ('cloak1622b087ba4f6325168abb5ec0267e62'). innerHTML = '';
+var prefix = 'ma' + 'il' + 'to';
+var path = 'hr' + 'ef' + '=';
+var addy1622b087ba4f6325168abb5ec0267e62 = 'info' + '@';
+addy1622b087ba4f6325168abb5ec0267e62 = addy1622b087ba4f6325168abb5ec0267e62 + 'autoglasprofi-dresden' + '.' + 'de';
+var addy_text1622b087ba4f6325168abb5ec0267e62 = 'info' + '@' + 'autoglasprofi-dresden' + '.' + 'de'; document.getElementById ('cloak1622b087ba4f6325168abb5ec0267e62'). innerHTML + = '<a' + path +'\'' + prefix +':' + addy1622b087ba4f6325168abb5 ' ';
+              </script>
+             </span>
+            </strong>
+            <span style = "font-size: 16px;">
+            </span>
+            <span style = "font-size: 12pt;">
+            </span>
+           </strong>
+          </span>
+          <span style = "font-family: verdana, geneva;">
+           <span style = "font-size: 12pt;">
+            <br/>
+           </span>
+          </span>
+         </p>
+         <p>
+         </p>
+         <h2>
+          <span style = "font-family: verdana, geneva;">
+           <span style = "color: # 000000;">
+            Auto glass & amp; saddlery
+           </span>
+           <br/>
+          </span>
+         </h2>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+           <span style = "color: # 1c1e21; font-family: Helvetica, Arial, sans-serif; font-size: 12px;">
+            From stone chip repairs to seat repairs, from window changes to completely renewed convertible tops, we are your reliable partner. Do you have any questions about special bonds, custom-made seat covers or glass in all variants?
+           </span>
+          </span>
+         </p>
+         <p>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+           <img alt = "" height = "187" src = "/ images / 156479_370618749688726_4297910_n.jpg" style = "font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;" width = "250" />
+           <img alt = "IMG 1092" height = "188" src = "/ images / autoglas / IMG_1092.JPG" width = "230" />
+          </span>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+           <img alt = "IMG 0546" height = "188" src = "/ images / autoglas / IMG_0546.JPG" width = "141" />
+           <img alt = "" height = "187" src = "/ images / 13879254_1042032679213993_8723201772555318984_n.jpg" width = "141" />
+          </span>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+          </span>
+         </p>
+         <p>
+          <span style = "font-family: verdana, geneva;">
+          </span>
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class = "clearfix">
+      </div>
+      <! - End Content ->
+     </main>
+     <div class = "span3" id = "aside">
+      <! - Begin Right Sidebar ->
+      <div class = "well">
+       <div class = "custom">
+        <p>
+        </p>
+        <p style = "text-align: center;">
+         <span style = "font-family: verdana, geneva;">
+          <strong style = "color: # 000000; font-size: 18.6667px;">
+           opening hours
+          </strong>
+         </span>
+        </p>
+        <table style = "margin: auto; display: block; height: 56px; width: 184px; font-size: 8pt;">
+         <tbody>
+          <tr>
+           <td style = "text-align: left;">
+            <span>
+             Mon - Fri
+            </span>
+           </td>
+           <td style = "text-align: left;">
+            <span>
+             8:00 a.m. - 6:00 p.m.
+            </span>
+           </td>
+          </tr>
+          <tr style = "text-align: left;">
+           <td>
+            <span>
+             Sat
+            </span>
+           </td>
+           <td style = "text-align: left;">
+            <span>
+             Appointment upon agreement
+            </span>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <p style = "text-align: center; font-size: 8pt;">
+         <span>
+          <br/>
+          <br/>
+          <br/>
+         </span>
+        </p>
+        <p style = "text-align: center;">
+         <a href="/index.php/2-uncategorised/7-gls-paket-shop.html">
+          <img alt = "GLS PaketShop" height = "100" src = "/ images / GLS_PaketShop.jpg" width = "100" />
+         </a>
+        </p>
+        <p style = "text-align: center;">
+         <a href="/index.php/2-uncategorised/7-gls-paket-shop.html">
+          GLS parcel shop
+         </a>
+         <br/>
+         <span>
+          <a href="/index.php/2-uncategorised/7-gls-paket-shop.html">
+           Mon-Fri 10: 00-18: 00
+           <br/>
+           Sat. by appointment
+          </a>
+         </span>
+         <span style = "color: # 333399;">
+         </span>
+        </p>
+        <p style = "text-align: center; font-size: 8pt;">
+         <span>
+         </span>
+        </p>
+        <p>
+         <a href="/index.php/autoglas-profi-h-eßlinger.html">
+         </a>
+        </p>
+        <hr />
+        <p>
+         <a href="/index.php/autoglas-profi-h-eßlinger.html">
+         </a>
+        </p>
+        <p>
+         <a href="/index.php/autoglas-profi-h-eßlinger.html">
+          <img alt = "" src = "/ images / Autoglas_Logo.jpg" style = "display: block; margin-left: auto; margin-right: auto;" />
+         </a>
+        </p>
+        <p style = "text-align: center;">
+         <a href="/index.php/autoglas-profi-h-eßlinger.html">
+          <span style = "color: # 333399;">
+           Car glass
+          </span>
+         </a>
+        </p>
+        <p style = "text-align: center;">
+        </p>
+        <p style = "text-align: center;">
+         <a href="/index.php/sattlerei.html">
+          <img alt = "" src = "/ images / Sattler_Logo.jpg" />
+         </a>
+        </p>
+        <p style = "text-align: center;">
+         <a href="/index.php/sattlerei.html">
+          <span style = "color: # 333399;">
+           saddlery
+          </span>
+         </a>
+        </p>
+        <p style = "text-align: center;">
+        </p>
+        <p style = "text-align: center;">
+        </p>
+        <hr />
+        <p style = "text-align: center;">
+         <span style = "color: # 333399;">
+          We would be happy to advise you:
+         </span>
+        </p>
+        <p style = "margin: 0px 0px 9px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; text-align: center;">
+         <span style = "color: # 333399;">
+          Mohorner Strasse 21
+          <br/>
+         </span>
+         <span style = "color: # 333399;">
+          01159 Dresden
+          <br/>
+         </span>
+         <span style = "color: # 333399;">
+          <span class = "_ QUg" style = "font-weight: bold; margin-right: 4px;">
+           Phone:
+          </span>
+          <a class = "fl r-iU7j1dnNzHAM" data-number = "+ 493514213518" data-rtid = "iU7j1dnNzHAM" data-ved = "0ahUKEwiBw-aj1aHLAhUmpnIKHetfC1AQkAgIqwEwDw" 33 style = "; cursor: # pointer style ="; title = "Call from Hangouts">
+           0351 4213518
+           <br/>
+          </a>
+         </span>
+         <a href="mailto:info@autoglasprofi-dresden.de">
+          info@autoglasprofi-dresden.de
+         </a>
+        </p>
+        <hr />
+        <p style = "margin: 0px 0px 9px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; text-align: center;">
+         <a href="https://www.facebook.com/AutoglasprofiDD/" target="_blank">
+          <img alt = "" height = "74" src = "/ images / facebook-button.gif" width = "192" />
+         </a>
+        </p>
+       </div>
+      </div>
+      <! - End Right Sidebar ->
+     </div>
+    </div>
+   </div>
+  </div>
+  <! - Footer ->
+  <footer class = "footer" role = "contentinfo">
+   <div class = "container">
+    <hr />
+    <ul class = "nav menu mod-list">
+     <li class = "item-127">
+      <a href="/index.php/impressum.html">
+       imprint
+      </a>
+     </li>
+     <li class = "item-128">
+      <a href="/index.php/datenschutzerklärung.html">
+       Data protection
+      </a>
+     </li>
+    </ul>
+    <p class = "pull-right">
+     <a href="#top" id="back-top">
+      Up
+     </a>
+    </p>
+    <p>
+     © 2020 Autoglas Profi Eßlinger
+    </p>
+   </div>
+  </footer>
+ </body>
+</html>

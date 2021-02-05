@@ -1,0 +1,543 @@
+<! DOCTYPE html>
+<html>
+ <head>
+  <! - Site made with Mobirise Website Builder v4.7.1, https://mobirise.com ->
+  <meta charset = "utf-8" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "Mobirise v4.7.1, mobirise.com" name = "generator" />
+  <meta content = "width = device-width, initial-scale = 1, minimum-scale = 1" name = "viewport" />
+  <link href = "assets / images / logo-max-bormann-1400x1400.png" rel = "shortcut icon" type = "image / x-icon" />
+  <meta content = "Cars, bodywork, accident repairs, glass service, painting, tuning, 24h service, care, processing, electric car filling station, mechanics, electrics, drive, chassis, wheel alignment, wheels, tires, exhaust, diagnosis, air conditioning service" name = "description" />
+  <title>
+   Motor vehicle workshop Max Bormann Dresden
+  </title>
+  <link href = "https://fonts.googleapis.com/css?family=Montserrat:400,700" rel = "stylesheet" />
+  <link href = "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel = "stylesheet" />
+  <link href = "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin" rel = "stylesheet" />
+  <link href = "assets / tether / tether.min.css" rel = "stylesheet" />
+  <link href = "assets / soundcloud-plugin / style.css" rel = "stylesheet" />
+  <link href = "assets / bootstrap / css / bootstrap.min.css" rel = "stylesheet" />
+  <link href = "assets / animate.css / animate.min.css" rel = "stylesheet" />
+  <link href = "assets / dropdown / css / style.css" rel = "stylesheet" />
+  <link href = "assets / theme / css / style.css" rel = "stylesheet" />
+  <link href = "assets / mobirise / css / mbr-additional.css" rel = "stylesheet" type = "text / css" />
+ </head>
+ <body>
+  <section data-rv-view = "30" id = "ext_menu-d">
+   <nav class = "navbar navbar-dropdown navbar-fixed-top">
+    <div class = "container">
+     <div class = "mbr-table">
+      <div class = "mbr-table-cell">
+       <div class = "navbar-brand">
+        <a class="navbar-logo" href="https://mobirise.com">
+         <img alt = "Mobirise" src = "assets / images / logo-max-bormann-1400x1400.png" />
+        </a>
+        <a class="navbar-caption" href="https://mobirise.com">
+         Max Bormann car workshop
+        </a>
+       </div>
+      </div>
+      <div class = "mbr-table-cell">
+       <button class = "navbar-toggler pull-xs-right hidden-md-up" data-target = "# exCollapsingNavbar" data-toggle = "collapse" type = "button">
+        <div class = "hamburger-icon">
+        </div>
+       </button>
+       <ul class = "nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id = "exCollapsingNavbar">
+        <li class = "nav-item dropdown">
+         <a class="nav-link link" href="index.html#msg-box5-g">
+          Range of services
+         </a>
+        </li>
+        <li class = "nav-item">
+         <a class="nav-link link" href="index.html#features3-a">
+          Current
+         </a>
+        </li>
+        <li class = "nav-item">
+         <a class="nav-link link" href="index.html#testimonials3-8">
+          reviews
+         </a>
+        </li>
+        <li class = "nav-item dropdown">
+         <a aria-expanded="false" class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="index.html#form1-6">
+          Contact
+         </a>
+         <div class = "dropdown-menu">
+          <a class="dropdown-item" href="index.html#contacts2-7">
+           imprint
+          </a>
+          <a class="dropdown-item" href="page1.html">
+           Data protection
+          </a>
+         </div>
+        </li>
+       </ul>
+       <button class = "navbar-toggler navbar-close" data-target = "# exCollapsingNavbar" data-toggle = "collapse" hidden = "" type = "button">
+        <div class = "close-icon">
+        </div>
+       </button>
+      </div>
+     </div>
+    </div>
+   </nav>
+  </section>
+  <section class = "engine">
+   <a href="https://mobirise.ws/g">
+    how to create free website
+   </a>
+  </section>
+  <section class = "mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" data-rv-view = "0" id = "header2-2" style = "background -image: url (assets / images / mbr-2000x1408.jpg); ">
+   <div class = "mbr-overlay" style = "opacity: 0.7; background-color: rgb (0, 0, 0);">
+   </div>
+   <div class = "mbr-table mbr-table-full">
+    <div class = "mbr-table-cell">
+     <div class = "container">
+      <div class = "mbr-section row">
+       <div class = "mbr-table-md-up">
+        <div class = "mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+         <h3 class = "mbr-section-title display-2">
+          CAR WORKSHOP
+          <div>
+           MAX BORMANN
+          </div>
+         </h3>
+         <div class = "mbr-section-text">
+          <p>
+           Flensburger Str. 35
+           <br/>
+           01157 Dresden
+           <br/>
+           <br/>
+           Tel. 0351 45 45 70
+           <br/>
+           <br/>
+           www.kfz-werkstatt-maxbormann.de
+           <br/>
+           info@kfz-werkstatt-maxbormann.de
+          </p>
+         </div>
+        </div>
+        <div class = "mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style = "width: 50%;">
+         <div class = "mbr-figure">
+          <img src = "assets / images / logo-max-bormann-1400x1400.png" />
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div aria-hidden = "true" class = "mbr-arrow mbr-arrow-floating hidden-sm-down">
+    <a href="#msg-box5-g">
+     <i class = "mbr-arrow-icon">
+     </i>
+    </a>
+   </div>
+  </section>
+  <section class = "mbr-section" data-rv-view = "3" id = "msg-box5-g" style = "background-color: rgb (204, 7, 30); padding-top: 40px; padding -bottom: 40px; ">
+   <div class = "container">
+    <div class = "row">
+     <div class = "mbr-table-md-up">
+      <div class = "mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
+       <h3 class = "mbr-section-title display-2">
+        Our range of services
+       </h3>
+       <div class = "lead">
+        <p>
+         <strong>
+          Cars, bodywork, accident repairs, glass service, painting, tuning, 24h service, care, preparation, electric vehicle filling station, mechanics, electrics, drive, chassis, wheel alignment, wheels, tires, exhaust, diagnosis, air conditioning service
+         </strong>
+         .
+        </p>
+       </div>
+      </div>
+      <div class = "mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style = "width: 50%;">
+       <div class = "mbr-figure">
+        <img src = "assets / images / mbr-1400x933.jpg" />
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class = "mbr-cards mbr-section mbr-section-nopadding" data-rv-view = "6" id = "features3-a" style = "background-color: rgb (255, 255, 255);" >
+   <div class = "mbr-cards-row row">
+    <div class = "mbr-cards-col col-xs-12 col-lg-2" style = "padding-top: 80px; padding-bottom: 80px;">
+     <div class = "container">
+      <div class = "card cart-block">
+       <div class = "card-img">
+        <img class = "card-img-top" src = "assets / images / mbr-1400x1050.jpg" />
+       </div>
+       <div class = "card-block">
+        <h4 class = "card-title">
+         Car vacation check
+        </h4>
+        <h5 class = "card-subtitle">
+         Relax, unwind, relax
+        </h5>
+        <p class = "card-text">
+         We probably all agree the best time of the year is vacation time! In the summer months, the vehicle colonies roll through Germany when they head back to the Baltic Sea or south. We therefore check with our holiday check
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "mbr-cards-col col-xs-12 col-lg-2" style = "padding-top: 80px; padding-bottom: 80px;">
+     <div class = "container">
+      <div class = "card cart-block">
+       <div class = "card-img">
+        <img class = "card-img-top" src = "assets / images / mbr-600x337.jpg" />
+       </div>
+       <div class = "card-block">
+        <h4 class = "card-title">
+         Every year again ...
+        </h4>
+        <h5 class = "card-subtitle">
+         When the TÜV calls.
+        </h5>
+        <p class = "card-text">
+         Emissions test, general inspection
+         <br/>
+         Dekra, Tüv, Gtü. No problem with us and appointments are also available at short notice
+         <br/>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "mbr-cards-col col-xs-12 col-lg-2" style = "padding-top: 80px; padding-bottom: 80px;">
+     <div class = "container">
+      <div class = "card cart-block">
+       <div class = "card-img">
+        <img class = "card-img-top" src = "assets / images / mbr-1-600x337.jpg" />
+       </div>
+       <div class = "card-block">
+        <h4 class = "card-title">
+         Cold start engine
+        </h4>
+        <h5 class = "card-subtitle">
+         Why you should avoid high speeds
+        </h5>
+        <p class = "card-text">
+         We are of course always happy when we get new customers. But a lot of the damage that we suffer from every day could be prevented with the right driving style. One of the most common mistakes we keep seeing is engines revving up to full speed when they are still cold. Why this is so and what we recommend, more on that now.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "mbr-cards-col col-xs-12 col-lg-2" style = "padding-top: 80px; padding-bottom: 80px;">
+     <div class = "container">
+      <div class = "card cart-block">
+       <div class = "card-img">
+        <img class = "card-img-top" src = "assets / images / mbr-1-600x400.jpg" />
+       </div>
+       <div class = "card-block">
+        <h4 class = "card-title">
+         3 tips on used tires
+        </h4>
+        <h5 class = "card-subtitle">
+         It is important to note that
+        </h5>
+        <p class = "card-text">
+         Every now and then we are asked whether you can use used tires or whether you should keep your hands off them. Of course we cannot answer such questions across the board. Because that always depends on the condition of the tires. Therefore, here are our 3 tips on how to quickly find out for yourself whether you should still use a used tire.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "mbr-cards-col col-xs-12 col-lg-2" style = "padding-top: 80px; padding-bottom: 80px;">
+     <div class = "container">
+      <div class = "card cart-block">
+       <div class = "card-img">
+        <img alt = "600000km with one motor" class = "card-img-top" src = "assets / images / 600000km-seitenansicht-600x400.jpg" title = "600000km with one motor" />
+       </div>
+       <div class = "card-block">
+        <h4 class = "card-title">
+         600,000km with one engine
+        </h4>
+        <h5 class = "card-subtitle">
+         Regular care leads to top performance
+        </h5>
+        <p class = "card-text">
+         Through regular workshop visits and professional maintenance of our workshop, this Mercedes E350D (year of construction 1994) has made the 600,000km with one and the same engine. And he runs and still runs with no signs of fatigue.
+         <br/>
+         <a href="https://www.kfz-werkstatt-maxbormann.de/mercedes/" target="_blank">
+          Here is the 360 ​​° view
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class = "mbr-section mbr-parallax-background" data-rv-view = "9" id = "testimonials3-8" style = "background-image: url (assets / images / mbr-2000x1235.jpg); padding-top: 120px; padding-bottom: 120px; ">
+   <div class = "mbr-overlay" style = "opacity: 0.5; background-color: rgb (34, 34, 34);">
+   </div>
+   <div class = "mbr-section mbr-section__container mbr-section__container - middle">
+    <div class = "container">
+     <div class = "row">
+      <div class = "col-xs-12 text-xs-center">
+       <h3 class = "mbr-section-title display-2">
+        Full marks on Google. Thank you for the fantastic feedback!
+       </h3>
+       <small class = "mbr-section-subtitle">
+        from so far over
+        <a href = "https://www.google.de/search?q=max+bormann+kfz-werkstatt&amp;rlz=1C1CHBD_deDE754DE754&amp;oq=max+bormann&amp;aqs=chrome.5.69i57j69i60l3j0l2.10190j0j9&amp;source&amp; ie = UTF-8 # lrd = 0x4709d027afc691b5: 0x4f0188c668075761,1 ,,, "target =" _ blank ">
+         80 ratings
+        </a>
+       </small>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "mbr-testimonials mbr-section mbr-section-nopadding">
+    <div class = "container">
+     <div class = "row">
+      <div class = "col-xs-12 col-lg-4">
+       <div class = "mbr-testimonial card">
+        <div class = "card-block">
+         <p>
+          “I've been in this workshop for years. Super Service. No problems with appointments, complete satisfaction. Very good performance by all employees. Thank you"
+         </p>
+        </div>
+        <div class = "mbr-author card-footer">
+         <div class = "mbr-author-name">
+          Dagmar L.
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "col-xs-12 col-lg-4">
+       <div class = "mbr-testimonial card">
+        <div class = "card-block">
+         <p>
+          "Super friendly workshop that actually repairs and provides a rental car for the workshop time"
+         </p>
+        </div>
+        <div class = "mbr-author card-footer">
+         <div class = "mbr-author-name">
+          Max R.
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "col-xs-12 col-lg-4">
+       <div class = "mbr-testimonial card">
+        <div class = "card-block">
+         <p>
+          “Very competent advice and great service. Service without compromise with a clear message.
+         </p>
+         <p>
+          Next pit stop only planned. "
+         </p>
+        </div>
+        <div class = "mbr-author card-footer">
+         <div class = "mbr-author-name">
+          Patrick S.
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class = "mbr-section form1" data-rv-view = "19" id = "form1-6" style = "background-color: rgb (255, 255, 255); padding-top: 120px; padding- bottom: 120px; ">
+   <div class = "mbr-section mbr-section__container mbr-section__container - middle">
+    <div class = "container">
+     <div class = "row">
+      <div class = "col-xs-12 text-xs-center">
+       <h3 class = "mbr-section-title display-2">
+        Contact us
+       </h3>
+       <small class = "mbr-section-subtitle">
+        If you have any questions about our services or would like an appointment, please call us at +49 351 454570 or use this contact form.
+       </small>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "mbr-section mbr-section-nopadding">
+    <div class = "container">
+     <div class = "row">
+      <div class = "col-xs-12 col-lg-10 col-lg-offset-1" data-form-type = "formoid">
+       <div data-form-alert = "true">
+        <div class = "alert alert-form alert-success text-xs-center" data-form-alert-success = "true" hidden = "">
+         Thank you for your message. We will contact you as soon as possible.
+        </div>
+       </div>
+       <form action = "https://mobirise.com/" data-form-title = "Contact us" method = "post">
+        <input data-form-email = "true" type = "hidden" value = "0CfaRbFwR1gs7JASaCfGl8NI7 / uGkES7GxfMfl8kkIg9PghcWa7EYwwZ1QKz1af5j8EZFaOf2E8uV1l7e6e6JMs>
+        <div class = "row row-sm-offset">
+         <div class = "col-xs-12 col-md-4">
+          <div class = "form-group">
+           <label class = "form-control-label" for = "form1-6-name">
+            Surname
+            <span class = "form-asterisk">
+             *
+            </span>
+           </label>
+           <input class = "form-control" data-form-field = "Name" id = "form1-6-name" name = "name" required = "" type = "text" />
+          </div>
+         </div>
+         <div class = "col-xs-12 col-md-4">
+          <div class = "form-group">
+           <label class = "form-control-label" for = "form1-6-email">
+            E-mail
+            <span class = "form-asterisk">
+             *
+            </span>
+           </label>
+           <input class = "form-control" data-form-field = "Email" id = "form1-6-email" name = "email" required = "" type = "email" />
+          </div>
+         </div>
+         <div class = "col-xs-12 col-md-4">
+          <div class = "form-group">
+           <label class = "form-control-label" for = "form1-6-phone">
+            Phone number
+           </label>
+           <input class = "form-control" data-form-field = "Phone" id = "form1-6-phone" name = "phone" type = "tel" />
+          </div>
+         </div>
+        </div>
+        <div class = "form-group">
+         <label class = "form-control-label" for = "form1-6-message">
+          Your message to us
+         </label>
+         <textarea class = "form-control" data-form-field = "Message" id = "form1-6-message" name = "message" rows = "7"> </textarea>
+        </div>
+        <div>
+         <button class = "btn btn-primary" type = "submit">
+          Submit
+         </button>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class = "mbr-section mbr-section-md-padding mbr-footer footer2" data-rv-view = "28" id = "contacts2-7" style = "background-color: rgb (46, 46, 46 ); padding-top: 90px; padding-bottom: 90px; ">
+   <div class = "container">
+    <div class = "row">
+     <div class = "mbr-footer-content col-xs-12 col-md-3">
+      <p>
+       <strong>
+        Address
+       </strong>
+       <br/>
+       Flensburger Str. 35
+       <br/>
+       01157 Dresden
+       <br/>
+       <br/>
+       Telephone: 0351 454570
+       <br/>
+       Fax: 0351 454571
+       <br/>
+       <br/>
+       www.kfz-werkstatt-maxbormann.de
+       <br/>
+       info@kfz-werkstatt-maxbormann.de
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+     </div>
+     <div class = "mbr-footer-content col-xs-12 col-md-3">
+      <p>
+       <span style = "font-size: 0.875rem; line-height: 1.5;">
+        <strong>
+         imprint
+        </strong>
+       </span>
+       <br/>
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p>
+       Motor vehicle workshop Max Bormann GmbH
+      </p>
+      <p>
+       Managing director: Max Bormann
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p>
+       Tax number: 203/112/04611
+      </p>
+      <p>
+       Sales tax ID: DE 250889512
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p>
+       Commercial register:
+      </p>
+      <p>
+       Dresden HRB25098
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p>
+       Bank details:
+      </p>
+      <p>
+       Ostsächsische Sparkasse Dresden
+      </p>
+      <p>
+       Bank code: 85050300
+      </p>
+      <p>
+       Account: 3200034024
+      </p>
+     </div>
+     <div class = "col-xs-12 col-md-6">
+      <div class = "mbr-map">
+       <iframe allowfullscreen = "" frameborder = "0" src = "https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_Qwc"> "style =". "
+       </iframe>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <script src = "assets / web / assets / jquery / jquery.min.js">
+  </script>
+  <script src = "assets / tether / tether.min.js">
+  </script>
+  <script src = "assets / bootstrap / js / bootstrap.min.js">
+  </script>
+  <script src = "assets / smooth-scroll / smooth-scroll.js">
+  </script>
+  <script src = "assets / cookies-alert-plugin / cookies-alert-core.js">
+  </script>
+  <script src = "assets / cookies-alert-plugin / cookies-alert-script.js">
+  </script>
+  <script src = "assets / jarallax / jarallax.js">
+  </script>
+  <script src = "assets / viewport-checker / jquery.viewportchecker.js">
+  </script>
+  <script src = "assets / dropdown / js / script.min.js">
+  </script>
+  <script src = "assets / touch-swipe / jquery.touch-swipe.min.js">
+  </script>
+  <script src = "assets / theme / js / script.js">
+  </script>
+  <script src = "assets / formoid / formoid.min.js">
+  </script>
+  <div class = "scrollToTop mbr-arrow-up" id = "scrollToTop">
+   <a style="text-align: center;">
+    <i class = "mbr-arrow-up-icon">
+    </i>
+   </a>
+  </div>
+  <input name = "animation" type = "hidden" />
+  <input data-cookie-text = "We use cookies to give you the best experience. Read our & lt; a href = 'privacy.html' & gt; cookie policy & lt; / a & gt ;." name = "cookieData" type = "hidden" />
+ </body>
+</html>

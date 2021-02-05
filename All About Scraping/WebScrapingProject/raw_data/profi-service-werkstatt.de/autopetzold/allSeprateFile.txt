@@ -1,0 +1,830 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <! -
+This website is powered by TYPO3 - inspiring people to share!
+TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU / GPL.
+TYPO3 is copyright 1998-2018 by Kasper Skaarhoj. Extensions are copyright of their respective owners.
+Information and contribution at https://typo3.org/
+->
+  <base href = "https://www.profi-service-werkstatt.de/" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/wwe/favicon.ico" rel = "shortcut icon" type = "image / png" />
+  <title>
+   Workshop details: Workshop information and tips for drivers - PROFISERVICE WORKSHOP
+  </title>
+  <meta content = "TYPO3 CMS" name = "generator" />
+  <meta content = "workshop details" name = "abstract" />
+  <meta content = "Global" name = "distribution" />
+  <meta content = "index, follow" name = "robots" />
+  <meta content = "germany" name = "coverage" />
+  <link href = "https://www.profi-service-werkstatt.de/typo3temp/Assets/f2384aff88.1541683172.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/templates/css/main.1603117413.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/templates/css/wwe_slider.1541681952.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/templates/css/jslidernews.1543401398.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/corona-hinweis/css/style.1585149373.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.profi-service-werkstatt.de/fileadmin/cookie-hinweis/css/style.1603115324.css" media = "all" rel = "stylesheet" type = "text / css" />
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/templates/js/jquery-1.6.4.min.1541681952.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/templates/js/wwe_slider.1585142744.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/videos/mediaplayer/jwplayer.1541681948.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/templates/js/jquery_easing.1543397709.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/templates/js/jslidernews.1590504798.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/typo3temp/Assets/9a38f34785.1541683172.js" type = "text / javascript">
+  </script>
+  <meta content = "IE = EmulateIE7" http-equiv = "X-UA-Compatible">
+   <script async = "" src = "https://ads.wwe-media.de/www/delivery/asyncjs.php">
+   </script>
+   <meta content = "http://www.facebook.com/profiservicewerkstatt" property = "og: author">
+    <link href = "http://www.profi-service-werkstatt.com/https://www.profi-service-werkstatt.de/rss-feed/rss.xml" rel = "alternate" title = "RSS -Feed "type =" application / rss + xml ">
+     <link href = "https://www.profi-service-werkstatt.de/werkstattdetails.html/" rel = "canonical" />
+     <link href = "https://plus.google.com/u/0/b/118411118044237650731/" rel = "publisher">
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class = "ad-container">
+   <div id = "xxlbanner">
+    <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+    <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "464">
+    </ins>
+   </div>
+  </div>
+  <div class = "ad-container">
+   <div id = "fsb">
+    <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+    <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "465">
+    </ins>
+   </div>
+  </div>
+  <div class = "ad-container">
+   <div id = "skyscraper">
+    <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+    <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "700">
+    </ins>
+   </div>
+  </div>
+  <div id = "site" itemscope = "" itemtype = "http://schema.org/AutoRepair">
+   <header id = "header">
+    <div class = "wrapper">
+     <ul class = "clearfix" id = "headerMenu">
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/kfz-helpline.html">
+        Vehicle helpline
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/kontakt0.html">
+        Contact
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/haftungsausschluss.html">
+        Disclaimer of liability
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/impressum.html">
+        imprint
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/datenschutz.html">
+        data protection
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/suche.html">
+        search
+       </a>
+      </li>
+      <li>
+       <a href="https://www.profi-service-werkstatt.de/header/agb.html">
+        Conditions
+       </a>
+      </li>
+     </ul>
+     <nav>
+      <ul class = "clearfix" id = "mainMenu">
+       <li>
+        <a href="https://www.profi-service-werkstatt.de/nc/kfz-news.html">
+         Home
+        </a>
+       </li>
+       <li class = "dir col3">
+        <a href="https://www.profi-service-werkstatt.de/automagazin.html">
+         Car magazine
+        </a>
+        <ul class = "second_level clearfix">
+         <li class = "dir">
+          <ul class = "third_level clearfix">
+           <li>
+            <a href="https://www.profi-service-werkstatt.de/automagazin/kategoie-a/auto-und-kosten.html">
+             Car & amp; costs
+            </a>
+           </li>
+           <li>
+            <a href="https://www.profi-service-werkstatt.de/automagazin/kategoie-a/kfz-service.html">
+             Service & amp; security
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class = "dir">
+          <ul class = "third_level clearfix">
+           <li>
+            <a href="https://www.profi-service-werkstatt.de/automagazin/kategoie-b/trends.html">
+             Technology & amp; Trends
+            </a>
+           </li>
+           <li class = "lastMenuItem">
+            <a href="https://www.profi-service-werkstatt.de/automagazin/kategoie-b/fahrberichte.html">
+             Brands & amp; Models
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="https://www.profi-service-werkstatt.de/werkstattsuche.html">
+         Workshop search
+        </a>
+       </li>
+       <li class = "dir">
+        <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/kundenvorteile.html">
+         Workshop info
+        </a>
+        <ul class = "second_level clearfix">
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/kundenvorteile.html">
+           Customer benefits
+          </a>
+         </li>
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/finanzierung.html">
+           financing
+          </a>
+         </li>
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/mobilitaet.html">
+           mobility
+          </a>
+         </li>
+         <li class = "lastMenuItem">
+          <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/extras.html">
+           Extras
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="https://www.profi-service-werkstatt.de/nochfragen.html">
+         questions and answers
+        </a>
+       </li>
+       <li class = "dir">
+        <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort.html">
+         PSW
+        </a>
+        <ul class = "second_level clearfix">
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort/fuer-autofahrer.html">
+           For drivers
+          </a>
+         </li>
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort/tmd-friktion.html">
+           Brake cleanly with the Textar epad
+          </a>
+         </li>
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort/partner-haben.html">
+           Become a partner
+          </a>
+         </li>
+         <li>
+          <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort/right-to-repair.html">
+           Right to repair
+          </a>
+         </li>
+         <li class = "lastMenuItem">
+          <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort/markenqualitaet.html">
+           Brand quality
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "lastMenuItem">
+        <a href="https://www.psw-reisewelt.de/">
+         Traveling with PSW
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div id = "logo" itemscope = "" itemtype = "http://schema.org/AutoRepair">
+      <a href="/" itemprop="url">
+       <img alt = "profi-service-werkstatt.com imageLinkWrap = 1" height = "95" itemprop = "logo" src = "https://www.profi-service-werkstatt.de/fileadmin/templates/img/pswLogo .png "width =" 141 "/>
+      </a>
+     </div>
+     <div id = "systemPartnerHeader">
+      <a class="pswSprite16x16 systemPartner" href="https://www.profi-service-werkstatt.de/fuer-systempartner.html">
+       For system partners
+      </a>
+     </div>
+    </div>
+   </header>
+   <div class = "clearfix" id = "main">
+    <div class = "wrapper">
+     <section id = "top">
+     </section>
+     <aside id = "right">
+      <div id = "content advertising">
+       <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+       <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "701">
+       </ins>
+      </div>
+      <div id = "tx-indexedsearch-form">
+       <form action = "/? id = 614" id = "searchform" method = "post" name = "searchform">
+        <input class = "" id = "tx-indexedsearch-searchbox-sword" name = "tx_indexedsearch [sword]" type = "text" value = "" />
+        <input id = "tx-indexedsearch-searchbox-button-submit" name = "tx_indexedsearch [submit_button]" type = "submit" value = "" />
+       </form>
+      </div>
+      <div id = "content_right">
+       <div class = "ad-container">
+        <div id = "MR2">
+         <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+         <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "703">
+         </ins>
+         <script async = "" src = "https://ads.wwe-media.de/www/delivery/asyncjs.php">
+         </script>
+        </div>
+       </div>
+      </div>
+     </aside>
+     <section class = "clearfix" id = "normal">
+      <div class = "contentPadding">
+       <div id = "breadCrumb">
+        You are here:
+        <a href="https://www.profi-service-werkstatt.de/nc/kfz-news.html">
+         Home
+        </a>
+       </div>
+       <div class = "wwe-partnersearch">
+        <style>
+         .main-section {
+        min-height: 100vh;
+      }
+
+      .panel {
+        border-radius: 10px;
+      }
+
+      input,
+      select {
+        padding: 4px;
+        border-radius: 10px! important;
+        border: 1px solid blue;
+      }
+
+      input {
+        padding: 3px;
+        float: right;
+      }
+
+      .icongroup {
+        margin: 0;
+        padding: 0;
+        padding top: 20px;
+      }
+
+      .icongroup li {
+        list-style: none;
+        line-height: 40px;
+      }
+
+      .icongroup img {
+        margin-right: 15px;
+      }
+
+      .main-section a,
+      .main-section a: hover,
+      . main-section a: focus {
+        color: # 333;
+        font-weight: 600! important;
+      }
+
+      . main-section a span {
+        font-weight: 600! important;
+      }
+
+      #map {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+
+      .left {
+        width: 70%;
+        float: left;
+      }
+
+      .right {
+        width: 30%;
+        float: right;
+      }
+
+      @media (max-width: 991px) {
+        .left {
+          width: 100%;
+          float: none;
+        }
+        .right {
+          width: 100%;
+          float: none;
+        }
+        .icongroup span {
+          display: none;
+        }
+        .icongroup li {
+          list-style: none;
+          line-height: normal;
+        }
+      }
+
+      .panel-body: last-child {
+        margin-bottom: 0;
+      }
+
+      .btn-trans,
+      .btn-trans: hover {
+        color: # 555555;
+        background-color: transparent;
+        border-color: #ccc;
+        border-radius: 10px;
+        font-size: 12px;
+        font-weight: 600;
+      }
+
+      .form-control {
+        font-weight: 600;
+        font-size: 14px;
+        border: 1px solid # 2c2c2c;
+        color: # 2c2c2c;
+      }
+
+      @media (max-width: 468px) {
+        .star-rating {
+          float: none;
+          display: block! important;
+          margin-left: 0! important;
+          margin-bottom: -20px;
+        }
+        .markLogo {
+          max-height: 20px! important;
+        }
+      }
+
+      @media (min-width: 992px) and (max-width: 1200px) {
+        .navbar-main> li> .navbar-text,
+        .navbar-main> li> a {
+          line-height: inherit;
+          margin: 52px 58px 52px 34px;
+          padding: 0;
+        }
+        .list {
+          margin-top: 35px;
+        }
+      }
+        </style>
+        <div id = "app">
+         <div class = "col-lg-offset-2 col-lg-8 panel panel-default list">
+          <div class = "panel-body clearfix">
+           <form action = "https://www.profi-service-werkstatt.de/werkstattliste.html" autocomplete = "off" class = "form-horizontal" id = "searchForm" method = "post" name = "searchForm" >
+            <div>
+             <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [@ extension]" type = "hidden" value = "WwePartnersearch">
+              <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [@ vendor]" type = "hidden" value = "WWE">
+               <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [@ controller]" type = "hidden" value = "Search" />
+               <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [@ action]" type = "hidden" value = "details" />
+               <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [arguments]" type = "hidden" value = "YTowOnt990feea834d3cf3655ce3dfa987b1a13db53c782b" />
+               <input name = "tx_wwepartnersearch_suchdetails [__ referrer] [@ request]" type = "hidden" value = 'a: 4: {s: 10: "@ extension"; s: 16: "WwePartnersearch"; s: 11: "@ controller "; s: 6:" Search "; s: 7:" @ action "; s: 7:" details "; s: 7:" @ vendor "; s: 3:" WWE ";} 14bfdacc7644e72f19e30d13ef31fda36c15d39f '/>
+               <input name = "tx_wwepartnersearch_suchdetails [__ trustedProperties]" type = "hidden" value = "a: 0: {} b0f17c2780d2d23c327effe18491192d58cf4055" />
+              </input>
+             </input>
+            </div>
+            <input name = "tx_wwepartnersearch_suchresult [system]" type = "hidden" value = "1,6,9" />
+            <input name = "tx_wwepartnersearch_suchresult [comingfrom]" type = "hidden" value = "" />
+            <input class = "form-control" id = "city" name = "tx_wwepartnersearch_suchresult [city]" placeholder = "City or zip code" style = "width: 300px; text-align: center; border-radius: 8px; float: right; background-image: url ('/ typo3conf / ext / wwe_partnersearch / Resources / Public / Images / search_icon2.png'); background-position: 12px 9px; background-repeat: no-repeat; height: 40px; " type = "text" v-model = "searchword" />
+            <input name = "tx_wwepartnersearch_suchresult [radius]" type = "hidden" value = "25">
+             <input id = "lat" name = "tx_wwepartnersearch_suchresult [lat]" type = "hidden" value = "none" />
+             <input id = "lng" name = "tx_wwepartnersearch_suchresult [lng]" type = "hidden" value = "none" />
+            </input>
+           </form>
+          </div>
+         </div>
+         <div class = "col-lg-offset-2 col-lg-8 panel panel-default" style = "padding: 0px;">
+          <div class = "panel-body" style = "padding: 20px;">
+           <div class = "left">
+            <span class = "" style = "font-weight: 900; display: inline-block;">
+             {{partner.name}}
+            </span>
+            <br/>
+            {{partner.address}}
+            <br/>
+            {{partner.zipcode}} {{partner.city}} {{partner.country}}
+            <ul class = "icongroup">
+             <li v-if = "partner.phone">
+              <a :href="'tel:' + partner.phone">
+               <img src = "https://www.profi-service-werkstatt.de/typo3conf/ext/wwe_partnersearch/Resources/Public/Images/icon_phone.png">
+                <span style = "font-weight: normal;">
+                 {{partner.phone}}
+                </span>
+               </img>
+              </a>
+             </li>
+             <li v-if = "partner.email">
+              <a :href="'mailto:' + partner.email">
+               <img src = "https://www.profi-service-werkstatt.de/typo3conf/ext/wwe_partnersearch/Resources/Public/Images/icon_letter.png" />
+               <span style = "font-weight: normal;">
+                {{partner.email}}
+               </span>
+              </a>
+             </li>
+             <li v-if = "partner.homepage">
+              <img src = "https://www.profi-service-werkstatt.de/typo3conf/ext/wwe_partnersearch/Resources/Public/Images/icon_monitor.png" />
+              <span style = "font-weight: normal;">
+               {{partner.homepage}}
+              </span>
+             </li>
+            </ul>
+           </div>
+           <div class = "right">
+            <div class = "openings">
+             <span class = "" style = "font-weight: 900; display: block;">
+              opening hours
+             </span>
+             <span v-html = "partner.basepackage.optool" v-if = "partner.basepackage.optool">
+             </span>
+             <span v-else = "partner.basepackage.opening" v-html = "partner.basepackage.opening">
+             </span>
+            </div>
+            <div style = "height: 10px;">
+            </div>
+            <a: href = "'https://www.google.de/maps/dir/' + searchword + '/' + partner.address + ',' + partner.city + ',' + partner.country" class = "btn btn-primary btn-block btn-trans" v-if = "searchword">
+             calculate route
+            </a>
+           </div>
+          </div>
+          <div: data-lat = "partner.lat": data-lon = "partner.lon" id = "map" style = "width: 100%; height: 200px;">
+          </div>
+         </div>
+        </div>
+        <input id = "json" name = "json" type = "hidden" value = '{"homepage": null, "id": 910, "name": "Auto Petzold GmbH", "customer_no": "15028" , "partner_no": "15028", "type": "WS", "mark": null, "address": "Fritz-Reuter-Stra \ u00dfe 45", "zipcode": "01097", "city": "Dresden", "country": "Germany", "state": null, "lat": "51.0742961", "lon": "13.7364909", "address_hash": "f9fc0e028d24d96cb998b1fbe95e700d", "contact_person": null, "email ":" service@autopetzold.de "," pre_phone ":" 0351 "," phone ":" 03 51 \ / 8 49 88 22 "," pre_fax ":" 0351 "," fax ":" 03 51 \ / 8 49 88 02 "," pre_mobile ": null," mobile ": null," entering_date ":" 2011-10-01 00:00:00 "," exit_date ": null," headquarter_id ": null," shareholder_id " : 12, "created_at": null, "updated_at": "2018-12-04 17:09:29", "notes": null, "status": "active", "contactsubmitted": null, "logo": null, "deleted_at": null, "delete_reason": "", "systemLogo": "\ / images \ / systems \ /profi-service-werkstatt.png", "basepackage": {"id": 911, "ordered ": null," updated ": null," t3_created ": null," state ": null," email ":" service@autopetzold.de "," layout ": nu ll, "welcome_header": null, "welcome_bodytext": null, "welcome_image": null, "welcome_textalign": null, "start_header": null, "start_bodytext": null, "start_image": null, "start_textalign": null, "imprint": null, "privacy": "& lt; h4 & gt; 1. Name and contact details of the data controller & lt; \ / h4 & gt; \ n & lt; p & gt; according to our imprint. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; 2. Collection and storage of personal data as well as the type and purpose of their use & lt; \ / h4 & gt; \ n & lt; p & gt; When you visit our website, the browser used on your device automatically sends information to the server of our website. This information is temporarily stored in a so-called log file. The following information is recorded without any action on your part and stored for automated deletion: & lt; \ / p & gt; \ n & lt; ul & gt; \ n & lt; li & gt; IP address of the requesting computer, & lt; \ / li & gt; \ n & lt; li & gt; Date and time of access, & lt; \ / li & gt; \ n & lt; li & gt; Name and URL of the accessed file, & lt; \ / li & gt; \ n & lt; li & gt; Website from which the access is made (referrer- URL), & lt; \ / li & gt; \ n & lt; li & gt; browser used and, if applicable, the operating system of your computer and the name of your access provider. & Lt; \ / li & gt; \ n & lt; \ / ul & gt; \ n & lt; p & gt; Die The data mentioned are processed by us for the following purposes: & lt; \ / p & gt; \ n & lt; ul & gt; \ n & lt; li & gt; Ensuring a smooth connection to the website, & lt; \ / li & gt; \ n & lt; li & gt; Gew \ Ensuring comfortable use of our website, & lt; \ / li & gt; \ n & lt; li & gt; Evaluation of system security and stability as well as & lt; \ / li & gt; \ n & lt; li & gt; for further administrative purposes. & lt; \ / li & gt; \ n & lt; \ / ul & g t; \ n & lt; p & gt; The legal basis for data processing is Art. 6 Paragraph 1 Clause 1 lit. f GDPR. Our legitimate interest follows from the purposes of data collection listed above. & Lt; \ / p & gt; \ n & lt; p & gt; Personal data include the first name and surname, the telephone number and the e-mail address. Personal data also includes information on hobbies, memberships and preferences as well as websites that have been accessed. & Lt; \ / p & gt; \ n & lt; p & gt; If you register on our website in order to take advantage of personalized services, personal data will be collected. This includes the name, address, telephone number and e-mail address as contact and communication data. & Lt; \ / p & gt; \ n & lt; p & gt; These data are only collected, used and, if necessary, passed on, provided that the legislator this is expressly permitted or the user consents to the collection, processing, use and disclosure of the data. & lt; \ / p & gt; \ n & lt; p & gt; Registration allows access to services and content that only registered users are allowed to use Are available. If necessary, registered users have the option of changing or deleting the data provided during registration at any time. Upon request, we will of course inform you which personal data has been collected and stored. In addition, we will correct or delete the data on request, provided that the request does not conflict with any statutory retention requirements. If you have any questions or if you want to correct or delete the data, please use the contact details given in this data protection declaration. & Lt; \ / p & gt; \ n & lt; p & gt; So that we can provide chargeable services, ask we provide additional data. This applies, for example, to the details of payment. & Lt; \ / p & gt; \ n & lt; p & gt; To ensure the security of your data during the transfer, we work with encryption methods (such as SSL) \ Via HTTPS, which reflect the current state of the art. & lt; \ / p & gt; \ n \ n & lt; h5 & gt; a) Comment function & lt; \ / h5 & gt; \ n & lt; p & gt; Are comments or other contributions written and revised on our offer Published, we store the IP address, the user name and the time of creation. This data is collected for security reasons, since the provider can be prosecuted for illegal content (forbidden propaganda, insults, etc.), even if it was created by a third party. In such a case, the information is used to determine the identity of the author. & Lt; \ / p & gt; \ n & lt; p & gt; We also use cookies and analysis services when you visit our website. More detailed explanations can be found under no. 4 and 5 of this data protection declaration, & lt; \ / p & gt; \ n \ n & lt; h5 & gt; b) When registering for our newsletter & lt; \ / h5 & gt; \ n & lt; p & gt; Provided that you have requested according to Art. 6 para. 1 p . 1 lit. a GDPR, we will use your e-mail address to regularly send you our newsletter. To receive the newsletter, it is sufficient to provide an email address; you can unsubscribe at any time, for example via a link at the end of each newsletter. Alternatively, you can send your unsubscribe request at any time to xxx.de by email. & Lt; \ / p & gt; \ n \ n & lt; h5 & gt; c) When using our contact form & lt; \ / h5 & gt; \ n & lt; p & gt; Bei We offer you the opportunity to contact us for questions of any kind using a form provided on the website. A valid email address is required so that we know who sent the request and to be able to answer it. Further information can be provided voluntarily. The data processing for the purpose of contacting us is carried out in accordance with Art. 6 Para. a GDPR based on your voluntarily given consent. & lt; \ / p & gt; \ n & lt; p & gt; The personal data collected by us for using the contact form will be automatically deleted after your request has been dealt with. & lt; \ / p & gt; \ n \ n & lt; h4 & gt; 3. Disclosure of data & lt; \ / h4 & gt; \ n & lt; p & gt; Your personal data will not be passed on to third parties for purposes other than those listed below. & Lt; \ / p & gt; \ n & lt; p & gt; We give Your personal data will only be passed on to third parties if: & lt; \ / p & gt; \ n & lt; p & gt; You have given your personal data in accordance with Art. 6 Para. 1 S. 1 lit. a DSGVO have given express consent to the transfer according to Art. 6 Paragraph 1 5.1 lit. f GDPR is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have an overriding legitimate interest in not disclosing your data, in the event that for the Forwarding according to Art. 6 Para. 1 S. 1 lit. c GDPR there is a legal obligation, as well as I this is legally permissible and according to Art. 6 Para. 1 S. 1 lit. B GDPR is necessary for the processing of contractual relationships with you. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; 4. Cookies & lt; \ / h4 & gt; \ n & lt; p & gt; We use cookies on our website. These are small files that your browser automatically creates and that are saved on your device (laptop, tablet, smartphone, etc.) when you visit our website. Cookies do not cause any damage to your end device and do not contain viruses, Trojans or other malware. Information is stored in the cookie that results in connection with the specific device used. However, this does not mean that we are immediately aware of your identity. & Lt; \ / p & gt; \ n & lt; p & gt; On the one hand, the use of cookies serves to make the use of our offer more pleasant for you. We use so-called session cookies to recognize that you have already visited individual pages on our website. These are automatically deleted after you leave our site. & Lt; \ / p & gt; \ n & lt; p & gt; In addition, we also use temporary cookies to optimize user-friendliness, which are stored on your device for a specific period of time \ u00e4t be saved. If you visit our site again to use our services, it will automatically recognize that you have already visited us and what inputs and settings you have made so that you do not have to re-enter them. & Lt; \ / p & gt; \ n & lt; p & gt; On the other hand, we use cookies to statistically record the use of our website and to evaluate it for the purpose of optimizing our offer for you (see section 5). These cookies enable us to to automatically recognize when you visit our site again that you have already visited us. These cookies are automatically deleted after a defined period of time. & Lt; \ / p & gt; \ n & lt; p & gt; The data processed by cookies are necessary for the purposes mentioned to safeguard our legitimate interests and those of third parties in accordance with Art. 6 Para. 1 p. 1 lit. f GDPR required. & lt; \ / p & gt; \ n & lt; p & gt; Most browsers automatically accept cookies. However, you can configure your browser so that no cookies are stored on your computer or a message always appears before a new cookie is created. However, if you completely deactivate cookies, you may not be able to use all the functions of our website. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; 5. Analysis tools & lt; \ / h4 & gt; \ n \ n & lt; h5 & gt; Tracking tools & lt; \ / h5 & gt; \ n & lt; p & gt; The tracking measures listed below and used by us are carried out on the basis of Art. 6 Paragraph 1 sentence 1 lit. f GDPR carried out. With the tracking measures used, we want to ensure a needs-based design and continuous optimization of our website. On the other hand, we use tracking measures to record the use of our website statistically and to evaluate it for you to optimize our offer. These interests are to be regarded as legitimate within the meaning of the aforementioned regulation. & Lt; \ / p & gt; \ n & lt; p & gt; The respective data processing purposes and data categories can be found in the corresponding tracking tools, & lt; \ / p & gt; \ n \ n & lt; h6 & gt ; a) Google Analytics & lt; \ / h6 & gt; \ n & lt; p & gt; We use Google Analytics, a web analysis service of Google Inc. (& lt; a href = \ "https: \ / \ / www.google.de \ / intl \ / de \ / about \ / \ "& gt; https: \ / \ / www.google.de \ / intl \ / de \ / about \ / & lt; \ / a & gt;) ( 1600 Amphitheater Parkway, Mountain View, CA 94043, USA; hereinafter \ u201eGoogle \ "). In this context, pseudonymised usage profiles are created and cookies are used. The information generated by the cookie about your use of this website, such as browser type \ / - Version, operating system used, referrer URL (the previously visited page), host name of the accessing computer (IP address), time of the server tariff query, are transmitted to a Google server in the USA and stored there. The information is used to evaluate the use of the website, to compile reports on website activity and to provide other services related to website activity and internet usage for the purposes of market research and needs-based design of this website. This information may also be transferred to third parties if this is required by law or if third parties process this data on behalf of us. Under no circumstances will your IP address be merged with other Google data. The IP addresses are anonymized so that an assignment is not possible (IP masking). & Lt; \ / p & gt; \ n & lt; p & gt; You can prevent the installation of cookies by setting your browser software accordingly ; we point out, however, that in this case not all functions of this website can be used to their full extent. You can also prevent the collection of the data generated by the cookie and relating to your use of the website (including your IP address) and the processing of this data by Google by downloading a browser add-on and install (& lt; a href = \ "https: \ / \ / tools.google.com \ / dlpage \ / gaoptout? hl = de \" & gt; https: \ / \ / tools.google.com \ / dlpage \ / gaoptout? hl = de & lt; \ / a & gt;). & lt; \ / p & gt; \ n & lt; p & gt; As an alternative to the browser add-on, especially for browsers on mobile devices, you can also use Google Analytics to record your data prevent by clicking on this link. An opt-out cookie is set which prevents the future collection of your data when you visit this website. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you will have to set the opt-out cookie again. Further information on data protection in connection with Google Analytics can be found in the Google Analytics Help (& lt; a href = \ "https: \ / \ / support.google.com \ / analytics \ / answer \ / 6004245? Hl = de \ "& gt; https: \ / \ / support.google.com \ / analytics \ / answer \ / 6004245? hl = de) & lt; \ / a & gt;. & lt; \ / p & gt; \ n \ n & lt; h6 & gt; b) Google Adwords Conversion Tracking & lt; \ / h6 & gt; \ n & lt; p & gt; In order to statistically record the use of our website and to evaluate it for you to optimize our website for you, we also use Google Conversion Tracking. & lt; \ / p & gt ; \ n & lt; p & gt; Google Adwords will set a cookie on your computer if you have reached our website via a Google ad. These cookies lose their validity after 30 days and are not used for personal identification. If the user visits certain pages of the Adwords customer's website and the cookie has not yet expired, Google and the customer can see that the user clicked on the ad and was redirected to this page. & Lt; \ / p & gt; \ n & lt; p & gt; Every Adwords customer receives a different cookie. Cookies can therefore not be tracked via the websites of Adwords customers. The information obtained with the help of the conversion cookie is used to generate conversion statistics for Adwords customers who have opted for conversion tracking. Adwords customers find out the total number of users who clicked on their ad and were redirected to a page with a conversion tracking tag. However, you will not receive any information that can be used to personally identify users. & Lt; \ / p & gt; \ n & lt; p & gt; If you do not want to participate in the tracking process, you can also do the required Refuse to set a cookie - for example, via browser settings that generally deactivate the automatic setting of cookies. You can also deactivate cookies for conversion tracking by setting your browser so that cookies from the domain \ u201ewww.googleadservicescom \ u201c are blocked. & Lt; \ / p & gt; \ n & lt; p & gt; Google's privacy policy for conversion -Tracking can be found here (& lt; a href = \ "https: \ / \ / services.google.com \ / sitestats \ /de.html \" & gt; https: \ / \ / services.google.com \ / sitestats \ /en.html) & lt; \ / a & gt;. & lt; \ / p & gt; \ n \ n & lt; h6 & gt; c) Google AdSense \ / Google Remarketing & lt; \ / h6 & gt; \ n & lt; p & gt; This website displays advertisements from Google AdSense integrated. Google AdSense is a remarketing function from Google Inc. It allows visitors to this website to show interest-based advertisements. For this purpose, cookies are stored on the one hand. On the other hand, Google AdSense works with so-called web beacons. These are invisible graphics that can be used to evaluate visitor traffic on a website. Google transmits this information to the USA and stores it there on its servers. According to Google, no personal data is stored in this context. In addition, the IP address will not be merged with other data that you have already saved. However, Google can pass the information on to contractual partners. & Lt; \ / p & gt; \ n & lt; p & gt; Users have the option of deactivating the remarketing function. To do this, please make the appropriate settings on the following website: www.google.com \ / settings \ /ads.&lt; \ / p & gt; \ n & lt; p & gt; Or go to www.networkadvertising.org \ / managing \ /opt_out.asp to prevent cookies from being stored, which enable the use of interest-based advertising by the advertising network initiative. Alternatively, the installation of cookies can be prevented using the appropriate setting in the browser - please follow the instructions in the help function of your browser. This may restrict the functionality of the offer. & Lt; \ / p & gt; \ n & lt; p & gt; If you use our offer, you consent to Google collecting the data in the manner described and processed. & lt; \ / p & gt; \ n \ n & lt; h6 & gt; d) Matomo & lt; \ / h6 & gt; \ n & lt; p & gt; We use the open source software Matomo for the analysis and statistical evaluation of the use of the website. & lt; \ / p & gt; \ n & lt; p & gt; Cookies are used for this purpose. The information generated by the cookie about website usage is transmitted to our server and summarized in pseudonymous usage profiles. The information is used to evaluate the use of the website and to enable a needs-based design of our website. The information will not be passed on to third parties. & Lt; \ / p & gt; \ n & lt; p & gt; Under no circumstances will the IP address be associated with other data relating to the user. The IP addresses are anonymized so that an assignment is not possible (IP masking), & lt; \ / p & gt; \ n & lt; p & gt; If you have made a \ u201c not tracking \ u201c setting in your browser, our system will respect this and not track you. Otherwise your visit to this website is currently being recorded by our Matomo web analysis. & Lt; \ / p & gt; \ n & lt; p & gt; Click here or enter this address in your browser: (& lt; a href = \ "https: \ / \ / www.wwe-media.de \ /index.php? id = 417 \ "& gt; https: \ / \ / www.wwe-media.de \ /index.php? id = 417 & lt; \ / a & gt;), so Your visit is no longer recorded. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; 6. Social media plug-ins & lt; \ / h4 & gt; \ n & lt; p & gt; We use social plug-ins from the social networks Facebook, Twitter and Instagram on our website on the basis of Art. 6 Para. 1 S. 1 lit, fDSGVO to make our company better known through this. The underlying advertising purpose is to be regarded as a legitimate interest within the meaning of the GDPR. Responsibility for operation in accordance with data protection regulations must be guaranteed by the respective provider. We integrate these plug-ins using the so-called two-click method in order to protect visitors to our website as best as possible. & Lt; \ / p & gt; \ n \ n & lt; h5 & gt; a) Facebook & lt; \ / h5 & gt ; \ n & lt; p & gt; Social media plugins from Facebook are used on our website in order to make their use more personal. For this we use the \ u201eLIKE \ u201c or \ u201dShare \ u201c button. This is an offer from Facebook. & Lt; \ / p & gt; \ n & lt; p & gt; When you call up a page on our website that contains such a plugin, your browser establishes a direct connection to the Facebook servers The content of the plug-in is transmitted directly from Facebook to your browser and integrated into the website. & Lt; \ / p & gt; \ n & lt; p & gt; By integrating the plug-in, Facebook receives the information that your browser is on the corresponding page of ours Has accessed the website even if you do not have a Facebook account or are not currently logged into Facebook. This information (including your IP address) is transmitted directly from your browser to a Facebook server in the USA and stored there. & Lt; \ / p & gt; \ n & lt; p & gt; If you are logged in to Facebook, Facebook can use the Assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example by pressing the \ u201eLIKE \ u201c or \ u201e SHARE \ u201c button, the corresponding information is also sent directly to a Facebook server and saved there. The information is also published on Facebook and displayed to your Facebook friends. & Lt; \ / p & gt; \ n & lt; p & gt; Facebook can use this information for the purpose of advertising, market research and tailoring the Facebook pages to your needs. For this purpose, Facebook creates usage, interest and relationship profiles, e.g. To evaluate your use of our website with regard to the advertisements shown to you on Facebook, to inform other Facebook users about your activities on our website and to provide other services related to the use of Facebook. If you do not want Facebook to assign the data collected through our website to your Facebook account, you must log out of Facebook before visiting our website. & Lt; \ / p & gt; \ n & lt; p & gt; Purpose and scope Please refer to the data protection information (& lt; a href = \ "https: \ / \ / www.facebook) regarding the data collection and the further processing and use of the data by Facebook as well as your rights and setting options in this regard to protect your privacy .com \ / about \ / privacy \ / \ "& gt; https: \ / \ / www.facebook.com \ / about \ / privacy \ / & lt; \ / a & gt;) from Facebook. & lt; \ / p & gt; \ n \ n & lt; h5 & gt; b) Twitter & lt; \ / h5 & gt; \ n & lt; p & gt; Plugins of the short message network of Twitter Inc. (Twitter) are integrated on our website. You can recognize the Twitter plugins (tweet button) by the Twitter logo on our site. An overview of tweet buttons can be found here (& lt; a href = \ "https: \ / \ / about.twitter.com \ / resources \ / buttons \" & gt; https: \ / \ / about.twitter. com \ / resources \ / buttons) & lt; \ / a & gt; & lt; \ / p & gt; \ n & lt; p & gt; When you visit a page on our website that contains such a plugin, a direct connection is established between your browser and the Twitter server established. As a result, Twitter receives the information that you have visited our site with your IP address. If you click the Twitter \ u201etweet button \ u201c while you are logged into your Twitter account, you can link the contents of our pages to your Twitter profile. This allows Twitter to assign your visit to our website to your user account. We would like to point out that, as the provider of the pages, we have no knowledge of the content of the data transmitted or their use by Twitter, & lt; \ / p & gt; \ n & lt; p & gt; If you do not want Twitter to visit our pages can assign, please log out of your Twitter user account. & lt; \ / p & gt; \ n & lt; p & gt; You can find further information on this in the data protection declaration of Twitter (& lt; a href = \ "https: \ / \ /twitter.com\/privacy\"&gt;https:\/\/twitter.com\/privacy)&lt;\/a&gt;.&lt;\/p&gt;\n\n&lt;h5&gt;c) Instagram & lt; \ / h5 & gt; \ n & lt; p & gt; So-called social plugins (\ u201ePlugins \ u201c) from Instagram are also used on our website, which is operated by InstagramLLC., 1601 Willow Road, Menlo Park, CA 94025, USA (\ u201elnstagram \ u201c) . & lt; \ / p & gt; \ n & lt; p & gt; The plugins are marked with an Instagram logo, for example in the form of an Instagram camera. & lt; \ / p & gt; \ n & lt; p & gt; When you visit a page on our website n, which contains such a plugin, your browser establishes a direct connection to the Instagram servers. The content of the plugin is transmitted directly to your browser by Instagram and integrated into the page. Through this integration, Instagram receives the information that your browser has accessed the corresponding page of our website, even if you do not have an Instagram profile or are currently doing so are not logged in to Instagram. & lt; \ / p & gt; \ n & lt; p & gt; This information (including your IP address) is sent directly from your browser to an Instagram server in the USA and stored there. If you are logged in to Instagram, Instagram can immediately assign your visit to our website to your Instagram account. If you interact with the plug-ins, for example by pressing the Instagram button, this information is also sent directly to an Instagram server and stored there. & Lt; \ / p & gt; \ n & lt; p & gt; The information is saved It is also published on your Instagram account and displayed to your contacts there. & lt; \ / p & gt; \ n & lt; p & gt; If you do not want Instagram to directly assign the data collected via our website to your Instagram account , you have to log out of Instagram before visiting our website. & lt; \ / p & gt; \ n & lt; p & gt; For more information, see the privacy policy (& lt; a href = \ "https: \ / \ / help .instagram.com \ / 155833707900388 \ "& gt; https: \ / \ / help.instagram.com \ / 155833707900388 & lt; \ / a & gt;) from Instagram, & lt; \ / p & gt; \ n \ n & lt; h5 & gt; d) Google+ Social plug-in & lt; \ / h5 & gt; \ n & lt; p & gt; We integrate the social plug-in from Google+ (Google plus) on our website, recognizable by the \ u201e + 1 \ u201c characters on a white or colored background. The plug-in is provided by Google Inc. (Google for short, address: 1600 Amphitheater Parkway, Mountain View, CA 94043, USA). & Lt; \ / p & gt; \ n & lt; p & gt; When you visit a website with Google+ Button, a connection to the Google servers is established. Google transmits the content of the button and embeds it on the corresponding website. At the same time, Google receives information about which page has just been accessed. According to Google, personal data is only collected when the Google+ button is clicked. For Google+ members who are logged in, the following applies: Even without interaction, Google at least stores and processes the IP address. We have no influence on the extent of the data stored in this context. & Lt; \ / p & gt; \ n & lt; p & gt; Google+ users who are logged into their account can access our website by clicking on the Recommend \ u201d + 1 \ u201c button. In this case, Google not only saves the IP address and the browser, but also the content for which +1 was given and the page. This information is stored in the user's profile and can be displayed together with the user's profile name and picture in Google services, which also include the search results. Among other things, Google uses the data to optimize its own services. You can find information on Google's data protection provisions and the setting options for protecting privacy here: www.google.de \ / intl \ / de \ / policies \ / privacy \ /.& lt; \ / p & gt; \ n & lt; p & gt; Members of Google Plus who do not want their data to be collected and stored via our website, please log out of their Google+ account before visiting our offer. & lt; \ / p & gt; \ n \ n & lt ; h4 & gt; 7. Data subject rights & lt; \ / h4 & gt; \ n & lt; p & gt; You have the right: & lt; \ / p & gt; \ n & lt; ul & gt; \ n & lt; li & gt; according to Art. 15 GDPR information about your personal data processed by us Request data. In particular, you can obtain information on the processing purposes, the category of personal data, the categories of recipients to whom your data has been or will be disclosed, the planned storage period, the right to correction, deletion, Restriction of processing or objection, the existence of a right to complain, the origin of your data, if we have not collected it, as well as the existence of automated decision-making including profiling and, if necessary, request detailed information on their details; & lt ; \ / li & gt; \ n & lt; li & gt; in accordance with Art. 16 GDPR to immediately request the correction of incorrect or incomplete personal data stored by us; & lt; \ / li & gt; \ n & lt; li & gt ; to request the deletion of your personal data stored by us in accordance with Art. 17 GDPR, unless the Ve elaboration to exercise the right to freedom of expression and information, to fulfill a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims; & lt ; \ / li & gt; \ n & lt; li & gt; to request the restriction of the processing of your personal data in accordance with Art. 18 GDPR, insofar as the accuracy of the data is disputed by you, the processing is unlawful , But you refuse to delete it and we no longer need the data, but you need them to assert, exercise or defend legal claims or you object to the GDPR in accordance with Art. Z1 GDPR Processing; & lt; \ / li & gt; \ n & lt; li & gt; in accordance with Art. 20 GDPR, your personal data that you have provided to us in a structured, common and machine to receive a readable format or to request the transfer to another person responsible; & lt; \ / li & gt; \ n & lt; li & gt; according to Art. 7 Para. 3 GDPR, to revoke your once given consent to us at any time . As a result, we are no longer allowed to continue the data processing based on this consent in the future and & lt; \ / li & gt; \ n & lt; li & gt; in accordance with Art. 77 GDPR to complain to a supervisory authority. As a rule, you can contact the supervisory authority of your usual place of residence or work or our company headquarters. & Lt; \ / li & gt; \ n & lt; \ / ul & gt; \ n \ n & lt; h4 & gt; 8. Right of objection & lt; \ / h4 & gt; \ n & lt; p & gt; If your personal data is based on legitimate interests in accordance with Art. 6 Para. 1 S. 1 lit. f GDPR are processed, you have the right to object to the processing of your personal data in accordance with Art. Z1 GDPR, provided there are reasons for this that arise from your particular situation or there is an objection to direct mail directs. In the latter case you have a general right of objection, which we will implement without specifying a particular situation. & Lt; \ / p & gt; \ n & lt; p & gt; If you would like to make use of your right of withdrawal or objection, an e- Mail to us. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; 9. Data security & lt; \ / h4 & gt; \ n & lt; p & gt; We use the widespread SSL (Secure Socket Layer) method in conjunction with the highest level of encryption supported by your browser when you visit our website. As a rule, this is a 256-bit encryption. If your browser does not support 256-bit encryption, we use 128-bit V3 technology instead. You can tell whether an individual page of our website is being transmitted in encrypted form by the closed display of the bowl or lock symbol in the lower status bar of your browser. We also use suitable technical and organizational security measures to implement To protect your data against accidental or intentional manipulation, partial or complete loss, destruction or against unauthorized access by third parties. Our security measures are continuously improved in accordance with technological developments. & Lt; \ / p & gt; \ n \ n & lt; h4 & gt; Current and changes to this data protection declaration & lt; \ / h4 & gt; \ n & lt; p & gt; This data protection declaration is currently valid and has the & lt; \ / p & gt; \ n & lt; p & gt; as of May 2018. & lt; \ / p & gt; \ n & lt; p & gt; Due to the further development of our website and offers about it or due to changed legal or beh It may be necessary to change this data protection declaration due to detrimental requirements. You can call up and print out the current data protection declaration at any time on our website under the link \ "Data protection \", which is immediately accessible. & Lt; \ / p & gt; \ n "," realurl ":" autopetzold "," opening ": "", "created_at": null, "updated_at": "2018-12-04 17:10:00", "pictograms": null, "suppliers": null, "slider_status": null, "video_status": null, "status": "active", "picterms": null, "saved": null, "matomo_code": null, "google_code": null, "termin": null, "hu_reminder_header": null, "hu_reminder_bodytext": null, "hu_reminder_status": "inactive", "head_tag": null, "order_confirmed": null, "order_token": null, "js": null, "css": null, "deleted_at": null, "delete_reason": "" , "seo": "[]", "corona": null, "optool": "& lt; b class = \" openigs-group-key \ "style = \" font-size: 6px; \ "& gt; & amp ; nbsp; & lt; \ / b & gt; & lt; br & gt; & lt; strong & gt; Monday - Friday & lt; \ / strong & gt; & lt; br & gt; 07:00 - 18:00 & lt; br & gt; & lt; strong & gt; Saturday - Sunday & lt; \ / strong & gt; & lt; br & gt; closed & lt; br & gt; "," openingtool ": [{" id ": 875," sorting ":" 10 "," name ":" A general "," showname ": 0," twice ": 0," partner_id ": null," created_at ":" 2018-12-04 17:09:53 "," updated_at ":" 2018-12-04 17:09:53 "," package_id ": 911," openingdetails ": [{" id ": 6112," sorting ":" 10 "," day ":" Monday "," from ":" 07:00 " , "to": "18:00", "com": "opened", "from2": "13:00", "to2": "18:00", "com2": "opened" , "opening_id": 875, "created_at": "2018-12-04 17:09:54", "updated_at": "2018-12-04 17:09:54"}, {"id": 6113, " sorting ":" 20 "," day ":" Tuesday "," from ":" 07:00 "," to ":" 18:00 "," com ":" opened "," from2 ":" 13:00 "," to2 ":" 18:00 "," com2 ":" ge \ u00f6ffnet "," opening_id ": 875," created_at ":" 2018-12-04 17:09:54 "," updated_at ":" 2018-12-04 17:09:54 "}, {" id ": 6114," sorting ":" 30 "," day ":" Wednesday "," from ":" 07:00 "," to ":" 18:00 "," com ":" opened "," from2 ":" 13:00 "," to2 ":" 18:00 "," com2 ":" opened "," opening_id ": 875," created_at ":" 2018-12-04 17:09:55 "," updated_at ":" 2018-12-04 17:09:55 "}, {" id ": 6115," sorting " : "40", "day": "Thursday", "from": "07:00", "to": "18:00", "com": "opened", "from2": "13: 00 "," to2 ":" 18:00 "," com2 ":" open "," opening_id ": 875," created_at ":" 2018-12-04 17:09:57 "," updated_at ":" 2018-12-04 17:09:57 "}, {" id " : 6116, "sorting": "50", "day": "Friday", "from": "07:00", "to": "18:00", "com": "opened", " from2 ":" 13:00 "," to2 ":" 18:00 "," com2 ":" ge \ u00f6ffnet "," opening_id ": 875," created_at ":" 2018-12-04 17:09:58 "," updated_at ":" 2018-12-04 17:09:58 "}, {" id ": 6117," sorting ":" 60 "," day ":" Saturday "," from ":" 08: 00 "," to ":" 18:00 "," com ":" closed "," from2 ":" 13:00 "," to2 ":" 18:00 "," com2 ":" opened " , "opening_id": 875, "created_at": "2018-12-04 17:09:59", "updated_at": "2018-12-04 17:09:59"}, {"id": 6118, " sorting ":" 70 "," day ":" Sunday "," from ":" 08:00 "," to ":" 18:00 "," com ":" closed "," from2 ":" 13: 00 "," to2 ":" 18:00 "," com2 ":" ge \ u00f6ffnet "," opening_id ": 875," created_at ":" 2018-12-04 17:09:59 "," updated_at ": "2018-12-04 17:09:59"}]}]}, "systemLogoSizes": null} '/>
+        <input id = "swordjson" name = "swordjson" type = "hidden" value = "" />
+        <script src = "https://cdn.jsdelivr.net/npm/vue">
+        </script>
+        <script src = "https://unpkg.com/vue-star-rating@1.5.0/dist/star-rating.min.js">
+        </script>
+        <script>
+         Vue.component ('star-rating', VueStarRating.default)
+
+      var app = new Vue ({
+        el: '#app',
+        data: {
+          partner: JSON.parse (document.getElementById ('json'). value),
+          searchword: document.getElementById ('swordjson'). value,
+
+          rating: "No Rating Selected",
+          currentRating: "No Rating",
+          currentSelectedRating: "No Current Rating",
+          boundRating: 3,
+        },
+        methods: {
+          setRating: function (rating) {
+            this.rating = "You have Selected:" + rating + "stars";
+          },
+          showCurrentRating: function (rating) {
+            this.currentRating = (rating === 0)? this.currentSelectedRating: "Click to select" + rating + "stars"
+          },
+          setCurrentSelectedRating: function (rating) {
+            this.currentSelectedRating = "You have Selected:" + rating + "stars";
+          }
+        }
+      })
+        </script>
+        <script>
+         var lat = $ ('# map'). data ('lat'),
+        lon = $ ('# map'). data ('lon'),
+        name = '',
+        map;
+
+
+
+      function initMap () {
+        var myLatLng = {
+          lat: parseFloat (lat),
+          lng: parseFloat (lon)
+        };
+        map = new google.maps.Map (
+          document.getElementById ('map'), {
+            center: myLatLng,
+            zoom: 14
+          }
+        );
+        var marker = new google.maps.Marker ({
+          position: myLatLng,
+          map: map,
+          title: name
+        });
+      }
+        </script>
+        <script async = "" defer = "" src = "https://maps.googleapis.com/maps/api/js?callback=initMap&amp;key=AIzaSyALnZK1z73egt49SVNajFntJCie8UvtAkw">
+        </script>
+        <script type = "text / javascript">
+         $ (document) .ready (function () {
+        var $ fieldLat = $ ('# lat');
+        var $ fieldLng = $ ('# lng');
+        var $ searchForm = $ ('# searchForm');
+
+        $ fieldLat.val ('none');
+        $ fieldLng.val ('none');
+
+        $ searchForm.submit (function () {
+          if (($ fieldLat.val () == 'none') || ($ fieldLng.val () == 'none')) {
+            var address = $ ('# address'). val ();
+            var zipcode = $ ('# zipcode'). val ();
+            var city = $ ('# city'). val ();
+            var country = ($ ('# country'). val () == 13)? 'DE': 'AT';
+
+            var complete_address = zipcode + '' + city + ',' + address + ',' + country;
+            var complete_address = city + ', DE';
+
+            var geocoder = new google.maps.Geocoder ();
+            geocoder.geocode ({
+              'address': complete_address
+            }, function (results, status) {
+              if (status == google.maps.GeocoderStatus.OK) {
+                var loc = results [0] .geometry.location;
+                var lat = loc.lat ();
+                var lng = loc.lng ();
+                console.log (results + '' + lat + '' + lng);
+                $ fieldLat.val (lat);
+                $ fieldLng.val (lng);
+              } else {
+                console.log ('Geocode was not successful for the following reason:' + status);
+                $ fieldLat.val ('');
+                $ fieldLng.val ('');
+              }
+              $ searchForm.submit ();
+            });
+            return false;
+          } else {
+            return true;
+          }
+        });
+      });
+        </script>
+       </div>
+      </div>
+      <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+      <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "807">
+      </ins>
+      <div id = "contentWerbungBig">
+       <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+       <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "705">
+       </ins>
+      </div>
+      <div id = "Format 624 x 300">
+       <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+       <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "803">
+       </ins>
+      </div>
+     </section>
+    </div>
+   </div>
+   <footer id = "footer">
+    <div class = "wrapper">
+     <div class = "clearfix" id = "footerTop">
+      <div id = "footerTopLeft">
+       <ul id = "siteMenu">
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/nc/kfz-news.html">
+          Home
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/automagazin.html">
+          Car magazine
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/werkstattsuche.html">
+          Workshop search
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/werkstatt-infos/kundenvorteile.html">
+          Workshop info
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/nochfragen.html">
+          questions and answers
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/die-frei-werkstatt-vor-ort.html">
+          PSW
+         </a>
+        </li>
+        <li>
+         <a href="https://www.psw-reisewelt.de/">
+          Traveling with PSW
+         </a>
+        </li>
+        <div class = "cleardiv">
+        </div>
+       </ul>
+      </div>
+      <div id = "footerTopRight">
+       <a class="rss" href="https://www.profi-service-werkstatt.de/rss-feed/rss.xml">
+        Subscribe to RSS feed
+       </a>
+       <div id = "systemPartnerFooter">
+        <a class="pswSprite16x16 systemPartner" href="https://www.profi-service-werkstatt.de/fuer-systempartner.html">
+         For system partners
+        </a>
+       </div>
+      </div>
+     </div>
+     <div id = "footerBottom">
+      <div id = "copartsLogo" itemprop = "logo">
+       <a href="http://www.coparts.de" target="_blank">
+        <img alt = "coparts.de" height = "40" src = "https://www.profi-service-werkstatt.de/fileadmin/templates/img/copartsLogo.png" width = "175" />
+       </a>
+      </div>
+      <div id = "footerBottomRight">
+       <ul class = "clearfix" id = "footerMenu">
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/kfz-helpline.html">
+          Vehicle helpline
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/kontakt0.html">
+          Contact
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/haftungsausschluss.html">
+          Disclaimer of liability
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/impressum.html">
+          imprint
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/datenschutz.html">
+          data protection
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/suche.html">
+          search
+         </a>
+        </li>
+        <li>
+         <a href="https://www.profi-service-werkstatt.de/header/agb.html">
+          Conditions
+         </a>
+        </li>
+       </ul>
+       <ul id = "footerAdress">
+        <li>
+         <span itemprop = "name">
+          COPARTS Autoteile GmbH
+         </span>
+         | Managing director: Ulrich Wohlgemuth
+        </li>
+        <li>
+         <span itemprop = "address" itemscope = "" itemtype = "http://schema.org/PostalAddress">
+          <span itemprop = "streetAddress">
+           Ruhrallee 311
+          </span>
+          |
+          <span itemprop = "postalCode">
+           45136
+          </span>
+          <span itemprop = "addressLocality">
+           eat
+          </span>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <a href="https://plus.google.com/u/0/b/118411118044237650731/118411118044237650731" rel="publisher" style="margin-left:25px;">
+       Find us on Google+
+      </a>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <div class = "cOverlay">
+   <div class = "cClose">
+    <img alt = "close" src = "/ fileadmin / cookie-hinweis / img / close.svg" title = "close">
+    </img>
+   </div>
+   <div class = "cContent">
+    <div class = "cHeader">
+     <h2>
+      Privacy settings
+     </h2>
+     <p>
+      Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and only select certain cookies.
+     </p>
+     <div class = "buttons">
+      <button class = "saveActions" type = "button">
+       confirm selection
+      </button>
+      <button class = "save" type = "button">
+       Accept all
+      </button>
+     </div>
+    </div>
+    <div class = "cBanner cNotwendig">
+     <div class = "cItemHeader">
+      <h3>
+       Necessary
+      </h3>
+      <div class = "switchWrap">
+       <p>
+        One
+       </p>
+       <label class = "switch">
+        <input checked = "checked" class = "options" disabled = "" id = "required" name = "required" type = "checkbox" value = "1" />
+        <span class = "slider round">
+        </span>
+       </label>
+      </div>
+     </div>
+     These cookies are absolutely necessary for the operation of the site and enable, for example, security-relevant functionalities.
+    </div>
+    <div class = "cBanner cStatistik">
+     <div class = "cItemHeader">
+      <h3>
+       statistics
+      </h3>
+      <div class = "switchWrap">
+       <p>
+        Out
+       </p>
+       <label class = "switch">
+        <input class = "options" id = "statistics" name = "statistics" type = "checkbox" value = "0" />
+        <span class = "slider round">
+        </span>
+       </label>
+      </div>
+     </div>
+     In order to further improve our offer and our website and to adapt them to the needs of the visitors, we collect and analyze anonymized data with the help of these cookies. For example, we learn something about the number of visitors, how the visitors are busy with the website or your activities on the individual pages.
+    </div>
+    <div class = "cBanner cMarketing">
+     <div class = "cItemHeader">
+      <h3>
+       marketing
+      </h3>
+      <div class = "switchWrap">
+       <p>
+        Out
+       </p>
+       <label class = "switch">
+        <input class = "options" id = "marketing" name = "marketing" type = "checkbox" value = "0" />
+        <span class = "slider round">
+        </span>
+       </label>
+      </div>
+     </div>
+     With the help of these cookies we can show you content that matches your interests. So these can e.g. Be used to prevent the same ads from repeatedly being shown to the same people or from targeting you with the correct information. For this we collect information about the surfing behavior of our visitors, e.g. when visitors last visited the website and what activities they were engaged in.
+    </div>
+   </div>
+  </div>
+  <div class = "openCookie">
+   <img alt = "Open Cookie" src = "/ fileadmin / cookie-hinweis / img / cookie-paragraph.svg" title = "Open Cookie" />
+  </div>
+  <! - WWE Media AdServer Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 ->
+  <ins data-revive-id = "36dfd8c37f689d29223c93675f7dfc2a" data-revive-zoneid = "468">
+  </ins>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/corona-hinweis/js/custom.1603286683.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/cookie-hinweis/js/jquery.cookie.min.1584364974.js" type = "text / javascript">
+  </script>
+  <script src = "https://www.profi-service-werkstatt.de/fileadmin/cookie-hinweis/js/custom-cookie.1603286687.js" type = "text / javascript">
+  </script>
+ </body>
+</html>

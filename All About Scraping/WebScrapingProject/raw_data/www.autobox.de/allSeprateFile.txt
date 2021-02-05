@@ -1,0 +1,659 @@
+<! DOCTYPE html>
+<html>
+ <head>
+  <meta content = "width = 1100, maximum-scale = 1" name = "viewport" />
+  <meta charset = "utf-8" />
+  <link href = "data / favicon.ico" rel = "shortcut icon" type = "image / vnd.microsoft.icon" />
+  <link href = "data / css / animate.css" rel = "stylesheet" type = "text / css" />
+  <link href = "data / css / lslider.css" rel = "stylesheet" type = "text / css" />
+  <link href = "data / css / style.css" rel = "stylesheet" type = "text / css" />
+  <script src = "data / ajax / libs / jquery / 1.10.2 / jquery.min.js" type = "text / javascript">
+  </script>
+  <script src = "data / js / jquery.easing.1.3.js">
+  </script>
+  <script src = "data / js / jquery.touchSwipe.min.js">
+  </script>
+  <script src = "data / js / jquery.liquid-slider.min.js">
+  </script>
+  <script src = "data / js / application.js">
+  </script>
+  <script src = "data / js / cookie.js">
+  </script>
+  <! - Search engine optimization ->
+  <meta content = "AUTOBOX DRESDEN GmbH - your partner in matters of cars." name = "description">
+   <meta content = "noodp" name = "robots">
+    <link href = "index.php" rel = "canonical">
+     <meta content = "de_DE" property = "og: locale" />
+     <meta content = "website" property = "og: type" />
+     <meta content = "AUTOBOX DRESDEN" property = "og: title" />
+     <meta content = "Your partner when it comes to cars." property = "og: description" />
+     <meta content = "http://www.autobox.de/" property = "og: url" />
+     <meta content = "AUTOBOX DRESDEN" property = "og: site_name" />
+     <script type = "application / ld + json">
+      {"@context": "http: \ / \ / schema.org", "@ type": "WebSite", "url": "http: \ / \ / www.autobox.de \ /", "name" : "AUTOBOX DRESDEN", ​​"potentialAction": {"@ type": "SearchAction", "target": "http: \ / \ / www.autobox.de \ /? S = {search_term_string}", "query-input ":" required name = search_term_string "}}
+     </script>
+     <! - / search engine optimization ->
+     <! - Redundant code>
+    <link rel = "alternate" type = "application / rss + xml" title = "DABAG & raquo; start page comment feed" href = "start page / feed / index.html" />
+    <script type = "text / javascript">
+    window._wpemojiSettings = {"baseUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ / 72x72 \ /", "ext": ". png", "source": {"concatemoji ":" http: \ / \ / www.dabag.de \ / wp-includes \ / js \ /wp-emoji-release.min.js? ver = 4.4.2 "}};
+    ! function (a, b, c) {function d (a) {var c, d = b.createElement ("canvas"), e = d.getContext && d.getContext ("2d"), f = String.fromCharCode; return e && e.fillText? (e.textBaseline = "top", e.font = "600 32px Arial", "flag" === a? (e.fillText (f (55356,56806,55356,56826), 0,0 ), d.toDataURL (). length> 3e3): "diversity" === a? (e.fillText (f (55356,57221), 0,0), c = e.getImageData (16,16,1, 1) .data.toString (), e.fillText (f (55356,57221,55356,57343), 0,0), c! == e.getImageData (16,16,1,1) .data.toString ( )) :( "simple" === a? e.fillText (f (55357,56835), 0,0): e.fillText (f (55356,57135), 0,0), 0! == e. getImageData (16,16,1,1) .data [0])) :! 1} function e (a) {var c = b.createElement ("script"); c.src = a, c.type = " text / javascript ", b.getElementsByTagName (" head ") [0] .appendChild (c)} var f, g; c.supports = {simple: d (" simple "), flag: d (" flag "), unicode8: d ("unicode8"), diversity: d ("diversity")}, c.DOMReady =! 1, c.readyCallback = function () {c.DOMReady =! 0}, c.supports.simple && c.supports. flag && c.supports.unicode8 && c.supports.diversity || (g = function () {c.readyCallback ()}, b.addEventListener? (b.addEvent Listener ("DOMContentLoaded", g,! 1), a.addEventListener ("load", g,! 1)) :( a.attachEvent ("onload", g), b.attachEvent ("onreadystatechange", function ()) {"complete" === b.readyState && c.readyCallback ()})), f = c.source || {}, f.concatemoji? e (f.concatemoji): f.wpemoji && f.twemoji && (e (f.twemoji ), e (f.wpemoji)))} (window, document, window._wpemojiSettings);
+    </script>
+    <style type = "text / css">
+    img.wp-smiley,
+    img.emoji {
+    display: inline! important;
+    border: none! important;
+    box-shadow: none! important;
+    height: 1em! important;
+    width: 1em! important;
+    margin: 0 .07em! important;
+    vertical-align: -0.1em! important;
+    background: none! important;
+    padding: 0! important;
+    }
+    </style>
+    <link rel = 'https: //api.w.org/' href = 'wp-json / index.html' />
+    <link rel = "EditURI" type = "application / rsd + xml" title = "RSD" href = "xmlrpc0db0.php? rsd" />
+    <link rel = "wlwmanifest" type = "application / wlwmanifest + xml" href = "wp-includes / wlwmanifest.xml" />
+    <meta name = "generator" content = "WordPress 4.4.2" />
+    <link rel = 'shortlink' href = 'index.php' />
+<-->
+     <script>
+      lat = 51.005475;
+lon = 13.820966;
+    mlink = 'https://goo.gl/maps/j36VktkZWWP2';
+    
+    lata = 51.003304;
+    lona = 13.8291956;
+latb = 51.007646;
+    lonb = 13.8127364;
+     </script>
+     <title>
+      AUTOBOX DRESDEN GmbH
+     </title>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class = "header transveryshort">
+   <div class = "generalinner transveryshort">
+    <ul class = "mainmenu transveryshort">
+     <li>
+      <a class="transveryshort" id="mainmenu_home" onclick="scrollto('home');">
+       begin
+      </a>
+     </li>
+     <li>
+      <a class="transveryshort" href="fahrzeuge/index.php">
+       sale
+      </a>
+     </li>
+     <li id ​​= "subleistungsover">
+      <a class="transveryshort" href="werkstatt/index.html">
+       Workshop
+      </a>
+     </li>
+     <li>
+      <a class="transveryshort" id="mainmenu_contact person" onclick="scrollto('service');">
+       service
+      </a>
+     </li>
+     <li>
+      <a class="transveryshort" id="mainmenu_partner" onclick="scrollto(' Ersatzwagen');">
+       Replacement car
+      </a>
+     </li>
+     <li>
+      <a class="transveryshort" href="karriere/index.html">
+       Career
+      </a>
+     </li>
+     <li>
+      <a class="transveryshort" id="mainmenu_kontakt" onclick="scrollto('kontakt');">
+       Contact
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class = "cookiebanner transveryshort">
+   <div class = "background transveryshort">
+   </div>
+   <div class = "panel transveryshort">
+    <div class = "content transveryshort">
+     <h1>
+      Use of cookies
+     </h1>
+     <p>
+      Parts of our website require the use of cookies to operate.
+     </p>
+     <p>
+      By clicking "Accept all", you agree to the use of cookies and other technologies to process your personal data (e.g. the cookie ID) for the purpose of improving and personalizing your user experience on the parts of our website operated by third parties.
+     </p>
+     <p>
+      You can also make individual settings:
+     </p>
+     <div class = "trennlinie_schwarz_links">
+     </div>
+     <p>
+      <div class = "cookie_button_box" onclick = "cookie_wahl_1 ();">
+       <img class = "cookie_button" id = "cookie_button_1" src = "data / images / button_aktiv_inaktiv.png" />
+      </div>
+      allow mobile.de and partners (necessary for displaying the vehicle offer under "SALE")
+      <a href="https://www.mobile.de/service/consent" target="_blank">
+       Settings at mobile.de
+      </a>
+     </p>
+     <p>
+      <div class = "cookie_button_box" onclick = "cookie_wahl_2 ();">
+       <img class = "cookie_button" id = "cookie_button_2" src = "data / images / button_aktiv_inaktiv.png" />
+      </div>
+      autouncle.de and partners allow (necessary for the function of the online valuation of your vehicle)
+      <a href="https://www.autouncle.de/de/impressum-und-datenschutz" target="_blank">
+       Details at autouncle.de
+      </a>
+     </p>
+     <p>
+      <div class = "cookie_button_box" onclick = "cookie_wahl_3 ();">
+       <img class = "cookie_button" id = "cookie_button_3" src = "data / images / button_aktiv_inaktiv.png" />
+      </div>
+      Allow CHECK24 and partners (required for the insurance comparison function)
+      <a href="https://www.check24.de/unternehmen/cookiehinweis/" target="_blank">
+       Settings at check24.de
+      </a>
+     </p>
+     <p>
+      <div class = "mbtn1 cookie_button_allespeichern" onclick = "cookie_selection_allespeichern ();">
+       ACCEPT ALL
+      </div>
+     </p>
+     <p>
+      <div class = "mbtn2 cookie_button_store" onclick = "cookie_selection_store ();">
+       TO SAVE
+      </div>
+     </p>
+     <script type = "text / javascript">
+      $ (window) .on ("load", function () {
+set_cookiebuttons (); // init ();
+}
+);
+     </script>
+    </div>
+   </div>
+  </div>
+  <div class = "mini-popup" onclick = "main action_minipopup ();">
+   <div class = "generalinner">
+    <div id = "mini-popup-x" onclick = "hide_minipopup ();">
+     <img src = "data / images / x-button.png" />
+    </div>
+    <img id = "inpayment name-logo" src = "data / images / inpayment name.png" />
+    <p>
+     Trade-in?
+    </p>
+    <div class = "mbtn1">
+     Calculate value
+    </div>
+   </div>
+  </div>
+  <div class = "minimini-popup" onclick = "tausch_miniminipopup ();">
+   <div class = "generalinner">
+    <div id = "minimini-popup-x" onclick = "hide_miniminipopup ();">
+     <img src = "data / images / x-button.png" />
+    </div>
+    <img id = "inpayment name-logo" src = "data / images / inpayment name.png" />
+   </div>
+  </div>
+  <div class = "main logo">
+   <div class = "generalinner">
+    <img class = "logo" src = "data / images / logo_startseite.png">
+     <img class = "autoscout" src = "data / images / autoscout_evaluation_2020.png">
+      <img class = "guild" src = "data / images / guild.png">
+       <a class="mbtn transshort" href="fahrzeuge/index.php">
+        Vehicle offer
+       </a>
+      </img>
+     </img>
+    </img>
+   </div>
+  </div>
+  <div id = "aiubfzieonfh">
+   <h1>
+    Autowerkstatt Dresden Reick Prohlis Niedersedlitz Laubegast Striesen Kleinschachwitz Strehlen Seidnitz Tolkewitz Blasewitz Johannstadt Heidenau Plauen Meusslitz Hosterwitz Pillnitz Leubnitz-Neuostra Lockwitz Räcknitz Zschertnitz Mockritz Kleinpestewitz Südvorstadt Mitte Center Löbtau Friedrichstadt Weißer Hirsch Loschwitz Bühlau
+   </h1>
+  </div>
+  <div class = "service" id = "service">
+   <div class = "generalinner">
+    <h2 class = "condensedtitle">
+     service
+    </h2>
+    <div class = "sublineblack">
+    </div>
+    <div class = "service menu">
+     <div class = "Leistungsblock active" id = "lblock0" onclick = "changeLeistung (0);">
+      <img class = "buttonimg" src = "data / images / service_1.png">
+       <div class = "Leistungsimgover">
+       </div>
+       <h3 style = "color: # 000000;">
+        Purchase / COMMISSION / Trade-in
+       </h3>
+      </img>
+     </div>
+     <div class = "Leistungsblock" id = "lblock1" onclick = "changeLeistung (1);">
+      <img class = "buttonimg" src = "data / images / service_2.png" />
+      <div class = "Leistungsimgover">
+      </div>
+      <h3 style = "color: # 000000;">
+       Desired vehicle procurement
+      </h3>
+     </div>
+     <div class = "Leistungsblock" id = "lblock2" onclick = "changeLeistung (2);">
+      <img class = "buttonimg" src = "data / images / service_3.png" />
+      <div class = "Leistungsimgover">
+      </div>
+      <h3 style = "color: # 000000;">
+       Insurance / registration service
+      </h3>
+     </div>
+     <div class = "Leistungsblock" id = "lblock3" onclick = "changeLeistung (3);">
+      <img class = "buttonimg" src = "data / images / service_4.png" />
+      <div class = "Leistungsimgover">
+      </div>
+      <h3 style = "color: # 000000;">
+       Guarantee / financing
+      </h3>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "Leistungsungenouter">
+   <div class = "service content liquid-slider" id = "slider1">
+    <div class = "slide background1" style = "background-color: # 967300">
+     <div class = "generalinner">
+      <div class = "arrow-up arrow0" style = "border-bottom: 15px solid # 967300">
+      </div>
+      <h3>
+      </h3>
+      <div class = "page1">
+       <h3>
+        PURCHASE v COMMISSION v PAYMENT ACTION
+       </h3>
+       <div class = "sublinewhite">
+       </div>
+       <div class = "columnleft">
+        <p>
+         Would you like to get a fair price for your used vehicle in an uncomplicated way or that we take your vehicle in payment?
+        </p>
+        <div onclick = "AuEmbed.TradeInCalculatorWidgetEmbedder.openTradeInModal ()">
+         <a href="impressum.html">
+          <strong>
+           Start the trade-in computer (blocked because cookies are not accepted) - & gt; Change settings
+          </strong>
+         </a>
+        </div>
+       </div>
+       <div class = "columnright">
+        <p>
+         <strong>
+          No problem, you are welcome to send us your offer
+         </strong>
+         <strong>
+          Submit by phone or email.
+          <br/>
+          We buy your car directly or sell it on behalf of you on a fair basis and find a buyer.
+         </strong>
+        </p>
+       </div>
+       <div class = "clear">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "slide background2" style = "background-color: # 750505">
+     <div class = "generalinner">
+      <div class = "arrow-up arrow1" style = "border-bottom: 15px solid # 750505">
+      </div>
+      <h3>
+      </h3>
+      <div class = "page2">
+       <h3>
+        DESIRED VEHICLE PROCUREMENT
+       </h3>
+       <div class = "sublinewhite">
+       </div>
+       <div class = "columnleft">
+        <p>
+         You have found a vehicle online but don't want to drive across Germany for free and buy a pig in a poke?
+        </p>
+        <p>
+         Do you have a clear idea of ​​which type of vehicle you would like to buy, but cannot find a suitable offer in the region?
+        </p>
+        <p>
+         Are you still not quite sure which type, which engine or which equipment makes sense for you?
+        </p>
+       </div>
+       <div class = "columnright">
+        <p>
+         <strong>
+          No problem, you are welcome to make an appointment with us and answer any open questions.
+         </strong>
+        </p>
+        <p>
+         <strong>
+          Together we will configure and procure your new used car.
+         </strong>
+        </p>
+       </div>
+       <div class = "clear">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "slide background3" style = "background-color: # 003799">
+     <div class = "generalinner">
+      <div class = "arrow-up arrow2" style = "border-bottom: 15px solid # 003799">
+      </div>
+      <h3>
+      </h3>
+      <div class = "page3">
+       <div class = "columnleft">
+        <h3>
+         INSURANCE
+        </h3>
+        <div class = "sublinewhite">
+        </div>
+        <p>
+         Take advantage of the
+         <strong>
+          free tariff comparison
+         </strong>
+         for car insurance:
+        </p>
+        <a class="kennzeichen" href="versicherung/index.php">
+         <div class = "insurance link">
+         </div>
+         <div class = "insurance link text">
+          <strong>
+           Start comparison
+          </strong>
+         </div>
+        </a>
+       </div>
+       <div class = "columnright">
+        <h3>
+         ADMISSION SERVICE
+        </h3>
+        <div class = "sublinewhite">
+        </div>
+        <p>
+         Regardless of whether registration, de-registration, change of registration, reservation, short-term license plates, export / transit license plates, desired license plates, license plate replacement due to damage or loss:
+        </p>
+        <p>
+         We offer you the complete approval service at fair conditions for the following approval offices:
+        </p>
+        <p>
+         <strong>
+          Dresden
+         </strong>
+         Pirna
+         <strong>
+          Meissen
+         </strong>
+         Freiberg
+         <strong>
+          Goerlitz
+         </strong>
+         Oberspreewald-Lausitz
+         <strong>
+          Leipzig
+         </strong>
+         Vogtland
+         <strong>
+          North Saxony
+         </strong>
+         Torgau-Delitzsch-Oschatz
+        </p>
+       </div>
+       <div class = "clear">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "slide background4" style = "background-color: # 215c23">
+     <div class = "generalinner">
+      <div class = "arrow-up arrow3" style = "border-bottom: 15px solid # 215c23">
+      </div>
+      <h3>
+      </h3>
+      <div class = "page4">
+       <div class = "columnleft">
+        <h3>
+         GUARANTEE
+        </h3>
+        <div class = "sublinewhite">
+        </div>
+        <p>
+         We offer mobility and used vehicle guarantees to cover all important assemblies and components with a free choice of workshop throughout Europe plus the option of an extension.
+        </p>
+        <a href="garantie/index.html">
+         Scope of services
+        </a>
+       </div>
+       <div class = "columnright">
+        <h3>
+         FINANCING
+        </h3>
+        <div class = "sublinewhite">
+        </div>
+        <p>
+         We offer you individual and uncomplicated financing on fair terms.
+        </p>
+        <a href="finanzierung/index.html">
+         Further information
+        </a>
+       </div>
+       <div class = "clear">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <a class="slideback transveryshort inactive" onclick="prevslide();">
+    <img src = "wp-content / themes / dabagtheme / img / slide_back.png" />
+   </a>
+   <a class="slideforward transveryshort active" onclick="nextslide();">
+    <img src = "wp-content / themes / dabagtheme / img / slide_vor.png" />
+   </a>
+  </div>
+  <div class = "ersatzwagen" id = "ersatzwagen">
+   <div class = "generalinner">
+    <div class = "centeredtext">
+     <div class = "generalinner">
+      <h2 class = "condensedtitle">
+       Replacement car
+      </h2>
+      <div class = "sublineblack">
+      </div>
+      <div class = "centeredtext">
+       <p>
+       </p>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_polo.png" />
+        <p>
+         VW Polo 1.6 TDI
+        </p>
+       </div>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_golf.png" />
+        <p>
+         VW Golf 2.0 TDI
+        </p>
+       </div>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_audi.png" />
+        <p>
+         A6 2.0 TDI automatic
+         <br/>
+        </p>
+       </div>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_sharan.png" />
+        <p>
+         VW Sharan 2.0 TDI
+         <br/>
+         Automatic (7 seats)
+        </p>
+       </div>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_t4.png" />
+        <p>
+         VW T4 2.5 TDI Syncro
+         <br/>
+         Long (2-8 seats / bed)
+        </p>
+       </div>
+       <div class = "vehicle column">
+        <div class = "price">
+         <p>
+         </p>
+        </div>
+        <img class = "vehicle image" src = "data / images / ersatzwagen_lt.png" />
+        <p>
+         VW LT Maxi
+         <br/>
+         (L420 B170 H185)
+        </p>
+       </div>
+       <div class = "clear">
+       </div>
+       <p>
+       </p>
+      </div>
+     </div>
+     <p>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class = "contact" id = "contact">
+   <div class = "generalinner">
+    <h2 class = "condensedtitle">
+     Contact
+    </h2>
+    <div class = "sublineblack">
+    </div>
+    <div class = "column">
+     <br>
+      <br>
+       <p>
+        <strong>
+         Vehicle trade
+        </strong>
+        <br>
+         0351/25383625
+        </br>
+       </p>
+       <p>
+        <strong>
+         Specialist workshop
+        </strong>
+        <br>
+         0351/25383622
+        </br>
+       </p>
+       <br>
+        <br/>
+       </br>
+      </br>
+     </br>
+    </div>
+    <div class = "column">
+     <br/>
+     <br/>
+     <p>
+      <strong>
+       You can also reach us by email:
+      </strong>
+      <br/>
+      <a href="mailto:email@autobox.de?subject=Inquiry via autobox.de">
+       email@autobox.de
+      </a>
+     </p>
+     <p>
+      <strong>
+       AUTOBOX DRESDEN GmbH
+      </strong>
+      <br/>
+      Street of June 17th 17
+      <br/>
+      01257 Dresden
+     </p>
+     <br/>
+     <br/>
+    </div>
+    <div class = "clear">
+    </div>
+    <div class = "column">
+     <p>
+      In order to be able to guarantee free contact persons:
+      <br/>
+      Please make an appointment in advance by phone.
+     </p>
+    </div>
+    <div class = "column">
+     <p>
+      Our branch is located in Dresden Niedersedlitz near the A17 motorway. Shuttle service on request.
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class = "map">
+   <div class = "generalinner">
+    <a href="https://goo.gl/maps/j36VktkZWWP2">
+     <img class = "pin" src = "data / images / pin.png" />
+    </a>
+   </div>
+  </div>
+  <script src = "wp-includes / js / wp-embed.minc1f9.js? ver = 4.4.2" type = "text / javascript">
+  </script>
+  <div class = "footer smallfooter_weiss">
+   <div class = "generalinner">
+    <div class = "copyright">
+     <script language = "JavaScript" type = "text / javascript">
+      <! -
+                DateAktuell = new Date ();
+                YearAktuell = DateAktuell.getFullYear ();
+                document.write ("©" + JahrAktuell + "AUTOBOX DRESDEN GmbH");
+                // ->
+     </script>
+     <p class = "imprintlink link">
+      <a href="impressum.html">
+       Imprint | Privacy Policy | Cookies
+      </a>
+     </p>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

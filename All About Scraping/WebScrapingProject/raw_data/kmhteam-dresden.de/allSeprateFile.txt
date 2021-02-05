@@ -1,0 +1,262 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Transitional // EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml: lang = "en" xmlns = "http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Welcome to the KMH team | Free car workshop Dresden
+  </title>
+  <base href = "http://kmhteam-dresden.de/" />
+  <meta content = "CMS Made Simple - Copyright (C) 2004-10 Ted Kulp. All rights reserved." name = "Generator" />
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <link href = "http://kmhteam-dresden.de/tmp/cache/KMH-Team|AllSites(Aufteilung)_1285513842.css" media = "screen" rel = "stylesheet" type = "text / css" />
+  <link href = "http://kmhteam-dresden.de/tmp/cache/KMH-Team|FreieKfzWerkstatt(Farben)_1286458814.css" media = "screen" rel = "stylesheet" type = "text / css" />
+  <script src = "/ lib / link-building-pro-min.js" type = "text / javascript">
+  </script>
+  <script src = "/ lib / jquery-lightbox-0.5 / js / jquery.js" type = "text / javascript">
+  </script>
+  <script src = "/ lib / jquery-lightbox-0.5 / js / jquery.lightbox-0.5.js" type = "text / javascript">
+  </script>
+  <link href = "/ lib / jquery-lightbox-0.5 / css / jquery.lightbox-0.5.css" media = "screen" rel = "stylesheet" type = "text / css" />
+ </head>
+ <body>
+  <div id = "wrapper">
+   <br/>
+   <br/>
+   <div id = "page">
+    <div id = "main">
+     <div class = "breadcrumb">
+      <p>
+       <span>
+        You are here:
+        <span class = "lastitem">
+         Free car workshop
+        </span>
+       </span>
+      </p>
+     </div>
+     <div class = "colset210">
+      <div class = "col1">
+       <h1>
+        Welcome to the KMH team | Free car workshop Dresden
+       </h1>
+       <p>
+        Our company was founded on December 16, 1997 and run as a registered master craftsman's business.
+       </p>
+       <p>
+        You will not only find competent contacts in us for problems and repairs, but also for all questions in the field of tuning. We have the expertise and the equipment to offer you the best all-round service. We are specialists when it comes to your car. The highest quality standards, competent employees, timely appointments and friendly service characterize us as your service provider.
+        <br/>
+        <br/>
+        We attach great importance to the satisfaction of our customers. With us there is no mass processing, but individual service, advice and sales.
+        <br/>
+        <br/>
+        We are happy to answer any questions you may have about your motor vehicle.
+       </p>
+       <p style = "text-align: center;">
+        <img alt = "" height = "135" src = "uploads / images / content / kmh-team-anahme.jpg" title = "KMH team acceptance" width = "202" />
+        <img alt = "" height = "135" src = "uploads / images / content / kmh-team-lounge-01.jpg" title = "KMH-Team Lounge" width = "202" />
+        <img alt = "" height = "135" src = "uploads / images / content / kmh-team-halle-01.jpg" title = "KMH-Team vehicle hall" width = "202" />
+       </p>
+      </div>
+      <div class = "col2">
+       <img alt = "" src = "uploads / images / banner / vialle.jpg" width = "200" />
+      </div>
+     </div>
+    </div>
+    <div id = "header">
+     <a class="home" href="/frei-kfz-werkstatt.html">
+      <img alt = "Welcome to the KMH team | Freie KFZ Werkstatt Dresden" src = "/ images / layout / trans.gif" />
+     </a>
+     <div class = "nav" style = "left: 0; right: auto;">
+      <ul class = "hlist">
+       <li class = "menuactive menuparent">
+        <a class="menuactive menuparent" href="http://kmhteam-dresden.de/">
+         <span>
+          Free car workshop
+         </span>
+        </a>
+        <ul>
+         <li class = "parent">
+          <a class="parent" href="http://kmhteam-dresden.de/frei-kfz-werkstatt-leistungs.html">
+           <span>
+            power
+           </span>
+          </a>
+          <ul>
+           <li class = "sectionheader">
+            <span>
+             Repair of all types of vehicles
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Accident repairs
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Roadside assistance
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Spare parts sales
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Tire service
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Vehicle tuning
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             DEKRA general inspection
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Emissions test
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Workshop replacement car
+            </span>
+           </li>
+           <li class = "sectionheader">
+            <span>
+             Sports car trade
+            </span>
+           </li>
+          </ul>
+         </li>
+         <li class = "parent">
+          <a class="parent" href="http://kmhteam-dresden.de/frei-kfz-werkstatt-kontakt.html">
+           <span>
+            Contact
+           </span>
+          </a>
+          <ul>
+           <li>
+            <a href="http://kmhteam-dresden.de/kontaktformular.html">
+             <span>
+              contact form
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="http://kmhteam-dresden.de/frei-kfz-werkstatt-impressum.html">
+           <span>
+            imprint
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+     <div class = "nav">
+      <ul class = "hlist">
+       <li class = "parent">
+        <a class="parent" href="http://kmhteam-dresden.de/frei-kfz-werkstatt-leistungs.html">
+         <span>
+          power
+         </span>
+        </a>
+        <ul>
+         <li class = "sectionheader">
+          <span>
+           Repair of all types of vehicles
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Accident repairs
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Roadside assistance
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Spare parts sales
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Tire service
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Vehicle tuning
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           DEKRA general inspection
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Emissions test
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Workshop replacement car
+          </span>
+         </li>
+         <li class = "sectionheader">
+          <span>
+           Sports car trade
+          </span>
+         </li>
+        </ul>
+       </li>
+       <li class = "parent">
+        <a class="parent" href="http://kmhteam-dresden.de/frei-kfz-werkstatt-kontakt.html">
+         <span>
+          Contact
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="http://kmhteam-dresden.de/kontaktformular.html">
+           <span>
+            contact form
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="http://kmhteam-dresden.de/frei-kfz-werkstatt-impressum.html">
+         <span>
+          imprint
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id = "footer">
+     <div class = "copy">
+      <p>
+       © 2014 KMH-Team - Holm Czerwonka
+      </p>
+     </div>
+    </div>
+   </div>
+   <br/>
+   <br/>
+  </div>
+ </body>
+</html>

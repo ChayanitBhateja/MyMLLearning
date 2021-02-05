@@ -1,0 +1,330 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <title>
+   Tuning & amp; More - Home - Tuning & amp; More - car repairs of all vehicles
+  </title>
+  <base href = "http://www.tuningandmore.de/" />
+  <meta content = "index, follow" name = "robots" />
+  <meta content = "" name = "description" />
+  <meta content = "" name = "keywords" />
+  <meta content = "Contao Open Source CMS" name = "generator" />
+  <! - <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+->
+  <style>
+   #wrapper {width: 1000px; margin: 0 auto} #header {height: 668px} #left {width: 325px; right: 325px} #right {width: 180px} #container {padding-left: 325px; padding-right: 180px} #footer {height: 236px}
+  </style>
+  <link href = "system / modules / dlh_googlemaps / html / dlh_googlemaps.css" rel = "stylesheet" />
+  <link href = "system / modules / flexslider / assets / css / flexslider_styles.css" rel = "stylesheet" />
+  <link href = "assets / css / 6febb39ec112.css" rel = "stylesheet" />
+  <script src = "assets / js / 46cf97f3c986.js">
+  </script>
+  <! - [if lt IE 9]> <script src = "assets / html5shiv / 3.6.2 / html5shiv.js"> </script> <! [endif] ->
+ </head>
+ <body class = "unknown other" id = "top">
+  <div id = "wrapper">
+   <header id = "header">
+    <div class = "inside">
+     <! - indexer :: stop ->
+     <nav class = "mod_navigation block">
+      <a class="invisible" href="#skipNavigation1">
+       Skip navigation
+      </a>
+      <ul class = "level_1">
+       <li class = "active first">
+        <span class = "active first">
+         Home page
+        </span>
+       </li>
+       <li class = "sibling">
+        <a class="sibling" href="index.php/leistungen.html" title="Tuning &amp; More-Services">
+         Services
+        </a>
+       </li>
+       <li class = "sibling">
+        <a class="sibling" href="index.php/references.html" title="Tuning &amp; More-References">
+         credentials
+        </a>
+       </li>
+       <li class = "sibling">
+        <a class="sibling" href="index.php/veranstaltungen.html" title="Tuning &amp; More-Veranstaltungen">
+         Events
+        </a>
+       </li>
+       <li class = "sibling">
+        <a class="sibling" href="index.php/kontakt.html" title="Tuning &amp; More-Kontakt">
+         Contact
+        </a>
+       </li>
+       <li class = "sibling">
+        <a class="sibling" href="index.php/anfahrt.html" title="Tuning &amp; More-Directions">
+         Directions
+        </a>
+       </li>
+       <li class = "sibling last">
+        <a class="sibling last" href="index.php/impressum.html" title="Tuning &amp; More-Imprint Data Protection">
+         imprint
+        </a>
+       </li>
+      </ul>
+      <a class="invisible" id="skipNavigation1">
+      </a>
+     </nav>
+     <! - indexer :: continue ->
+     <section class = "mod_flexSlider block">
+      <div class = "">
+       <div class = "flexslider" id = "header-slider">
+        <ul class = "slides">
+         <li>
+          <img alt = "" src = "files / Tuning and more / Bilder / Slider - Tuningandmore.jpg" />
+         </li>
+         <li>
+          <img alt = "" src = "files / Tuning and more / Bilder / Slider - Unfallinstandsetzung.jpg" />
+         </li>
+         <li>
+          <img alt = "" src = "files / Tuning and more / Bilder / Slider - Tuning.jpg" />
+         </li>
+         <li>
+          <img alt = "" src = "files / Tuning and more / Bilder / Slider - Service.jpg" />
+         </li>
+        </ul>
+       </div>
+      </div>
+     </section>
+     <script>
+      (function ($) {
+$ (window) .load (function () {
+  $ ("# header-slider"). flexslider ({
+slideshowSpeed: 7000,
+animationSpeed: 3000,
+    animation: "fade",
+direction: "horizontal",
+controlNav: false,
+directionNav: false,
+randomize: true,
+    pauseOnHover: false,
+pauseOnAction: true,
+useCSS: false,
+    touch: true
+  });
+});
+}) (jQuery);
+     </script>
+    </div>
+   </header>
+   <div id = "container">
+    <div id = "main">
+     <div class = "inside">
+      <div class = "mod_article block" id = "startseite">
+       <div class = "ce_text block">
+        <p>
+         <span>
+          With many years of experience, our modern equipment and extensive specialist knowledge, our employees are at your disposal and support you according to your individual ideas.
+         </span>
+        </p>
+        <p>
+         <span>
+          We offer you comprehensive advice and a variety of services related to your vehicle.
+         </span>
+        </p>
+       </div>
+       <div class = "ce_image block">
+        <figure class = "image_container" style = "padding-top: 10px; padding-bottom: 10px;">
+         <a data-lightbox="0e1fca" href="files/Tuning%20and%20more/Bilder/dienstleistungen.jpg">
+          <img alt = "" height = "1066" src = "files / Tuning% 20and% 20more / Bilder / Leistungsungen.jpg" width = "1600" />
+         </a>
+        </figure>
+       </div>
+       <div class = "ce_text block">
+        <p>
+         You can find more information about our services in our
+         <a href="index.php/dienstleistungen.html" title="Tuning &amp; More-Services">
+          Performance overview
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <aside id = "left">
+     <div class = "inside">
+      <div class = "mod_article block" id = "startseite-9">
+       <div class = "ce_text block">
+        <h1>
+         TUNING & amp; MORE
+        </h1>
+        <p>
+         Welcome to TUNING & amp; MORE. We are your competent and manufacturer-independent vehicle partner in the Dresden area.
+         <br/>
+         <br/>
+        </p>
+        <p>
+         Thanks to many years of experience and our highly qualified team, we have been offering our customers the highest level of quality for over 10 years.
+        </p>
+       </div>
+       <div class = "ce_image block">
+        <figure class = "image_container" style = "padding-top: 10px; padding-bottom: 10px;">
+         <a data-lightbox="8fb3cb" href="files/Tuning%20and%20more/Bilder/Werkstatt.JPG">
+          <img alt = "" height = "1067" src = "files / Tuning% 20and% 20more / Bilder / Werkstatt.JPG" width = "1600" />
+         </a>
+        </figure>
+       </div>
+       <div class = "ce_text block">
+        <p>
+         We are at your disposal and advise you individually. You can contact us
+         <a href="index.php/kontakt.html" title="Tuning &amp; More-Kontakt">
+          contact here
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+     </div>
+    </aside>
+    <aside id = "right">
+     <div class = "inside">
+      <div class = "mod_article block" id = "startseite-11">
+       <div class = "ce_text block">
+        <h1>
+         contact details
+        </h1>
+        <p>
+         TUNING & amp; MORE
+         <br/>
+         Boxdorfer Strasse 15
+         <br/>
+         01129 Dresden
+        </p>
+        <p>
+        </p>
+        <p>
+         Tel .: +49 351/847 165 50
+         <br/>
+         Fax: +49 351/847 165 60
+         <br/>
+         office@tuningandmore.de
+        </p>
+       </div>
+       <div class = "ce_text block">
+        <h1>
+         opening hours
+        </h1>
+        <p>
+         Monday to Friday
+         <br/>
+         8 a.m. - 7 p.m.
+        </p>
+        <p>
+         Saturday after
+         <br/>
+         agreement
+        </p>
+        <p>
+        </p>
+       </div>
+       <div class = "ce_image block">
+        <figure class = "image_container">
+         <a href="https://www.facebook.com/tuningandmore/">
+          <img alt = "" height = "26" src = "files / Tuning% 20and% 20more / Bilder / tunning_facebook_button.png" width = "119" />
+         </a>
+        </figure>
+       </div>
+       <div class = "ce_text block">
+        <p>
+         <a href="index.php/impressum.html#datenschutz">
+          data protection
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </aside>
+   </div>
+   <footer id = "footer">
+    <div class = "inside">
+    </div>
+   </footer>
+  </div>
+  <script src = "assets / jquery / mediaelement / 2.11.3 / js / mediaelement-and-player.min.js">
+  </script>
+  <script>
+   (function ($) {
+    $ (document) .ready (function () {
+      $ ('video, audio'). mediaelementplayer ({
+        // Put custom options here
+        pluginPath: '/assets/jquery/mediaelement/2.11.3/',
+        flashName: 'legacy / flashmediaelement.swf',
+        silverlightName: 'legacy / silverlightmediaelement.xap'
+      });
+    });
+  }) (jQuery);
+  </script>
+  <script src = "assets / swipe / 2.0 / js / swipe.min.js">
+  </script>
+  <script>
+   (function ($) {
+    $ (document) .ready (function () {
+      $ ('. ce_sliderStart'). each (function (i, cte) {
+        var s = $ ('. content-slider', cte) [0],
+            c = s.getAttribute ('data-config'). split (',');
+        new Swipe (s, {
+          // Put custom options here
+          'auto': parseInt (c [0]),
+          'speed': parseInt (c [1]),
+          'startSlide': parseInt (c [2]),
+          'continuous': parseInt (c [3]),
+          'menu': $ ('. slider-control', cte) [0]
+        });
+      });
+    });
+  }) (jQuery);
+  </script>
+  <script src = "assets / mootools / mediabox / 1.4.6 / js / mediabox.js">
+  </script>
+  <script>
+   (function ($) {
+    window.addEvent ('domready', function () {
+      var links = $$ ('a'). filter (function (el) {
+        return el.getAttribute ('data-lightbox')! = null;
+      });
+      $$ (left) .mediabox ({
+        // Put custom options here
+      }, function (el) {
+    return [el.href, el.title, el.getAttribute ('data-lightbox')];
+      }, function (el) {
+        var data = this.getAttribute ('data-lightbox'). split ('');
+        return (this == el) || (data [0] && el.getAttribute ('data-lightbox'). match (data [0]));
+      });
+      $ ('mbImage'). addEvent ('swipe', function (e) {
+        (e.direction == 'left')? $ ('mbNextLink'). fireEvent ('click'): $ ('mbPrevLink'). fireEvent ('click');
+      });
+    });
+  }) (document.id);
+  </script>
+  <script src = "assets / swipe / 2.0 / js / swipe.min.js">
+  </script>
+  <script>
+   (function ($) {
+    window.addEvent ('domready', function () {
+      $$ ('. ce_sliderStart'). each (function (cte) {
+        var s = cte.getElement ('. content-slider'),
+            c = s.getAttribute ('data-config'). split (',');
+        new Swipe (s, {
+          // Put custom options here
+          'auto': parseInt (c [0]),
+          'speed': parseInt (c [1]),
+          'startSlide': parseInt (c [2]),
+          'continuous': parseInt (c [3]),
+          'menu': cte.getElement ('. slider-control')
+        });
+      });
+    });
+  }) (document.id);
+  </script>
+  <script>
+   setTimeout (function () {jQuery.ajax ("system / cron / cron.txt", {complete: function (e) {var t = e.responseText || 0; parseInt (t) <Math.round (+ (new Date) / 1e3) -86400 && jQuery.ajax ("system / cron / cron.php")}})}, 5e3)
+  </script>
+ </body>
+</html>

@@ -1,0 +1,3063 @@
+<! DOCTYPE html>
+<html class = "noIE no-js lang_de shop_DEU" data-fancyclose = "Close" lang = "de">
+ <head>
+  <title>
+   Tire dealer in Dresden | reifencom GmbH
+  </title>
+  <meta content = "Buy cheap summer tires now in the reifen.com branch in Dresden. Make an appointment or come by right away. Mon-Fri 9:00 am-6:30pm, Sat 9:00 am-2:00pm. " name = "description" />
+  <meta content = "index, follow" name = "robots" />
+  <link href = "https://www.reifen.com/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/" hreflang = "de-de" rel = "alternate" />
+  <link href = "https://www.reifen.com/en/branches/reifencom-gmbh-dresden-mickten-overbeckstr/" hreflang = "en-de" rel = "alternate" />
+  <link href = "/ css / styles-deu.css? rev = 1213024845" rel = "stylesheet" type = "text / css" />
+  <link href = "/ css / plugins / plugins.pack.min.css? rev = 1213024845" rel = "stylesheet" type = "text / css" />
+  <link href = "/ css / allshops.css? rev = 1213024845" rel = "stylesheet" type = "text / css" />
+  <link href = "/ css / plugins / eocjs-newsticker.css? rev = 1213024845" rel = "stylesheet" type = "text / css" />
+  <! - Prevent Safari from recognizing numbers as phone numbers and displaying them as links ->
+  <meta content = "telephone = no" name = "format-detection" />
+  <meta charset = "utf-8" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <! - Copyright (c) 2000-2013 etracker GmbH. All rights reserved. ->
+  <! - This material may not be reproduced, displayed, modified or distributed ->
+  <! - without the express prior written permission of the copyright holder. ->
+  <! - BEGIN etracker Tracklet 4.0 ->
+  <script>
+   var et_pagename = 'Branches and Service Detail View [de]';
+    var et_areas = 'Website / Industry';
+    var et_url = 'http://www.reifen.com/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/';
+    var et_target = '';
+    var et_ilevel = 0;
+    var et_tval = '';
+    var et_cust = 0;
+    var et_tonr = '';
+    var et_tsale = '0';
+    var et_basket = '';
+    var et_lpage = '0';
+    var et_trig = "";
+    // var et_sub = "";
+    var et_se = '27';
+    var et_tag = "";
+  </script>
+  <noscript>
+   <link href = "// www.etracker.de/cnt_css.php?et=m233X9&amp;v=4.0&amp;java=n&amp;et_pagename=Filialen%20und%20Service%20Detailansicht%20%5Bde%5D&amp;et_areas=Website% 2fBranche & amp; et_ilevel = 0 & amp; et_target = ,,, 0 & amp; et_lpage = 0 & amp; et_trig = & amp; et_se = 27 & amp; et_cust = 0 & amp; et_basket = & amp; et_url = http% 3a% 2f% 2fwww.reifen.com% 2fde% 2ffilialen % 2freifencom-gmbh-dresden-mickten-overbeckstr% 2f & amp; et_tag = & amp; et_sub = "media =" all "rel =" stylesheet "/>
+  </noscript>
+  <! - etracker CODE END ->
+  <link href = "https://www.reifen.com/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/" hreflang = "de-de" rel = "alternate" />
+  <link href = "https://www.reifen.com/en/branches/reifencom-gmbh-dresden-mickten-overbeckstr/" hreflang = "en-de" rel = "alternate" />
+  <meta content = "no-cache" http-equiv = "pragma" />
+  <link href = "/ favicon.ico" rel = "shortcut icon" />
+  <meta content = "branch" name = "currentController" />
+  <meta content = "detail" name = "currentAction" />
+  <script>
+   var controller = 'branch',
+            action = 'detail',
+            language = 'de',
+            useSeoUrls = true,
+            applicationcountry = 'DEU',
+            tyreTypeFromRoute = '',
+            isMobile = false,
+            JSCSSRevision = '1213024845',
+            minifiedScripts = '.min',
+            applicationSeason = 'winter',
+            googlerecaptchapublickey = '6Lc8zQkTAAAAAINLMx5iRqqMr6FEOO3eKYrTOFD4',
+            textClose = 'close',
+            countryAuslandAddTax = 'SWE';
+       
+        
+        var deliveryAddressPackstationBlackListWords = ["packstation", "packstatino", "packsttaion", "packstaiton", "packstatoin", "oackstation", "lackstation", "psckstation", "pzckstation", "pqckstation", "padkstation", "pavkstation" "," paxkstation "," pacistation "," pacostation "," paclstation "," pacmstation "," packetation "," packatation "," packdtation "," packwtation "," packsration "," packsgation "," packsyation ", "packststion", "packstztion", "packstqtion", "packstarion", "packstagion", "packstayion", "packstatoon", "packstatuon", "packstatkon", "packstatiin", "packstatiln", "packstatipn", "packstatiom "," packstatioh "," packstatiob "," pakstation "," packstastion "," packstazion "," pakcstation "];
+  </script>
+  <meta content = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008/10008.jpg" property = "og: image" />
+  <meta content = "reifen.com branch in Dresden" property = "og: title" />
+  <meta content = "reifen.com branch in Dresden" itemprop = "og: headline" />
+  <meta content = "article" property = "og: type" />
+  <meta content = "https://www.reifen.com/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/" property = "og: url" />
+  <meta content = "Brand tires really cheap and a top tire service is available in the reifen.com branch in Dresden. We look forward to your visit." property = "og: description" />
+  <meta content = "Brand tires really cheap and a top tire service is available in the reifen.com branch in Dresden. We look forward to your visit." itemprop = "og: description" />
+  <! - Google Tag Manager ->
+  <script>
+   (function (w, d, s, l, i) {
+                w [l] = w [l] || []; w [l] .push ({'gtm.start':
+                        new Date (). getTime (), event: 'gtm.js'
+                }); var f = d.getElementsByTagName (s) [0],
+                    j = d.createElement (s), dl = l! ​​= 'dataLayer'? '& l =' + l: ''; j.async = true; j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore (j, f);
+            }) (window, document, 'script', 'dataLayer', 'GTM-MZSBM5');
+  </script>
+  <! - End Google Tag Manager ->
+ </head>
+ <body class = "controller-branch action-detail">
+  <noscript>
+   <style>
+    .wrapperJSAlert {
+                display: block;
+            }
+   </style>
+   <iframe height = "0" src = "// www.googletagmanager.com/ns.html?id=GTM-MZSBM5" style = "display: none; visibility: hidden" width = "0">
+   </iframe>
+  </noscript>
+  <script>
+   var apt_info = {};
+        apt_info ["ac_dyn_MPRE"] = "AIREI";
+        apt_info ["ac_mand_CID"] = "4983";
+        apt_info ["ac_mand_TIT"] = "";
+  </script>
+  <span class = "hidden" data-async-load = "cart" id = "CartTestContainer">
+  </span>
+  <span class = "hidden" data-async-load = "ip-detection" data-austria = "Österreich # Austria # l'Autriche # Austria # Østrig" data-belgium = "Belgium # Belgium # la Belgique # Belgio # Belgium "data-denmark =" Denmark # Denmark # le Danemark # Danimarca # Danmark "data-france =" France # France # la France # Francia #Frankrig "data-germany =" Germany # Germany # l'Allemagne # Germania # Tyskland " data-ip = "132.154.164.25" data-italia = "Italy # Italia # l'Italie # Italia # Italy" data-lang-at = "DE, EN" data-lang-be = "DE, FR, EN" data-lang-ch = "DE, FR, IT, EN" data-lang-de = "" data-lang-dk = "DA, EN" data-lang-fr = "FR, DE, EN" data-lang -it = "IT, DE, EN" data-swiss = "der Schweiz # Switzerland # la Suisse # Svizzera # Schweiz" id = "ipLocContainer">
+  </span>
+  <! - MachineKey: rcvwapp6 ->
+  <! - CmsLanguage: de ->
+  <! - CmsApplicationCountry: DEU ->
+  <! - CmsPlatformMode: desktopMode ->
+  <! - CacheCheck 08.11.2020 10:27:25 ->
+  <! - localhost: False ->
+  <! - minifiedScripts: .min ->
+  <! - useLess: False ->
+  <div class = "wrapperAdSky hide-under-1360 hidden-xs hidden-sm">
+   <div class = "flexslider sliderSkyscraper">
+    <ul class = "slides">
+    </ul>
+   </div>
+  </div>
+  <div class = "container wrapperHeader hidden-print hello" id = "wrapperHeader">
+   <div class = "row">
+    <div class = "col-xs-8 wrapperLogo">
+     <a href="/">
+      <img alt = "reifen.com" class = "img-responsive" src = "// images.reifen.com/relaunch/_logos/de/new/logo.png" />
+     </a>
+    </div>
+    <button class = "col-xs-4 hidden-sm hidden-md hidden-lg" id = "toggleMenu">
+     MENU
+    </button>
+    <a class="hidden-sm hidden-md hidden-lg cart-link" href="/de/cart/cartdisplay" id="btnCart">
+     Items (
+     <span class = "countItemsQuickCart countItemsQuickCartMobile">
+     </span>
+     )
+    </a>
+    <div class = "col-md-12 col-sm-12 hidden-xs pull-right">
+     <div class = "clearfix meta-contact-navi" id = "containerBenefits">
+      <div class = "col-xs-12 padding-right-0">
+       <ul class = "clearfix list-inline pull-right">
+        <div class = "header-bar-service d-flex justify-content-end">
+         <span class = "header-language">
+          <a href="/en/branches/reifencom-gmbh-dresden-mickten-overbeckstr/">
+           EN
+          </a>
+          <! - # RC153 leave some space after the telephone symbol ->
+         </span>
+         <span class = "service-hotline">
+          Order service 0511 - 123 210 10
+         </span>
+         <span>
+          <a href="/de/contact">
+           Contact
+          </a>
+         </span>
+         <span>
+          <a href="/de/Account">
+           My account
+          </a>
+         </span>
+        </div>
+       </ul>
+      </div>
+      <div class = "Siegel clearfix">
+       <a class="pull-right" href="http://www.safer-shopping.de/zertifikat/reifen-com.html" target="_blank">
+        <img class = "tooltipTrack" src = "// images.reifen.com/relaunch/_logos/logo-tuev-2.png" title = "" />
+        <div class = "hidden tooltipTrackContent">
+         With tested quality, security and transparency, www.reifen.com is highly trustworthy.
+        </div>
+       </a>
+       <a class="pull-right" href="https://media.reifen.com/fileadmin/files/RC-PDFs/TUEV_SUED_Zertifikat_2020.pdf" target="_blank">
+        <img class = "tooltipTrack" src = "// images.reifen.com/relaunch/_logos/logo-tuev.png" title = "" />
+        <div class = "hidden tooltipTrackContent">
+         The customer satisfaction at reifencom has been checked by TÜV SÜD and awarded the grade 1.7 (05/2020).
+        </div>
+       </a>
+       <a class="pull-right" href="/de/News/Awards-2020" target="_self">
+        <img class = "tooltipTrack" src = "// media.reifen.com/fileadmin/files/RC-Bannerwerbung/Zertifikate/ntv-Header.png" title = "" />
+        <div class = "hidden tooltipTrackContent">
+         ntv: Germany's best online shops 2020. reifen com is the overall winner for automotive accessories.
+        </div>
+       </a>
+      </div>
+      <div class = "col-xs-12">
+       <div class = "header-cart d-flex align-items-end align-self-center" onclick = "document.location.href = '/ de / cart / cartdisplay'">
+        <div class = "cart-icon">
+         <svg class = "cart-icon-svg" height = "100%" id = "cart-icon-svg" style = "fill-rule: evenodd; clip-rule: evenodd; stroke-linecap: round; stroke-linejoin : round; stroke-miterlimit: 1.5; " version = "1.1" viewbox = "0 0 100 125" width = "100%" xml: space = "preserve" xmlns = "http://www.w3.org/2000/svg" xmlns: serif = "http: //www.serif.com/ "xmlns: xlink =" http://www.w3.org/1999/xlink ">
+          <g>
+           <path d = "M91.9,58.8l0, -34.4l-64.93,0l1,394,5.661l57,803,0.16l-0.092,23.009l-49,923,3.027l-8.552, -37.057c-0.2, -1.2 -1, -2.1 -2, -2.1l-15.8,0l0,6l12.6,0l9.8,41.9c-0.7,0.5 -1.1,1.6 -1.1,2.9l0,3.1c0,1.8 0.9,3.2 2,3.2 l53.5,0c1.1,0 2, -1.4 2, -3.2l0, -3.2c0, -1.8 -0.9, -3.2 -2, -3.2l-48.4,0l-0.5, -2.3l54.2, - 3.5Z ">
+           </path>
+           <circle cx = "78.2" cy = "86" r = "7.6">
+           </circle>
+           <circle cx = "41.1" cy = "86" r = "7.6">
+           </circle>
+          </g>
+          <g class = "filled">
+           <path d = "M26.841,28.136l61.957,0.174l0.348,27.324l-55.17,3.481l-7.135, -30.979">
+           </path>
+          </g>
+         </svg>
+        </div>
+        <div class = "cart-link-from-new d-flex flex-column">
+         <a class="text-white" href="/de/cart/cartdisplay">
+          <span class = "cart-amount-article js-update-article">
+          </span>
+          items
+         </a>
+         <div class = "cart-amount-price js-update-pricing">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <nav class = "navbar wrapperNavigationMain hidden-print" data-lblback = "back" role = "navigation">
+   <div class = "container">
+    <div class = "row">
+     <div class = "col-xs-12">
+      <strong class = "head hidden-sm hidden-md hidden-lg">
+       Products:
+      </strong>
+      <ul class = "nav navbar-nav clearfix col-xs-12">
+       <li class = "dropdown">
+        <span class = "dropdown-toggle" data-toggle = "dropdowns">
+         tires
+        </span>
+        <ul class = "dropdown-menu">
+         <li class = "col1">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             According to the season
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/AllVehicleSummer/205-55-R16/0/False/False/none">
+             Summer tires
+            </a>
+            <a href="/de/TyreSize/List/AllVehicleWinter/205-55-R16/0/False/False/none">
+             Winter tires
+            </a>
+            <a href="/de/TyreSize/List/AllVehicleAllyear/205-55-R16/0/False/False/none">
+             All season tires
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col2">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             According to vehicle type
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/CarAllSeason/205-55-R16/0/False/False/none">
+             Car
+            </a>
+            <a href="/de/TyreSize/List/AllVehicleAllSeason/215-65-R16/0/False/False/none">
+             SUV / 4x4
+            </a>
+            <a href="/de/TyreSize/List/TransportAllSeason/205-65-R16C/0/False/False/none">
+             Transporter
+            </a>
+            <a href="/de/TyreSize/List/OffroadAllSeason/235-65-R17/0/False/False/none">
+             Offroad
+            </a>
+            <a href="/de/TyreSize/List/ClassicSummer/205-70-R14/0/False/False/none">
+             Classic / oldtimer
+            </a>
+            <a href="/de/TyreSize/List/Moto/120-70-R17/0/False/False">
+             motorcycle
+            </a>
+            <a href="/de/TyreSize/List/Moto/130-70--12/0/False/False">
+             Scooter
+            </a>
+            <br/>
+            <a href="/de/TyreSize/List/Bike">
+             Bicycle tires NEW
+            </a>
+            <a href="/de/TyreSize/List/Tube">
+             Bicycle tubes NEW
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col3">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             search for
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/Search/CarAllSeason?accordion=0">
+             Car model
+            </a>
+            <a href="/de/TyreSize/Search/Moto?accordion=0">
+             Motorcycle model
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col4">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Test winner winter 2019/2020
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/Service/Testsieger-ADAC-Winter-2019-185?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_adac_winter_2019&amp;ctv_onsite=flyout_menu">
+             ADAC - motorwelt
+            </a>
+            <a href="/de/Service/Testsieger-ADAC-Winter-2019-205?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_adac_winter_2019_VAN&amp;ctv_onsite=flyout_menu">
+             ADAC Motorwelt VAN
+            </a>
+            <a href="/de/Service/Testsieger-Autobild-Winter-2019?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_autobild_winter_2019&amp;ctv_onsite=flyout_menu">
+             car picture
+            </a>
+            <a href="/de/Service/Testsieger-Autobild-Winter-2019-SUV?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_autobild_winter_2019&amp;ctv_onsite=flyout_menu">
+             Auto BILD SUV
+            </a>
+            <a href="/de/Service/Testsieger-automotorsport-Winter-2019??etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_ams_winter_2019&amp;ctv_onsite=flyout_menu">
+             auto motor and sport
+            </a>
+           </div>
+           <br/>
+           <br/>
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Test winner all year 2019/2020
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/Service/Testsieger-Autobild-Alljahr-2019?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_adac_ganzjahresreifen_2019&amp;ctv_onsite=flyout_menu">
+             car picture
+            </a>
+           </div>
+           <br/>
+           <br/>
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Test winner summer 2020
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/Service/Testsieger-ADAC-Sommer-2020-225?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_adac_sommer_2020&amp;ctv_onsite=flyout_menu">
+             ADAC test
+            </a>
+            <a href="/de/Service/Testsieger-Autobild-Sommer-2020?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_autobild_sommer_2020&amp;ctv_onsite=flyout_menu">
+             car picture
+            </a>
+            <a href="/de/Service/Testsieger-Autobild-Sportscars-Sommer-2020?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_autobild-sportscars_sommer_2020&amp;ctv_onsite=> .flyout_menu;
+             Auto BILD Sportscars
+            </a>
+            <a href="/de/Service/Testsieger-automotorsport-Sommer-2020?etcc_cu=onsite&amp;etcc_med_onsite=reifentest&amp;etcc_cmp_onsite=rt_ams_sommer_2020&amp;ctv_onsite=flyout_menu">
+             auto motor and sport
+            </a>
+            <a href="/de/Service/top-ten?etcc_cu=onsite&amp;etcc_med_onsite=topten&amp;etcc_cmp_onsite=top_ten&amp;ctv_onsite=flyout_menu">
+             Our top ten tires
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col5">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Partner of
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <img class = "img-fluid" data-src = "https://media.reifen.com/fileadmin/files/RC-Images/Partner_Logo/partner_autobild151px.gif" />
+           </div>
+           <br/>
+           <br/>
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Our new one
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="https://www.reifen.com/de/service/reifenberater">
+             <img class = "img-fluid" data-src = "https://media.reifen.com/fileadmin/files/RC-Content/reifenberater-link-logo-151px.png" />
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "fullwidth">
+         </li>
+        </ul>
+       </li>
+       <li class = "dropdown">
+        <span class = "dropdown-toggle" data-toggle = "dropdowns">
+         Motorcycle tires
+        </span>
+        <ul class = "dropdown-menu">
+         <li class = "col1">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             search for
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/Search/Moto?accordion=0">
+             Motorcycle model
+            </a>
+            <a href="/de/TyreSize/Search/Moto?accordion=1">
+             wheel size
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col2">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             According to tire type
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/Moto/120-70-R17/0/False/False/?TyreNutzart=30">
+             Racing / racing
+            </a>
+            <a href="/de/TyreSize/List/Moto/130-90--16/0/False/False/?TyreNutzart=31">
+             Custom / cruiser
+             <br class="cbr-sm"/>
+             / Chopper
+            </a>
+            <a href="/de/TyreSize/List/Moto/120-70-R17/0/False/False/?TyreNutzart=32">
+             Touring / sport touring
+            </a>
+            <a href="/de/TyreSize/List/Moto/130-70--12/0/False/False/?TyreNutzart=34">
+             Scooter / moped
+            </a>
+            <a href="/de/TyreSize/List/Moto/8-25—12/0/False/False/?TyreNutzart=36">
+             Quad / ATV
+            </a>
+            <a href="/de/TyreSize/List/Moto/110-90--19/0/False/False/?TyreNutzart=37">
+             Motocross
+            </a>
+            <a href="/de/TyreSize/List/Moto/120-70-R17/0/False/False/?TyreNutzart=38">
+             Supersport / sports street
+            </a>
+            <a href="/de/TyreSize/List/Moto/110-80-R19/0/False/False/?TyreNutzart=39">
+             Enduro off-road / street
+            </a>
+            <a href="/de/TyreSize/List/Moto/130-70--17/0/False/False/?TyreNutzart=40">
+             Classic
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col3">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Top brands
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=107">
+             MICHELIN
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=701">
+             Continental
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=102">
+             Dunlop
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=109">
+             Pirelli
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=127">
+             Bridgestone
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/120-70-R17/0/False/False?TyreManufacturerFilterKey[0]=106">
+             Metzeler
+            </a>
+            <a href="/de/TyreSize/ListPremium/Moto/100-80--16/0/False/False?TyreManufacturerFilterKey[0]=165">
+             Heidenau
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col4">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/Marke/Avon">
+             AVON
+            </a>
+            <a href="/de/Marke/Vredestein">
+             Vredestein
+            </a>
+            <a href="/de/Marke/MAXXIS">
+             MAXXIS
+            </a>
+            <a href="/de/Marke/Mitas">
+             Mitas
+            </a>
+            <a href="/de/Marke/IRC">
+             IRC
+            </a>
+            <a href="/de/Marke/CST">
+             CST (Cheng Shin)
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col5">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             action
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <img class = "img-fluid" data-src = "https://media.reifen.com/fileadmin/files/RC-Images/Partner_Logo/Metzeler_Moto_2020_228px.png" />
+            <img class = "img-fluid" data-src = "https://media.reifen.com/fileadmin/files/RC-Images/Partner_Logo/Pirelli_Moto_2020_228px.png" />
+           </div>
+          </div>
+         </li>
+         <li class = "fullwidth">
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="nav-link js-no-nav" href="/de/RimAL/ListVehicleManufacturers">
+         rims
+        </a>
+       </li>
+       <li class = "dropdown">
+        <span class = "dropdown-toggle" data-toggle = "dropdowns">
+         Complete wheels
+        </span>
+        <ul class = "dropdown-menu">
+         <li class = "col1">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Complete aluminum wheels
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/CompleteWheelAL/ListVehicleManufacturers/CarSummer">
+             with summer tires
+            </a>
+            <a href="/de/CompleteWheelAL/ListVehicleManufacturers/CarWinter">
+             with winter tires
+            </a>
+            <a href="/de/CompleteWheelAL/ListVehicleManufacturers/CarAllyear">
+             with all-season tires
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col2">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Complete steel wheels
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/CompleteWheelST/ListVehicleManufacturers/CarSummer">
+             with summer tires
+            </a>
+            <a href="/de/CompleteWheelST/ListVehicleManufacturers/CarWinter">
+             with winter tires
+            </a>
+            <a href="/de/CompleteWheelST/ListVehicleManufacturers/CarAllyear">
+             with all-season tires
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col3">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Run-flat wheels
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/runflat/ListVehicleModels/CarAllyear">
+             as a emergency wheel set
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col4">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+           </div>
+          </div>
+         </li>
+         <li class = "col5">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Partner of
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <img class = "img-fluid" data-src = "https://media.reifen.com/fileadmin/files/RC-Images/Partner_Logo/partner_autobild151px.gif" />
+           </div>
+          </div>
+         </li>
+         <li class = "fullwidth">
+         </li>
+        </ul>
+       </li>
+       <li class = "dropdown">
+        <span class = "dropdown-toggle" data-toggle = "dropdowns">
+         equipment
+        </span>
+        <ul class = "dropdown-menu">
+         <li class = "col1">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Snow chains
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/accessory/SnowChainList?TyreWidth=195&amp;TyreCrossSection=65&amp;TyreDiameter=15">
+             Snow chains by size
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col2">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Rim trees
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/accessory/TyreStandList">
+             Rim tree set
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col3">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Oils by vehicle
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/motoroel/pkw">
+             Car
+            </a>
+            <a href="/de/motoroel/motorrad">
+             motorcycle
+            </a>
+            <a href="/de/motoroel/sonstige-fahrzeuge">
+             other vehicles
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col4">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             Run-flat wheels
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/runflat/ListVehicleModels/CarAllyear">
+             Emergency wheel set
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col5">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             bicycle
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/Bike">
+             Bicycle tires NEW
+            </a>
+            <a href="/de/TyreSize/List/Tube">
+             Bicycle tubes NEW
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "fullwidth">
+         </li>
+        </ul>
+       </li>
+       <li class = "dropdown">
+        <span class = "dropdown-toggle" data-toggle = "dropdowns">
+         bicycle
+        </span>
+        <ul class = "dropdown-menu">
+         <li class = "col1">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             <a href="https://www.reifen.com/de/TyreSize/Search/Bike/" style="color:white">
+              Bicycle tires
+              <br/>
+              according to diameter
+             </a>
+            </span>
+           </div>
+           <br/>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/Bike/28">
+             28 inches
+            </a>
+            <a href="/de/TyreSize/List/Bike/26">
+             26 inch
+            </a>
+            <a href="/de/TyreSize/List/Bike/20">
+             20 inch
+            </a>
+            <a href="/de/TyreSize/List/Bike/16">
+             16 inches
+            </a>
+            <a href="/de/TyreSize/Search/Bike">
+             other sizes
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col2">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             <a href="https://www.reifen.com/de/TyreSize/Search/Tube/" style="color:white">
+              Bicycle tubes
+              <br/>
+              according to diameter
+             </a>
+            </span>
+           </div>
+           <br/>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="/de/TyreSize/List/Tube/29">
+             29 inches
+            </a>
+            <a href="/de/TyreSize/List/Tube/28">
+             28 inches
+            </a>
+            <a href="/de/TyreSize/List/Tube/26">
+             26 inch
+            </a>
+            <a href="/de/TyreSize/List/Tube/20">
+             20 inch
+            </a>
+            <a href="/de/TyreSize/Search/Tube">
+             other sizes
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col3">
+          <div class = "nav-flyout-col flex-sm-fill" style = "display: none">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+             <a href="https://www.reifen.com/de/Themen/fahrradreifen/" style="color:white">
+              Bicycle tires
+              <br/>
+              by brand
+             </a>
+            </span>
+           </div>
+           <br/>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+            <a href="https://www.reifen.com/de//Themen/fahrradreifen/michelin">
+             <img alt = "MICHELIN bicycle tires" src = "https://media.reifen.com/fileadmin/files/RC-Herstellerlogos/107.png" style = "margin-bottom: 4px; width: 40%;" / >
+            </a>
+            <a href="https://www.reifen.com/de/Themen/fahrradreifen/kenda">
+             <img alt = "Kenda bicycle tires" src = "https://media.reifen.com/fileadmin/files/RC-Herstellerlogos/18X.png" style = "margin-bottom: 4px; width: 40%; background- color: white "/>
+            </a>
+            <a href="https://www.reifen.com/de/Themen/fahrradreifen/continental">
+             <img alt = "Continental bicycle tires" src = "https://media.reifen.com/fileadmin/files/RC-Herstellerlogos/701.png" style = "margin-bottom: 4px; width: 40%;" / >
+            </a>
+            <a href="https://www.reifen.com/de/Themen/fahrradreifen/schwalbe">
+             <img alt = "Schwalbe bicycle tires" src = "https://media.reifen.com/fileadmin/files/RC-Herstellerlogos/74R.png" style = "margin-bottom: 4px; width: 40%; background- color: white "/>
+            </a>
+            <a href="https://www.reifen.com/de/Themen/fahrradreifen/maxxis">
+             <img alt = "Maxxis bicycle tires" src = "https://media.reifen.com/fileadmin/files/RC-Herstellerlogos/18R.png" style = "margin-bottom: 4px; width: 40%;" / >
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class = "col4">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+           </div>
+          </div>
+         </li>
+         <li class = "col5">
+          <div class = "nav-flyout-col flex-sm-fill">
+           <div class = "nav-h3 d-flex align-items-center align-items-sm-start">
+            <span class = "d-inline-block">
+            </span>
+           </div>
+           <div class = "nav-flyout-list d-flex flex-column flex-wrap">
+           </div>
+          </div>
+         </li>
+         <li class = "fullwidth">
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="nav-link js-no-nav" href="/de/Home/TopOffers">
+         deals
+        </a>
+       </li>
+       <li class = "mainActive">
+        <a class="nav-link js-no-nav" href="/de/filialen/">
+         Branches / assembly partners
+        </a>
+       </li>
+      </ul>
+      <div class = "col-xs-12 hidden-sm hidden-md hidden-lg serviceNavi clearfix">
+       <strong class = "head">
+        Service:
+       </strong>
+       <ul class = "clearfix list-inline">
+        <div class = "header-bar-service d-flex justify-content-end">
+         <span class = "header-language">
+          <a href="/en/branches/reifencom-gmbh-dresden-mickten-overbeckstr/">
+           EN
+          </a>
+          <! - # RC153 leave some space after the telephone symbol ->
+         </span>
+         <span class = "service-hotline">
+          Order service 0511 - 123 210 10
+         </span>
+         <span>
+          <a href="/de/contact">
+           Contact
+          </a>
+         </span>
+         <span>
+          <a href="/de/Account">
+           My account
+          </a>
+         </span>
+        </div>
+       </ul>
+      </div>
+      <div class = "col-xs-12 languageNavi hidden-sm hidden-md hidden-lg clearfix">
+       <strong class = "head">
+        Language:
+       </strong>
+       <li class = "languageLink col-sm-4 col-md-2 pull-right padding-right-0 text-right">
+        <a href="/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/">
+         GERMAN
+        </a>
+       </li>
+       <li class = "languageLink col-sm-4 col-md-2 pull-right padding-right-0 text-right">
+        <a href="/en/branches/reifencom-gmbh-dresden-mickten-overbeckstr/">
+         ENGLISH
+        </a>
+       </li>
+      </div>
+     </div>
+    </div>
+   </div>
+  </nav>
+  <div class = "container" role = "main">
+   <! - ID: 008 ->
+   <div class = "branch-ticker" id = "news-ticker">
+    <a href="/de/service/corona?&amp;etcc_cu=onsite&amp;etcc_med_onsite=aktion_ticker&amp;etcc_cmp_onsite=Corona">
+     WE ARE ALSO HERE FOR YOU - with all SERVICES in compliance with all HYGIENE RULES - our online shop, our branches and also our customer service are fully available to you even in these difficult times!
+    </a>
+   </div>
+   <div class = "row checkout">
+    <div class = "col-sm-12 clearfix hidden-xs">
+     <ul class = "pull-left subnavi" itemscope = "" itemtype = "http://schema.org/BreadcrumbList">
+      <li>
+       <a href="/">
+        Home
+       </a>
+      </li>
+      <li itemprop = "itemListElement" itemscope = "" itemtype = "http://schema.org/ListItem">
+       <a href="/de/filialen/" itemprop="item">
+        Branches and assembly partners
+       </a>
+       <meta content = "Branches and assembly partners" itemprop = "name" />
+       <meta content = "/ de / filialen /" itemprop = "url" />
+       <meta content = "1" itemprop = "position" />
+      </li>
+      <li itemprop = "itemListElement" itemscope = "" itemtype = "http://schema.org/ListItem">
+       <a class="active" href="" itemprop="item">
+        <h3 class = "headerLinkStyle">
+         reifencom GmbH in Dresden
+        </h3>
+       </a>
+       <meta content = "Details" itemprop = "name" />
+       <meta content = "" itemprop = "url" />
+       <meta content = "2" itemprop = "position" />
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class = "row wrapperFindStores head">
+    <div class = "col-xs-12">
+     <h1 class = "secondHeaderStyle">
+      Tire dealer reifencom GmbH in Dresden
+     </h1>
+    </div>
+   </div>
+   <div class = "row wrapperFindStores detail" data-async-load = "findstores" itemscope = "" itemtype = "http://schema.org/LocalBusiness">
+    <meta content = "reifencom GmbH" itemprop = "name" />
+    <meta content = "0351 843560" itemprop = "telephone" />
+    <meta content = "0351 8435620" itemprop = "faxNumber" />
+    <meta content = "dresden@reifen.com" itemprop = "email" />
+    <meta content = "https://www.reifen.com/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/" itemprop = "url" />
+    <meta content = "// images.reifen.com/relaunch/filiale/10008.jpg" itemprop = "photo" />
+    <div class = "row noMargin box-same-height store-info-wrapper">
+     <div class = "col-xs-12 col-sm-8 store-infos">
+      <div id = "fb-root">
+      </div>
+      <div class = "row">
+       <div class = "col-xs-12">
+        <div class = "box clearfix">
+         <h2 class = "thirdHeaderStyle">
+          address
+         </h2>
+         <div class = "col-xs-12 col-sm-6 col-md-5 store-address" itemprop = "address" itemscope = "" itemtype = "http://schema.org/PostalAddress">
+          <div class = "iBox">
+           <meta content = "01139" itemprop = "postalCode" />
+           <meta content = "Dresden" itemprop = "addressLocality" />
+           <meta content = "Germany" itemprop = "addressCountry" />
+           <meta content = "reifencom GmbH" itemprop = "name" />
+           <h3>
+            reifencom GmbH
+           </h3>
+           <span itemprop = "streetAddress">
+            Overbeckstrasse 41
+           </span>
+           <span id = "CityAndZip">
+            01139 Dresden
+           </span>
+           <span>
+            Germany
+           </span>
+           <span class = "phone margin-top-20">
+            <span class = "label">
+             Phone:
+            </span>
+            <span style = "display: inline-block">
+             <a class="visible-xs" href="tel:+49351843560">
+              0351 843560
+             </a>
+            </span>
+            <span class = "hidden-xs" style = "display: inline-block">
+             0351 843560
+            </span>
+           </span>
+           <span class = "fax">
+            <span class = "label">
+             Fax:
+            </span>
+            <span>
+             0351 8435620
+            </span>
+           </span>
+           <span class = "margin-top-20">
+            E-mail:
+            <a href="mailto:dresden@reifen.com">
+             dresden@reifen.com
+            </a>
+           </span>
+           <div class = "row social-wrapper">
+            <div class = "col-xs-12">
+             <div class = "shariff" data-lang = "de" data-services = '["whatsapp", "facebook", "]' data-whatsapp-text =" I'm on my way to the reifen.com branch in Dresden () ">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "col-xs-12 col-sm-6 col-md-7 detailInfos hidden-xs">
+          <div class = "iBox">
+           <div class = "row hidden-xs">
+            <div class = "col-xs-12">
+             <div class = "infos-left">
+              <span class = "info-icon tooltipTrack">
+               <span class = "sprite spr_mp car_lg">
+               </span>
+               <span class = "info">
+                Max. 24 "
+               </span>
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Car rims up to max. 24 "mountable
+               </p>
+              </div>
+              <span class = "info-icon tooltipTrack">
+               <span class = "sprite spr_mp moto_lg">
+               </span>
+               <span class = "info">
+                Max. 21 "
+               </span>
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Motorcycle rims up to max. 21 "mountable.
+                <br/>
+                <br/>
+                Possible on site:
+                <br/>
+                <br/>
+                <table>
+                 <tr>
+                  <td style = "vertical-align: top">
+                   -
+                  </td>
+                  <td>
+                   Tire change on the removed wheel
+                   <br/>
+                   <br/>
+                  </td>
+                 </tr>
+                </table>
+               </p>
+              </div>
+              <span class = "info-icon tooltipTrack">
+               <span class = "sprite spr_mp storage_lg">
+               </span>
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Wheel storage possible
+               </p>
+              </div>
+              <span class = "info-icon tooltipTrack">
+               <span class = "sprite spr_mp rdks_lg">
+               </span>
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Professional installation of tire pressure control sensors (TPMS)
+               </p>
+              </div>
+              <span class = "info-icon tooltipTrack">
+               <span class = "sprite spr_mp other_lg">
+               </span>
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Further services are offered
+               </p>
+              </div>
+             </div>
+             <div class = "infos-right hidden-sm">
+              <span class = "sprite spr_mp contact_lg tooltipTrack" data-targetid = "contact">
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Click here for the contact form
+               </p>
+              </div>
+              <span class = "sprite spr_mp map_lg tooltipTrack" data-targetid = "map">
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Click here for the large map
+               </p>
+              </div>
+              <span class = "sprite spr_mp payment_lg tooltipTrack" data-targetid = "payment">
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Click here for the accepted means of payment
+               </p>
+              </div>
+              <span class = "sprite spr_mp price_lg tooltipTrack" data-targetid = "price">
+              </span>
+              <div class = "hidden tooltipTrackContent">
+               <p>
+                Click here for the prices of the branch
+               </p>
+              </div>
+             </div>
+             <div class = "infos-right hidden-xs hidden-lg hidden-md">
+              <span class = "sprite spr_mp contact_lg tooltipTrack" data-targetid = "map">
+              </span>
+              <span class = "sprite spr_mp map_lg tooltipTrack" data-targetid = "map">
+              </span>
+              <span class = "sprite spr_mp payment_lg tooltipTrack" data-targetid = "map">
+              </span>
+              <span class = "sprite spr_mp price_lg tooltipTrack" data-targetid = "map">
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "col-xs-12">
+          <form action = "/ de / Branche / ShipToStore" method = "post">
+           <input name = "__ RequestVerificationToken" type = "hidden" value = "V4ObYH6LOpHNBY1yp7ceYS3UETcc7xdOJst69kuz1wRDz6WR2-jqc-sBF-_RjoJfLRtZLsbc9PLSDGDA1rG0C-QRxUgf2" / ">"
+           <input name = "storeKey" type = "hidden" value = "10008" />
+           <button class = "btn btn-primary" type = "submit">
+            <span class = "hidden-lg hidden-md">
+             shopping online
+            </span>
+            <span class = "hidden-sm hidden-xs">
+             Shop online and have it delivered to your store
+            </span>
+           </button>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "col-xs-12 col-sm-4 store-infos">
+      <div class = "row">
+       <div class = "col-xs-12">
+        <div class = "box opening-wrapper clearfix">
+         <h2 class = "thirdHeaderStyle">
+          Opening times and dates
+         </h2>
+         <div class = "col-xs-12">
+          <div class = "iBox">
+           <h3>
+            opening hours
+           </h3>
+           <table>
+            <tr>
+             <td>
+              Monday to Friday:
+             </td>
+             <td>
+              <time datetime = "Mon-Fri 09: 00-18: 00" itemprop = "openingHours">
+               09:00 to 18:00
+              </time>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Saturday:
+             </td>
+             <td>
+              <time datetime = "Sa 09: 00-13: 00" itemprop = "openingHours">
+               09:00 to 13:00
+              </time>
+             </td>
+            </tr>
+           </table>
+           <h3 class = "storeAbwText">
+            From October 5th, 2020 the different special opening times apply!
+           </h3>
+           <h3>
+            Special opening times
+           </h3>
+           <table>
+            <tr>
+             <td>
+              Monday to Friday:
+             </td>
+             <td>
+              8:00 a.m. to 6:30 p.m.
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Saturday:
+             </td>
+             <td>
+              09:00 to 14:00
+             </td>
+            </tr>
+           </table>
+          </div>
+         </div>
+         <div class = "col-xs-12 link-wrapper">
+          <a href="/de/deliverydate/index/">
+           <span>
+            Query the delivery date of an order
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "col-xs-12" style = "margin-top: 20px;">
+     <div class = "box">
+      <h2 class = "thirdHeaderStyle">
+       description
+      </h2>
+      <div class = "store-description clearfix">
+       <div class = "col-xs-12">
+        <div class = "iBox text-left">
+         <div class = "flexslider storeInfo">
+          <ul class = "slides">
+           <li data-thumb = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008/10008.jpg">
+            <img alt = "reifen.com branch in Dresden" src = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008/10008.jpg" title = "Reifenservice reifencom GmbH in Dresden" / >
+           </li>
+           <li data-thumb = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_1/10008_1.jpg">
+            <img alt = "reifen.com branch in Dresden" src = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_1/10008_1.jpg" title = "Reifenservice reifencom GmbH in Dresden" / >
+           </li>
+           <li data-thumb = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_2/10008_2.jpg">
+            <img alt = "reifen.com branch in Dresden" src = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_2/10008_2.jpg" title = "" />
+           </li>
+           <li data-thumb = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_3/10008_3.jpg">
+            <img alt = "Rim Exhibition" src = "// cdn.reifen.com/resize/450x1000/RC-Images/Filialbilder/10008_3/10008_3.jpg" title = "Aluminum and light metal rims" />
+           </li>
+          </ul>
+         </div>
+         <h3>
+          Reifencom GmbH in Dresden
+         </h3>
+         <br/>
+         A motivated and experienced team, which has long been able to retain many customers, awaits you in our reifen.com branch in Dresden. Opened in 2001, we present a sales room with around 144 square meters of space for the presentation of
+         <b>
+          Rims and tires
+         </b>
+         offers. There are also three lifting platforms as well as a system for
+         <b>
+          Wheel alignment
+         </b>
+         , through which we ensure that your journey is always under a good star. Of course, with us you benefit not only from the tire change, but from one
+         <b>
+          excellent advice
+         </b>
+         and the knowledge of our five fitters. After the tire mounting, your winter or summer tires are aligned and balanced.
+         <br/>
+         <br/>
+         <h3>
+          The services of the reifen.com branch in Dresden
+         </h3>
+         <br/>
+         The tire assembly as well as that
+         <b>
+          Changing winter and summer tires
+         </b>
+         are our focus. In addition, we want you to always feel that you are in good hands with us. Our four salespeople will therefore advise you on all questions about tires, rims, hubcaps and care products. Our employees appear friendly and competent, but always have your most important asset in mind: your time. With us, the appointments take place punctually and within a reasonable time frame. In addition to the tire service, you can take advantage of the following offers with us:
+         <br/>
+         <ul>
+          <br/>
+          <li>
+           Tire storage
+          </li>
+          <br/>
+          <li>
+           Wheel hub cleaning
+          </li>
+          <br/>
+          <li>
+           Tire gas
+          </li>
+          <br/>
+          <li>
+           Tire protection
+          </li>
+          <br/>
+          <li>
+           Bike registration.
+          </li>
+          <br/>
+          <li>
+           Tire fitting cars up to max. 24 inches
+          </li>
+          <br/>
+          <li>
+           Tire fitting motorcycle up to max. 21 inches
+          </li>
+          <br/>
+         </ul>
+         <br/>
+         Our storage space for winter and summer tires includes 600 tire sets, so there is enough space to store your tires safely.
+         <br/>
+         <br/>
+         <h3>
+          Your way to reifen.com
+         </h3>
+         <br/>
+         Our branch is located on Overbeckstrasse in Dresden and is therefore very easy to reach. Embedded in the industrial park, in the immediate vicinity of the metro, you can get to us via the A4 motorway and numerous federal highways. Coming from the autobahn, take the Dresden-Neustadt exit onto Kötschenbroder Strasse until you reach Washingtonstrasse. Follow this to the Overbeckstrasse intersection. Coming from the south, leave Bundesstraße 6 and drive directly onto Washingtonstraße, which will take you first across the Elbe and finally to us.
+        </div>
+       </div>
+       <div class = "col-xs-12">
+        <a class="toTop pull-right" href="#">
+         <span>
+          up
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "col-xs-12">
+     <div class = "box col-xs-12">
+      <h2 class = "thirdHeaderStyle">
+       Our services at a glance
+      </h2>
+      <span alt = "wheel alignment" class = "tooltipTrack sprite spr_dienst dienst_de reif_axle measurement" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Wheel alignment
+       </b>
+       <br/>
+       <br/>
+       Axles that are not on track cause higher operating costs and reduce driving safety.
+       <br/>
+       <br/>
+       A faulty axle geometry due to accidents, curbs or potholes results in uneven wear.
+       <br/>
+       <br/>
+       <b>
+        Possible consequences:
+       </b>
+       Loss of control on wet or slippery roads, higher fuel costs, premature tire changes.
+       <br/>
+       <br/>
+       <br/>
+      </div>
+      <span alt = "storage" class = "tooltipTrack sprite spr_dienst dienst_de reif_einlagerung" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Storage
+       </b>
+       <br/>
+       <br/>
+       reifen.com stores your tires and wheels safely, professionally and inexpensively.
+       <br/>
+       <br/>
+       Your summer and winter tires find their well-deserved resting place with optimal conditions for as little as EUR 2.13 per tire per month.
+       <br/>
+       <br/>
+       Correct storage is crucial for the life of your tires.
+       <br/>
+       <br/>
+      </div>
+      <span alt = "Financing" class = "tooltipTrack sprite spr_dienst dienst_de reif_finanzierung" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        financing
+       </b>
+       <br/>
+       <br/>
+       At reifen.com you can pay for new purchases from EUR 99 conveniently and with affordable monthly financing costs.
+       <br/>
+       <br/>
+       Take advantage of the favorable conditions that our financial partner, TargoBank, offers you.
+       <br/>
+       <br/>
+       In this way, you can benefit from our services and products today, but you can take up to five years to pay in clear installments.
+       <br/>
+       <br/>
+      </div>
+      <span alt = "hub cleaning" class = "tooltipTrack sprite spr_dienst dienst_de reif_nabenreinigung" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Wheel hub cleaning
+       </b>
+       <br/>
+       <br/>
+       With every seasonal changeover and wheel assembly, our wheel hub cleaning system ensures clean wheel hubs and flat contact surfaces in minutes.
+       <br/>
+       <br/>
+       Special lubricants also create a
+       <b>
+        permanent seasonal sealing.
+       </b>
+       <br/>
+       <br/>
+       In this way, wheel hubs get through the seasons clean and protected, and wheel changes are easy and damage-free.
+       <br/>
+       <br/>
+      </div>
+      <span alt = "Reifengas" class = "tooltipTrack sprite spr_dienst dienst_de reif_reifengas" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Tire gas
+       </b>
+       <br/>
+       <br/>
+       With tire gas in the tire, you increase safety and reduce the running costs of your vehicle.
+       <br/>
+       <br/>
+       The long-term constant air pressure reduces rolling resistance and lowers fuel consumption.
+       <br/>
+       <br/>
+       Because tire gas stays measurably longer in the tire, it is not only good for the environment, but also for your wallet:
+       <b>
+        The lower fuel consumption means lower CO2 emissions and fuel costs.
+        <br/>
+        <br/>
+       </b>
+      </div>
+      <span alt = "immediately + inexpensive" class = "tooltipTrack sprite spr_dienst dienst_de reif_sofort_preiswert" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        immediately + inexpensive
+       </b>
+       <br/>
+       <br/>
+       reifen.com offers you a huge selection of tires for all seasons.
+       <br/>
+       <br/>
+       Whether premium tires or lesser-known brands, you are guaranteed to receive one
+       <b>
+        Maximum quality at unbeatable rock-bottom prices.
+       </b>
+       <br/>
+       <br/>
+       Due to the lack of brand loyalty and thanks to large stocks, we guarantee the prompt delivery of common makes and professional, fast assembly.
+       <br/>
+       <br/>
+      </div>
+      <span alt = "payment break" class = "tooltipTrack sprite spr_dienst dienst_de reif_zahlpause" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Payment break
+       </b>
+       <br/>
+       <br/>
+       At reifen.com you can buy immediately and pay later.
+       <br/>
+       <br/>
+       In this way you can secure your desired tires, rims or complete wheels today, but only pay after the period you prefer. And on favorable terms, after 30, 60 or 90 days. This service costs you only 1% of the purchase price per month.
+       <br/>
+       <br/>
+      </div>
+      <span alt = "Tire Insurance" class = "tooltipTrack sprite spr_dienst dienst_de reif_reifenschutz" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Tire protection
+       </b>
+       <br/>
+       <p>
+        If the worst comes to the worst, we will deliver and assemble the exact same model free of charge. If you do not live in the immediate vicinity of a branch, the insurance will even cover part of the assembly costs through another workshop that is cheaper for you.
+       </p>
+       <p>
+        And if your model is no longer available from the manufacturer in the meantime, we will procure two comparable quality tires for you, which are mounted on the respective axle, in order to avoid dangerous mixed tires. In view of increasingly poor road conditions, we offer you the highest possible safety with the least possible worry factor.
+       </p>
+       <p>
+        Further information is available in our branches and can be found in our additional guarantee conditions.
+       </p>
+       <p>
+        <b>
+         Please note:
+        </b>
+        This service only applies to private customers, commercial customers are excluded.
+       </p>
+      </div>
+      <span alt = "tire registration" class = "tooltipTrack sprite spr_dienst dienst_de reif_eintragung" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Bike registration on site
+       </b>
+       <br/>
+       <br/>
+       In general, there is the option of having all wheel-tire combinations purchased from us entered directly in our branch after being assessed by an officially recognized examiner. The prices for this are based on the currently valid service price lists of the testing organization used. Please inquire about the price valid for you in your reifen.com branch. You can find out on site which testing organization is active in your branch. Appointments must be coordinated and agreed directly with us in advance! Please understand that we cannot make entries without making an appointment in advance.
+      </div>
+      <span alt = "old tires" class = "tooltipTrack sprite spr_dienst dienst_de reif_altreifen" title = "">
+      </span>
+      <div class = "hidden tooltipTrackContent">
+       <b>
+        Waste tire disposal
+       </b>
+       <br/>
+       <br/>
+       At the end of every tire life, there is dismantling and disposal. So that your old tires are not harmful to the environment, we will take care of an environmentally friendly and legally compliant waste tire disposal for you.
+      </div>
+     </div>
+    </div>
+    <div class = "col-xs-12">
+     <div class = "accordion">
+      <h2 class = "setActiveDienstleistungs" id = "price">
+       Prices for services
+      </h2>
+      <div class = "tabsInside ActiveService">
+       <ul class = "nav nav-tabs" role = "tablist">
+        <li class = "active">
+         <a data-toggle="tab" href="#car" role="tab">
+          <h4>
+           Tire fitting
+          </h4>
+         </a>
+        </li>
+        <li>
+         <a data-toggle="tab" href="#tyrechange" role="tab">
+          <h4>
+           Wheel change
+          </h4>
+         </a>
+        </li>
+        <li class = "">
+         <a data-toggle="tab" href="#moto" role="tab">
+          <h4>
+           motorcycle
+          </h4>
+         </a>
+        </li>
+        <li>
+         <a data-toggle="tab" href="#further" role="tab">
+          <h4>
+           further services
+          </h4>
+         </a>
+        </li>
+       </ul>
+       <div class = "tab-content">
+        <h2 class = "hidden-sm hidden-md hidden-lg hidden-xs accHeader">
+         Tire fitting
+        </h2>
+        <div class = "tab-pane active clearfix" id = "car">
+         <div class = "col-xs-12">
+          <p>
+           All assembly prices are per wheel, including balancing, valve and wheel removal and installation.
+           <br/>
+           Please note: The
+           <b>
+            Assembly with tire pressure control sensors
+           </b>
+           (Sensor installation, programming, learning, function control) there are additional costs.
+           <br/>
+          </p>
+         </div>
+         <div class = "col-sm-6 col-md-5">
+          <p class = "ServiceMontageSubtitle">
+           <b>
+            Tire on steel rim
+           </b>
+          </p>
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Car steel rim up to 13 "
+            </td>
+            <td>
+             € 13.83
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car steel rim 14 "
+            </td>
+            <td>
+             € 14.32
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car steel rim 15 "
+            </td>
+            <td>
+             € 14.86
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car steel rim from 16 "
+            </td>
+            <td>
+             € 16.81
+            </td>
+           </tr>
+          </table>
+          <p class = "ServiceMontageSubtitle">
+           <b>
+            Tires on aluminum rims
+           </b>
+          </p>
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Car aluminum rim up to 15 "
+            </td>
+            <td>
+             € 17.78
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car aluminum rim 16 "and 17"
+            </td>
+            <td>
+             € 19.97
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car aluminum rim from 18 "
+            </td>
+            <td>
+             € 23.39
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Car aluminum rim from 19 "
+            </td>
+            <td>
+             € 26.80
+            </td>
+           </tr>
+          </table>
+          <p class = "ServiceMontageSubtitle">
+           <b>
+            Off-road tires
+           </b>
+          </p>
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Offroad steel rim
+            </td>
+            <td>
+             € 26.99
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Offroad alloy rim
+            </td>
+            <td>
+             € 28.45
+            </td>
+           </tr>
+          </table>
+          <p class = "ServiceMontageSubtitle">
+           <b>
+            RVs and light trucks / vans
+           </b>
+          </p>
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Camper
+            </td>
+            <td>
+             € 26.75
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Motorhome / light truck
+            </td>
+            <td>
+             € 22.61
+            </td>
+           </tr>
+          </table>
+          <p class = "ServiceMontageSubtitle">
+           <b>
+            Run flat tires:
+           </b>
+          </p>
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Surcharge per run-flat tire
+            </td>
+            <td>
+             € 5.36
+            </td>
+           </tr>
+          </table>
+          <p class = "jumptext-xs-01 visible-xs">
+          </p>
+         </div>
+         <p>
+          <p class = "col-xs-12 ServiceMontageSubtitle">
+           <b>
+            Tire pressure monitoring system (TPMS)
+           </b>
+          </p>
+         </p>
+         <div class = "col-sm-6 col-md-5">
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             When fitting tires for:
+             <br/>
+             Sensor installation, programming, learning, function control
+            </td>
+            <td>
+             Price on request
+            </td>
+           </tr>
+          </table>
+         </div>
+         <div class = "col-xs-12 hidden-xs">
+          <p class = "jumptext-sm-md-lg-01">
+           We will be happy to answer questions about our prices and services by phone or on site.
+          </p>
+         </div>
+        </div>
+        <! - TyreChange Services BEGIN ->
+        <h2 class = "hidden-sm hidden-md hidden-lg hidden-xs accHeader">
+         Wheel change
+        </h2>
+        <div class = "tab-pane clearfix" id = "tyrechange">
+         <div class = "col-xs-12">
+          <p>
+           All prices for wheel changes are per wheel.
+           <br/>
+           Please note: With
+           <b>
+            Wheel change with tire pressure control sensors
+           </b>
+           (Learning and functional control of the sensor) there are additional costs. Please inquire about this directly in the branch.
+          </p>
+         </div>
+         <div class = "col-xs-12 col-sm-6 col-md-5">
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td>
+             Wheel change cars up to 15 "
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Wheel change cars from 16 "
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Wheel change light truck
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Wheel change off road - SUV
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Wheel change sports car
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Wheel change mobile home
+            </td>
+            <td>
+             € 8.72
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <! - TyreChange Services END ->
+        <! - Moto Services BEGIN ->
+        <h2 class = "hidden-sm hidden-md hidden-lg hidden-xs accHeader">
+         motorcycle
+        </h2>
+        <div class = "tab-pane clearfix" id = "moto">
+         <div class = "col-xs-12">
+          <p>
+           All prices for wheel changes are per wheel.
+          </p>
+         </div>
+         <div class = "col-xs-12 col-sm-6 col-md-5">
+          <table class = "ServiceMontageTable">
+           <tr>
+            <td colspan = "2">
+             <b>
+              motorcycle
+             </b>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Tire change on the removed wheel
+            </td>
+            <td>
+             <span class = "prePriceSpan">
+              from
+             </span>
+             € 15.59
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Disposal of old motorcycle tires
+            </td>
+            <td>
+             € 3.89
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <! - Moto Services END ->
+        <! - Further Services BEGIN ->
+        <! - TODO: Create the tags in the loops cleanly so that the code analysis does not cause any errors ->
+        <h2 class = "hidden-sm hidden-md hidden-lg hidden-xs accHeader">
+         further services
+        </h2>
+        <div class = "tab-pane clearfix" id = "further">
+         <div class = "col-xs-12 col-sm-6 col-md-12">
+          <p class = "col-xs-12 ServiceMontageSubtitle">
+           <b>
+            Wheel storage
+           </b>
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+           </table>
+          </div>
+          <p class = "col-xs-12">
+           Wheel storage including wheel washing, per set (4 pieces) and
+           <b>
+            per commenced month:
+           </b>
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+            <tr>
+             <td>
+              Car wheels up to 17 "
+             </td>
+             <td>
+              € 9.02
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Car wheels from 18 "
+             </td>
+             <td>
+              € 10.48
+             </td>
+            </tr>
+           </table>
+          </div>
+          <p class = "col-xs-12">
+           Wheel storage including wheel washing,
+           <b>
+            per season
+           </b>
+           and set (4 pieces) in the bike hotel:
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+            <tr>
+             <td>
+              Car wheels up to 17 "
+             </td>
+             <td>
+              € 54.10
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Car wheels from 18 "
+             </td>
+             <td>
+              € 62.87
+             </td>
+            </tr>
+           </table>
+          </div>
+          <p class = "col-xs-12 ServiceMontageSubtitle">
+           <b>
+            Used tire disposal (per tire)
+           </b>
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+            <tr>
+             <td>
+              Tires up to 17 inches
+             </td>
+             <td>
+              € 3.89
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Tires from 18 inches
+             </td>
+             <td>
+              € 3.89
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Disposal of old motorcycle tires
+             </td>
+             <td>
+              € 3.89
+             </td>
+            </tr>
+           </table>
+          </div>
+          <p class = "col-xs-12 ServiceMontageSubtitle">
+           <b>
+            miscellaneous
+           </b>
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+            <tr>
+             <td>
+              Wheel alignment
+             </td>
+             <td>
+              <span class = "prePriceSpan">
+               from
+              </span>
+              € 24.27
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Tire gas
+             </td>
+             <td>
+              € 2.88
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Wheel hub cleaning
+             </td>
+             <td>
+              € 2.88
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Complete bike wash
+             </td>
+             <td>
+              <span class = "prePriceSpan">
+               from
+              </span>
+              € 2.68
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Tire protection up to 17 inches
+             </td>
+             <td>
+              € 2.68
+             </td>
+            </tr>
+            <tr>
+             <td>
+              Tire protection from 18 inches
+             </td>
+             <td>
+              € 3.85
+             </td>
+            </tr>
+           </table>
+          </div>
+          <p class = "col-xs-12 ServiceMontageSubtitle">
+           <b>
+            Tire pressure monitoring system (TPMS)
+           </b>
+          </p>
+          <div class = "clearfix col-xs-12 col-md-7">
+           <table class = "ServiceMontageTable">
+            <tr>
+             <td>
+              When mounting tires for:
+              <br/>
+              Sensor installation, programming, learning, function control
+             </td>
+             <td>
+              Price on request
+             </td>
+            </tr>
+            <tr>
+             <td>
+              When changing tires for:
+              <br/>
+              Teach-in and function control of the sensor
+             </td>
+             <td>
+              Price on request
+             </td>
+            </tr>
+           </table>
+          </div>
+          <p class = "col-xs-12">
+          </p>
+         </div>
+        </div>
+        <! - Further Services END ->
+       </div>
+      </div>
+      <h2 id = "payment">
+       Accepted means of payment
+      </h2>
+      <div class = "paymentAccordion">
+       <div>
+        The goods can be paid for using one of the following accepted payment methods: cash, payment break * or financing. We also offer cashless payment at our terminals with the following card types:
+        <br/>
+        <ul>
+         <br/>
+         <li>
+          Visa
+         </li>
+         <br/>
+         <li>
+          MasterCard
+         </li>
+         <br/>
+         <li>
+          American Express
+         </li>
+         <br/>
+         <li>
+          Diners Club
+         </li>
+         <br/>
+         <li>
+          Discover
+         </li>
+         <br/>
+         <li>
+          Girocard
+         </li>
+         <br/>
+         <li>
+          EC
+         </li>
+         <br/>
+         <li>
+          V-PAY
+         </li>
+         <br/>
+         <li>
+          maestro
+         </li>
+         <br/>
+        </ul>
+        <br/>
+        <br/>
+        <b>
+         We also offer you the option of making contactless payments in the branches.
+        </b>
+        <br/>
+        <br/>
+        In order to be able to make contactless payments, you need a payment card or a smartphone including a SIM card, which are NFC-enabled. NFC-enabled payment cards are marked with a radio wave symbol. You can find out whether your smartphone is NFC-capable in the operating instructions.
+        <br/>
+        <br/>
+        Systems such as
+        <br/>
+        <ul>
+         <br/>
+         <li>
+          Google Pay
+         </li>
+         <br/>
+         <li>
+          G Pay
+         </li>
+         <br/>
+        </ul>
+        <br/>
+        <br/>
+        Please note: We only offer the payment break payment method to private customers residing in the Federal Republic of Germany and up to a total order value of 1,000.00 EUR!
+        <br/>
+        <br/>
+        If you choose the payment break as a payment method, reifencom GmbH calls up the address and creditworthiness data stored in the databases on your person, including those that are determined on the basis of mathematical-statistical procedures (scoring), from the credit agencies mentioned below:
+        <br/>
+        <br/>
+        <b>
+         Address and creditworthiness data (scoring) are requested from:
+        </b>
+        <br/>
+        Creditreform Boniversum GmbH, Hellersbergstr. 11, 41460 Neuss
+        <br/>
+        <br/>
+        <li>
+         Commercial customers and resellers can buy on account after a successful credit check.
+        </li>
+        <br/>
+        <br/>
+        * Please note: If you choose the payment break payment method, additional costs arise. These additional costs are calculated as follows:
+        <br/>
+        <br/>
+        Payment target 7 days = no financing surcharge
+        <br/>
+        Payment target 30 days = 1% financing surcharge
+        <br/>
+        Payment target 60 days = 2% financing surcharge
+        <br/>
+        Payment target 90 days = 3% financing surcharge
+       </div>
+      </div>
+      <h2 id = "map">
+       map
+      </h2>
+      <div class = "checkout map-wrapper">
+       <div class = "gmap fullwidth" data-destination = "51.0736503601074,13.6878910064697" data-zoom = "10" id = "map_canvas_2">
+       </div>
+       <div class = "routeService clearfix">
+        <a class = "link redArrow calcRoute pull-left" href = "// maps.google.de/maps?daddr=Overbeckstraße 41,01139 + Dresden & amp; z = 20 & amp; hl = de & amp; ie = UTF85" target = "_ blank ">
+         Plan route
+        </a>
+        <a class="toTop pull-right" href="#">
+         <span>
+          up
+         </span>
+        </a>
+       </div>
+      </div>
+      <h2 id = "contact">
+       contact form
+      </h2>
+      <div class = "checkout contact">
+       <div class = "col-md-12 col-sm-12 col-xs-12">
+        <form action = "/ de / filialen / reifencom-gmbh-dresden-mickten-overbeckstr /" method = "post">
+         <input name = "__ RequestVerificationToken" type = "hidden" value = "4VAqIijbEEKXdBLfk7bxk8q2F7cRaACP-mwwQQfl9uhnfVBq4vkkqz_Jqek2T70XsFXIWqByumW7a2IavLP2qByumW7a2IavAzzyBeTz-jgNA2P2Q3HTDeqVhTd >qVhT3 >qVhTDeqTd3HTDQ3HT3HTDQVhT3HTDQTQTDQT3HT3HTDQVHT3HTDQJVHTDQ
+         <input id = "Contact_ReceiverMail" name = "Contact.ReceiverMail" type = "hidden" value = "dresden@reifen.com" />
+         <div class = "formBg">
+          <div class = "row">
+           <div class = "col-md-6 col-sm-6 col-xs-12">
+            <div class = "row">
+             <div class = "col-md-12 col-sm-12 col-xs-12">
+              <label for = "Contact_Subject">
+               Subject*
+              </label>
+              <select id = "Contact_Subject" name = "Contact.Subject">
+               <option value = "Please select the subject">
+                Please select the subject
+               </option>
+               <option value = "question about a service">
+                Question about a service
+               </option>
+               <option value = "Question about an order">
+                Question about an order
+               </option>
+               <option value = "Question about a product">
+                Question about a product
+               </option>
+               <option value = "Complaint">
+                claim
+               </option>
+               <option value = "Problems on reifen.com">
+                Problems on reifen.com
+               </option>
+               <option value = "Other">
+                miscellaneous
+               </option>
+              </select>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-12 col-sm-12 col-xs-12">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class = "row sex_row radioBtnsWrapper">
+           <div class = "col-md-6 col-sm-6 col-xs-12">
+            <div class = "col-md-12 col-sm-12 col-xs-12 labelSex">
+             <label>
+              Salutation *
+             </label>
+            </div>
+            <div class = "col-md-4 col-sm-4 col-xs-4 radioBtns">
+             <input id = "TitleCode01" name = "Contact.TitleCode" type = "radio" value = "01" />
+             <label for = "TitleCode01">
+              Mr
+             </label>
+            </div>
+            <div class = "col-md-4 col-sm-4 col-xs-4 radioBtns">
+             <input id = "TitleCode02" name = "Contact.TitleCode" type = "radio" value = "02" />
+             <label for = "TitleCode02">
+              Mrs
+             </label>
+            </div>
+            <div class = "col-md-4 col-sm-4 col-xs-4 radioBtns">
+             <input id = "TitleCode03" name = "Contact.TitleCode" type = "radio" value = "03" />
+             <label for = "TitleCode03">
+              company
+             </label>
+            </div>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-12 col-sm-12 col-xs-12">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-6 col-sm-6 col-xs-6">
+            <label for = "Contact_FirstName">
+             First name*
+            </label>
+            <input id = "Contact_FirstName" name = "Contact.FirstName" type = "text" value = "" />
+           </div>
+           <div class = "col-md-6 col-sm-6 col-xs-6">
+            <label for = "Contact_LastName">
+             Surname*
+            </label>
+            <input id = "Contact_LastName" name = "Contact.LastName" type = "text" value = "" />
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-6 col-sm-6 col-xs-6">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+           <div class = "col-md-6 col-sm-6 col-xs-6">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-6 col-sm-6 col-xs-6">
+            <label for = "Contact_Email">
+             E-mail address*
+            </label>
+            <input id = "Contact_Email" name = "Contact.Email" type = "text" value = "" />
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-12 col-sm-12 col-xs-12">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-12 col-sm-12 col-xs-12">
+            <label for = "Contact_Body">
+             Message*
+            </label>
+            <textarea cols = "20" id = "Contact_Body" name = "Contact.Body" rows = "2">
+</textarea>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-12 col-sm-12 col-xs-12">
+            <span class = "errorText">
+             <span class = "field-validation-error">
+             </span>
+            </span>
+           </div>
+          </div>
+         </div>
+         <div class = "row">
+          <div class = "col-sm-6">
+           <div class = "g-recaptcha" id = "recaptcha">
+           </div>
+          </div>
+          <div class = "col-sm-6">
+           <button class = "btn thin btn-primary pull-right" id = "SubmitContact" name = "Contact.SubmitContact" type = "submit" value = "Submit">
+            Send
+           </button>
+          </div>
+         </div>
+         <div class = "row">
+          <div class = "col-sm-6">
+           <span class = "errorText">
+            <span class = "field-validation-error">
+            </span>
+           </span>
+          </div>
+          <div class = "col-sm-6">
+          </div>
+         </div>
+        </form>
+       </div>
+      </div>
+      <h2 id = "allstores">
+       All branches
+      </h2>
+      <div class = "checkout store-list">
+       <div class = "row box-same-height">
+        <div class = "col-xs-12">
+         <ul class = "store-list-item store-list-1">
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-aachen-brand-nordstr/" title="Aachen">
+            <span>
+             Aachen
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-berlin-marzahn-meeraner-str/" title="Berlin Marzahn">
+            <span>
+             Berlin Marzahn
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-berlin-spandau-brunsbuetteler-damm/" title="Berlin Spandau">
+            <span>
+             Berlin Spandau
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-berlin-weissensee-gehringstr/" title="Berlin Weißensee">
+            <span>
+             Berlin Weissensee
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-bielefeld-eckendorfer-str/" title="Bielefeld">
+            <span>
+             Bielefeld
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-bonn-beuel-koenigswinterer-str/" title="Bonn">
+            <span>
+             Bonn
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-braunschweig-hansestrasse/" title="Braunschweig">
+            <span>
+             Braunschweig
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-bremen-stuhr-werner-von-siemens-str/" title="Bremen Stuhr">
+            <span>
+             Bremen Stuhr
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-castrop-rauxel-behringhausen-herner-str/" title="Castrop-Rauxel">
+            <span>
+             Castrop-Rauxel
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-celle-altencelle-hans-heinrich-warnke-str/" title="Celle">
+            <span>
+             Celle
+            </span>
+           </a>
+          </li>
+         </ul>
+         <ul class = "store-list-item store-list-2">
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-dortmund-dorstfeld-martener-hellweg/" title="Dortmund">
+            <span>
+             Dortmund
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="active" href="/de/filialen/reifencom-gmbh-dresden-mickten-overbeckstr/" title="Dresden">
+            <span>
+             Dresden
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-duisburg-alt-hamborn-helene-kropp-str/" title="Duisburg">
+            <span>
+             Duisburg
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-duesseldorf-reisholz-nuernberger-str/" title="Düsseldorf">
+            <span>
+             Dusseldorf
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-essen-altenessen-nord-gladbecker-str/" title="Essen">
+            <span>
+             eat
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-frankfurt-bockenheim-am-roemerhof/" title="Frankfurt a.M. Bockenheim">
+            <span>
+             Frankfurt a.M. Bockenheim
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-frankfurt-fechenheim-hanauer-landstr/" title="Frankfurt a.M. Fechenheim">
+            <span>
+             Frankfurt a.M. Fechenheim
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-hamburg-bramfeld-bramfelder-chaussee/" title="Hamburg Bramfeld">
+            <span>
+             Hamburg Bramfeld
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-hamburg-wandsbek-friedrich-ebert-damm/" title="Hamburg Wandsbek">
+            <span>
+             Hamburg Wandsbek
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-hameln-gertrudenstr/" title="Hameln">
+            <span>
+             Hamelin
+            </span>
+           </a>
+          </li>
+         </ul>
+         <ul class = "store-list-item store-list-3">
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-hannover-bornum-bornumer-str/" title="Hannover Bornum">
+            <span>
+             Hanover Bornum
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-hannover-vahrenheide-vahrenwalder-str/" title="Hannover Vahrenheide">
+            <span>
+             Hanover Vahrenheide
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-kassel- Bettenhausen-goettinger-str/" title="Kassel">
+            <span>
+             kassel
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-koeln-hahnwald-emil-hoffmann-str/" title="Köln Hahnwald">
+            <span>
+             Cologne Hahnwald
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-koeln-ossendorf-mathias-brueggen-str/" title="Köln Ossendorf">
+            <span>
+             Cologne Ossendorf
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-schkeuditz-doelzig-doebichauer-str/" title="Leipzig Schkeuditz">
+            <span>
+             Leipzig Schkeuditz
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-mainz-neustadt-rheinallee/" title="Mainz">
+            <span>
+             Mainz
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-muelheim-saarn-mintard-duesseldorfer-str/" title="Mülheim">
+            <span>
+             Mülheim
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-muenchen-aubing-bodenseestr/" title="München Aubing">
+            <span>
+             Munich Aubing
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-muenchen-milbertshofen-am-hart-ingolstaedter-str/" title="München Milbertshofen-Am Hart">
+            <span>
+             Munich Milbertshofen-Am Hart
+            </span>
+           </a>
+          </li>
+         </ul>
+         <ul class = "store-list-item store-list-4">
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-muenster-gremmendorf-eulerstr/" title="Münster">
+            <span>
+             Muenster
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-nuernberg-hoefen-sigmundstr/" title="Nürnberg Höfen">
+            <span>
+             Nuremberg courtyards
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-nuernberg-langwasser-zollhausstr/" title="Nürnberg Langwasser">
+            <span>
+             Nuremberg Langwasser
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-osnabrueck-kalkhuegel-eduard-pestel-str/" title="Osnabrück">
+            <span>
+             Osnabrück
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-paderborn-steubenstr/" title="Paderborn">
+            <span>
+             Paderborn
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-verl-guetersloher-str/" title="Verl">
+            <span>
+             Loss
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/de/filialen/reifencom-gmbh-wuppertal-elberfeld-am-kiesberg/" title="Wuppertal">
+            <span>
+             Wuppertal
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "row serviceBottomContainer">
+    <! - // string urladdition = String.Format ("{0}? GeoLocationJSLat = {1} & GeoLocationJSLng = {2} & Zip = {3}", Model.Zip, Model.GeoLocationJSLat, Model.GeoLocationJSLng, Model.Zip );
+          // TODO: make it more beautiful, with "history.back ()" you could get confused
+          // = Html.Language () / Branche / GetStoresAndInstallationpartnersNearestToYou / 0 / = urladdition "->
+    <a class="col-xs-5" href="javascript:window.history.back()">
+     " Back
+    </a>
+    <a class="col-xs-7 printSite" href="#">
+     Print Page
+    </a>
+   </div>
+  </div>
+  <div class = "container">
+   <div class = "row">
+    <div class = "col-sm-12 margin-bottom-10 clearfix">
+     <div class = "row wrapperLegend">
+     </div>
+    </div>
+   </div>
+   <div class = "hidden legendItems">
+    <div class = "legendLieferstatus1 hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      1) In stock
+     </div>
+    </div>
+    <div class = "legendLieferstatus2 hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      2) Available
+     </div>
+    </div>
+    <div class = "legendLieferstatus3 hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      3) Delivery request
+     </div>
+    </div>
+    <div class = "legendLieferstatus4 hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      4) An article that is marked with "Individual production" will be specially made for you. Due to this individual production after your order, the delivery time is a little longer, it is approx. 2 weeks.
+     </div>
+    </div>
+    <div class = "legendGarantiePlus hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      Guarantee PLUS
+     </div>
+    </div>
+    <div class = "legendAngebotDerWoche hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      offer of the week
+     </div>
+    </div>
+    <div class = "legend recommendation hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      our recommendation
+     </div>
+    </div>
+    <div class = "legendAktion hidden-lg col-xs-6 col-sm-3">
+     <img alt = "" class = "hidden-xs col-md-4" />
+     <div class = "col-xs-12 col-md-8">
+      action
+     </div>
+    </div>
+   </div>
+   <! - RC-325 ->
+   <span id = "Error">
+   </span>
+   <div class = "col col-12 wrapperInfoText">
+    <p>
+     All prices include the applicable VAT plus any applicable VAT
+     <a href="/de/faq/freightcost">
+      Shipping
+     </a>
+     .
+     <br/>
+     <br/>
+     The tires shown are supplied without rims, and the tread pattern may vary depending on the tire width.
+     <br/>
+    </p>
+   </div>
+  </div>
+  <div class = "container hidden-print">
+   <div class = "row">
+    <div class = "col-sm-12 wrapperManufacturers margin-bottom-10 clearfix">
+     <a href="https://www.reifen.com/shop/continental-36.do">
+      <img alt = "Continental tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/101.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/dunlop_reifen.do">
+      <img alt = "Dunlop tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/102.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/goodyear_reifen.do">
+      <img alt = "Goodyear Tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/105.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/pirelli_reifen.do">
+      <img alt = "Pirelli tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/109.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/bridgestone-36.do">
+      <img alt = "Bridgestone tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/127.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/michelin-reifen.do">
+      <img alt = "MICHELIN tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/107.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/vredestein_reifen.do">
+      <img alt = "Vredestein tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/110.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/uniroyal-reifen.do">
+      <img alt = "Uniroyal tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/103.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/hankook-reifen.do">
+      <img alt = "Hankook tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/151.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/nexen-reifen.do">
+      <img alt = "Nexen tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/117.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/kumho-reifen.do">
+      <img alt = "Kumho tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/128.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/barum-reifen.do">
+      <img alt = "Barum tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/134.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/fulda-reifen.do">
+      <img alt = "Fulda Tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/104.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/nokian-reifen.do">
+      <img alt = "Nokian tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/122.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/apollo-reifen.do">
+      <img alt = "Apollo tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/13B.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/toyo-reifen.do">
+      <img alt = "Toyo tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/136.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/yokohama-reifen.do">
+      <img alt = "Yokohama tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/137.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/maxxis-reifen.do">
+      <img alt = "Maxxis tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/18R.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/blacklion-reifen.do">
+      <img alt = "Blacklion tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/13F.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/austone-reifen.do">
+      <img alt = "Austone tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/17I.png" src = "" />
+     </a>
+     <a href="https://www.reifen.com/shop/imperial-reifen.do">
+      <img alt = "Imperial Tires" class = "unveil-noajax" data-src = "// media.reifen.com/fileadmin/files/RC-Herstellerlogos/14U.png" src = "" />
+     </a>
+     <br/>
+    </div>
+   </div>
+  </div>
+  <footer class = "hidden-print" id = "footer">
+   <div class = "container">
+    <div class = "row wrapperFooterRow1">
+     <div class="col-md-2 col-sm-4 col-xs-6">
+      <h2>
+       Help & amp; service
+      </h2>
+      <ul>
+       <li>
+        <a href="/de/faq/freightcost">
+         Shipping
+        </a>
+       </li>
+       <li>
+        <a href="/de/faq/agb#payment">
+         Akzeptierte Zahlungsmittel
+        </a>
+       </li>
+       <li>
+        <a href="/de/faq/agb#availability">
+         Lieferbeschränkungen
+        </a>
+       </li>
+       <li>
+        <a href="/de/service/altoelentsorgung">
+         Hinweis zur Altölentsorgung
+        </a>
+       </li>
+       <li>
+        <a class="fancyboxREL fancybox.ajax" data-fancybox-width="700" href="/de/cartunsecured/financingCalculator">
+         Finanzierungsrechner
+        </a>
+       </li>
+       <li>
+        <a href="/de/TyreTest/TestSiegelAllProfiles/CarWinter/205-55-R16">
+         Test winner
+        </a>
+       </li>
+       <li>
+        <a href="/de/faq/abc">
+         Reifen / Felgen ABC
+        </a>
+       </li>
+       <li>
+        <a href="/de/faq/index">
+         FAQ
+        </a>
+       </li>
+       <li>
+        <a href="/de/contact">
+         Contact
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="col-md-2 col-sm-4 col-xs-6">
+      <h2>
+       Über reifen.com
+      </h2>
+      <ul>
+       <li>
+        <a href="https://montagepartner.reifen.com/" target="_blank">
+         Montagepartnerportal
+        </a>
+       </li>
+       <li>
+        <a href="https://www.b2b-reifen.com" target="_blank">
+         www.b2b-reifen.com
+        </a>
+       </li>
+       <li>
+        <a href="/de/newsletter/index">
+         Newsletter
+        </a>
+       </li>
+       <li>
+        <a href="https://about.reifen.com/unternehmen/" target="_blank">
+         about us
+        </a>
+       </li>
+       <li>
+        <a href="https://about.reifen.com/presse/" target="_blank">
+         Press
+        </a>
+       </li>
+       <li>
+        <a href="https://about.reifen.com/karriere/stellenborse/" target="_blank">
+         Jobs
+        </a>
+       </li>
+       <li>
+        <a href="/gewinnspiel">
+         Contest
+        </a>
+       </li>
+       <li>
+        <a href="/de/service/flottenkunde">
+         Flottenkunde
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="col-md-2 col-sm-4 col-xs-6">
+      <h2>
+       Legal
+      </h2>
+      <ul>
+       <li>
+        <a href="/de/faq/agb">
+         Conditions
+        </a>
+       </li>
+       <li>
+        <a href="/de/home/impressum">
+         imprint
+        </a>
+       </li>
+       <li>
+        <a href="/de/faq/privacy">
+         data protection
+        </a>
+       </li>
+       <li>
+        <a href="/de/Service/cookies">
+         Cookies
+        </a>
+       </li>
+       <li>
+        <a href="/de/products/oevv">
+         Öffentliches Verfahrensverzeichnis
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="col-md-2 col-sm-4 col-xs-6 noArrows">
+      <h2>
+       Customer ratings
+      </h2>
+      <ul>
+       <li style="border-bottom: 0;">
+        <script src="https://apps.shopauskunft.de/seal/cc3cb34aba0d3ae39dd2b87eff4017d4.js" style="padding: 0px" type="text/javascript">
+        </script>
+       </li>
+       <li>
+        <!-- TrustBox script -->
+        <script async="" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" type="text/javascript">
+        </script>
+        <!-- End TrustBox script -->
+        <!-- TrustBox widget - Mini -->
+        <div class="trustpilot-widget" data-businessunit-id="46da9a160000640005010a8c" data-locale="de-DE" data-style-height="150px" data-style-width="100%" data-template-id="53aa8807dec7e10d38f59f32" data-theme="light">
+         <a href="https://de.trustpilot.com/review/www.reifen.com" rel="noopener" target="_blank">
+          Trustpilot
+         </a>
+        </div>
+        <! - End TrustBox widget ->
+       </li>
+      </ul>
+     </div>
+     <div class="col-md-2 col-sm-4 col-xs-6 noArrows noLines hidden-xs">
+      <h2>
+       Shop safely
+      </h2>
+      <ul>
+       <li class="tuev small">
+        <a href="http://www.safer-shopping.de/zertifikat/reifen-com.html" target="_blank">
+         <img alt="" class="tooltipTrack" src="//images.reifen.com/relaunch/tuev_logo.png" title=""/>
+         <div class = "hidden tooltipTrackContent">
+          With tested quality, security and transparency, www.reifen.com is highly trustworthy.
+         </div>
+        </a>
+       </li>
+       <li class="tuev large">
+        <a href="https://media.reifen.com/fileadmin/files/RC-PDFs/TUEV_SUED_Zertifikat_2020.pdf" target="_blank">
+         <img alt="" class="tooltipTrack" src="//images.reifen.com/relaunch/tuev_logo_open.png" title=""/>
+         <div class = "hidden tooltipTrackContent">
+          The customer satisfaction at reifencom has been checked by TÜV SÜD and awarded the grade 1.7 (05/2020).
+         </div>
+        </a>
+       </li>
+       <li class="verisign">
+        <img alt="SSL" class="unveil-noajax" data-src="https://media.reifen.com/fileadmin/files/RC-Images/Zertifikate/sectigo_trust_seal_sm_2x.png"/>
+       </li>
+      </ul>
+     </div>
+     <div class="col-md-2 col-sm-4 col-xs-6 d-none d-sm-block noArrows noLines hidden-xs">
+      <h2>
+       Awards
+      </h2>
+      <ul>
+       <li>
+        <a href="/de/News/TOP-Shop_2020">
+         <img alt="reifen com Top Shop 2020" class="img-responsive unveil-noajax" data-src="//media.reifen.com/fileadmin/files/RC-Bannerwerbung/Zertifikate/topshop_2020_66x90.png" style="width:70; padding: 0 1.0em 0 0.2em; float:left;"/>
+        </a>
+        <a href="/de/News/Auszeichnungen-2020">
+         <img alt="Service Champion 2020" class="img-responsive unveil-noajax" data-src="//media.reifen.com/fileadmin/files/RC-Bannerwerbung/Zertifikate/servicechampion2020_100x116.png" style="width:80px; margin-top: -16px;"/>
+        </a>
+       </li>
+       <li>
+        <a href="/de/News/Auszeichnungen-2020">
+         <img alt="ntv 2019 Siegel" class="img-responsive unveil-noajax" data-src="//media.reifen.com/fileadmin/files/RC-Bannerwerbung/Zertifikate/ntv-Header-90x90.png" style="width:90px; margin-top: 1px; padding-right: 1.0em; float:left;"/>
+        </a>
+        <a href="//media.reifen.com/fileadmin/files/RC-Images/Continental/Approved_Website_recommended_Onlineshop_D.pdf" target="_blank">
+         <img class="unveil-noajax" data-src="//media.reifen.com/fileadmin/files/RC-Bannerwerbung/Zertifikate/continental-approved-website-100.png" style="width:80px;"/>
+        </a>
+       </li>
+      </ul>
+      <br/>
+      <br/>
+      <br/>
+     </div>
+    </div>
+    <div class="row test1 wrapperFooterRow2">
+     <div class="col-sm-6 col-xs-12">
+      © 2020 reifencom GmbH
+      <div class="containerSocial">
+       <a href="//de-de.facebook.com/reifencom" target="_blank">
+        <img alt="Facebook" class="unveil-noajax" data-src="//images.reifen.com/relaunch/socialmedia/facebook.png"/>
+       </a>
+       <a href="//twitter.com/reifen_com" target="_blank">
+        <img alt="twitter" class="unveil-noajax" data-src="//images.reifen.com/relaunch/socialmedia/twitter.png"/>
+       </a>
+       <a href="//www.instagram.com/reifencom" target="_blank">
+        <img alt="Instagram" class="unveil-noajax" data-src="//images.reifen.com/relaunch/socialmedia/instagram.png"/>
+       </a>
+       <a href="//www.youtube.com/user/reifendotcom" target="_blank">
+        <img alt="Youtube" class="unveil-noajax" data-src="//images.reifen.com/relaunch/socialmedia/youtube.png"/>
+       </a>
+      </div>
+     </div>
+     <div class="col-sm-6 col-xs-12 containerFlags">
+      <span>
+       International
+      </span>
+      <a href="https://www.reifenshop.at" title="www.reifenshop.at">
+       <div class="sprite spr_flag austria" title="www.reifenshop.at">
+       </div>
+      </a>
+      <a href="https://www.pneuexperte.ch" title="www.pneuexperte.ch">
+       <div class="sprite spr_flag swiss" title="www.pneuexperte.ch">
+       </div>
+      </a>
+      <a href="https://www.daekekspert.dk" title="www.daekekspert.dk">
+       <div class="sprite spr_flag dnk" title="www.daekekspert.dk">
+       </div>
+      </a>
+      <a href="https://www.bonspneus.fr" title="www.bonspneus.fr">
+       <div class="sprite spr_flag france" title="www.bonspneus.fr">
+       </div>
+      </a>
+      <a href="https://www.123gomme.it" title="www.123gomme.it">
+       <div class="sprite spr_flag italia" title="www.123gomme.it">
+       </div>
+      </a>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <div class="alert-message globalmessage" data-tlserror="TLS Support Warnung" id="flash-messages">
+   <div class = "container">
+    <a class="close" href="#" id="closeglobalmessage">
+     x
+    </a>
+    <div class="flash-content">
+    </div>
+   </div>
+  </div>
+  <div class="gapi hidden" data-gkey="AIzaSyAvz-5c678kKf7TWLvn69-OKk8nDAwLbVE">
+  </div>
+  <script src="/js/jquery-3.4.1.js?rev=1213024845">
+  </script>
+  <script src="/js/jquery-migrate-3.0.1.js?rev=1213024845">
+  </script>
+  <script src="/js/functions.pack.js?rev=1213024845">
+  </script>
+  <script src="/js/plugins/eocjs-newsticker.js?rev=1213024845">
+  </script>
+  <script>
+   $(document).ready(function () {
+                $("#news-ticker").eocjsNewsticker({
+                    // options here
+                });
+            });
+  </script>
+  <script src="/js/tracking.js?rev=1213024845">
+  </script>
+  <script>
+   jQuery( document ).ready(function() {
+                var config = {
+                    enabled: true,
+                    debug: false,
+                    modules: {"tracker":[{"name":"GoogleTagManager","version":"1.0.0.0","alias":"GTM","pageviewdata":[{"name":"*","pagetype":"other","status":200,"language":"de","topleveldomain":"com"}],"cartdata":[],"orderdata":[],"eventdata":[],"impressiondata":[]},{"name":"ArvatoProfile","version":"1.0.0.0","alias":"APT","pageviewdata":[],"cartdata":[],"orderdata":[],"eventdata":[],"impressiondata":[]}]}
+                    };
+                $RC.modules.run(config);
+            });
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1351 @@
+<! DOCTYPE html>
+<html class = "no-js" lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1, shrink-to-fit = no" name = "viewport" />
+  <meta content = "ie = edge" http-equiv = "x-ua-compatible" />
+  <meta content = "Welcome to the Kalkreiber car body and paint shop in Dresden. As a member of the Association of Car Body Specialists, we guarantee you careful repairs at fair prices." name = "description" />
+  <meta content = "Paint shop, body shop, Dresden, Kalkreiber GmbH, job offers, repairs, car accident repair, training company" name = "keywords" />
+  <meta content = "Mura CMS 7.0 - developed by INNOMEGA AB https://www.innomega.se/de/ Project info see https://www.zkfonline.de" name = "generator" />
+  <meta content = "G2" name = "serverinfo" />
+  <title>
+   Bodywork and paint shop Kalkreiber in Dresden - Karosserie Kalkreiber GmbH
+  </title>
+  <! - Mura CMS Base Styles ->
+  <link href = "/ zkfon01169kalkreiber / css / mura.7.0.min.css? v = 7094" media = "none" onload = "if (media! = 'all') media = 'all'" rel = "stylesheet" />
+  <noscript>
+   <link href = "/ zkfon01169kalkreiber / css / mura.7.0.min.css? v = 7094" rel = "stylesheet" />
+  </noscript>
+  <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / css / foundation.css" rel = "stylesheet" />
+  <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / css / app.css" rel = "stylesheet" />
+  <! - headspace.css (used for navbar auto- (dis) appear) is included in app.css! ->
+  <! - MapBox CSS - now in app.css ->
+  <! - ==== ICON FONTS - uncomment as required ==== ->
+  <! - Font Awesome ->
+  <link href = "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel = "stylesheet" />
+  <! - ======= jQuery ======= ->
+  <! - Mura CMS Front-Editing requires JS in the head section, so it is loaded here even though Page Speed ​​Insights will complain ->
+  <script src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / js / vendor / jquery.js">
+  </script>
+  <! - ======== MICRODATA ======== ->
+  <meta content = "http://www.karosserie-kalkreiber.de" itemprop = "url" />
+  <meta content = "Germany" itemprop = "addressCountry" />
+  <meta content = "01169" itemprop = "postalCode" />
+  <meta content = "Dresden" itemprop = "addressLocality" />
+  <meta content = "Kesselsdorfer Straße 248" itemprop = "streetAddress" />
+  <meta content = "Saxony" itemprop = "addressRegion" />
+  <meta content = "Invoice, Invoice, Cash" itemprop = "paymentAccepted">
+   <meta content = "EUR" itemprop = "currenciesAccepted">
+    <meta content = "Dresden" itemprop = "foundingLocation">
+     <meta content = "13.651978" itemprop = "longitude">
+      <meta content = "51.039876" itemprop = "latitude">
+       <! - ======== OpenGraph tags - see ogp.me ======== ->
+       <meta content = "Body Kalkreiber" property = "og: site_name">
+        <meta content = "" property = "og: image">
+         <meta content = "website" property = "og: type">
+          <meta content = "Karosserie Kalkreiber GmbH" property = "og: title">
+           <meta content = "Welcome to the Kalkreiber car body and paint shop in Dresden. As a member of the Association of Car Body Specialists, we guarantee you careful repairs at fair prices." property = "og: description">
+            <meta content = "http://www.karosserie-kalkreiber.de" property = "og: url">
+             <meta content = "de_DE" property = "og: locale: locale">
+              <! - ======== SITE VERIFICATIONS ======== ->
+              <! - Google ->
+              <! - use demo2.zkfonline.de Verification ID ->
+              <meta content = "9a4bb7VJcOqNUU3rOfX6csov1Ov6bxAzKVbsxi8glm4" name = "google-site-verification">
+               <! - Bing / Microsoft ->
+               <meta content = "" name = "msvalidate.01" />
+               <! - ======== schema.org ======== ->
+               <script type = "application / ld + json">
+                {"@context": "http://schema.org", "@type": "LocalBusiness", "name": "Karosserie Kalkreiber GmbH"
+, "image": ""
+, "telephone": "++ 4903514115335"
+, "email": "info@karosserie-kalkreiber.de"
+, "address": {"@type": "PostalAddress"
+, "streetAddress": "Kesselsdorfer Straße 248"
+, "addressLocality": "Dresden"
+, "addressRegion": "Saxony"
+, "addressCountry": "Germany"
+, "postalCode": "01169"}
+, "openingHoursSpecification": [
+{
+"@type": "OpeningHoursSpecification",
+"closes": "18:00",
+"dayOfWeek": "http://purl.org/goodrelations/v1#Monday",
+"opens": "07:00"
+},
+{
+"@type": "OpeningHoursSpecification",
+"closes": "18:00",
+"dayOfWeek": "http://purl.org/goodrelations/v1#Tuesday",
+"opens": "07:00"
+},
+{
+"@type": "OpeningHoursSpecification",
+"closes": "18:00",
+"dayOfWeek": "http://purl.org/goodrelations/v1#Wednesday",
+"opens": "07:00"
+},
+{
+"@type": "OpeningHoursSpecification",
+"closes": "18:00",
+"dayOfWeek": "http://purl.org/goodrelations/v1#Thursday",
+"opens": "07:00"
+},
+{
+"@type": "OpeningHoursSpecification",
+"closes": "17:00",
+"dayOfWeek": "http://purl.org/goodrelations/v1#Friday",
+"opens": "07:00"
+}
+],
+"url": "http://www.karosserie-kalkreiber.de"}
+               </script>
+               <! - ======== MURA FEEDS ======== ->
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-57x57.png" rel = "apple-touch-icon" sizes = "57x57" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-60x60.png" rel = "apple-touch-icon" sizes = "60x60" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-72x72.png" rel = "apple-touch-icon" sizes = "72x72" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-76x76.png" rel = "apple-touch-icon" sizes = "76x76" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-114x114.png" rel = "apple-touch-icon" sizes = "114x114" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-120x120.png" rel = "apple-touch-icon" sizes = "120x120" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-144x144.png" rel = "apple-touch-icon" sizes = "144x144" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-152x152.png" rel = "apple-touch-icon" sizes = "152x152" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / apple-icon-180x180.png" rel = "apple-touch-icon" sizes = "180x180" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / android-icon-192x192.png" rel = "icon" sizes = "192x192" type = "image / png" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / favicon-32x32.png" rel = "icon" sizes = "32x32" type = "image / png" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / favicon-96x96.png" rel = "icon" sizes = "96x96" type = "image / png" />
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / favicon-16x16.png" rel = "icon" sizes = "16x16" type = "image / png" />
+               <meta content = "# ffffff" name = "msapplication-TileColor" />
+               <meta content = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / ico / ms-icon-144x144.png" name = "msapplication-TileImage" />
+               <meta content = "# ffffff" name = "theme-color" />
+               <! - Cookie Consent ->
+               <link href = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / js / vendor / cookieconsent / cookieconsent.min.css" rel = "stylesheet" type = "text / css">
+                <script src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / js / vendor / cookieconsent / cookieconsent.min.js">
+                </script>
+                <script>
+                 window.addEventListener ("load", function () {
+window.cookieconsent.initialize ({
+"palette": {
+"popup": {
+"background": "# edeff5",
+"text": "# 838391"
+},
+"button": {
+"background": "# 4b81e8"
+}
+},
+"content": {
+"message": "We use cookies on our website to offer you more user-friendliness.",
+"dismiss": "OK",
+"link": "Continue reading",
+"href": "/ data protection /"
+}
+})});
+                </script>
+                <! - Global Site Tag (gtag.js) - Google Analytics ->
+                <script src = "/ zkfon01169kalkreiber / js / dist / mura.min.js? v = 7094" type = "text / javascript">
+                </script>
+                <script>
+                 Mura.init ({
+loginURL: "? display = login",
+siteid: "zkfon01169kalkreiber",
+contentid: "00000000000000000000000000000000001",
+contenthistid: "1B8C621C-3573-4498-B807136AF4C6D881",
+parentid: "00000000000000000000000000000000END",
+context: "",
+nocache: 0,
+assetpath: "/ zkfon01169kalkreiber",
+requirementspath: "/ requirements",
+themepath: "/ zkfon01169kalkreiber / includes / themes / Foundation6",
+rb: "de",
+reCAPTCHALanguage: "de",
+preloaderMarkup: "\ x3Ci \ x20class \ x3D \ x22mura \ x2Dpreloader \ x20fa \ x20fa \ x2Drefresh \ x20fa \ x2Dspin \ x22 \ x3E \ x3C \ x2Fi \ x3E",
+mobileformat: false,
+windowdocumentdomain: "",
+layout manager: true,
+type: "Page",
+subtype: "Home",
+queueObjects: true,
+dtExample: "10.11.2018",
+dtCh: ".",
+dtFormat: [1,0,2],
+dtLocale: "de-DE"
+});
+                </script>
+                <script>
+                 if (typeof $! = 'undefined') {
+$ (function () {
+Mura.loader ()
+.loadcss ("/ requirements / prettify / themes / tomorrow-night.min.css")
+.loadjs ("/ requirements / prettify / prettify.min.js",
+function () {
+! function ($) {$ (function () {window.prettyPrint && prettyPrint ()});} (window.jQuery)
+});
+});
+}
+                </script>
+               </link>
+              </meta>
+             </meta>
+            </meta>
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class = "depth-0 body and paint shop-kalkreiber-in-dresden" id = "homepage">
+  <div class = "off-canvas position-left" data-off-canvas = "" data-transition = "push" id = "offCanvasLeft">
+   <ul class = "vertical menu padding-top-2" data-magellan = "">
+    <li>
+     <a href="#carbody">
+      BODY
+     </a>
+    </li>
+    <li>
+     <a href="#lackierung">
+      PAINTING
+     </a>
+    </li>
+    <li>
+     <a href="#service">
+      CAR SERVICE
+     </a>
+    </li>
+    <li>
+     <a href="#kontaktdaten">
+      CONTACT / DIRECTIONS
+     </a>
+    </li>
+    <li>
+     <a href="#partner">
+      PARTNER
+     </a>
+    </li>
+   </ul>
+   <ul class = "vertical menu">
+    <li>
+     <a href="/impressum/">
+      imprint
+     </a>
+    </li>
+    <li>
+     <a href="/datenschutz/">
+      data protection
+     </a>
+    </li>
+    <li>
+     <a href="/haftungsausschluss/">
+      Disclaimer of liability
+     </a>
+    </li>
+   </ul>
+   <ul class = "vertical menu text-white">
+    <hr />
+    <li>
+     <p>
+      <span class = "small">
+       Body Kalkreiber GmbH
+       <br/>
+       Kesselsdorfer Strasse 248
+       <br/>
+       01169 Dresden
+       <br/>
+       <a class="text-white" href="tel:+4903514115335">
+        0351-4115335
+       </a>
+      </span>
+     </p>
+    </li>
+   </ul>
+  </div>
+  <div class = "wrapper">
+   <div class = "off-canvas-content" data-off-canvas-content = "">
+    <header>
+     <header class = "margin-bottom-2">
+      <div class = "wrapper">
+       <div class = "nav-bar">
+        <div class = "nav-bar-left show-for-small-only">
+         <button class = "offcanvas-trigger float-left" data-toggle = "offCanvasLeft" type = "button">
+          <span class = "offcanvas-trigger-text">
+          </span>
+          <! - Menu toggle switch ->
+          <div class = "hamburger">
+           <span class = "line color-white">
+           </span>
+           <span class = "line color-white">
+           </span>
+           <span class = "line text-white">
+           </span>
+          </div>
+         </button>
+         <a class="nav-bar-logo show-for-small-only">
+          Kalkreiber GmbH
+         </a>
+         <br/>
+         <a class="nav-bar-logo show-for-small-only text-white" ref="tel:+4903514115335" style="color: white !important">
+          <strong>
+           0351-4115335
+          </strong>
+         </a>
+        </div>
+       </div>
+      </div>
+     </header>
+    </header>
+   </div>
+  </div>
+ </body>
+</html>
+<div class = "nav-bar-right top-bar-right float-center">
+ <ul class = "menu float-center" data-magellan = "">
+  <li class = "hide-for-small-only">
+   <a href="#carbody">
+    BODY
+   </a>
+  </li>
+  <li class = "hide-for-small-only">
+   <a href="#lackierung">
+    PAINTING
+   </a>
+  </li>
+  <li class = "hide-for-small-only">
+   <a href="#service">
+    CAR SERVICE
+   </a>
+  </li>
+  <li class = "hide-for-small-only">
+   <a href="#kontaktdaten">
+    CONTACT
+   </a>
+  </li>
+  <li class = "show-for-large">
+   <a href="#partner">
+    PARTNER
+   </a>
+  </li>
+  <li class = "hide-for-small-only">
+   <a href="/impressum/">
+    imprint
+   </a>
+  </li>
+ </ul>
+</div>
+<div class = "show-for-small-only">
+ <div class = "grid-x grid-margin-x margin-top-2">
+  <div class = "cell small-12 margin-top-3">
+   <a href="#">
+    <img alt = "Karosserie Kalkreiber GmbH Logo" class = "float-center margin-bottom-1" height = "250" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logo / KLK-Karosserie-Lackierung-Kalkreiber -Logo250.png "/>
+   </a>
+  </div>
+  <div class = "cell small-12 margin-top-3 text-center text-normal">
+   <h6>
+    Mon-Thu: 07: 00-18: 00
+   </h6>
+   <h6>
+    Fri: 07: 00-17: 00
+   </h6>
+   <p>
+    Saturday by appointment
+   </p>
+   <h6>
+    Tel: 0351-4115335
+   </h6>
+   <h6>
+    Fax: 0351-4115261
+   </h6>
+   <p>
+    Kesselsdorfer Strasse 248, 01169 Dresden
+   </p>
+  </div>
+ </div>
+ <div class = "grid-x grid-margin-x margin-vertical-1">
+  <div class = "cell small-6">
+   <img alt = "Kalkreiber Partner - Central Association of Bodywork
+and vehicle technology "class =" float-right "height =" 156 "src =" / zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypenzkf / ZKF-Karosserie-Fachbetrieb-100.png "style =" border: 2px solid white; "width =" 100 "/>
+  </div>
+  <div class = "cell small-6">
+   <img alt = "Kalkreiber - Eurogarantpartner" class = "float-left" height = "156" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypeneurogarant / Eurogarant-logo-2016.png" style = "border: 2px solid white; " width = "100" />
+  </div>
+ </div>
+</div>
+<! - // show for small only ->
+<div class = "show-for-medium">
+ <div class = "grid-x margin-top-3">
+  <div class = "cell medium-4 margin-top-3 padding-left-1">
+   <a href="#">
+    <img alt = "Karosserie Kalkreiber GmbH" class = "float-left margin-bottom-1" height = "250" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logo / KLK-Karosserie-Lackierung-Kalkreiber- Logo250.png "/>
+   </a>
+  </div>
+  <! - // cell ->
+  <div class = "cell shrink medium-5 margin-top-2 padding-2 text-left">
+   <h6>
+    Tel: 0351-4115335
+   </h6>
+   <h6>
+    Fax: 0351-4115261
+   </h6>
+   <h6>
+    Mon-Thu: 07: 00-18: 00
+   </h6>
+   <h6>
+    Fri: 07: 00-17: 00
+   </h6>
+   <h6>
+    Saturday by appointment.
+   </h6>
+   <p>
+    Kesselsdorfer Strasse 248, 01169 Dresden
+   </p>
+   <h6>
+    Towing service partner Fa. Legend
+    <br/>
+    is available for you after business hours!
+   </h6>
+  </div>
+  <! - // cell ->
+  <div class = "cell medium-3 margin-top-2 padding-right-3">
+   <div class = "cell large-order-1 medium-order-2">
+    <img alt = "Karosserie Kalkreiber GmbH - Eurogarantpartner" class = "float-right" height = "156" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypeneurogarant / Eurogarant-logo-2016.png" style = " border: 2px solid white; " width = "100" />
+   </div>
+   <! - // cell ->
+   <div class = "cell large-order-1 medium-order-2">
+    <img alt = "Karosserie Kalkreiber GmbH Partner Zentralverband Karosserie-
+and vehicle technology "class =" float-right "height =" 156 "src =" / zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypenzkf / ZKF-Karosserie-Fachbetrieb-100.png "style =" border: 2px solid white; "width =" 100 "/>
+   </div>
+   <! - // cell ->
+  </div>
+  <! - // grid-x ->
+ </div>
+</div>
+<! - // show for medium (and up) ->
+<div class = "grid-x color-gray-50">
+ <div class = "cell margin-0 padding-0">
+  <img alt = "Karosserie Kalkreiber GmbH" class = "float-lg-right margin-bottom-0" height = "589" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / broad image background / Kalkreiber-Karosserie-Lackierung- DSC00143-1440.jpg "width =" 1440 "/>
+ </div>
+</div>
+<div class = "grid-x kalkreiberlila">
+ <div class = "cell small-12 medium-8 large-10 padding-vertical-2">
+  <h4 class = "text-center">
+   Welcome to Karosserie Kalkreiber GmbH.
+  </h4>
+  <h5 class = "text-center">
+   Your specialist body shop in Dresden.
+  </h5>
+ </div>
+ <div class = "cell small-12 medium-2 large-2 padding-horizontal-1 padding-vertical-3 text-center">
+  <img alt = "Logotype ZKF Autolackier Fachbetrieb" class = "" height = "80" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypenzkf / ZKF-Autolackier-Fachbetrieb.png" style = "max-height: 80px; border: 1px solid white "/>
+ </div>
+</div>
+<div class = "mura-region">
+ <div class = "mura-region-local">
+ </div>
+</div>
+<! - ============ Cards Core Services - Core Services Cards - KDL-1 ============= ->
+<! - Start Cards Core Services - Core Services ->
+<div class = "grid-container margin-vertical-2" data-magellan-target = "body" id = "body">
+ <h3 class = "text-center">
+  OUR CORE SERVICES:
+ </h3>
+</div>
+<! - /. grid-container ->
+<div class = "grid-x align-center grid-margin-x small-up-1 medium-up-3 large-up-3">
+ <! - card ->
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 340px;">
+  <img alt = "Karosserie Kalkreiber GmbH Smart Repair and hail damage repair" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / servicedienstleistungen / 360x240 / service-instandsetzung-zkf-360x240.jpg" width = "360" />
+  <div class = "card-divider-white align-center lead">
+   <h3 class = "h3 text-center kalkreibergruen-text">
+    Body repairs
+   </h3>
+  </div>
+  <! - // card-divider-white ->
+  <div class = "card-section text-left">
+   <p class = "margin-bottom-1">
+    <div class = "mura-object" data-async = "false" data-instanceid = "E4F824A4-DD82-4D94-A71530C7938F7DD8" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Body repair text "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       Whether massive accident damage or small quirks - body repairs are always a matter of trust. For this reason, all specialist companies for bodywork and accident repairs are subject to the "Law on the Order of the Crafts". Our specialists weld, dent out, measure, recognize and assess damage to all kinds of cars.
+      </p>
+     </div>
+    </div>
+   </p>
+  </div>
+  <! - // card-section ->
+ </div>
+ <! - /. cell + card ->
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 340px;">
+  <img alt = "Karosserie Kalkreiber GmbH Service Achsvergabe" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / servicedienstleistungen / 360x240 / service-achsvergabe-360x240.jpg" width = "360" />
+  <div class = "card-divider-white align-center lead">
+   <h3 class = "h3 text-center kalkreibergruen-text">
+    Body and wheel alignment
+   </h3>
+  </div>
+  <! - // card-divider-white ->
+  <div class = "card-section text-left">
+   <p class = "margin-bottom-1">
+    <div class = "mura-object" data-async = "false" data-instanceid = "25E7D09A-92BA-42AE-8352CB206D06D35E" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Text part of body and wheel alignment "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       Driving over curbs or potholes can result in misaligned axle geometry, which can impair the driving behavior of the car. A precise optical electronic measurement of the axes will provide clarity. An intact axle geometry brings safety and reduces wear.
+      </p>
+     </div>
+    </div>
+   </p>
+  </div>
+  <! - // card-section ->
+ </div>
+ <! - /. cell + card ->
+ <! - card ->
+ <div class = "cell margin-1 card" data-magellan-target = "lackierung" id = "lackierung" style = "width: 340px;">
+  <img alt = "Karosserie Kalkreiber GmbH Service Lackierung" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / servicedienstleistungen / 360x240 / service-lackierung1-360x240.jpg" width = "360" />
+  <div class = "card-divider-white align-center lead">
+   <h3 class = "h3 text-center kalkreibergruen-text">
+    Painting
+   </h3>
+  </div>
+  <! - // card-divider-white ->
+  <div class = "card-section text-left">
+   <p class = "margin-bottom-1">
+    <div class = "mura-object" data-async = "false" data-instanceid = "B6B301C5-B5E1-4327-88C844172D8C642C" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Text part vehicle painting "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       In our specialist paint shop you receive all services from special painting to complete vehicle painting at the highest quality level. The large number of paint materials requires different painting techniques as well as the use of modern measuring and color mixing devices. Necessary assembly, disassembly and testing work are also carried out.
+      </p>
+     </div>
+    </div>
+   </p>
+  </div>
+  <! - // card-section ->
+ </div>
+ <! - /. cell + card ->
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 340px;">
+  <img alt = "Karosserie Kalkreiber GmbH Service Smart Repair and Hail Damage Repair" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / servicedienstleistungen / 360x240 / service-spot-smart-repair-360x240.jpg" width = "360" />
+  <div class = "card-divider-white align-center lead">
+   <h3 class = "h3 text-center kalkreibergruen-text">
+    Spot and smart repair
+   </h3>
+  </div>
+  <! - // card-divider-white ->
+  <div class = "card-section text-left">
+   <p class = "margin-bottom-1">
+    <div class = "mura-object" data-async = "false" data-instanceid = "66B50228-5349-45B1-828C3AA25981B8E7" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Text part Spot and SMART Repair "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       S.M.A.R.T.-Repair is the abbreviation for "Small Middle Area Repair Technologies", i.e. Repair techniques for small to medium-sized (body) areas. An optimal repair method to have your vehicle refurbished visually.
+      </p>
+     </div>
+    </div>
+   </p>
+  </div>
+  <! - // card-section ->
+ </div>
+ <! - /. cell + card ->
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 340px;">
+  <img alt = "Karosserie Kalkreiber GmbH Service Lighting" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / servicedienstleistungen / 360x240 / service-lighting-zkf-360x240.jpg" width = "360" />
+  <div class = "card-divider-white align-center lead">
+   <h3 class = "h3 text-center kalkreibergruen-text">
+    lighting
+   </h3>
+  </div>
+  <! - // card-divider-white ->
+  <div class = "card-section text-left">
+   <p class = "margin-bottom-1">
+    <div class = "mura-object" data-async = "false" data-instanceid = "35EF5322-AD79-4D59-BB2F521AF047F937" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Text part lighting "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       The lighting plays a very special role in the road safety of your vehicle. We check and repair everything for you, from headlights to instrument lighting, measure the beam angle and wear and tear of the light centers. By the way: a visit to the workshop is essential for LED and xenon light.
+      </p>
+     </div>
+    </div>
+   </p>
+  </div>
+  <! - // card-section ->
+ </div>
+ <! - /. cell + card ->
+</div>
+<! - /.grid-x ->
+<! - /. end Cards Core Services - core services ->
+<! - ============ // Cards Core Services - Core Services Cards - KDL-1 END ============= ->
+<div class = "grid-x margin-bottom-0 margin-top-2" data-magellan-target = "service" id = "service">
+ <div class = "cell small-12 kalkreiberorange">
+  <h3 class = "text-center padding-2">
+   FURTHER SERVICES AND SERVICES
+  </h3>
+  <h4 class = "text-center padding-4">
+   At Karosserie Kalkreiber GmbH we can also help you with all services related to:
+  </h4>
+ </div>
+ <! - /. col ->
+</div>
+<! - /. grid-x ->
+<div class = "grid-x lime driver orange padding-bottom-2 margin-bottom-0 align-center">
+ <div class = "cell small-10 medium-5 padding-horizontal-2">
+  <ul class = "text-left margin-left-2">
+   <li class = "h4">
+    Antique car
+   </li>
+   <li class = "h4">
+    Car
+   </li>
+   <li class = "h4">
+    Caravans / mobile homes
+   </li>
+   <li class = "h4">
+    Tire service
+   </li>
+   <li class = "h4">
+    Brake service
+   </li>
+   <li class = "h4">
+    Accident replacement car
+   </li>
+   <li class = "h4">
+    Collection and delivery service
+   </li>
+  </ul>
+ </div>
+ <! - /. cell ->
+ <div class = "cell small-10 medium-6 padding-horizontal-2">
+  <ul class = "text-left">
+   <li class = "h4">
+    Windscreen repairs / windscreen repairs
+   </li>
+   <li class = "h4">
+    Air conditioning service
+   </li>
+   <li class = "h4">
+    Repairs to vans
+   </li>
+   <li class = "h4">
+    Motorcycle parts and small parts painting
+   </li>
+   <li class = "h4">
+    Industrial painting
+   </li>
+   <li class = "h4">
+    Towing and recovery service
+   </li>
+   <li class = "h4">
+    Vehicle cleaning
+   </li>
+  </ul>
+ </div>
+ <! - /. cell ->
+</div>
+<! - /. grid-x ->
+<div class = "mura-region">
+ <div class = "mura-region-local">
+ </div>
+</div>
+<div class = "mura-region">
+ <div class = "mura-region-local">
+ </div>
+</div>
+<! - ============ JOB OFFERS SAW1 ============ ->
+<div class = "grid-container padding-vertical-3 margin-vertical-3 card gray lighten-4" id = "education">
+ <div class = "grid-x align-center">
+  <h2 class = "text-center margin-bottom-2">
+   recent job offers
+  </h2>
+  <h5 class = "">
+  </h5>
+ </div>
+ <! - ./grid-x ->
+ <div class = "grid-x card">
+  <div class = "cell small-12 medium-4 large-4">
+   <! - Card image ->
+   <div class = "view">
+    <img alt = "Job offer vehicle varnishing Kalkreiber GmbH Dresden" src = "/ zkfon01169kalkreiber / cache / file / CC1D884E-CA5C-47D4-951612A0B5FE4550.jpg" width = "100%" />
+   </div>
+   <! - /. Card image ->
+   <! - button ->
+   <a alt="Apply now" class="button expanded" href="#kontaktdaten" style="border-radius: 0 !important">
+    <i class = "fa fa-chevron-right">
+    </i>
+    Apply now
+   </a>
+   <! - // Button ->
+   <! - Title ->
+   <h3 class = "card-title text-center">
+    Vehicle painters
+   </h3>
+  </div>
+  <div class = "cell small-12 medium-8 large-8 padding-2">
+   <span class = "small gray-text">
+    Published: 01/26/2018
+   </span>
+   <! - Text ->
+   <p class = "card-text">
+    <p>
+     <b>
+      Your tasks
+     </b>
+    </p>
+    <p>
+     Our vehicle painters
+     <i>
+     </i>
+     take care of sanding, filling and painting. Color reliability, fine motor skills with a steady hand and an artistic eye when designing are required here.
+     <br>
+     </br>
+    </p>
+    <ul>
+     <li>
+      You carry out all work in the area of ​​the paintwork on the body and add-on parts yourself
+     </li>
+     <li>
+      Comprehensive preparation work for the paint build-up
+     </li>
+     <li>
+      Mixing the paints with a mixing system
+     </li>
+     <li>
+      Paint finishing and polishing
+     </li>
+     <li>
+      Preparation and maintenance of tools
+     </li>
+     <li>
+      Spot repair
+     </li>
+    </ul>
+   </p>
+  </div>
+  <div class = "cell small-12 medium-offset-4 medium-8 large-8 padding-2">
+   <! - Text ->
+   <p class = "card-text">
+    <p>
+     <b>
+      your profile
+     </b>
+    </p>
+    <p>
+     A completed apprenticeship as a vehicle painter, several years of professional experience in vehicle painting, ability to work in a team, reliability and an independent way of working as well as good manual skills.
+    </p>
+   </p>
+  </div>
+ </div>
+ <! - ./grid-x ->
+</div>
+<! - ./grid-container ->
+<! - ============ TRAINING PLACES AP1 ============ ->
+<div class = "grid-container padding-vertical-3" id = "training">
+ <div class = "grid-x align-center">
+  <h2 class = "text-center">
+   Current training positions
+  </h2>
+  <h5 class = "">
+   <div class = "mura-object" data-async = "false" data-instanceid = "A5ADD5F3-3A0F-49C8-8CAD09AFCCECFF09" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Training positions Introductory text "data-objectname =" "data-render =" server ">
+    <div class = "mura-object-content">
+     <p>
+      Modern car bodies require a high level of professionalism and technical expertise when repairs are necessary. Our bodywork department only employs trained specialists who specialize in this type of work. As a provider of apprenticeships, we look forward to your application!
+     </p>
+     <h4>
+      Below is some information about the
+      <br>
+       Apprenticeships that we currently offer:
+      </br>
+     </h4>
+     <p>
+     </p>
+    </div>
+   </div>
+  </h5>
+ </div>
+ <! - ./grid-x ->
+ <div class = "grid-x">
+  <div class = "cell small-12 medium-6">
+   <! - Card ->
+   <div class = "card" data-equalizer-watch = "">
+    <! - Card image ->
+    <div class = "view">
+     <img alt = "" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / stellenangebote / karosserie-mechaniker-sm.jpg" width = "100%" />
+    </div>
+    <! - /. Card image ->
+    <! - button ->
+    <a alt="Apply now" class="button expanded" href="#kontaktdaten" style="border-radius: 0 !important">
+     <i class = "fa fa-chevron-right">
+     </i>
+     Apply now
+    </a>
+    <! - Card content ->
+    <div class = "card-block padding-1">
+     <! - Title ->
+     <h3 class = "card-title">
+      Body and vehicle construction mechanic
+     </h3>
+     <hr />
+     <! - Text ->
+     <p class = "card-text">
+      <h5>
+       Specialization in bodywork maintenance technology
+      </h5>
+      <p>
+       Duration of training: 3.5 years
+      </p>
+      <p>
+       Professional film from the Federal Employment Agency:
+       <a href="http://www.berufe.tv/BA/ausbildung/?filmID=1000453" target="_blink">
+        link
+       </a>
+      </p>
+     </p>
+    </div>
+    <! - /. Card content ->
+    <! - Card footer ->
+    <div class = "card-data padding-1 small gray-text">
+     Published: 10/16/2017
+    </div>
+    <! - Card footer ->
+   </div>
+   <! - /. Card ->
+  </div>
+  <! - /. col ->
+  <div class = "cell small-12 medium-4 padding-horizontal-3">
+   <div class = "mura-object" data-async = "false" data-instanceid = "51C12502-4EDD-4769-B635AA216FB96677" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Apprenticeships Text column 1 "data-objectname =" "data-render =" server ">
+    <div class = "mura-object-content">
+     <p>
+      Please send applications by post to:
+     </p>
+     <p>
+      Kalkreiber GmbH
+      <br>
+       - Training -
+      </br>
+     </p>
+     <p>
+      Kesselsdorfer Strasse 248
+      <br>
+       1169 Dresden
+      </br>
+     </p>
+     <dl>
+     </dl>
+    </div>
+   </div>
+  </div>
+  <! - /. col ->
+ </div>
+ <! - ./grid-x ->
+</div>
+<! - ./grid-container ->
+<! - ============ CONTACT1 / DIRECTIONS ============ ->
+<! - variables for map drawing (BoundsSWLng1 BoundsSWLat1 BoundsNELng1 BoundsNELat1, Zoom, Lat1, Lng1) ->
+<script src = "https://api.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js">
+</script>
+<div class = "grid-x padding-vertical-2 margin-top-0 color-gray-05" data-magellan-target = "contact data" id = "contact data">
+ <div class = "cell">
+  <h2 class = "text-center">
+   CONTACT / DIRECTIONS
+  </h2>
+  <! - Section intro text ->
+  <p class = "text-center">
+  </p>
+ </div>
+ <! - // cell ->
+</div>
+<! - // grid-x ->
+<div class = "grid-x color-gray-05">
+ <! - cell 1 Kontaktformular / Contact Form from Mura CMS ->
+ <div class = "cell small-12 medium-6 large-4 padding-horizontal-2">
+  <h4 class = "text-zkfblau">
+   <i class = "fa fa-envelope">
+   </i>
+   <span class = "lighter text-zkfblau">
+    Write us:
+   </span>
+  </h4>
+  <p class = "text-left">
+   We look forward to your message or questions about our organization, our products and services or our website. Please give us your telephone number if you would like us to call you back.
+   <br/>
+   <div class = "mura-object mura-async-object" data-_p = "1" data-async = "true" data-instanceid = "D339FDBE-7061-49ED-9C98835B067E4E30" data-object = "form" data- objecticonclass = "mi-toggle-on" data-objectid = "contact form body Kalkreiber" data-objectname = "" data-render = "client" data-view = "form">
+   </div>
+  </p>
+  <br>
+   <a class="button secondary float-left margin-top-2" href="/datenschutz/">
+    data protection
+   </a>
+  </br>
+ </div>
+ <! - // cell 1 ->
+ <! - cell 2 MapBox Map ->
+ <div class = "cell small-12 medium-6 large-6 padding-left-2">
+  <div class = "card" id = "map" style = "width: 100%; height: 400px;">
+  </div>
+  <script>
+   mapboxgl.accessToken = 'pk.eyJ1IjoiaW5ub21lZ2EiLCJhIjoiY2l3aTlqMjVjMDAxazJvbXNzdzFqNXEwNyJ9.KlWwv4yd9HdjbqYEswuLIg';
+if (! mapboxgl.supported ()) {
+alert ('Note: If you see this message, there is either a configuration error or you are using an older browser. With a browser of the current generation (IE Edge, Firefox, Chrome), content is displayed faster and you have additional security benefits.' );
+} else {
+// Sets bounds as max
+var bounds = [
+[11.501978, 47.039876], // Southwest coordinates
+[22.201978, 55.589876] // Northeast coordinates
+];
+var map = new mapboxgl.Map ({
+container: 'map',
+center: [13.651978, 51.039876],
+minZoom: 7,
+maxZoom: 19.
+zoom: 16,
+maxBounds: bounds,
+style: 'mapbox: // styles / mapbox / streets-v9'
+});
+map.on ('load', function () {
+map.addSource ("points", {
+"type": "geojson",
+"data": {
+"type": "FeatureCollection",
+"features": [{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [13.651978, 51.039876]
+},
+"properties": {
+"title": "Body Kalkreiber GmbH",
+"icon": "car",
+"line-color": "blue"
+},
+}]
+}
+});
+map.addLayer ({
+"id": "points",
+"type": "symbol",
+"source": "points",
+"layout": {
+"icon-image": "{icon} -15",
+"text-field": "{title}",
+"text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+"text-offset": [0.2, -4.0],
+"text-anchor": "top"
+}
+});
+});
+// Add zoom and rotation controls to the map.
+map.addControl (new mapboxgl.NavigationControl ());
+// scrollZoom is really annoying so we disable it.
+map.scrollZoom.disable ();}
+  </script>
+  <! - Buttons ->
+  <a aria-label = "Show in new window in Google Maps" class = "button warning" href = "https://www.google.de/maps/place/Karosseriebau+Kalkreiber+GmbH/@51.0398395,13.6493816,17z /data=!3m1!4b1!4m5!3m4!1s0x4709c54dee5ef36f:0x57de4a24984d9efd!8m2!3d51.0398395!4d13.6515756 "target =" _ blank ">
+   <i class = "fa fa-map">
+   </i>
+   Show in Google Maps
+  </a>
+  <a aria-label="Email Adresse" class="button" href="javascript:noSpam('info','karosserie-kalkreiber.de')">
+   <i class = "fa fa-envelope">
+   </i>
+   Send e-mail message
+  </a>
+  <a aria-label="Telefonnummer" class="button" href="tel:+4903514115335">
+   <i class = "fa fa-phone">
+   </i>
+   0351-4115335
+  </a>
+  <! - // Buttons ->
+  <ul class = "tabs color-gray-05" data-tabs = "" id = "anfahrt-tabs">
+   <li class = "tabs-title is-active color-gray-05">
+    <a aria-selected="true" href="#panel1">
+     <h5>
+      GPS coordinates: 51.039876, 13.651978
+     </h5>
+    </a>
+   </li>
+   <li class = "tabs-title color-gray-05">
+    <a data-tabs-target="panel2" href="#panel2">
+     <h5>
+      Directions
+     </h5>
+    </a>
+   </li>
+  </ul>
+  <div class = "tabs-content color-gray-05" data-tabs-content = "anfahrt-tabs">
+   <div class = "tabs-panel is-active color-gray-05" id = "panel1">
+    <div class = "grid-x padding-bottom-2">
+     <div class = "cell small-6 medium-6 large-4">
+      <p>
+       Address:
+      </p>
+      <h6>
+       Kesselsdorfer Strasse 248
+01169 Dresden
+      </h6>
+     </div>
+     <! - // cell ->
+     <div class = "cell small-6 medium-6 large-4">
+      <p>
+       Opening hours:
+      </p>
+      <h5>
+       Mon-Fri 07: 00-17: 00
+       <br/>
+       Sa: by appointment
+      </h5>
+     </div>
+     <! - // cell ->
+     <div class = "cell small-6 medium-6 large-4">
+      <p>
+       Towing service:
+      </p>
+      <h6>
+       Legend
+       <br/>
+       Tel: 0351-4115335
+      </h6>
+     </div>
+     <! - // cell ->
+    </div>
+    <! - // grid-x ->
+   </div>
+   <div class = "tabs-panel color-gray-05" id = "panel2">
+    <div class = "mura-object" data-async = "false" data-instanceid = "AA944D54-D682-489A-A0E8471C9F5397A8" data-object = "component" data-objecticonclass = "mi-clone" data-objectid = " Directions "data-objectname =" "data-render =" server ">
+     <div class = "mura-object-content">
+      <p>
+       Our workshop is located in the west of the state capital Dresden.
+      </p>
+      <p>
+       You will reach us:
+      </p>
+      <ul>
+       <li>
+        Via the A17 exit Gorbitz in the direction of Dresden
+       </li>
+       <li>
+        via Coventrystraße out of town to the exit for Sanitär-Heinze and turn left at the priority road
+       </li>
+       <li>
+        via Kesselsdorfer Straße out of town
+       </li>
+      </ul>
+      <p>
+       <img alt = "How to get there body Kalkreiber Dresden" src = "/ zkfon01169kalkreiber / assets / Image / anfahrt.gif" />
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <! - / cell 2 (mapBox) ->
+</div>
+<! - // grid-x ->
+<! - PARTNER ->
+<div class = "grid-x margin-vertical-2 align-center" data-magellan-target = "partner" id = "partner">
+ <h3 class = "text-center">
+  PARTNER
+ </h3>
+</div>
+<div class = "grid-x align-center grid-margin-x small-up-1 medium-up-4 large-up-4">
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 260px;">
+  <div class = "card-divider color-zkfblau align-center lead">
+   Eurogarant AG
+  </div>
+  <div class = "card-divider color-white align-center">
+   <img class = "float-center" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / logotypeneurogarant / eurogarant-logo-sq-250.png" />
+  </div>
+  <div class = "card-section text-center">
+   <a class="button hollow primary" href="http://www.eurogarant.de/" target="_blank" title=" Visit Eurogarant website">
+    Visit website
+   </a>
+  </div>
+ </div>
+ <! - /. card ->
+ <! - card ->
+ <div class = "cell margin-1 card" style = "width: 260px;">
+  <div class = "card-divider color-zkfblau align-center lead">
+   HUK Coburg
+  </div>
+  <div class = "card-divider color-white align-center">
+   <img class = "float-center" src = "/ zkfon01169kalkreiber / includes / themes / Foundation6 / images / partner / HUK-Coburg-logo-sq-250x250.png" />
+  </div>
+  <div class = "card-section text-center">
+   <a class="button hollow primary" href="http://www.huk-coburg.de/" target="_blank" title=" visit website">
+    Visit website
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 260px;">
+  <div class="card-divider color-zkfblau align-center lead">
+   DEVK
+  </div>
+  <div class="card-divider color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/DEVK-logo-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="http://www.devk.de/" target="_blank" title=" Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 260px;">
+  <div class="card-divider color-zkfblau align-center lead">
+   Lease Plan GmbH
+  </div>
+  <div class="card-divider color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/lease-plan-logo-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="https://www.leaseplan.de/" target="_blank" title=" Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 260px;">
+  <div class="card-divider color-zkfblau align-center lead">
+   Innovation Group
+  </div>
+  <div class="card-divider color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/innovation-group-logo-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="https://www.innovation.group/de/" target="_blank" title=" Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+</div>
+<!-- /.grid-x -->
+<div class="grid-x margin-vertical-2 align-center" data-magellan-target="partner" id="partner">
+ <h3 class="text-center">
+  LIEFERANTEN
+ </h3>
+</div>
+<div class="grid-x align-center grid-margin-x small-up-1 medium-up-3 large-up-3">
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 280px;">
+  <div class="card-divider card-divider-two-lines color-zkfblau align-center lead">
+   NORA Zentrum Wolfsburg
+   <br/>
+   und Dresden GmbH
+  </div>
+  <div class="card-divider card-divider-two-lines color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/Nora-Zentrum-Dresden-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="http://www.nora-dresden.de/" target="_blank" title="Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 280px;">
+  <div class="card-divider card-divider-two-lines color-zkfblau align-center lead">
+   Logistikpark Stollberg GmbH
+  </div>
+  <div class="card-divider card-divider-two-lines color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/stollberg_logo-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="https://www.logistikpark-stollberg.de/" target="_blank" title="Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 280px;">
+  <div class="card-divider card-divider-two-lines color-zkfblau align-center lead">
+   EFA Autoteilewelt GmbH
+  </div>
+  <div class="card-divider card-divider-two-lines color-white align-center">
+   <img class="float-center" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/efa-teilewelt-sq-250x250.png"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="https://www.emilfrey.de/de/efa-autoteilewelt-gmbh/" target="_blank" title="Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+ <!-- card -->
+ <div class="cell margin-1 card" style="width: 280px;">
+  <div class="card-divider card-divider-two-lines color-zkfblau align-center lead">
+   TOPLAC Autolackierbedarf
+   <br/>
+   GmbH
+  </div>
+  <div class="card-divider card-divider-two-lines color-white align-center lead">
+   <img class="" height="250" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/toplac-sq-250x250.png" width="250"/>
+  </div>
+  <div class="card-section text-center">
+   <a class="button hollow primary" href="http://www.toplac.de/" target="_blank" title="Eurogarant Webseite besuchen">
+    Webseite besuchen
+   </a>
+  </div>
+ </div>
+ <!-- /. card -->
+</div>
+<!-- /.grid-x -->
+<div class="grid-x margin-bottom-0 margin-top-3">
+ <div class="cell small-12 medium-6 kalkreibergruen padding-3">
+  <h3 class="text-left padding-top-1">
+   We are looking forward to your visit!
+  </h3>
+ </div>
+ <!--// col -->
+ <div class="cell small-12 medium-2 padding-2">
+  <p>
+   Weitere Qualifikation
+  </p>
+  <img alt="DEKRA Zertifiziert" class="" height="80" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/partner/Dekra-Logo-Web.png" style="max-height: 80px; border: 1px solid white"/>
+ </div>
+ <!--// col -->
+ <div class="cell small-12 medium-4 color-gray-05 padding-2">
+  <h5 class="text-left">
+   Übrigens: Karosserie Kalkreiber GmbH ist ebenfalls von DEKRA zertifiziert.
+  </h5>
+ </div>
+</div>
+<!--// col -->
+<!--// grid-x -->
+<div class="grid-x margin-top-0 padding-top-0 margin-bottom-0 padding-bottom-0">
+ <div class="cell margin-0 p0">
+  <img alt="Karosserie Kalkreiber GmbH Betriebsgelände" class="margin-bottom-0" height="568" src="/zkfon01169kalkreiber/includes/themes/Foundation6/images/breitbildhintergrund/Kalkreiber-Karosserie-LackierungDSC00136-1440-568.jpg" width="1440"/>
+ </div>
+ <!-- // end cell -->
+</div>
+<!-- // end grid-x -->
+<!-- Development by INNOMEGA AB https://www.innomega.se/de/ -->
+<!-- for Karosserie Kalkreiber GmbH -->
+<div class="grid-x footer kalkreiberlila">
+ <div class="cell small-12 medium-6 large-5 kalkreiberlila padding-right-2">
+  <p class="logo">
+   Karosserie Kalkreiber GmbH
+  </p>
+  <p class="copyright copywrite">
+   Ihr Partner in Dresden für Karosserie- &amp; Lackierarbeiten. Als Eurogarantfachbetrieb übernehmen wir die komplette Instandsetzung eines Unfallschadens nach Herstellervorgaben und mit original Ersatzteilen. Neben Karosseriearbeiten und Lackierung bieten wir Ihnen einen Rund-um Service mit Pannenhilfe, Abschleppdienst sowie Mietfahrzeugen.
+  </p>
+  <p class="copyright copywrite margin-vertical-0">
+   Legal
+  </p>
+  <p class="footer-links margin-top-0" data-magellan="">
+   <a href="/impressum/">
+    imprint
+   </a>
+   <a href="/datenschutz/">
+    data protection
+   </a>
+   <a href="/haftungsausschluss/">
+    Disclaimer of liability
+   </a>
+  </p>
+  <p class="copyright copywrite">
+   © 2020 Karosserie Kalkreiber GmbH
+  </p>
+  <p class="hide copyright copywrite">
+   Entwicklung:
+   <a aria-label="Webseite anzeigen" href="https://www.innomega.se/de/" target="_blank">
+    INNOMEGA
+   </a>
+  </p>
+ </div>
+ <!-- // cell -->
+ <div class="cell small-12 medium-6 large-4 kalkreiberlila">
+  <p class="logo">
+   opening hours
+  </p>
+  <h5 class="text-left">
+   Mo-Do: 07:00-18:00
+  </h5>
+  <h5 class="text-left">
+   Fr: 07:00-17:00
+  </h5>
+  <p class = "text-left">
+   Samstags nach Vereinbarung
+  </p>
+  <ul class="contact">
+   <li>
+    <p>
+     <a href="https://www.google.de/maps/place/Karosseriebau+Kalkreiber+GmbH/@51.0398395,13.6493816,17z/data=!3m1!4b1!4m5!3m4!1s0x4709c54dee5ef36f:0x57de4a24984d9efd!8m2!3d51.0398395!4d13.6515756" target="_blank">
+      <i class="fa fa-map">
+      </i>
+      <span class="small">
+       Kesselsdorfer Straße 248,
+       <br/>
+       01169 Dresden
+      </span>
+     </a>
+    </p>
+   </li>
+   <li>
+    <p>
+     <i class = "fa fa-phone">
+     </i>
+     <a aria-label="Telefonnummer" class="text-white" href="tel:+4903514115335" style="color: white !important">
+      <span class="h5">
+       0351-4115335
+      </span>
+     </a>
+    </p>
+   </li>
+   <li>
+    <p>
+     <i class = "fa fa-fax">
+     </i>
+     <span class="h5 text-white">
+      0351-4115261
+     </span>
+    </p>
+   </li>
+  </ul>
+ </div>
+</div>
+<li>
+ <p>
+  <i class="fa fa-envelope">
+  </i>
+  <a aria-label="Email senden" class="text-white" href="javascript:noSpam('info','karosserie-kalkreiber.de')" style="color: white !important">
+   <span class="h6 padding-top-2">
+    Send e-mail
+   </span>
+  </a>
+ </p>
+</li>
+<!-- // cell -->
+<div class="cell small-12 large-3 kalkreiberlila">
+ <p class="lead text-white white-text">
+  24 Stunden Service!
+  <br/>
+  Unser Abschleppdienst-Partner Fa. Legend hilft Ihnen rund um die Uhr.
+ </p>
+ <h5 class="text-left white-text">
+  <br>
+   <a aria-label="Abschleppdienst Telefonnummer" class="text-white" href="tel:+4903514115335" style="color: white !important">
+    Tel: 0351-4115335
+   </a>
+  </br>
+ </h5>
+</div>
+<!-- // cell -->
+<script src="/zkfon01169kalkreiber/includes/themes/Foundation6/js/vendor/what-input.js">
+</script>
+<script src="/zkfon01169kalkreiber/includes/themes/Foundation6/js/vendor/foundation.js">
+</script>
+<script src="/zkfon01169kalkreiber/includes/themes/Foundation6/js/app.js">
+</script>
+<script src="/zkfon01169kalkreiber/includes/themes/Foundation6/js/dist/headspace.js">
+</script>
+<script>
+ Headspace(document.querySelector('header'))
+</script>
+<script defer="" integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1" src="//instant.page/3.0.0" type="module">
+</script>
+<!-- copyright INNOMEGA AB Sweden - www.innomega.se/de/ für Mitgliedsbetriebe des ZKF sowie Eurogarant
+->

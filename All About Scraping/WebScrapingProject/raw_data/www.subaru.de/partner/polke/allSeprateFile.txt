@@ -1,0 +1,714 @@
+<! DOCTYPE html>
+<html dir = "ltr" lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <! -
+This website was made by Pixelgenau.com
+
+This website is powered by TYPO3 - inspiring people to share!
+TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU / GPL.
+TYPO3 is copyright 1998-2020 by Kasper Skaarhoj. Extensions are copyright of their respective owners.
+Information and contribution at https://typo3.org/
+->
+  <meta content = "IE = edge" http-equiv = "x-ua-compatible">
+   <meta content = "TYPO3 CMS" name = "generator" />
+   <meta content = "index, follow" name = "robots" />
+   <meta content = "Pixelgenau Consulting GmbH" name = "author" />
+   <meta content = "width = device-width, initial-scale = 1, user-scalable = no" name = "viewport" />
+   <meta content = "de" name = "language" />
+   <meta content = "2016-07-25" name = "date" />
+   <link href = "/ typo3temp / assets / compressed / merged-e809b49b81f6093e50e0d98463400b1c-07c9d37f46df5b7f577554321e9f3c06.css? 1604594007" media = "all" rel = "stylesheet" type = ">. / css"
+   <script src = "/ typo3temp / assets / compressed / jquery-1.10.x-1.10.x-a9bdbfea38cbeec32a1e90d37ebd507d.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / jquery.fancybox.pack-34c9b0f8cd70a57021b40e5198af7eb6.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / jquery.scrollTo-1.4.3.1-min-b0f76c2a4a90e345e45f12a68e151ac4.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / jquery.mobile.custom.min-a676c2f108d14fa3d1e5913a6bb74c1e.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / binaryajax-d3037569082b138b12f342234449255a.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / imageinfo-b5226287b7f477532c058a9006ead785.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / bootstrap.min-3744e480c75aca9918099cec1a1a7090.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / bootstrap-select-d6c1b96db45011b2c40acdc4cfb64422.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / carousel-swipe-6a1a8458b01de36222ed2adedb635f4d.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / slick.min-cbbc38c976bc747845a6ef6ec8642bb7.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / px.loading-80afd84862666463cd0ffca014862cc0.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / px.sameHeight-c4753e5e65d319e51896b4e2e6d884dc.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / googlemaps_anschrift_partner-068822ccf29d3a6092f9ed6f2d6e2f24.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / editing-86cf1fb305cb0284569db74210d0f0e7.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / formhelper-d1b489e47c30c500ca0dc335b658f131.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / gallery-1dc246c5faa18332293dd7d60d380204.js? 1604594004" type = "text / javascript">
+   </script>
+   <script src = "/ typo3temp / assets / compressed / mainConfiguration-88fdf8691020761e94e903bb465d0f29.js? 1604594004" type = "text / javascript">
+   </script>
+   <link href = "/ favicon.ico" rel = "shortcut icon" type = "image / x-icon">
+    <title>
+     Home - Autohaus Axel Polke GmbH in Dresden
+    </title>
+    <meta content = "Welcome to Autohaus Axel Polke GmbH in 01237 Dresden. Here you will find all information about us, our operations and service in Dresden" name = "description" />
+    <meta content = "Subaru, dealer, car dealership, 01237 Dresden, Autohaus Axel Polke GmbH" name = "keywords" />
+    <meta content = "index, follow" name = "robots" />
+   </link>
+  </meta>
+ </head>
+ <body>
+  <div class = "frame frame-default frame-type-list frame-layout-0" id = "c15">
+   <div class = "tx partner sites">
+    <header class = "header">
+     <div class = "partnerData" id = "partnerData">
+      <div class = "header__top-row">
+       <div class = "container">
+        <div class = "row">
+         <div class = "col-xs-12 partnerData__col">
+          <p class = "partnerName">
+           Autohaus Axel Polke GmbH
+          </p>
+          <div class = "pull-right partnerIcons partnerIcons-desktop">
+           <div class = "partnerStatus broker withText" data-placement = "bottom" data-toggle = "tooltip" title = "Autohaus Axel Polke GmbH is an authorized broker for Subaru new cars on behalf of Autohaus Henry Siebeneicher GmbH & Co. KG. All New car offers are made in the name of and for the account of Autohaus Henry Siebeneicher GmbH & Co. KG, Dippoldiswalde-Reinholdshain. ">
+            <span class = "circle">
+            </span>
+            <p class = "paragraph">
+             Intermediary
+            </p>
+            <sup>
+             <i class = "glyphicon glyphicon-info-sign">
+             </i>
+            </sup>
+           </div>
+           <div class = "partnerStatus service withText">
+            <span class = "circle">
+            </span>
+            <p class = "paragraph">
+             Service partner
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "header__main-row">
+       <div class = "container full-height">
+        <div class = "row full-height">
+         <div class = "col-xs-12 full-height">
+          <div class = "row full-height">
+           <div class = "main-row__col full-height">
+            <div class = "logoCompany">
+             <a class="logoCompanyLink" href="/" title="Startseite: Autohaus Axel Polke GmbH">
+              <img alt = "Subaru Logo" class = "img-responsive logoCompanyImage" height = "630" src = "/ typo3conf / ext / partnerseiten / Resources / Public / Images / facelift / logo.jpg" width = "922" />
+             </a>
+            </div>
+            <div class = "logoPartner" id = "logoPartner">
+             <a class="logoCompanyLink" href="/" title="Startseite: Autohaus Axel Polke GmbH">
+              <img alt = "Logo of Autohaus Axel Polke GmbH" class = "img-responsive logoPartnerImage" height = "70" src = "/ typo3temp / assets / _processed_ / b / e / csm_661400-logoImage-1374746671_7a999e4d6b.gif" title = " Autohaus Axel Polke GmbH "width =" 832 "/>
+             </a>
+            </div>
+           </div>
+           <div class = "col-xs-10 col-sm-8 col-md-3 col-xl-2">
+           </div>
+           <div class = "col-xs-12 col-xl-10">
+            <! - Template for all menu items ->
+            <! - Template for menu items except Service ->
+            <! - Structure for authorized dealers ->
+            <! - Structure for authorized dealers and service partners ->
+            <! - Structure for intermediaries and service partners ->
+            <div id = "naviContainer">
+             <nav class = "navbar navbar-default navigationMain">
+              <div class = "collapse navbar-collapse" id = "navbar-collapse-mainmenu">
+               <ul class = "nav navbar-nav">
+                <li>
+                 <a href="/neuwagen" title="Modellangebote-Autohaus Axel Polke GmbH">
+                  Model offer
+                 </a>
+                </li>
+                <li>
+                 <a href="/used-car" title="Used car dealership Axel Polke GmbH">
+                  used cars
+                 </a>
+                </li>
+                <li>
+                 <a href="/service" title="Service-Autohaus Axel Polke GmbH">
+                  service
+                 </a>
+                </li>
+                <li>
+                 <a href="/betrieb" title="Betrieb-Autohaus Axel Polke GmbH">
+                  business
+                 </a>
+                </li>
+                <li>
+                 <a href="/ueberuns" title="About us-Autohaus Axel Polke GmbH">
+                  about us
+                 </a>
+                </li>
+                <li>
+                 <a href="/aktuelles" title="Aktuelles-Autohaus Axel Polke GmbH">
+                  Current
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </nav>
+            </div>
+           </div>
+          </div>
+          <div class = "navbar navbar-default navbarHeaderToggle hidden-xl">
+           <div class = "hidden-xl">
+           </div>
+           <div class = "navbar-header">
+            <button class = "navbar-toggle collapsed" data-target = "# navbar-collapse-mainmenu" data-toggle = "collapse" type = "button">
+             <span class = "sr-only">
+              Toggle navigation
+             </span>
+             <span class = "icon-bar first-bar">
+             </span>
+             <span class = "icon-bar second-bar">
+             </span>
+             <span class = "icon-bar third-bar">
+             </span>
+            </button>
+           </div>
+          </div>
+          <! - ->
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </header>
+    <! - </div> ->
+    <div class = "stage">
+     <div class = "headerSlider" id = "headerSlider">
+      <script>
+       document.createElement ("picture");
+      </script>
+      <script src = "/ typo3conf / ext / partnerseiten / Resources / Public / Js / picturefill.min.js" type = "text / javascript">
+      </script>
+      <section class = "slider">
+       <div class = "js-sliderWrapper" id = "carousel-main">
+        <div class = "js-stageSlider slick-slider" id = "header-slider -">
+         <div class = "item">
+          <div class = "imageWrapper">
+           <img alt = "" class = "img-responsive" height = "635" src = "/ typo3temp / assets / _processed_ / d / f / csm_welcome-banner_1b3f9a168b.jpg" width = "1920" />
+           <div class = "item__welcomeslideWrapper flexCol flexCol - justCenter flexCol - alignCenter">
+            <div class = "item__welcomeslideInner container">
+             <h3 class = "item__welcomeslideFirstLine">
+              Welcome to
+             </h3>
+             <h3 class = "item__welcomeslideSecondLine">
+              Autohaus Axel Polke GmbH
+             </h3>
+            </div>
+           </div>
+          </div>
+          <div class = "sliderLegalTexts">
+          </div>
+         </div>
+         <div class = "item">
+          <div class = "imageWrapper">
+           <img alt = "" class = "img-responsive" height = "635" src = "/ typo3temp / assets / _processed_ / c / e / csm_Top_Slide_PX_final_c0581d39b8.jpg" width = "1920" />
+           <a class="teaserLink linkedImage" href="/kampagne/jubilaeumsbonus">
+           </a>
+           <div class = "carousel-caption dark hidden-xs">
+            <h3>
+             Thank you for 40 years of adventure.
+            </h3>
+            <p class = "carousel-caption__text">
+             Celebrate “40 years of Subaru Germany” now and save up to € 4,000 ¹.
+            </p>
+            <a class="btn btn-default btn-blue btn-noborder sliderButton" href="/kampagne/jubilaeumsbonus">
+             Learn more
+            </a>
+           </div>
+          </div>
+          <div class = "carousel-caption visible-xs-block">
+           <span class = "carousel-caption__headlineMobile">
+            Thank you for 40 years of adventure. & gt;
+           </span>
+          </div>
+          <div class = "sliderLegalTexts">
+          </div>
+         </div>
+         <div class = "item">
+          <div class = "imageWrapper">
+           <img alt = "" class = "img-responsive" height = "635" src = "/ typo3temp / assets / _processed_ / e / f / csm_21FORESTER_M0090BP_NP_EC_bf770d0e72.jpg" width = "1920" />
+           <a class="teaserLink linkedImage" href="/kampagne/forester-edition-sport">
+           </a>
+           <div class = "carousel-caption dark hidden-xs">
+            <h3>
+             Forester special edition
+            </h3>
+            <a class="btn btn-default btn-blue btn-noborder sliderButton" href="/kampagne/forester-edition-sport">
+             Learn more
+            </a>
+           </div>
+          </div>
+          <div class = "carousel-caption visible-xs-block">
+           <span class = "carousel-caption__headlineMobile">
+            Forester special edition & gt;
+           </span>
+          </div>
+          <div class = "sliderLegalTexts">
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class = "container">
+     <main class = "mainContent">
+      <div class = "home">
+       <div class = "contentContainer background boxContactInformation">
+        <div class = "row">
+         <div class = "col-xs-12">
+          <div class = "row">
+           <div class = "col-sm-6 col-xs-12">
+            <h1 class = "headlineSecond">
+             Autohaus Axel Polke GmbH
+            </h1>
+            <div class = "address" itemscope = "" itemtype = "http://schema.org/ContactPoint">
+             <div itemscope = "" itemtype = "http://schema.org/PostalAddress">
+              <p class = "paragraph">
+               <span itemprop = "streetAddress">
+                Altreick 24
+               </span>
+               <br/>
+               <span itemprop = "postalCode">
+                01237
+               </span>
+               <span itemprop = "addressLocality">
+                Dresden
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class = "col-md-6 col-md-offset-0 col-sm-5 col-sm-offset-1 col-xs-12 partnerStatus__row">
+            <div class = "partnerStatus broker">
+             <p class = "paragraph">
+              <span class = "circle">
+              </span>
+              Intermediary
+             </p>
+            </div>
+            <br/>
+            <div class = "partnerStatus service">
+             <p class = "paragraph">
+              <span class = "circle">
+              </span>
+              Service partner
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "row">
+           <div class = "col-md-4 col-xs-12">
+            <h3 class = "headlineThree headlineKontakt">
+             Contact
+            </h3>
+            <div class = "row">
+             <div class = "col-lg-12 col-sm-7 col-xs-12">
+              <p class = "paragraph" itemscope = "" itemtype = "http://schema.org/ContactPoint">
+               <span itemprop = "telephone">
+                <span class = "inset">
+                 Phone:
+                </span>
+                <a class="linkTelephone" href="tel:+493512843106">
+                 0351/2843106
+                </a>
+               </span>
+               <br>
+                <span itemprop = "faxNumber">
+                 <span class = "inset">
+                  Fax:
+                 </span>
+                 <span class = "faxnr">
+                  0351/2843106
+                 </span>
+                </span>
+                <br/>
+                <span class = "email-info clearfix">
+                 <span class = "inset">
+                  E-mail:
+                 </span>
+                 <a class="linkEmail" href="mailto:autohaus-polke@t-online.de" title="autohaus-polke@t-online.de">
+                  autohaus-polke@t-online.de
+                 </a>
+                </span>
+               </br>
+              </p>
+             </div>
+            </div>
+            <div class = "row">
+             <div class = "col-lg-12 col-md-10 col-sm-5 col-xs-12">
+              <a class="btn btn-default btn-blue" href="/ueberuns" title="About Autohaus Axel Polke GmbH-Dresden">
+               about us
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class = "col-md-4 col-xs-12">
+            <div class = "row">
+             <div class = "col-xs-12">
+              <h3 class = "headlineThree headlineOpeningHours">
+               opening hours
+              </h3>
+             </div>
+             <div class = "col-md-12 col-sm-6 col-xs-12">
+              <h4 class = "headlineFour">
+               sale
+              </h4>
+              <div class = "row openingHours">
+               <div class = "col-md-4 col-xs-4">
+                <p class = "paragraph">
+                 Mon-Fri:
+                </p>
+               </div>
+               <div class = "col-md-8 col-xs-8">
+                <p class = "paragraph">
+                 7 a.m. to 6 p.m.
+                </p>
+               </div>
+               <div class = "col-md-4 col-xs-4">
+                <p class = "paragraph">
+                 Sa .:
+                </p>
+               </div>
+               <div class = "col-md-8 col-xs-8">
+                <p class = "paragraph">
+                 9 a.m. to 12 p.m.
+                </p>
+               </div>
+              </div>
+             </div>
+             <div class = "col-md-12 col-sm-6 col-xs-12">
+              <h4 class = "headlineFour">
+               Workshop
+              </h4>
+              <div class = "row openingHours">
+               <div class = "col-md-4 col-xs-4">
+                <p class = "paragraph">
+                 Mon-Fri:
+                </p>
+               </div>
+               <div class = "col-md-8 col-xs-8">
+                <p class = "paragraph">
+                 7 a.m. to 5.45 p.m.
+                </p>
+               </div>
+              </div>
+             </div>
+             <div class = "col-md-12 col-sm-6 col-xs-12">
+             </div>
+            </div>
+           </div>
+           <div class = "col-md-4 col-xs-12">
+            <h3 class = "headlineThree headlineRouteCalculation">
+             Route calculation
+            </h3>
+            <h4 class = "headlineFour">
+             Your starting point:
+             <span class = "glyphicon glyphicon-info-sign" data-toggle = "tooltip" title = "To specify the route, simply enter the desired starting point with zip code, street and house number or use your location directly.">
+             </span>
+            </h4>
+            <form class = "routeCalculateForm" onsubmit = "routeCalculateFormSubmit ()">
+             <div class = "input-group">
+              <span class = "input-group-addon myLocation">
+               <button class = "buttonMyLocation js-buttonMyLocation" data-input = ". js-startPoint661400" title = "Get my location" type = "button">
+                <span class = "glyphicon glyphicon-map-marker">
+                </span>
+               </button>
+              </span>
+              <input class = "form-control startPointInput js-startPoint661400" id = "js-startPointInputForValue" />
+              <span class = "input-group-addon submitCalculation">
+               <button class = "buttonSubmitCalculation js-startPointSubmit661400" title = "Start route calculation" type = "submit">
+                <svg viewbox = "0 0 28 24" xmlns = "http://www.w3.org/2000/svg">
+                 <path class = "cls-1" d = "M17.41,23.41l10-10a2,2,0,0,0,0-2.83l-10-10a2,2,0,1,0-2.83,2.83L21 .17,10H2a2,2,0,1,0,0,4H21.17l-6.59,6.59a2,2,0,0,0,2.83,2.83 ">
+                 </path>
+                </svg>
+               </button>
+              </span>
+             </div>
+            </form>
+            <span data-position = "Altreick 24 + 01237 Dresden" id = "js-endPointValue">
+            </span>
+            <script>
+             function routeCalculateFormSubmit () {
+        let start = document.getElementById ("js-startPointInputForValue"). value;
+        let endElement = document.getElementById ("js-endPointValue");
+        let end = endElement.getAttribute ("data-position");
+
+        window.open ("https://www.google.de/maps?saddr=" + encodeURIComponent (start) + "& daddr =" + encodeURIComponent (end), '_blank');
+    }
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row flexRow">
+        <div class = "col-lg-4 col-md-4 col-sm-6 col-sm-6 col-xs-12 teaser teaserVertical js-teaser js-gcoTeaser" data-uid = "">
+         <a class="teaserLinkImage">
+          <img alt = "If you have any questions, please contact us directly!" class = "img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / f / 1 / csm_Kontakt_f7b3065357.jpg" width = "750" />
+         </a>
+         <div class = "teaserContent">
+          <div class = "teaserHeader">
+           <span class = "teaserOverline">
+            Contact
+           </span>
+           <h4 class = "teaserHeadline">
+            How can we help you?
+           </h4>
+          </div>
+          <p class = "teaserCopy">
+           If you have any questions, please contact us directly:
+           <strong>
+            0351/2843106
+           </strong>
+           .
+          </p>
+          <div class = "teaserContent__btnRow">
+          </div>
+         </div>
+        </div>
+        <div class = "col-lg-4 col-md-4 col-sm-6 col-sm-6 col-xs-12 teaser teaserVertical js-teaser js-gcoTeaser" data-uid = "">
+         <a class="teaserLinkImage" href="/kampagne/jubilaeumsbonus">
+          <img alt = ": Anniversary bonus: Save up to € 4,000 ¹ now." class = "teaserImage img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / 1/7 / csm_LY02-Aktionsteaser-40Jahre_cb820b6db7. jpg "title =": Anniversary bonus: Save up to € 4,000 ¹ now. "width =" 750 "/>
+         </a>
+         <div class = "teaserContent">
+          <div class = "teaserHeader">
+           <span class = "teaserOverline">
+           </span>
+           <h4 class = "teaserHeadline">
+            Anniversary bonus: Save up to € 4,000 ¹ now.
+           </h4>
+          </div>
+          <p class = "teaserCopy">
+           Celebrate 40 years of Subaru Germany with us: Save up to € 4,000 ¹ with the anniversary bonus and benefit from great accessory anniversary package offers.
+          </p>
+          <div class = "teaserContent__btnRow">
+           <a class="btn btn-default btn-blue" href="/kampagne/jubilaeumsbonus">
+            Learn more
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class = "col-lg-4 col-md-4 col-sm-6 col-sm-6 col-xs-12 teaser teaserVertical js-teaser js-gcoTeaser" data-uid = "">
+         <figure>
+          <a class = "lightbox teaserLinkImage" data-fancybox-group = "group1" href = "/ partnerseiten / home / Neuwagengarantie.jpg" rel = "lightbox" title = "Neuwagen-Garantie & lt; sup & gt; * & lt; / sup & gt ;: Security from the start. ">
+           <img alt = "New car warranty & lt; sup & gt; * & lt; / sup & gt ;: Security from the start." class = "teaserImage img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / 5/7 / csm_Neuwagengarantie_2841b13c0f.jpg" title = "New vehicle guarantee & lt; sup & gt; * & lt; / sup & gt ;: Security from the start at." width = "750" />
+          </a>
+         </figure>
+         <div class = "teaserContent">
+          <div class = "teaserHeader">
+           <span class = "teaserOverline">
+            New car guarantee
+            <sup>
+             *
+            </sup>
+           </span>
+           <h4 class = "teaserHeadline">
+            Security right from the start.
+           </h4>
+          </div>
+          <p class = "teaserCopy">
+           Two bodyguards for your Subaru: the unique Subaru five-fold guarantee and the Euro-Service “Assistance” - for Europe-wide security 24 hours a day.
+           <br/>
+           <br/>
+           <a href="http://www.subaru.de/kundenservice/garantie/fuenf-jahres-neuwagen-garantie.html">
+            More at www.subaru.de
+           </a>
+          </p>
+          <div class = "teaserContent__btnRow">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "row flexRow">
+        <div class = "col-xs-12">
+         <h3 class = "headline">
+          Current
+         </h3>
+         <div class = "teaser teaserHorizontal col-xs-12 campaignNews type-campaignnews">
+          <div class = "row flexRow">
+           <div class = "col-md-4 col-xs-12">
+            <a class="teaserLinkImage" href="/kampagne/zubehoer-service-herbst-winter" title="Fit for the frost? Accessories and service for autumn and winter.">
+             <img alt = "Fit for the frost? Accessories and service for autumn and winter." class = "teaserImage img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / a / 9 / csm_Buehnenbild_HW_30ae6116fa.jpg" title = "Fit for the frost? Accessories and service for autumn and winter." width = "750" />
+            </a>
+           </div>
+           <div class = "col-md-8 col-xs-12">
+            <div class = "teaserContent">
+             <p class = "teaserDate">
+              01/10/2020
+             </p>
+             <h5 class = "teaserHeadline">
+              Fit for the frost? Accessories and service for autumn and winter.
+             </h5>
+             <p class = "paragraph teaserCopy">
+              Make your Subaru fit for the cold season. We offer you a range of ...
+             </p>
+             <a class="teaserButtonMore" href="/kampagne/zubehoer-service-herbst-winter" title="Fit for the frost? Accessories and service for autumn and winter.">
+              Learn more
+             </a>
+             <div class = "clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "teaser teaserHorizontal col-xs-12 campaignNews type-campaignnews">
+          <div class = "row flexRow">
+           <div class = "col-md-4 col-xs-12">
+            <a class="teaserLinkImage" href="/kampagne/jubilaeumsbonus" title="40 years Subaru Germany">
+             <img alt = "40 years Subaru Germany" class = "teaserImage img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / 7/1 / csm_LY02-Aktionsteaser-40Jahre_cef098a12b.jpg" title = "40 years Subaru Germany "width =" 750 "/>
+            </a>
+           </div>
+           <div class = "col-md-8 col-xs-12">
+            <div class = "teaserContent">
+             <p class = "teaserDate">
+              09/30/2020
+             </p>
+             <h5 class = "teaserHeadline">
+              40 years of Subaru Germany
+             </h5>
+             <p class = "paragraph teaserCopy">
+              Select your desired model now with the anniversary bonus and save up to € 4,000 ¹.
+                    ...
+             </p>
+             <a class="teaserButtonMore" href="/kampagne/jubilaeumsbonus" title="40 years Subaru Germany">
+              Learn more
+             </a>
+             <div class = "clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "teaser teaserHorizontal col-xs-12 campaignNews type-campaignnews">
+          <div class = "row flexRow">
+           <div class = "col-md-4 col-xs-12">
+            <a class="teaserLinkImage" href="/kampagne/forester-edition-sport" title="Forester Sonderedition">
+             <img alt = "Forester special edition" class = "teaserImage img-responsive" height = "360" src = "/ typo3temp / assets / _processed_ / 6/3 / csm_21FOR_ES_40_Teaser_NEW_2318fc7564.jpg" title = "Forester special edition" width = "750" />
+            </a>
+           </div>
+           <div class = "col-md-8 col-xs-12">
+            <div class = "teaserContent">
+             <p class = "teaserDate">
+              09/22/2020
+             </p>
+             <h5 class = "teaserHeadline">
+              Forester special edition
+             </h5>
+             <p class = "paragraph teaserCopy">
+              Subaru is celebrating its birthday. Discover the Forester special edition
+                              ...
+             </p>
+             <a class="teaserButtonMore" href="/kampagne/forester-edition-sport" title="Forester Sonderedition">
+              Learn more
+             </a>
+             <div class = "clearfix">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "teaserLegend clearfix">
+          <p class = "teaserLegendSubaru pull-right">
+           News from Subaru
+          </p>
+          <p class = "teaserLegendPartner pull-right">
+           News from us
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </main>
+    </div>
+    <footer class = "footer" id = "footer">
+     <div class = "container-fluid">
+      <div class = "row">
+       <div class = "container">
+        <p>
+         <span>
+          <sup>
+           *
+          </sup>
+          The legal rights of the buyer also remain unrestricted. The 5-year guarantee is valid for all models from January 1st, 2013.
+         </span>
+         <br/>
+        </p>
+        <div class = "container dealer-tip">
+         <div class = "row">
+          <div class = "col-xs-1 limit-width">
+           <img src = "/ typo3conf / ext / partnerseiten / Resources / Public / Icons / facelift / vermittler-icon.svg" width = "30" />
+          </div>
+          <div class = "col-xs-11">
+           Autohaus Axel Polke GmbH is an authorized broker for Subaru new cars on behalf
+                    from Autohaus Henry Siebeneicher GmbH & amp; Co. KG. All new car offers are made in
+                    Name and on account of Autohaus Henry Siebeneicher GmbH & amp; Co. KG,
+                    Dippoldiswalde-Reinholdshain.
+          </div>
+         </div>
+        </div>
+        <p>
+         More information on the official fuel consumption and the
+    official specific CO
+         <sub>
+          2
+         </sub>
+         -Emissions from new passenger cars can be found in the “Guide about
+    the fuel consumption, the CO
+         <sub>
+          2
+         </sub>
+         -Emissions and electricity consumption of new passenger cars ”are taken from all sales outlets and at the
+    Deutsche Automobil Treuhand GmbH Hellmuth-Hirth-Straße 1 - 73760 Ostfildern (www.dat.de) is available free of charge.
+        </p>
+        <a class="toTop js-toTop hiddenAnimate" title="to the top of the page">
+         <img src = "/ typo3conf / ext / partnerseiten / Resources / Public / Images / facelift / to-top.png" />
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class = "footerBottom">
+      <div class = "container">
+       <div class = "row">
+        <div class = "col-xs-12">
+         <div class = "linksLeft pull-left">
+          <a class="footerLink" href="http://www.subaru.de/" target="_blank" title=" Genealogie ]">
+           www.subaru.de
+          </a>
+         </div>
+         <div class = "linksRight pull-right">
+          <a class="footerLink" href="/rechtliche-hinweise" title="Legal Notes-Autohaus Axel Polke GmbH">
+           Legal Notice
+          </a>
+          <a class="footerLink" href="/impressum" title="Impressum-Autohaus Axel Polke GmbH">
+           imprint
+          </a>
+          <a class="footerLink" href="/datenschutz" title="Datenschutz-Autohaus Axel Polke GmbH">
+           data protection
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+ </body>
+</html>

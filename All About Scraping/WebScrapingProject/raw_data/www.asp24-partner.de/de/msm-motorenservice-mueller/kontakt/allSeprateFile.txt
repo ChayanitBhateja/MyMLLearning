@@ -1,0 +1,482 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <title>
+   Contact to MSM Motorenservice Müller | ASP workshop service
+  </title>
+  <! - .META ->
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1.0, maximum-scale = 1.0" name = "viewport" />
+  <link href = "https://www.asp24-partner.de//img/favicons/favicon.ico" rel = "icon" />
+  <meta content = "VANCADO AG, Cologne GERMANY" name = "generator">
+   <meta content = "24 hours, contact form, service, service request, vehicle data, inspection, repair, general inspection, tire change / service, Dresden, MSM Motorenservice Müller" name = "keywords">
+    <meta content = "You can use the ASP contact form to send us information about your vehicle and the services you require in advance." name = "description" />
+    <link href = "https://www.asp24-partner.de/img/favicon_touch.png" rel = "apple-touch-icon">
+     <! - CSS Assets ->
+     <link href = "https://www.asp24-partner.de/font/roboto_regular_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_medium_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_light_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_bold_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_condensed_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_lightcondensed_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/font/roboto_boldcondensed_macroman/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/font/custom-leistungen/stylesheet.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/bootstrap-image-gallery.min.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/colorbox.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/jquery.cookiebar.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/bootstrap_asp.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <link href = "https://www.asp24-partner.de/css/styles_be.css" media = "all" rel = "stylesheet" type = "text / css" />
+     <! - [if lte IE 9]>
+    <link rel = "stylesheet" type = "text / css" href = "https://www.asp24-partner.de/css/lte_ie9.css" />
+  <! [endif] ->
+     <! - JS Assets ->
+     <script src = "https://www.asp24-partner.de/js/jquery-1.7.2.min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/bootstrap.min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/bootstrap-image-gallery_va.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/jquery-picture-min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/jquery.colorbox.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/jquery.cookiebar.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/jquery.matchHeight.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/jquery.validate.min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/validate-localization/messages_de.min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/aktion_conf.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/postmessage-min.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/functions.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/asp/functions.js" type = "text / javascript">
+     </script>
+     <script src = "https://www.asp24-partner.de/js/html5.js" type = "text / javascript">
+     </script>
+     <script type = "text / javascript">
+      var frontend_base_url = 'https://www.asp24-partner.de/page/';
+
+// cookie
+$ (document) .ready (function () {
+$ .cookieBar ({acceptText: 'Ok', message: 'The site uses cookies. Find out in our <a href = "' + (document.location.pathname.substring (0, document.location.pathname.indexOf (' / ', 10)) +' / datenschutz / ') +' "> Privacy Policy </a> more about how we use cookies and how you can change your settings. ', Fixed: true, bottom: true});
+});
+     </script>
+     <base href = "https://www.asp24-partner.de/" />
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class = "noBannerPage" itemscope = "" itemtype = "http://schema.org/LocalBusiness">
+  <div id = "top">
+  </div>
+  <! - HEADER
+================================================== ->
+  <div class = "navbg">
+   <header class = "container-fluid whiteBox topheader">
+    <div class = "row-fluid headerBar topnav-container">
+     <div class = "span12">
+      <div class = "navbar">
+       <div class = "navbar-inner navbar-fixed-top" id = "topnav">
+        <div class = "container-fluid" id = "topnav_container">
+         <! - .btn-navbar is used as the toggle for collapsed navbar content ->
+         <a class="headingsToggle" data-target="#help_menu" data-toggle="collapse" onclick="inherit_nav_height();">
+          <span class = "icon-bar">
+          </span>
+          <span class = "icon-bar">
+          </span>
+          <span class = "icon-bar">
+          </span>
+          <span class = "headingsToggleText">
+           navigation
+          </span>
+         </a>
+         <! - Everything you want hidden at 940px or less, place within here ->
+         <div class = "nav-collapse collapse servicemenu" id = "help_menu">
+          <ul class = "nav">
+           <! - phone menu ->
+           <li class = "visible-phone">
+            <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/">
+             Home
+             <i class = "icon-chevron-right icon-white mobile_nav_icons">
+             </i>
+            </a>
+           </li>
+           <li class = "visible-phone">
+            <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/leistungen/">
+             Services
+             <i class = "icon-chevron-right icon-white mobile_nav_icons">
+             </i>
+            </a>
+           </li>
+           <li class = "active visible-phone">
+            <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/kontakt/">
+             Contact
+             <i class = "icon-chevron-right icon-white mobile_nav_icons">
+             </i>
+            </a>
+           </li>
+           <! - Offers ->
+           <! - end of phone menu ->
+           <! - sub_navi ->
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "row-fluid headerBar bignav">
+     <div class = "span12 header_name_n_logo_container">
+      <a class="ironmark" href="https://www.asp-24.de" target="_blank">
+       <img alt = "Logo" itemprop = "image" src = "https://www.asp24-partner.de/img/logo/logo.png" />
+      </a>
+      <h2 class = "main-header" id = "headline">
+       MSM Motorenservice Müller
+      </h2>
+     </div>
+    </div>
+   </header>
+  </div>
+ </body>
+</html>
+<h2 class = "meta-header" id = "header_city">
+ Dresden
+</h2>
+<! - NAVIGATION
+================================================== ->
+<div class = "navbg hidden-phone">
+ <div class = "navPanel container-fluid hidden-phone">
+  <div class = "row-fluid">
+   <div class = "span12 positionRel nav-container">
+    <ul class = "nav nav-pills">
+     <li class = "">
+      <a class="notshowing" href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/" id="home">
+       Home
+      </a>
+     </li>
+     <li class = "">
+      <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/leistungen/">
+       Services
+      </a>
+     </li>
+     <li class = "active">
+      <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/kontakt/">
+       Contact
+      </a>
+     </li>
+     <! - Zuebhoer ->
+    </ul>
+    <div class = "ironmark-fixed">
+     <a href="https://www.asp-24.de" target="_blank">
+      <img alt = "Logo" src = "https://www.asp24-partner.de/img/logo/logo.png" />
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div class = "hidden-phone" id = "postnav">
+</div>
+<script type = "text / javascript">
+ function inherit_nav_height () {
+//console.log ($ ('# topnav_container'). height ());
+}
+
+$ (). ready (function () {
+var count_nav_lelements = $ ('. navPanel.hidden-phone .nav-pills> li'). length;
+if (count_nav_lelements> 6) {
+// $ ('# home'). html ('<img src = "img / home_icon.png" style = "margin-top: -6px">');
+$ ('# home'). html ('<span id = "home-icon"> </span>');
+// $ ('# home'). html ('');
+// $ ('# home'). addClass ('homeicon');
+}
+$ ('# home'). removeClass ('notshowing');
+});
+</script>
+<div class = "container-fluid whiteBox mainPage subPage contact form mainContainer">
+ <div class = "row-fluid">
+  <div class = "span12">
+   <h1>
+    Contact
+   </h1>
+   <div class = "alert alert-success response-success">
+    Your message has been sent. Thank you!
+   </div>
+   <div class = "alert alert-danger response-danger">
+    An error has occurred. Please try again!
+   </div>
+   <form action = "" class = "form-horizontal" id = "contact form" method = "post">
+    <input name = "time" type = "hidden" value = "1604828116" />
+    <input name = "url" type = "hidden" value = "" />
+    <Input name = "contact mail" type = "hidden" value = "29a3529fdae0abb1306d00766393ed117440fa29a4f61b2687bbe82caa08dead260822e8db3544ebba7126f9cca45656336399df7e13162599d17aab901be7066PEudHUlYhi7eOvkyQ6ABWCKGW9gyD9BJLA3D1OEQEnZB2mVHbxqjniAmrUG" />
+    <div class = "row-fluid">
+     <div class = "span6">
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        Surname*
+       </label>
+       <div class = "controls">
+        <input id = "inputName" name = "name" placeholder = "Name" required = "" type = "text" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputPassword">
+        E-mail*
+       </label>
+       <div class = "controls">
+        <input id = "inputEmail" name = "email" placeholder = "E-mail" required = "" type = "email" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputPassword">
+        Phone*
+       </label>
+       <div class = "controls">
+        <input id = "inputTelephone" name = "telephone" placeholder = "Telephone" required = "" type = "text" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputCommends">
+        Message*
+       </label>
+       <div class = "controls">
+        <textarea id = "inputCommends" name = "commends" required = "" rows = "6"> </textarea>
+       </div>
+      </div>
+     </div>
+     <div class = "span6">
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        Services
+       </label>
+       <div class = "controls">
+        <select id = "inputService" name = "service">
+         <option value = "Inspection">
+          inspection
+         </option>
+         <option value = "Repair">
+          repair
+         </option>
+         <option value = "main inspection">
+          General inspection
+         </option>
+         <option value = "tire change">
+          Tire change / service
+         </option>
+         <option value = "Other">
+          miscellaneous
+         </option>
+        </select>
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        Vehicle (model / type)
+       </label>
+       <div class = "controls">
+        <input id = "inputCar" name = "car" placeholder = "Vehicle (model / type)" type = "text" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        Year of construction / first registration
+       </label>
+       <div class = "controls">
+        <input id = "inputCar_year" name = "car_year" placeholder = "Year of construction / first registration" type = "text" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        License plate / customer number
+       </label>
+       <div class = "controls">
+        <input id = "inputCar_plate" name = "car_plate" placeholder = "license plate / customer number" type = "text" />
+       </div>
+      </div>
+      <div class = "control-group">
+       <label class = "control-label" for = "inputEmail">
+        Mileage
+       </label>
+       <div class = "controls">
+        <input id = "inputCar_km" name = "car_km" placeholder = "Mileage" type = "text" />
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "row-fluid">
+     <div class = "span6 hidden-phone">
+     </div>
+     <div class = "span6">
+      <div class = "controls" style = "max-width: 271px; text-align: right">
+       <button class = "btn btn-primary" id = "submit_kontaktform" type = "submit">
+        Submit
+       </button>
+      </div>
+     </div>
+    </div>
+    <div class = "row-fluid">
+     <div class = "span12">
+      <p>
+       * are required fields
+      </p>
+     </div>
+    </div>
+   </form>
+  </div>
+ </div>
+</div>
+<script>
+ $ (document) .ready (function () {
+
+  var errors = 0;
+  var theForm = $ ('# contact form');
+
+// Validate form
+        theForm.validate ({
+           rules: {
+           onfocusout: true,
+           onkeyup: true,
+           onclick: true,
+           focusInvalid: true,
+           required: true,
+              email: {
+                required: true,
+                email: true
+              }
+            },
+          errorPlacement: function (error, element) {
+          },
+          invalidHandler: function (event, validator) {
+// 'this' refers to the form
+errors = validator.numberOfInvalids ();
+
+$ (validator.errorList) .each (function () {
+$ (this.element) .closest ('. control-group'). addClass ('error');
+});
+
+$ (validator.successList) .each (function () {
+$ (this) .closest ('. control-group'). removeClass ('error');
+});
+
+
+}
+
+        });
+
+        // validator instance
+var validator = $ ("#contactform") .validate ();
+
+//Submit
+$ ('# submit_kontaktform'). click (function (e) {
+e.preventDefault ();
+$ ('. control-group'). removeClass ('error');
+errors = 0;
+validator.form ();
+
+if (errors == 0) {// submit the form
+var url = frontend_base_url + 'contact_form /';
+$ .post (url, theForm.serialize (), function (data) {
+
+// reset spam filter
+var now = new Date (). getTime () / 1000;
+now = now.toFixed ();
+$ ('[name = "time"]') .val (now);
+
+$ ('. control-group'). removeClass ('error');
+if (data.response! = 'ok') {
+$ ('. response-success'). hide ();
+$ ('. response-danger'). fadeIn ();
+} else {
+$ (theForm) [0] .reset ();
+$ ('. response-danger'). hide ();
+$ ('. response-success'). fadeIn ();
+}
+
+}, 'json');
+}
+});
+
+
+  });
+</script>
+<div id = "footerWrap">
+ <footer class = "container-fluid">
+  <div class = "row-fluid footerBar">
+   <div class = "span12">
+    <div class = "navbar">
+     <div class = "navbar-inner">
+      <div class = "container">
+       <! - Everything you want hidden at 940px or less, place within here ->
+       <div class = "nav-collapse collapse in navFooter">
+        <ul class = "nav">
+         <li>
+          <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/impressum/" title="Impressum">
+           imprint
+          </a>
+         </li>
+         <li>
+          <a href="https://www.asp24-partner.de/de/msm-motorenservice-mueller/datenschutz/" title="Data protection and legal information">
+           Data protection and legal notices
+          </a>
+         </li>
+         <li>
+          <a href="https://www.asp-24.de" target="_blank" title="www.asp-24.de">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </footer>
+</div>
+www.asp-24.de
+<div class = "pull-right">
+ Copyright 2020
+ <a class="ironmark" href="https://www.asp-24.de" target="_blank">
+  <img alt = "Logo" src = "https://www.asp24-partner.de/img/logo/logo.png" />
+ </a>
+</div>
+<! - modal-gallery is the modal dialog used for the image gallery ->
+<div class = "modal modal-gallery hide" id = "modal-gallery">
+ <div class = "modal-header">
+  <a class="close" data-dismiss="modal">
+   ×
+  </a>
+  <h3 class = "modal-title">
+  </h3>
+  <h3 class = "modal-subtitle">
+  </h3>
+ </div>
+ <div class = "modal-body">
+  <div class = "modal-image">
+  </div>
+ </div>
+ <div class = "modal-footer">
+  <a class="btn btn-primary btn-mini modal-prev">
+   <i class = "icon-arrow-left icon-white">
+   </i>
+   back
+  </a>
+  <a class="btn btn-primary btn-mini modal-next">
+   in front
+   <i class = "icon-arrow-right icon-white">
+   </i>
+  </a>
+ </div>
+</div>
+<! - scroll up icon ->
+<div class = "scroll-up">
+ <a href="#top">
+  <i class = "icon-chevron-up icon-white">
+  </i>
+ </a>
+</div>

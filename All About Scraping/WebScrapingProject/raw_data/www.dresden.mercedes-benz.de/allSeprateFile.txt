@@ -1,0 +1,6173 @@
+<! DOCTYPE html>
+<! - [if lt IE 7]> <html class = "nc-no-js nc-ie nc-ie6 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE 7]> <html class = "nc-no-js nc-ie nc-ie7 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE 8]> <html class = "nc-no-js nc-ie nc-ie8 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE]> <html class = "nc-no-js nc-ie nc-oldie special-styles-de"> <! [endif] ->
+<! - [if gt IE 8]> <! ->
+<html class = "nc-no-js no-svg special-styles-de" lang = "de">
+ <! - <! [endif] ->
+ <head>
+  <script>
+   window ['adrum-start-time'] = new Date (). getTime ();
+  </script>
+  <script src = "// places.mercedes-benz.com/eMB-Retail-PROD-Publish/adrum.js">
+  </script>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1.0, user-scalable = no" name = "viewport" />
+  <meta content = "index, follow" name = "robots" />
+  <title>
+   Mercedes-Benz - cars - vans - trucks - new cars - used cars
+  </title>
+  <meta content = "STAR CAR, Mercedes, Mercedes-Benz, new cars, used cars, trucks, cars, vans, vans, motorhomes, repair, maintenance, service, sales" http-equiv = "keywords" />
+  <meta content = "Mercedes-Benz STAR CAR cars, vans, motorhomes, trucks, commercial vehicles" http-equiv = "description" />
+  <meta content = "UA-80445512-1" name = "google-site-verification">
+   <! - <link rel = "canonical" href = '// www.mercedes-benz-sternauto.de/content/deutschland/retail-plz0/sternauto/de/desktop/home.html' /> ->
+   <link href = "// www.mercedes-benz-sternauto.de/de/desktop/home.html" rel = "canonical" />
+   <style type = "text / css">
+    @ font-face {
+    font-family: "Corporate S Regular";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+@ font-face {
+    font-family: "Corporate A Condensed";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+@ font-face {
+    font-family: "Corporate S Bold";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+   </style>
+   <link href = "/ etc / designs / embcms / style / vendor.1580375489613.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / utils.1580375489616.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / font.1580375489619.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / icon.1596091407432.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / common.1580375489625.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / base / publish.1596091407461.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / retail-widescreen / publish.1601533751478.css" rel = "stylesheet" type = "text / css" />
+   <link href = "/ etc / designs / embcms / style / retail / publish.1601533751465.css" rel = "stylesheet" type = "text / css" />
+   <script src = "/ etc.clientlibs / clientlibs / granite / jquery.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / vendor.1601533751401.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / polyfill.1580375488664.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / window.1580375488667.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / utils.1601533751321.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / service.1601533751335.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / ui.1580375488689.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / storage.1580375488682.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / base / publish.1601533751407.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / service-widescreen.1596091407389.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / retail-widescreen / publish.1601533751440.js" type = "text / javascript">
+   </script>
+   <script src = "/ etc / designs / embcms / script / retail / publish.1601533751425.js" type = "text / javascript">
+   </script>
+   <link href = "/ de / desktop / home.mblogo.css" rel = "stylesheet" type = "text / css" />
+   <link href = "https://js.api.here.com/v3/3.1/mapsjs-ui.css" rel = "stylesheet" type = "text / css">
+    <script src = "// assets.adobedtm.com/launch-ENc8175b642c2b458c9711b0796796f8e1.min.js">
+    </script>
+    <script type = "text / javascript">
+     digitalData_aem = {};
+        digitalData_aem.site = {};
+        digitalData_aem.site.siteInfo = {};
+        digitalData_aem.page = {};
+        digitalData_aem.page.pageInfo = {};
+        digitalData_aem.page.category = {};
+        digitalData_aem.page.attributes = {};
+        digitalData_aem.page.attributes.contactForms = {};
+    </script>
+    <script>
+     if (window.nc === undefined) {
+            window.nc = {};
+        }
+        nc.validLanguages ​​= ['de'];
+    </script>
+   </link>
+  </meta>
+ </head>
+ <body class = "workbench">
+  <noscript>
+  </noscript>
+  <! - Cookie Layer ->
+  <div>
+   <div class = "layer-black-complete cookie-layer-hidden">
+   </div>
+   <div class = "cookie-layer cookie-layer-hidden">
+    <div class = "mp-legal mp-cookielayer" data-expires = "1333135" data-language = "de">
+     <div class = "mp-cookielayer-content mp-cookielayer-parsys">
+      <div>
+       <div>
+        <p class = "mp-cookielayer-headline">
+         We use cookies
+        </p>
+        <p class = "mp-cookielayer-description">
+        </p>
+        <p class = "mp-cookielayer-description">
+         We want to make our website more user-friendly and continuously improve it. If you continue to use the website, you consent to the use of cookies.
+        </p>
+        <div class = "btn btn-agree" data-goi-active = "false" id = "btn-agree">
+         <a class="btn-link">
+          I Agree
+         </a>
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         <a href = "/ de / content-pool / legal-links / cookie-info.html" id = "mpCookieLayerOpenCookieInfoLink" onclick = "javascript: eMB.retail.publish.component.cookie.CookieLayer.prototype.openCookieInformation (this) ; return false; " target = "_ blank">
+          Further information can be found in the cookie information
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class = "mp-cookielayer-content mp-cookielayer-infolink">
+     </div>
+    </div>
+   </div>
+   <script>
+    document.addEventListener ('DOMContentLoaded', function () {
+                const cookieInstance = eMB.retail.publish.component.cookie.CookieLayer.instance;
+                if (cookieInstance) {
+                    cookieInstance.init ();
+                }
+            });
+   </script>
+  </div>
+  <div class = "container" id = "nc-globalWrap">
+   <header class = "header u-cf position-absolute position-md-relative">
+    <a href="/">
+     <div class = "tm-container">
+      <img alt = "Mercedes-Benz" class = "mb-star svg" src = "/ etc / designs / embcms / images / icon / mblogo / MB-star_n_web.svg" />
+      <div class = "mb-star no-svg">
+      </div>
+      <div class = "claim-container">
+       <img class = "mb-claim svg de" src = "/ etc / designs / embcms / images / icon / mblogo / claim.svg" />
+       <img class = "mb-claim svg en" src = "/ etc / designs / embcms / images / icon / mblogo / claim.svg" />
+       <div class = "mb-claim no-svg">
+       </div>
+      </div>
+     </div>
+    </a>
+    <div class = "header-contact">
+     <span class = "header-contact-top">
+      <a data-layertitle = "Provider and data protection" href = "javascript: void (0);" id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false)">
+       <div id = "metanav">
+        <span id = "metanav-i">
+        </span>
+        <div class = "desktop-only">
+         Provider and data protection
+        </div>
+       </div>
+      </a>
+      <div class = "language-switcher">
+      </div>
+     </span>
+     <div class = "header-contact-lower-container">
+      <div class = "header-contact-text-container">
+       <a href="/de/desktop/home.html">
+        <span class = "header-contact-slogan">
+         Stern Auto GmbH
+        </span>
+        <span class = "header-contact-tel">
+         Phone: 0800-3778377
+        </span>
+       </a>
+      </div>
+      <div class = "header-contact-logo-container">
+       <div>
+        <div class = "global-image-tab-renderer-wrapper">
+         <div class = "global-image-tab-renderer-inner-wrapper">
+          <img src = "/ content / dam / deutschland / retailer / retail-plz0 / sternauto / Logo / sternauto-logo-180x36.png.asset.9qDcRANSlWpx-8or7HShDZa_9KP2XQ4HIJnrQP2NAjY.png" />
+          <div class = "nc-dark caption-text-position-left">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class = "abstractcomponent welcomearea">
+    <div class = "cf">
+     <section class = "hero">
+      <div class = "hero-image">
+       <div class = "global-image-tab-renderer-wrapper">
+        <div class = "global-image-tab-renderer-inner-wrapper">
+         <img src = "/ content / dam / deutschland / retailer / retail-plz0 / sternauto / Allgemein / groesster-mb -repreter-1000x348.jpg.asset.DKwMonbVXrbWlpkqzBItqMZ02E0KNolyLBgBiMe0vF0.jpg" />
+         <div class = "nc-light caption-text-position-right">
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section class = "intro bg-white">
+      <div class = "l-inner">
+       <span class = "u-line">
+       </span>
+       <h2 class = "intro-title">
+        Welcome to STERNAUTO.
+       </h2>
+       <p>
+        Vehicle type selection:
+       </p>
+      </div>
+     </section>
+     <section class = "carousel bg-white">
+      <div class = "carousel - list js-slick u-cf">
+       <div class = "carousel - item">
+        <a href="/de/desktop/iegenger-cars.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / cars.jpg" />
+         <span class = "carousel - item - text">
+          Car
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/mpv-and-camper-vans.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / vans.jpg" />
+         <span class = "carousel - item - text">
+          Motorhomes
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/vans.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / transporters.jpg" />
+         <span class = "carousel - item - text">
+          Transporter
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/trucks.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / trucks.jpg" />
+         <span class = "carousel - item - text">
+          truck
+         </span>
+        </a>
+       </div>
+      </div>
+     </section>
+     <section class = "teaser-group">
+      <div class = "grid-3">
+       <a href="/de/desktop/about-us/contact.html">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Contact" src = "/ etc / designs / embcms / images / retail / component / welcomearea / modules / contact_default.jpg" />
+          <h2>
+           Contact
+          </h2>
+         </div>
+        </div>
+       </a>
+       <a href = "https://vehiclesearch.mercedes-benz.com/#/de/de/u/used-vehicles/s/search-results/?gsOutletId=GS0044248&amp;companyId=GC0035171&amp;cpo=true&amp;allGsOutletIds= GS0044248% 2CGS0044249% 2CGS0044244% 2CGS0044245% 2CGS0044246% 2CGS0047059% 2CGS0047060% 2CGS0044250% 2CGS0047056% 2CGS0044252% 2CGS0044251% 2CGS0044236% 2CGS0044242% 2CGS0044237% 2CGS0044238% 2CGS0044241% 2CGS0044243% 2CGS0047055 & amp; accountID = & amp; dealer group = false "target =" _ blank ">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Configurator" src = "/ content / dam / deutschland / reference / PKW / GEBRAUCHTFAHRZEUGE / JUNGE-STERNE / mercedes-benz-young-star-amg-324x100.jpg.asset.2D7jkI1ZJdc9MCY_SgG8u3KB8NxjvEE. />
+          <h2>
+           Used vehicle search.
+          </h2>
+         </div>
+        </div>
+       </a>
+       <a href="/de/desktop/iegenger-cars/actions/offers-new-cars/edition-2020-sondermodelle.html">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Vehicle-Search" src = "/ content / dam / deutschland / reference / PKW / FINANZDIENSTE / AKTIONEN / EDITION2020 / mercedes-benz-aktionen-cla-range-324x100.jpg.asset.6Kk59L1uuv2IHBuwrKToxm001SujcKAraOwuhRVN" >
+          <h2>
+           The EDITION 2020.
+          </h2>
+         </div>
+        </div>
+       </a>
+      </div>
+     </section>
+     <script type = "text / javascript">
+      jQuery (document) .ready (function () {
+            var welcomeAreaConfig = {
+                'slidesToShow': 4
+            };
+            var welcomeAreaInstance = new eMB.retail.publish.component.welcomearea.WelcomeArea (welcomeAreaConfig);
+            welcomeAreaInstance.init ();
+        });
+     </script>
+    </div>
+   </div>
+   <div class = "abstractcomponent seocolumncontrol">
+    <div class = "seo-column-group">
+     <section class = "nc-three-columns columns cf">
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            Mercedes-Benz STAR CAR
+           </p>
+           <p>
+            With 18 locations, STERNAUTO is your Mercedes ‐ Benz partner for Dresden, Erfurt, Leipzig, Magdeburg, Rostock and Schwerin. Sales and service for cars, vans & amp; You can also find trucks in your area.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            Car Sales & amp; service
+           </p>
+           <p>
+            Mercedes-Benz passenger cars, new and used vehicles of all series, from A-Class, B-Class, CLA, GLA, C-Class, GLC, GLE, CLS, E-Class, SLC, GLS to V-Class and X- Class as well as AMG - the pulse rises here ...
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            Vans / Vans / Trucks - Sales & amp; service
+           </p>
+           <p>
+            Citan, Vito, Sprinter, Actros, Atego, Axor ... all strong and reliable Mercedes-Benz types from the commercial vehicles category. TruckWorks and CharterWay are on standby for your fleet around the clock. Ask us!
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+   </div>
+   <div class = "nc-clear">
+   </div>
+   <footer class = "container">
+    <section>
+     <ul class = "breadcrumb cf">
+      <span xmlns: v = "http://rdf.data-vocabulary.org/#">
+       <li typeof = "v: Breadcrumb">
+        <a href = "https://www.mercedes-benz-sternauto.de/content/deutschland/retail-plz0/sternauto/de/desktop/home.html" property = "v: title" rel = "v: url "title =" Stern Auto GmbH ">
+         Home page
+        </a>
+       </li>
+       <li>
+        »
+       </li>
+       <li typeof = "v: Breadcrumb">
+        <span property = "v: title">
+         Home
+        </span>
+       </li>
+      </span>
+     </ul>
+    </section>
+    <section class = "information">
+     <div class = "information-wrapper row">
+      <div class = "col-sm-12 col-md-3">
+       <div class = "footer-contact-wrapper">
+        <h4 class = "h6 title">
+         Stern Auto GmbH
+        </h4>
+        <ul class = "contact-phone">
+         <li>
+          Original parts:
+          <span data-tel = "08003778377">
+           <a href="tel:08003778377">
+            0800-3778377
+           </a>
+          </span>
+         </li>
+         <li>
+          Service:
+          <span data-tel = "08003778377">
+           <a href="tel:08003778377">
+            0800-3778377
+           </a>
+          </span>
+         </li>
+         <li>
+          E-mail:
+          <a href="mailto:leipzig@sternauto.de">
+           leipzig@sternauto.de
+          </a>
+         </li>
+        </ul>
+        <ul class = "social-icons">
+         <li>
+          <a href="https://www.instagram.com/mercedesbenz_sternauto/" target="_blank" title="Instagram">
+           <i class = "icon-instagram">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div id = "footer-opening-times-wrapper">
+        <section id = "footer-location-opening-times-wrapper">
+        </section>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div>
+        <h4 class = "h6 title">
+         How to find us
+        </h4>
+        <section id = "footer-location-address-wrapper">
+        </section>
+        <a class="all-locations-link" href="/de/desktop/about-us/locations.html">
+         <i class = "icon-mb_ico_arr_thin_right">
+         </i>
+         All locations
+        </a>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div class = "footer-location-component footer-location-wrapper">
+        <div>
+         <script type = "text / javascript">
+          digitalData_aem = digitalData_aem || {};
+       digitalData_aem.components = digitalData_aem.components || [];
+       digitalData_aem.components.component = digitalData_aem.components.component || [];
+       digitalData_aem.components.component [0] = {
+           headline: "",
+           image: "no",
+           position: "footer",
+           fillerType: "nofiller",
+           eyecatcherText: "no",
+           type: "footer",
+           data_analytics_aem_linkname: "All locations",
+           data_analytics_aem_linkposition: "footer",
+           data_analytics_aem_linkdestionationURL: "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations.html",
+           data_analytics_aem_component_id: "0",
+           data_analytics_aem_component_conversion: "locations",
+       };
+         </script>
+        </div>
+        <section class = "footer-dealer-dropdown" id = "footer-location-label-wrapper">
+        </section>
+        <section class = "footer-location-dealer-selection-wrapper wb-e-dropd-2">
+         <select autocomplete = "off" class = "wb-e-dropd-2__select footer-location-dealer-selection" id = "footer-location-dealer-selection" name = "footerLocationSelection">
+         </select>
+        </section>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class = "container-fluid footer-legal cf">
+     <div class = "row no-gutters">
+      <div class = "col-sm-12 col-md-8 push-md-4 float-right footer-legal-links-wrapper">
+       <nav class = "footer-legal-links">
+        <ul class = "float-right">
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0sternautodecontent-poollegal-links-provider identification" data-nc -layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / sternauto / de / content-pool / legal-links / vendor identification.content.html? wcmmode = disabled" href = "javascript: void (0);" id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false)" title = "Provider">
+           providers
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0sternautodecontent-poollegal-linkscookie-info" data -nc-layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / sternauto / de / content-pool / legal-links / cookie-info.content.html? wcmmode = disabled "data-page-type =" cookieinfo "href =" javascript: void (0); " id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Cookies">
+           Cookies
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0sternautodecontent-poollegal-linksdatenschutz" data-nc -layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / sternauto / de / content-pool / legal-links / datenschutz.content.html? wcmmode = disabled" data- page-type = "legal links" href = "javascript: void (0);" id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Privacy Policy">
+           Data protection
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0sternautodecontent-poollegal-linksrechtliches" data-nc -layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / sternauto / de / content-pool / legal-links / legal.content.html? wcmmode = disabled" data- page-type = "legal links" href = "javascript: void (0);" id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Legal information">
+           Legal Notice
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class = "col-sm-12 col-md-4 pull-md-8 footer-legal-copyright-wrapper">
+       <section class = "footer-legal-copyright">
+        ©
+        <p>
+         Copyright 2020. Mercedes-Benz AG.
+        </p>
+       </section>
+      </div>
+     </div>
+    </section>
+   </footer>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-core.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-service.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-ui.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-mapevents.js" type = "text / javascript">
+   </script>
+   <script data-map-id = "uxAiiT-PoxubYL-Dn_rsUN8unsAcIlXt9bO3ToWoAVo">
+    document.addEventListener ('DOMContentLoaded', function () {
+        var footerManager = new eMB.retail.publish.component.footer.FooterManager ({
+  "id": "150f8c9e_2c9e_4fae_a1da_9a49718c8786",
+  "labels": {"location": {
+    "locationOpen": "Open now",
+    "locationClosed": "Now closed",
+    "closed": "Closed",
+    "description": "Choose a branch:",
+    "headline": "Dealer selection",
+    "moreDetails": "More details",
+    "locationDetailsLinkText": "All details about the location",
+    "phonePrefix": "Tel",
+    "openingTimesHeadline": "General opening times",
+    "generalOpeningTimesHeadline": "General opening times",
+    "fr": "Friday",
+    "su": "Sunday",
+    "mo": "Monday",
+    "sa": "Saturday",
+    "we": "Wednesday",
+    "th": "Thursday",
+    "do": "Tuesday"
+    }},
+  "map": {
+    "iso3CountryCode": "deu",
+    "isMapDisabled": true
+    },
+  "retailer": [
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "0341 2585-0",
+      "city": "Leipzig",
+      "street": "Torgauer Straße 333",
+      "postalCode": "04347",
+      "latitude": "12.466519",
+      "longitude": "51.369682"
+      },
+    "gsNumber": "GS0044248",
+    "isMainRetailer": true,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669913",
+    "name": "LEIPZIG - Torgauer Str.",
+    "contactInformation": {
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "leipzig@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "16:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "17:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "ServiceLKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "23:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "17:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service LKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "0341 2585-0",
+      "city": "Leipzig",
+      "street": "Richard-Lehmann-Straße 120",
+      "postalCode": "04277",
+      "latitude": "12.397436",
+      "longitude": "51.314415"
+      },
+    "gsNumber": "GS0044249",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669914",
+    "name": "LEIPZIG - Richard-Lehmann-Str.",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "leipzig@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "ServicePKWundsmart": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service cars and smart"
+        },
+      "ServiceTransporter (only Citan, Vito, V-Class)": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter (only Citan, Vito, V-Class)"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 2822 0",
+      "city": "Dresden",
+      "street": "Fritz-Meinhardt-Straße 1",
+      "postalCode": "01239",
+      "latitude": "13.793386",
+      "longitude": "51.000782"
+      },
+    "gsNumber": "GS0044244",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669909",
+    "name": "DRESDEN - Fritz-Meinhardt-Str.",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "dresden@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "16:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "16:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 2822 870",
+      "city": "Kesselsdorf",
+      "street": "Zum Stern 2",
+      "postalCode": "01723",
+      "latitude": "13.588181",
+      "longitude": "51.041298"
+      },
+    "gsNumber": "GS0044245",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669910",
+    "name": "DRESDEN - Commercial Vehicle Center Kesselsdorf",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "dresden@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "06:30",
+            "end": "22:30"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "06:30",
+            "end": "22:30"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "06:30",
+            "end": "22:30"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "06:30",
+            "end": "22:30"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "06:30",
+            "end": "22:30"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "07:00",
+            "end": "15:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "SaleUsed vehicles": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale of used vehicles"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "15:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "ServiceLKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "15:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service LKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        },
+      "Charterway rental": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Charterway rental"
+        },
+      "Charterway vehicle pick-up / return": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "22:30"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "15:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Charterway vehicle pick-up / return"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 2822 270",
+      "city": "Dresden",
+      "street": "Zwickauer Straße 75 - 77",
+      "postalCode": "01187",
+      "latitude": "13.709564",
+      "longitude": "51.034836"
+      },
+    "gsNumber": "GS0044246",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669911",
+    "name": "DRESDEN - Zwickauer Str.",
+    "contactInformation": {
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "dresden@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original parts & accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 2822 494",
+      "city": "Radebeul",
+      "street": "in the Hahn & Schmidt car dealership, Meißner Straße 381,",
+      "postalCode": "01445",
+      "latitude": "13.615122",
+      "longitude": "51.113213"
+      },
+    "gsNumber": "GS0047059",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03672117",
+    "name": "DRESDEN - Showroom Radebeul",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377"
+      },
+    "email": "dresden@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "18:30"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "18:30"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "18:30"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "18:30"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "18:30"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {"SalesPar": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "13:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        },
+      "label": "Sale cars"
+      }}
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 2822 437",
+      "city": "Ottendorf-Okrilla",
+      "street": "at Auto Schreyer, Bergener Ring 1 - 3,",
+      "postalCode": "01458",
+      "latitude": "13.841503",
+      "longitude": "51.177002"
+      },
+    "gsNumber": "GS0047060",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03672118",
+    "name": "DRESDEN - Showroom Ottendorf-Okrilla",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377"
+      },
+    "email": "dresden@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "13:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {"SalesPar": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "09:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "13:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        },
+      "label": "Sale cars"
+      }}
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 391 72950",
+      "city": "Magdeburg",
+      "street": "Am Großen Silberberg 3",
+      "postalCode": "39130",
+      "latitude": "11.571414",
+      "longitude": "52.170849"
+      },
+    "gsNumber": "GS0044250",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669915",
+    "name": "MAGDEBURG - Am Großen Silberberg",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "magdeburg@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "08:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "16:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": [{
+            "start": "09:00",
+            "end": "16:00"
+            }]
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "06:15",
+              "end": "14:30"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "ServiceLKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:15",
+              "end": "22:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "06:15",
+              "end": "14:30"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service LKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original parts & accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 391 7295 199",
+      "city": "Magdeburg",
+      "street": "Auto-Krumey GmbH & Co. KG, Carnotstraße 1",
+      "postalCode": "39120",
+      "latitude": "11.622739",
+      "longitude": "52.08057"
+      },
+    "gsNumber": "GS0047056",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03672116",
+    "name": "MAGDEBURG - Showroom Carnotstr.",
+    "contactInformation": {"New vehicles": "0800-3778377"},
+    "email": "magdeburg@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "09:00",
+            "end": "17:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "09:00",
+            "end": "17:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "09:00",
+            "end": "17:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "09:00",
+            "end": "17:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "09:00",
+            "end": "17:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {}
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 394 354640",
+      "city": "Wernigerode",
+      "street": "Dornbergsweg 41",
+      "postalCode": "38855",
+      "latitude": "10.785678",
+      "longitude": "51.850414"
+      },
+    "gsNumber": "GS0044252",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669917",
+    "name": "WERNIGERODE - Dornbergsweg",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "magdeburg@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "08:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "08:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "08:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "08:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "08:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": [{
+            "start": "10:00",
+            "end": "16:00"
+            }]
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "ServiceLKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service LKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:15",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original parts & accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 392 193570",
+      "city": "castle",
+      "street": "Am Erkenthierfeld",
+      "postalCode": "39288",
+      "latitude": "11.882234",
+      "longitude": "52.2757"
+      },
+    "gsNumber": "GS0044251",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669916",
+    "name": "BURG - Am Erkenthierfeld",
+    "contactInformation": {
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "magdeburg@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "07:00",
+            "end": "12:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "Service utility vehicles": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "20:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service commercial vehicles"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 381 6666 0",
+      "city": "Rostock",
+      "street": "Tessiner Straße 96",
+      "postalCode": "18055",
+      "latitude": "12.191216",
+      "longitude": "54.08073"
+      },
+    "gsNumber": "GS0044236",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669903",
+    "name": "ROSTOCK - Tessiner Str.",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "verkauf.ostsee@sternauto.de ",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "19:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "ServiceTransporter, Mon-S through": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "00:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "00:00",
+              "end": "14:15"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter, Mon - Sat continuously"
+        },
+      "Service truck, Mon-S through": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "00:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "00:00",
+              "end": "14:15"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service truck, Mon - Sat continuously"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 381 6666 450",
+      "city": "Rostock",
+      "street": "Schutower Straße 2",
+      "postalCode": "18069",
+      "latitude": "12.067731",
+      "longitude": "54.1063"
+      },
+    "gsNumber": "GS0044242",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669907",
+    "name": "ROSTOCK - Schutower Str.",
+    "contactInformation": {
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "verkauf.ostsee@sternauto.de ",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "07:00",
+            "end": "12:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "07:00",
+              "end": "12:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:30",
+              "end": "15:30"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:30",
+              "end": "15:30"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:30",
+              "end": "15:30"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:30",
+              "end": "15:30"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:30",
+              "end": "15:30"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 385 4888 0",
+      "city": "Schwerin",
+      "street": "braking distance 4",
+      "postalCode": "19057",
+      "latitude": "11.349006",
+      "longitude": "53.647167"
+      },
+    "gsNumber": "GS0044237",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669904",
+    "name": "SCHWERIN - braking distance",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377",
+      "Service": "0800-3778377",
+      "Original parts": "0800-3778377"
+      },
+    "email": "verkauf.ostsee@sternauto.de ",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SalesPKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale cars"
+        },
+      "ServicePKW": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service PKW"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "13:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 385 647740",
+      "city": "Schwerin",
+      "street": "Commercial vehicle operation; Otto-Hahn-Straße 1",
+      "postalCode": "19061",
+      "latitude": "11.378014",
+      "longitude": "53.568127"
+      },
+    "gsNumber": "GS0044238",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669905",
+    "name": "SCHWERIN - Otto-Hahn-Str.",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Service": "0800-3778377"
+      },
+    "email": "verkauf.ostsee@sternauto.de ",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "19:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "09:00",
+            "end": "14:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "SaleTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sales van"
+        },
+      "Sales truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "08:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Sale truck"
+        },
+      "ServiceTransporter, Mon-S through": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "00:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "00:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter, Mon - Sat continuously"
+        },
+      "Service truck, Mon-S through": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "00:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "00:00",
+              "end": "00:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "00:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service truck, Mon - Sat continuously"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "21:30"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "21:30"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "21:30"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "21:30"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "21:30"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "",
+      "city": "Upahl",
+      "street": "Paint & Bodywork Center, Upahl, An der Silberkuhle 3a",
+      "postalCode": "23936",
+      "latitude": "11,214",
+      "longitude": "53.82679"
+      },
+    "gsNumber": "GS0044241",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669906",
+    "name": "UPAHL - At the Silberkuhle",
+    "contactInformation": {},
+    "email": "Schwerin@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "06:00",
+            "end": "17:15"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "06:00",
+            "end": "17:15"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "06:00",
+            "end": "17:15"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "06:00",
+            "end": "17:15"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "06:00",
+            "end": "17:15"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": []
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "ServicePkw": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service car"
+        },
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "Service truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service truck"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:00",
+              "end": "17:15"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 3885 1333090",
+      "city": "Valluhn",
+      "street": "Am Heisterbusch 14",
+      "postalCode": "19246",
+      "latitude": "10.841991",
+      "longitude": "53.508774"
+      },
+    "gsNumber": "GS0044243",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03669908",
+    "name": "VALLUHN - Am Heisterbusch",
+    "contactInformation": {},
+    "email": "verkauf.ostsee@sternauto.de ",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:30",
+            "end": "18:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:30",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:30",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:30",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:30",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": []
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {
+      "ServiceTransporter": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service Transporter"
+        },
+      "Service truck": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:30",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Service truck"
+        },
+      "Original parts & accessories": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "09:00",
+              "end": "14:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            },
+          "su": {
+            "key": "su",
+            "times": []
+            }
+          },
+        "label": "Original Parts & Accessories"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 3941 6800 21",
+      "city": "Halberstadt",
+      "street": "at S & G Automobil GmbH, Am Sülzegraben 1",
+      "postalCode": "38820",
+      "latitude": "11.073895",
+      "longitude": "51.882675"
+      },
+    "gsNumber": "GS0047055",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / sternauto / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/sternauto/de/desktop/about-us/locations/location.XY03672115",
+    "name": "HALBERSTADT - Showroom Am Sülzegraben",
+    "contactInformation": {
+      "New vehicles": "0800-3778377",
+      "Used vehicles": "0800-3778377"
+      },
+    "email": "magdeburg@sternauto.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "20:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "16:00"
+            }]
+          },
+        "su": {
+          "key": "su",
+          "times": []
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {}
+    }
+  ]
+  });
+        footerManager.init ();
+    }, false);
+   </script>
+   <emb-rampup exec = "eMB.utils.icon.IconHelper.replaceSvgUseIconsInIE">
+   </emb-rampup>
+   <script>
+    document.addEventListener ('DOMContentLoaded', function () {
+    var rampupInit = setInterval (function () {
+        if (eMB && eMB.utils && eMB.utils.rampup && eMB.utils.rampup.exec) {
+            eMB.utils.rampup.exec ();
+            clearInterval (rampupInit);
+        }
+    }, 100);
+});
+   </script>
+   <script type = "text / javascript">
+    digitalData_aem = digitalData_aem || {};
+                digitalData_aem.site = {
+                                   siteInfo:
+                                   {
+                                        accountID: "dairetoneweb",
+                                        cookieLifetime: "",
+                                        language: "de",
+                                        country: "DE",
+                                        dealerName: "Stern Auto GmbH",
+                                        dealerGCID: "GC0035171",
+                                        dealerGSID: "GS0044248",
+                                        namespace: "aem",
+                                        platformType: "marketing_suite",
+                                        platform: "ret_nr",
+                                        siteType: "single",
+                                        viewport: "desktop"
+                                   }
+                };
+                digitalData_aem.page = {
+                                   pageInfo:
+                                   {
+                                        pageName: "home",
+                                        pageNameLocal: "Home",
+                                        pageTemplate: "/ apps / embcms / retail / core / templates / landing",
+                                        pageURL: document.location.origin + document.location.pathname
+                                   },
+                                   attributes:
+                                   {
+                                       contactForms:
+                                          {
+                                              isForm: ""
+                                        }
+                                   }
+                };
+   </script>
+   <script type = "text / javascript">
+    if (typeof _satellite! == 'undefined') {
+                    jQuery (document) .ready (function () {
+                        _satellite.pageBottom ();
+                        _satellite.track ("aem_pageload");
+                    });
+                }
+   </script>
+  </div>
+ </body>
+</html>

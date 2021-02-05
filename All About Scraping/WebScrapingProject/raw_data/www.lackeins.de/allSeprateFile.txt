@@ -1,0 +1,666 @@
+<! DOCTYPE html>
+<! - [if lt IE 7]> <html class = "no-js lt-ie9 lt-ie8 lt-ie7" lang = "de"> <! [endif] ->
+<! - [if IE 7]> <html class = "no-js lt-ie9 lt-ie8" lang = "de"> <! [endif] ->
+<! - [if IE 8]> <html class = "no-js lt-ie9" lang = "de"> <! [endif] ->
+<! - [if gt IE 8]> <! ->
+<html class = "no-js" lang = "de">
+ <! - <! [endif] ->
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "no-referrer" name = "referrer" />
+  <title>
+   PAINT ONE
+  </title>
+  <meta content = "index, follow" name = "robots" />
+  <link href = "// s.w.org" rel = "dns-prefetch" />
+  <script type = "text / javascript">
+   window._wpemojiSettings = {"baseUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ /13.0.0 \ / 72x72 \ /", "ext": ". png", "svgUrl ":" https: \ / \ / sworg \ / images \ / core \ / emoji \ /13.0.0 \ / svg \ / "," svgExt ":". svg "," source ": {" concatemoji ": "https: \ / \ / www.lackeins.de \ / wp-includes \ / js \ /wp-emoji-release.min.js? ver = 5.5.3"}};
+! function (e, a, t) {var r, n, o, i, p = a.createElement ("canvas"), s = p.getContext && p.getContext ("2d"); function c (e, t) {var a = String.fromCharCode; s.clearRect (0,0, p.width, p.height), s.fillText (a.apply (this, e), 0,0); var r = p.toDataURL ( ); return s.clearRect (0,0, p.width, p.height), s.fillText (a.apply (this, t), 0,0), r === p.toDataURL ()} function l (e) {if (! s ||! s.fillText) return! 1; switch (s.textBaseline = "top", s.font = "600 32px Arial", e) {case "flag": return! c ([127987,65039,8205,9895,65039], [127987,65039,8203,9895,65039]) && (! C ([55356,56826,55356,56819], [55356,56826,8203,55356,56819 ]) &&! c ([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447], [55356,57332,8203,56128,56423,8203,56128 , 56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447])); case "emoji": return! C ([55357,56424,8205,55356,57212] , [55357,56424,8203,55356,57212])} return! 1} function d (e) {var t = a.createElement ("script"); t.src = e, t.defer = t.type = "text / javascript", a.getElementsByTagName ("head") [0] .appendChild (t)} for (i = Arr ay ("flag", "emoji"), t.supports = {everything:! 0, everythingExceptFlag:! 0}, o = 0; o <i.length; o ++) t.supports [i [o]] = l (i [o]), t.supports.everything = t.supports.everything && t.supports [i [o]], "flag"! == i [o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t .supports [i [o]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag &&! t.supports.flag, t.DOMReady =! 1, t.readyCallback = function () {t.DOMReady =! 0} , t.supports.everything || (n = function () {t.readyCallback ()}, a.addEventListener? (a.addEventListener ("DOMContentLoaded", n,! 1), e.addEventListener ("load", n ,! 1)) :( e.attachEvent ("onload", n), a.attachEvent ("onreadystatechange", function () {"complete" === a.readyState && t.readyCallback ()})), (r = t.source || {}). concatemoji? d (r.concatemoji): r.wpemoji && r.twemoji && (d (r.twemoji), d (r.wpemoji)))} (window, document, window._wpemojiSettings);
+  </script>
+  <style type = "text / css">
+   img.wp-smiley, img.emoji {display: inline! important; border: none! important; box-shadow: none! important; height: 1em! important; width: 1em! important; margin: 0 .07em! important; vertical-align: -0.1em! important; background: none! important; padding: 0! important; }
+  </style>
+  <link href = "https://www.lackeins.de/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3" id = "wp-block-library-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://www.lackeins.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2" id = "contact-form-7- css "media =" all "rel =" stylesheet "type =" text / css "/>
+  <script id = "jquery-core-js" src = "https://www.lackeins.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type = "text / javascript ">
+  </script>
+  <script id = "na5108form-js-js" src = "https://www.lackeins.de/wp-content/plugins/na5108form/template/js/form.js?ver=5.5.3" type = "text / javascript ">
+  </script>
+  <link href = "https://www.lackeins.de/wp-json/" rel = "https://api.w.org/" />
+  <link href = "https://www.lackeins.de/wp-json/wp/v2/pages/41" rel = "alternate" type = "application / json" />
+  <link href = "https://www.lackeins.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+  <link href = "https://www.lackeins.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+  <meta content = "WordPress 5.5.3" name = "generator">
+   <link href = "https://www.lackeins.de/" rel = "canonical" />
+   <link href = "https://www.lackeins.de/" rel = "shortlink" />
+   <link href = "https://www.lackeins.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lackeins.de%2F" rel = "alternate" type = "application / json + oembed "/>
+   <link href = "https://www.lackeins.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lackeins.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+   <meta content = "https://simplemediacode.com/?utm_source=wp-referrer-spam-blacklist-1.2.201707101" name = "generator">
+    <script src = "https://www.lackeins.de/wp-content/themes/lackeins/5108-framework/5108-framework.js">
+    </script>
+    <link href = "https://www.lackeins.de/wp-content/themes/lackeins/5108-framework/5108-framework.css" rel = "stylesheet" />
+    <link href = "https://www.lackeins.de/wp-content/themes/lackeins/style.css?1604812884" rel = "stylesheet" />
+    <link href = "https://www.lackeins.de/wp-content/themes/lackeins/respo.css?1604812884" rel = "stylesheet" />
+   </meta>
+  </meta>
+ </head>
+ <body class = "home page-template-default page page-id-41" id = "top">
+  <div class = "container clearfix">
+   <section class = "page-header">
+    <div class = "col_2 pull-right">
+     <div class = "contact clearfix right">
+      <a href="tel:+4935165879290">
+       <i class = "icon icon-phone">
+       </i>
+       <span>
+        +49 351 - 65879290
+       </span>
+      </a>
+      <a href="mailto:info@lackeins.de">
+       <i class = "icon icon-envelope-o">
+       </i>
+       <span>
+        info@lackeins.de
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class = "clear">
+    </div>
+    <nav class = "page-navigation center">
+     <ul class = "navigation menu">
+      <li class = "page_item page-item-11 page_item_has_children">
+       <a href="https://www.lackeins.de/leistungen/">
+        Services
+       </a>
+       <ul class = "children">
+        <li class = "page_item page-item-23">
+         <a href="https://www.lackeins.de/leistungen/lackierungen/">
+          Paintwork
+         </a>
+        </li>
+        <li class = "page_item page-item-25">
+         <a href="https://www.lackeins.de/dienstleistungen/karosserieinstandsetzung/">
+          Body repairs
+         </a>
+        </li>
+        <li class = "page_item page-item-27">
+         <a href="https://www.lackeins.de/dienstleistungen/ Ersatzwagenservice/">
+          Replacement car / service
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class = "page_item page-item-15">
+       <a href="https://www.lackeins.de/unternehmen/">
+        Companies
+       </a>
+      </li>
+      <li class = "logo-item">
+       <a class="logo" href="https://www.lackeins.de/" title="Body and paintwork Jörg Pattusch: LACK EINS">
+        Body and paintwork Jörg Pattusch: LACK EINS
+        <span>
+        </span>
+       </a>
+      </li>
+      <li class = "page_item page-item-9">
+       <a href="https://www.lackeins.de/fuer-geschaeftskunden/">
+        for business clients
+       </a>
+      </li>
+      <li class = "page_item page-item-17">
+       <a href="https://www.lackeins.de/kontakt/">
+        Contact
+       </a>
+      </li>
+      <li class = "page_item page-item-199">
+       <a href="https://www.lackeins.de/jobs/">
+        Jobs
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <div class = "clear">
+    </div>
+    <a class="logo hide" href="https://www.lackeins.de/" title="Body and paintwork Jörg Pattusch: LACK EINS">
+     Body and paintwork Jörg Pattusch: LACK EINS
+     <span>
+     </span>
+    </a>
+   </section>
+   <section class = "page-document" role = "document">
+    <section class = "page-content clearfix" role = "main">
+     <header class = "content-header">
+      <div class = "list-content style-startslider clearfix">
+       <div class = "hentry">
+        <h1>
+         <strong>
+          Brilliant results
+         </strong>
+         For
+         <br/>
+         Quality conscious
+        </h1>
+        <p>
+         Quality arises when a wealth of experience and a spirit of innovation meet. You get that from LACK EINS in Dresden at a fair price.
+        </p>
+       </div>
+       <ul class = "startslider-navigation">
+        <li>
+         <a href="https://www.lackeins.de/leistungen/lackierungen/">
+          Paintwork
+         </a>
+        </li>
+        <li>
+         <a href="https://www.lackeins.de/dienstleistungen/karosserieinstandsetzung/">
+          body
+         </a>
+        </li>
+        <li>
+         <a href="https://www.lackeins.de/dienstleistungen/ Ersatzwagenservice/">
+          service
+         </a>
+        </li>
+       </ul>
+      </div>
+      <a class="scrollTo" href="#beginContent" id="scrollDown">
+       <i class = "icon icon-angle-down">
+       </i>
+      </a>
+     </header>
+     <span id = "beginContent">
+     </span>
+     <h2>
+      Our services
+     </h2>
+     <p>
+      At LACK EINS you get brilliant services for bodywork and paintwork. And eyes shining with our service.
+     </p>
+     <div class = "list-content style-icon-column clearfix">
+      <article class = "post-23 page type-page status-publish has-post-thumbnail hentry col_3">
+       <span class = "lackeins-icon spraygun">
+       </span>
+       <h3>
+        Paintwork
+       </h3>
+       <p>
+        Brilliant ideas for color enthusiasts
+       </p>
+       <p>
+        <a href="https://www.lackeins.de/leistungen/lackierungen/" title="Lackierungen">
+         learn more
+         <i class = "icon icon-angle-right">
+         </i>
+        </a>
+       </p>
+      </article>
+      <article class = "post-25 page type-page status-publish has-post-thumbnail hentry col_3">
+       <span class = "lackeins-icon wrench">
+       </span>
+       <h3>
+        Body repairs
+       </h3>
+       <p>
+        Shiny solutions for perfect shapes
+       </p>
+       <p>
+        <a href="https://www.lackeins.de/dienstleistungen/karosserieinstandsetzung/" title="Karosserieinstandsetzung">
+         learn more
+         <i class = "icon icon-angle-right">
+         </i>
+        </a>
+       </p>
+      </article>
+      <article class = "post-27 page type-page status-publish has-post-thumbnail hentry col_3">
+       <span class = "lackeins-icon car">
+       </span>
+       <h3>
+        Replacement car / service
+       </h3>
+       <p>
+        Brilliant organization for worry-free processing
+       </p>
+       <p>
+        <a href="https://www.lackeins.de/dienstleistungen/ Ersatzwagenservice/" title="Ersatzwagen/Service">
+         learn more
+         <i class = "icon icon-angle-right">
+         </i>
+        </a>
+       </p>
+      </article>
+     </div>
+     <h2>
+      Insights
+     </h2>
+     <div class = "list-content style-imageblock clearfix">
+      <article class = "post-109 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/ Ersatzwagenservice" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Service-Schlepper-484x320-450x297.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         As ordered and picked up immediately. Our tractor brings your vehicle safely to the workshop.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/dienstleistungen/ Ersatzwagenservice">
+          more about replacement cars / service
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+      <article class = "post-105 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/lackierungen/" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Lackierungen-Lackierung-484x320-450x297.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         Dance of the painter - with the right swing, the paint is properly applied and everything shines.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/leistungen/lackierungen/">
+          more about paintwork
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+      <article class = "post-106 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/karosserieinstandsetzung/" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Karosserieinstandsetzung-Miracle-484x320-450x297.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         Although our body technology is called “Miracle”, our know-how is no wonder. It's craftsmanship.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/leistungen/karosserieinstandsetzung/">
+          more about body repairs
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+      <article class = "post-108 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/karosserieinstandsetzung/" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Karosserieinstandsetzung-Schweissen-484x320-450x297.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         Not sewn on the edge - your vehicle receives stable connections with the latest welding technology.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/leistungen/karosserieinstandsetzung/">
+          more about body repairs
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+      <article class = "post-104 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/lackierungen/" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Lackierung-450x359.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         Not for color blind people - years of experience and the most modern mixing computers find the right tone.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/leistungen/lackierungen/">
+          more about paintwork
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+      <article class = "post-54 insights type-insights status-publish has-post-thumbnail hentry col_3" data-href = "http://www.lackeins.de/leistungen/lackierungen/" style = "background-image: url (https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Lackierungen-Vorbereitung-484x320-450x297.jpg) ">
+       <div class = "slideUp">
+        <h3 class = "likeh5">
+         The basis of the perfect painting: a surface so firm and smooth that you want to paint over it.
+        </h3>
+        <p>
+         <a href="http://www.lackeins.de/leistungen/lackierungen/">
+          more about paintwork
+          <i class = "icon icon-angle-right">
+          </i>
+         </a>
+        </p>
+       </div>
+      </article>
+     </div>
+     <h2>
+      We are here for you!
+     </h2>
+     <p>
+      The LACK EINS team takes care of your worries and wishes - quickly and easily.
+     </p>
+     <div class = "list-content style-slider clearfix">
+      <ul class = "slider">
+       <li>
+        <article class = "post-420 employee type-employee status-publish hentry">
+         <h3>
+          Anett Pattusch
+         </h3>
+         <small>
+          Manager
+         </small>
+         <p>
+          Your vehicle is in good hands with us.
+         </p>
+         <ul class = "inline">
+          <li>
+           <a class="lackeins-roundicon" href="tel:+49351658792925" title="+49 351 / 658792925">
+            <i class = "icon icon-phone">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="lackeins-roundicon" href="mailto:info@lackeins.de">
+            <i class = "icon icon-envelope-o">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </article>
+       </li>
+       <li>
+        <article class = "post-40 employee type-employee status-publish hentry">
+         <h3>
+          Kerstin Kruger
+         </h3>
+         <small>
+          assistance Management
+         </small>
+         <p>
+          Welcome to Lack EINS!
+         </p>
+         <ul class = "inline">
+          <li>
+           <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+            <i class = "icon icon-phone">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="lackeins-roundicon" href="mailto:info@lackeins.de">
+            <i class = "icon icon-envelope-o">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </article>
+       </li>
+       <li>
+        <article class = "post-44 employee type-employee status-publish hentry">
+         <h3>
+          Stefan Kläwer
+         </h3>
+         <small>
+          Operations manager and master painting
+         </small>
+         <p>
+          Your vehicle is in good hands with us
+         </p>
+         <ul class = "inline">
+          <li>
+           <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+            <i class = "icon icon-phone">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="lackeins-roundicon" href="mailto:info@lackeins.de">
+            <i class = "icon icon-envelope-o">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </article>
+       </li>
+       <li>
+        <article class = "post-45 employee type-employee status-publish hentry">
+         <h3>
+          Oliver Pope
+         </h3>
+         <small>
+          Painting master
+         </small>
+         <p>
+          Your vehicle is in good hands with us
+         </p>
+         <ul class = "inline">
+          <li>
+           <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+            <i class = "icon icon-phone">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="lackeins-roundicon" href="mailto:info@lackeins.de">
+            <i class = "icon icon-envelope-o">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </article>
+       </li>
+       <li>
+        <article class = "post-98 employee type-employee status-publish hentry">
+         <h3>
+          Heiko Zimmermann
+         </h3>
+         <small>
+          Body master
+         </small>
+         <p>
+          Your vehicle is in good hands with us.
+         </p>
+         <ul class = "inline">
+          <li>
+           <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+            <i class = "icon icon-phone">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a class="lackeins-roundicon" href="mailto:info@lackeins.de">
+            <i class = "icon icon-envelope-o">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </article>
+       </li>
+      </ul>
+     </div>
+    </section>
+   </section>
+   <footer class = "page-footer clearfix">
+    <a class="logo" href="https://www.lackeins.de/" title="Body and paintwork Jörg Pattusch: LACK EINS">
+     Body and paintwork Jörg Pattusch: LACK EINS
+     <span>
+     </span>
+    </a>
+    <div class = "clearSpace">
+    </div>
+    <a class="top lackeins-roundicon-bigger scrollTo" href="#top">
+     <i class = "icon icon-angle-up">
+     </i>
+    </a>
+    <ul class = "navigation inline">
+     <li class = "page_item page-item-11 page_item_has_children">
+      <a href="https://www.lackeins.de/leistungen/">
+       Services
+      </a>
+     </li>
+     <li class = "page_item page-item-15">
+      <a href="https://www.lackeins.de/unternehmen/">
+       Companies
+      </a>
+     </li>
+     <li class = "page_item page-item-9">
+      <a href="https://www.lackeins.de/fuer-geschaeftskunden/">
+       for business clients
+      </a>
+     </li>
+     <li class = "page_item page-item-17">
+      <a href="https://www.lackeins.de/kontakt/">
+       Contact
+      </a>
+     </li>
+     <li class = "page_item page-item-353">
+      <a href="https://www.lackeins.de/datenschutzhinweise/">
+       Data protection notice
+      </a>
+     </li>
+     <li class = "page_item page-item-199">
+      <a href="https://www.lackeins.de/jobs/">
+       Jobs
+      </a>
+     </li>
+     <li class = "page_item page-item-19">
+      <a href="https://www.lackeins.de/impressum/">
+       imprint
+      </a>
+     </li>
+     <li class = "page_item page-item-286">
+      <a href="https://www.lackeins.de/agb/">
+       Conditions
+      </a>
+     </li>
+    </ul>
+   </footer>
+  </div>
+  <div class = "header-form-container clearfix">
+   <div class = "container">
+    <div class = "header-content hide">
+     <a class="close scrollTo" href="#top">
+      <i class = "icon icon-times-circle">
+      </i>
+     </a>
+     <h1 style = "text-align: center;">
+      Accident and damage management
+     </h1>
+     <p style = "text-align: center;">
+      We are happy to be there for you. The LACK EINS team takes care of your worries and wishes - quickly and easily.
+     </p>
+     <div class = "list-content style-contact-column clearfix">
+      <article class = "post-40 employee type-employee status-publish hentry col_2 odd">
+       <div class = "col_3 image">
+       </div>
+       <div class = "col_3c">
+        <h3>
+         Kerstin Kruger
+        </h3>
+        <small>
+         assistance Management
+        </small>
+        <p>
+         Welcome to Lack EINS!
+        </p>
+        <ul class = "inline">
+         <li>
+          <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+           <i class = "icon icon-phone">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="lackeins-roundicon" href="mailto:info@lackeins.de" title="info@lackeins.de">
+           <i class = "icon icon-envelope-o">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </article>
+      <article class = "post-45 employee type-employee status-publish hentry col_2 even">
+       <div class = "col_3 image">
+       </div>
+       <div class = "col_3c">
+        <h3>
+         Oliver Pope
+        </h3>
+        <small>
+         Painting master
+        </small>
+        <p>
+         Your vehicle is in good hands with us
+        </p>
+        <ul class = "inline">
+         <li>
+          <a class="lackeins-roundicon" href="tel:+4935165879290" title="+49351 / 65879290">
+           <i class = "icon icon-phone">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="lackeins-roundicon" href="mailto:info@lackeins.de" title="info@lackeins.de">
+           <i class = "icon icon-envelope-o">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </article>
+     </div>
+     <p style = "text-align: center;">
+      You can reach us Monday to Thursday 8:00 a.m. to 4:00 p.m.
+     </p>
+     <p>
+      <iframe frameborder = "0" height = "430" src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.122430039202!2d13.635541315753917!3d51.069289979565504! 2m3! 1f0! 2f0! 3f0! 3m2! 1i1024! 2i768! 4f13.1! 3m3! 1m2! 1s0x4709d0115153ef6d% 3A0x18f546a1226ee1ab! 2sLack + Eins + GmbH! 5e0! 3m2! 1sColor! 2sde! " width = "970">
+      </iframe>
+      <br/>
+      <a class = "hide gm-static" href = "https://www.google.de/maps/place/Lack+Eins+GmbH/@51.0766906,13.6331358,14z/data=!4m2!3m1!1s0x4709d0115153ef6d:0x18f546a1226ee1ab ">
+       <img alt = "Google Maps" height = "200" loading = "lazy" src = "https://maps.googleapis.com/maps/api/staticmap?center=51.069290,13.637730&amp;zoom=13&amp;scale= false & amp; size = 640x200 & amp; maptype = roadmap & amp; format = png & amp; visual_refresh = true & amp; markers = size: small% 7Ccolor: 0xff0000% 7Clabel: 1% 7C51.069290,13.637730 & amp; sensor = false "width =" 640 "/>
+      </a>
+     </p>
+    </div>
+    <a class="scrollTo open" href="#top">
+     <i class = "icon icon-exclamation-triangle">
+     </i>
+     Claims management
+     <span class = "angle-container">
+      <i class = "icon icon-chevron-circle-down">
+      </i>
+     </span>
+    </a>
+   </div>
+  </div>
+  <div class = "page-header-bg-container">
+   <img alt = "Service" class = "image active" id = "service" src = "https://www.lackeins.de/files/2014/09/pattusch-LACK-EINS-Home.jpg" title = " Service "/>
+   <span class = "mask">
+   </span>
+  </div>
+  <script id = "contact-form-7-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var wpcf7 = {"apiSettings": {"root": "https: \ / \ / www.lackeins.de \ / wp-json \ / contact-form-7 \ / v1", "namespace": "contact-form -7 \ / v1 "}};
+/ *]]> * /
+  </script>
+  <script id = "contact-form-7-js" src = "https://www.lackeins.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2. 2 "type =" text / javascript ">
+  </script>
+  <script id = "wf-cookie-consent-cookiechoices-js" src = "https://www.lackeins.de/wp-content/plugins/wf-cookie-consent/js/cookiechoices.min.js?ver= 5.5.3 "type =" text / javascript ">
+  </script>
+  <script id = "wp_slimstat-js-extra" type = "text / javascript">
+   / * <! [CDATA [* /
+var SlimStatParams = {"ajaxurl": "https: \ / \ / www.lackeins.de \ / wp-admin \ /admin-ajax.php", "baseurl": "\ /", "dnt": "noslimstat, ab-item "," ci ":" YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aTo0MTtzOjY6ImF1dGhvciI7czoxM888e2f8efd6e.
+/ *]]> * /
+  </script>
+  <script id = "wp_slimstat-js" src = "https://www.lackeins.de/wp-content/plugins/wp-slimstat/wp-slimstat.min.js" type = "text / javascript">
+  </script>
+  <script id = "wp-embed-js" src = "https://www.lackeins.de/wp-includes/js/wp-embed.min.js?ver=5.5.3" type = "text / javascript ">
+  </script>
+  <script type = "text / javascript">
+   window._wfCookieConsentSettings = {"wf_cookietext": "We use cookies to personalize content and advertisements and to analyze access to our website. In some cases, we integrate external third-party services, with which data can be collected by these services You agree to further use of our website. Further information on the collection, use and revocation can be found in our data protection declarations. "," wf_dismisstext ":" OK "," wf_lene text ":" Data protection declarations "," wf_linkhref ":" https: \ / \ / www.lackeins.de \ / datenschutzhinweise \ / "," wf_position ":" top "," language ":" de "};
+  </script>
+  <script src = "https://www.lackeins.de/wp-content/themes/lackeins/js/main.js">
+  </script>
+  <a aria-hidden="true" class="fancybox-onload-link inline" data-fancybox="" href="#fancybox-onload">
+  </a>
+  <div id = "fancybox-onload" style = "display: none;">
+   <div id = "inline" style = "max-width: 800px">
+    <a href="https://fixauto.com/dresden-nord/de/" target="_blank">
+     <img alt = "LACK EINS is now FIX AUTO DRESDEN NORD" height = "800" src = "https://www.lackeins.de/wp-content/themes/lackeins/images/start-fixauto.jpg" width = "800" />
+    </a>
+   </div>
+  </div>
+  <script type = "text / javascript">
+   jQuery (document) .ready (function () {
+jQuery ('. fancybox-onload-link'). fancybox (). trigger ('click');
+});
+  </script>
+ </body>
+</html>
+<! - Cachify | http://cachify.de
+Generated @ 11/08/2020 06:21:24 AM ->

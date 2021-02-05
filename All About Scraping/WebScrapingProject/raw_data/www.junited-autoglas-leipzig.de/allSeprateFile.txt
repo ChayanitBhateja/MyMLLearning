@@ -1,0 +1,1565 @@
+<! DOCTYPE HTML>
+<html class = "" lang = "de-DE">
+ <head>
+  <meta charset = "utf-8" />
+  <title>
+   junited AUTOGLAS Leipzig | Dresden
+  </title>
+  <link href = "// fonts.googleapis.com" rel = "dns-prefetch" />
+  <link href = "// s.w.org" rel = "dns-prefetch" />
+  <link href = "https://junited-autoglas-leipzig.de/feed/" rel = "alternate" title = "junited AUTOGLAS Leipzig | Dresden» Feed "type =" application / rss + xml "/>
+  <link href = "https://junited-autoglas-leipzig.de/comments/feed/" rel = "alternate" title = "junited AUTOGLAS Leipzig | Dresden» comment feed "type =" application / rss + xml "/ >
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "SKYPE_TOOLBAR_PARSER_COMPATIBLE" name = "SKYPE_TOOLBAR" />
+  <meta content = "HOME" name = "og: title" />
+  <meta content = "website" name = "og: type" />
+  <meta content = "https://junited-autoglas-leipzig.de/" name = "og: url" />
+  <meta content = "https://junited-autoglas-leipzig.de/wp-content/uploads/autoglas-scheibentausch.jpg" name = "og: image" />
+  <script type = "text / javascript">
+   window._wpemojiSettings = {"baseUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ /12.0.0-1 \ / 72x72 \ /", "ext": ". png", "svgUrl": "https: \ / \ / sworg \ / images \ / core \ / emoji \ /12.0.0-1 \ / svg \ /", "svgExt": ". svg", "source": { "concatemoji": "https: \ / \ / junited-autoglas-leipzig.de \ / wp-includes \ / js \ /wp-emoji-release.min.js? ver = 5.3.2"}};
+! function (e, a, t) {var r, n, o, i, p = a.createElement ("canvas"), s = p.getContext && p.getContext ("2d"); function c (e, t) {var a = String.fromCharCode; s.clearRect (0,0, p.width, p.height), s.fillText (a.apply (this, e), 0,0); var r = p.toDataURL ( ); return s.clearRect (0,0, p.width, p.height), s.fillText (a.apply (this, t), 0,0), r === p.toDataURL ()} function l (e) {if (! s ||! s.fillText) return! 1; switch (s.textBaseline = "top", s.font = "600 32px Arial", e) {case "flag": return! c ([127987,65039,8205,9895,65039], [127987,65039,8203,9895,65039]) && (! C ([55356,56826,55356,56819], [55356,56826,8203,55356,56819 ]) &&! c ([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447], [55356,57332,8203,56128,56423,8203,56128 , 56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447])); case "emoji": return! C ([55357,56424,55356,57342,8205, 55358,56605,8205,55357,56424,55356,57340], [55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])} return! 1} function d (e ) {var t = a.createElement ("script"); t.src = e, t.defer = t .type = "text / javascript", a.getElementsByTagName ("head") [0] .appendChild (t)} for (i = Array ("flag", "emoji"), t.supports = {everything:! 0 , everythingExceptFlag:! 0}, o = 0; o <i.length; o ++) t.supports [i [o]] = l (i [o]), t.supports.everything = t.supports.everything && t.supports [i [o]], "flag"! == i [o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports [i [o]]); t.supports.everythingExceptFlag = t.supports. everythingExceptFlag &&! t.supports.flag, t.DOMReady =! 1, t.readyCallback = function () {t.DOMReady =! 0}, t.supports.everything || (n = function () {t.readyCallback () }, a.addEventListener? (a.addEventListener ("DOMContentLoaded", n,! 1), e.addEventListener ("load", n,! 1)) :( e.attachEvent ("onload", n), a. attachEvent ("onreadystatechange", function () {"complete" === a.readyState && t.readyCallback ()})), (r = t.source || {}). concatemoji? d (r.concatemoji): r. wpemoji && r.twemoji && (d (r.twemoji), d (r.wpemoji)))} (window, document, window._wpemojiSettings);
+  </script>
+  <style type = "text / css">
+   img.wp-smiley,
+img.emoji {
+display: inline! important;
+border: none! important;
+box-shadow: none! important;
+height: 1em! important;
+width: 1em! important;
+margin: 0 .07em! important;
+vertical-align: -0.1em! important;
+background: none! important;
+padding: 0! important;
+}
+  </style>
+  <link href = "https://junited-autoglas-leipzig.de/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" id = "wp-block-library- css "media =" all "rel =" stylesheet "type =" text / css "/>
+  <link href = "https://fonts.googleapis.com/css?family=Open+Sans%3A700%2C400%2C600&amp;subset=latin&amp;ver=5.3.2" id = "us-fonts-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.1.15-6" id = "borlabs-cookie-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/css/style.min.css?ver=4.10.3" id = "us-style-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.2.2" id = "ms-main- css "media =" all "rel =" stylesheet "type =" text / css "/>
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/uploads/masterslider/custom.css?ver=45" id = "ms-custom-css" media = "all" rel = " stylesheet "type =" text / css "/>
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/css/responsive.min.css?ver=4.10.3" id = "us-responsive-css" media = "all" rel = "stylesheet" type = "text / css" />
+  <link href = "https://junited-autoglas-leipzig.de/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.3.2" id = "bsf-Defaults-css" media = "all "rel =" stylesheet "type =" text / css "/>
+  <link href = "https://junited-autoglas-leipzig.de/wp-json/" rel = "https://api.w.org/" />
+  <link href = "https://junited-autoglas-leipzig.de/xmlrpc.php?rsd" rel = "EditURI" title = "RSD" type = "application / rsd + xml" />
+  <link href = "https://junited-autoglas-leipzig.de/wp-includes/wlwmanifest.xml" rel = "wlwmanifest" type = "application / wlwmanifest + xml" />
+  <meta content = "WordPress 5.3.2" name = "generator">
+   <link href = "https://junited-autoglas-leipzig.de/" rel = "canonical" />
+   <link href = "https://junited-autoglas-leipzig.de/" rel = "shortlink" />
+   <link href = "https://junited-autoglas-leipzig.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjunited-autoglas-leipzig.de%2F" rel = "alternate" type = "application / json + oembed" />
+   <link href = "https://junited-autoglas-leipzig.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjunited-autoglas-leipzig.de%2F&amp;format=xml" rel = "alternate" type = "text / xml + oembed" />
+   <script>
+    var ms_grabbing_curosr = 'https: //junited-autoglas-leipzig.de/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https: // junited-autoglas-leipzig. de / wp-content / plugins / masterslider / public / assets / css / common / grab.cur ';
+   </script>
+   <meta content = "MasterSlider 3.2.2 - Responsive Touch Image Slider" name = "generator">
+    <script type = "text / javascript">
+     if (! / Android | webOS | iPhone | iPad | iPod | BlackBerry | IEMobile | Opera Mini / i.test (navigator.userAgent)) {
+var root = document.getElementsByTagName ('html') [0]
+root.className + = "no-touch";
+}
+    </script>
+    <meta content = "Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name = "generator">
+     <! - [if lte IE 9]> <link rel = "stylesheet" type = "text / css" href = "https://junited-autoglas-leipzig.de/wp-content/plugins/js_composer/assets/ css / vc_lte_ie9.min.css "media =" screen "> <! [endif] ->
+     <link href = "https://junited-autoglas-leipzig.de/wp-content/uploads/favicon.ico" rel = "icon" sizes = "32x32" />
+     <link href = "https://junited-autoglas-leipzig.de/wp-content/uploads/favicon.ico" rel = "icon" sizes = "192x192" />
+     <link href = "https://junited-autoglas-leipzig.de/wp-content/uploads/favicon.ico" rel = "apple-touch-icon-precomposed" />
+     <meta content = "https://junited-autoglas-leipzig.de/wp-content/uploads/favicon.ico" name = "msapplication-TileImage">
+      <style data-type = "vc_shortcodes-custom-css" type = "text / css">
+       .vc_custom_1519390715649 {background-color: # 00529e! important;}. vc_custom_1520504086675 {padding-right: 50px! important; padding-left: 50px! important;}
+      </style>
+      <noscript>
+       <style type = "text / css">
+        .wpb_animate_when_almost_visible {opacity: 1; }
+       </style>
+      </noscript>
+      <style id = "us-theme-options-css" type = "text / css">
+       @ font-face {font-family: 'FontAwesome'; src: url ('https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/framework/fonts/fontawesome-webfont.woff2?v= 4.7.0 ') format (' woff2 '), url (' https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/framework/fonts/fontawesome-webfont.woff?v=4.7.0 ') format (' woff '); font-weight: normal; font-style: normal} .style_phone6-1> div {background-image: url (https://junited-autoglas-leipzig.de/wp-content/ themes / Impreza / framework / img / phone-6-black-real.png)} .style_phone6-2> div {background-image: url (https://junited-autoglas-leipzig.de/wp-content/themes/ Impreza / framework / img / phone-6-white-real.png)} .style_phone6-3> div {background-image: url (https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/ framework / img / phone-6-black-flat.png)} .style_phone6-4> div {background-image: url (https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/framework/ img / phone-6-white-flat.png)} html, .w-nav .widget {font-family: "Open Sans", sans-serif; font-size: 15px; line-height: 28px; fo nt-weight: 400} .w-text.font_main_menu, .w-nav-list.level_1 {font-family: "Open Sans", sans-serif; font-weight: 700} h1, h2, h3, h4, h5 , h6, .w-text.font_heading, .w-blog-post.format-quote blockquote, .w-counter-number, .w-pricing-item-price, .w-tabs-item-title, .stats- block .stats-desc .stats-number {font-family: "Open Sans", sans-serif; font-weight: 700} h1 {font-size: 32px; font-weight: 700; letter-spacing: -0.02em ; text-transform: uppercase} h2 {font-size: 30px; font-weight: 700; letter-spacing: 0em; text-transform: uppercase} h3 {font-size: 28px; font-weight: 700; letter-spacing : 0em; text-transform: uppercase} h4, .widgettitle, .comment-reply-title {font-size: 24px; font-weight: 700; letter-spacing: 0em; text-transform: uppercase} h5 {font-size : 18px; font-weight: 700; letter-spacing: 0em; text-transform: uppercase} h6 {font-size: 16px; font-weight: 700; letter-spacing: 0em; text-transform: uppercase} @media ( max-width: 767px) {html {font-size: 16px; line-height: 26px} h1 {font-size: 30px} h1.vc_custom_heading {font-size: 30px! important} h2 {font-size: 30px} h2 .vc_cus tom_heading {font-size: 30px! important} h3 {font-size: 21px} h3.vc_custom_heading {font-size: 21px! important} h4, .widgettitle, .comment-reply-title {font-size: 22px} h4. vc_custom_heading {font-size: 22px! important} h5 {font-size: 20px} h5.vc_custom_heading {font-size: 20px! important} h6 {font-size: 18px} h6.vc_custom_heading {font-size: 18px! important} } body, .header_hor .l-header.pos_fixed {min-width: 1240px} .l-canvas.type_boxed, .l-canvas.type_boxed .l-subheader, .l-canvas.type_boxed .l-section.type_sticky ,. l-canvas.type_boxed ~ .l-footer {max-width: 1240px} .header_hor .l-subheader-h, .l-titlebar-h, .l-main-h, .l-section-h, .w- tabs-section-content-h, .w-blog-post-body {max-width: 1200px} @media (max-width: 1350px) {. l-section: not (.width_full) .owl-nav {display: none}} @ media (max-width: 1400px) {. l-section: not (.width_full) .w-blog .owl-nav {display: none}}. l-sidebar {width: 25 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea656}}. l-content {width: 68 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}} @ media (max-width: 899px) {. g-cols> div: not ([class * = "vc_col -"]) {clear: both; float: none; width: 100 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}; margin}: 0 0 2rem}. g-cols.type_boxes> div, .g-cols> div: last-child, .g-cols> div.has-fill {margin-bottom: 0} .vc_wp_custommenu.layout_hor, .align_center_xs, .align_center_xs .w-socials {text-align: center}} @ media screen and (max-width: 1200px) {. w-portfolio.cols_3 .w-portfolio-item {width: 33.333333333333 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff} }s. portfolio-portfolio_col -item.size_2x1, .w-portfolio.cols_3 .w portfolio item.size_2x2 {width: 66.666666666667 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff {}}. w-portfolio.cols_4 .w portfolio-item {width: 33.333333333333 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff {}} w. portfolio.cols_4 .w-portfolio-item.size_2x1, .w-portfolio.cols_4 .w-portfolio-item.size_2x2 {width: 66.666666666667 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664 .d .d -portfolio.cols_5 .w-portfolio-item {width: 33.333333333333 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-portfolio.cols_5 .w-portfolio-item.size-portfolio2. . 66.666666666667 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff {}} w-portfolio.cols_6 .w portfolio item. {width: 33.333333333333 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff {}} w-portfolio.cols_6 .w portfolio item.size_2x1, .w-portfolio.cols_6 .w portfolio -item.size_2x2 {width: 66.666666666667 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}} @ media screen and (max-width: 900px) {. w portfolio.cols_2 .w-portfolio-item {width: 50 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w portfolio.. cols_2 .w-portfolio-item.size_2x1, .w-portfolio.cols_2 .w-portfolio-item.size_2x2 {width: 100 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-portfolioae 26b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. W-portfolio.cols_3 .w-portfolio-item.size_2x1, .w-portfolio.cols_3 .w-portfolio-item.size_2x2 {width: 100 {879e11f0a8408fcf317 -item {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-portfolio.cols_4 .w portfolio item.size_2x1, .w-portfolio.cols_4 .w portfolio item.size_2x2 {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-. portfolio.cols_5 .w-portfolio-item {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-portfolio.cols_5 .w-portfolio-item.size_2x1, .w-portfolioize.cols_2x1, .w-portfolioize.cols_2 . 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff {}} w-portfolio.cols_6 .w portfolio-item {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}.} w-portfolio.cols_6 .w portfolio item.size_2x1, .w-portfolio.cols_6 .w-portfolio item.size_2x2 {width: 100 { 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}} @ media screen and (max-width: 600px) {. W-portfolio.cols_1 .w-portfolio-item {width: 100 {879e11f0a-portfolio.cols_1 .w-portfolio-item {width: 100 {879e11f0a-portfolio.cols_1.w-portfolio-item. 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-portfolio.cols_3 .w portfolio item.. {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-portfolio.cols_4 .w portfolio item {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w portfolio. .cols_5 .w-portfolio-item {width: 100 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-portfolio.cols_6 .w-portfolio-item {width: width: 1200 .w-portfolio-item {width: 1200} w-blog.cols_3 .w-blog-post {width: 33.333333333333 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-blog.cols_4 .w-blog-post {width: 33.33333 8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}} w blog.cols_5 .w-blog-post {width:. 33.333333333333 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w blog.cols_6 .w-blog-post {width:. 33.333333333333 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}} @ media screen and (max -width: 900px) {. w-blog.cols_2 .w-blog-post {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-blog.cols_3 .w-blog-post {width: 50d10c4a3 .w-blog.cols_3 .w-blog-post {width: 50d10c4e3 .w-blog-post_3. .cols_4 .w-blog post {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-blog.cols_5 .w-blog post {width: 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}. w-blog.cols_6 .w-blog post {width : 50 {879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff}}} @ media screen and (max-width: 600px) {. W-blog.cols_1 .w-blog-post {.w-blog-post {.w-blog-post {{w-blog-post} {w-blog-post {w-blog-post-{.w-blog-post-{w-blog-post-{w-blog-post} blog post. {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-blog.cols_3 .w-blog post. {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-blog.cols_4 .w-blog post {width: 100 {} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff } .w-blog.cols_5 .w-blog post. {width: 100 {}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-blog.cols_6 .w-blog post. {width: 100 {}}} 879e11f0a8ae8fcf31726b7b5cde2169a8dbf109045b9440557d4ea65664d1ff w-BTN .button, .l-body .cl-btn, .l-body .ubtn, .l-body .ultb3-btn, .l-body .btn-modal, .l-body .flip-box-wrap .flip_link a, .rev_slider aw-btn, .tribe-events-button, input [type = "button"], input [type = "submit"] {text-transform: uppercase; font-size: 14px; font-weight: 600; line-height : 2.8; padding: 0 1.8em; border-radius: 0em; letter-spacing: 0em; box-shadow: 0 0em 0em rgba (0,0,0,0.18)}. W-btn.icon_atleft i {left: 1.8 em} .w-btn.icon_atright i {right: 1.8em} .w-header-show, .w-toplink {background-color: rgba (0,0,0,0.3)} body {b ackground-color: #eeeeee; -webkit-tap-highlight-color: rgba (38,108,172,0.2)}. l-subheader.at_top, .l-subheader.at_top .w-dropdown-list, .l-subheader.at_top. type_mobile .w-nav-list.level_1 {background-color: # ecf5fd} .l-subheader.at_top, .l-subheader.at_top .w-dropdown.active, .l-subheader.at_top .type_mobile .w-nav- list.level_1 {color: # 00529e} .no-touch .l-subheader.at_top a: hover, .no-touch .l-header.bg_transparent .l-subheader.at_top .w-dropdown.active a: hover {color : # e4013b} .header_ver .l-header, .header_hor .l-subheader.at_middle, .l-subheader.at_middle .w-dropdown-list, .l-subheader.at_middle .type_mobile .w-nav-list.level_1 { background-color: #ffffff} .l-subheader.at_middle, .l-subheader.at_middle .w-dropdown.active, .l-subheader.at_middle .type_mobile .w-nav-list.level_1 {color: # 00529e}. no-touch .l-subheader.at_middle a: hover, .no-touch .l-header.bg_transparent .l-subheader.at_middle .w-dropdown.active a: hover {color: # e4013b} .l-subheader.at_bottom , .l-subheader.at_bottom .w-dropdown-list, .l-subheader.at_ bottom .type_mobile .w-nav-list.level_1 {background-color: # f5f5f5} .l-subheader.at_bottom, .l-subheader.at_bottom .w-dropdown.active, .l-subheader.at_bottom .type_mobile .w- nav-list.level_1 {color: # 999999} .no-touch .l-subheader.at_bottom a: hover, .no-touch .l-header.bg_transparent .l-subheader.at_bottom .w-dropdown.active a: hover {color: # e4013b} .l-header.bg_transparent: not (.sticky) .l-subheader {color: #ffffff} .no-touch .l-header.bg_transparent: not (.sticky) .w-text a: hover, .no-touch .l-header.bg_transparent: not (.sticky) .w-html a: hover, .no-touch .l-header.bg_transparent: not (.sticky) .w-dropdown a: hover, .no-touch .l-header.bg_transparent: not (.sticky) .type_desktop .menu-item.level_1: hover> .w-nav-anchor {color: #ffffff} .l-header.bg_transparent: not (.sticky ) .w-nav-title: after {background-color: #ffffff} .w-search-form {background-color: rgba (233,80,149,0.95); color: #ffffff} .no-touch .menu-item .level_1: hover> .w-nav-anchor {background-color:; color: # e4013b} .w-nav-title: after {background-color: # e4013b} .menu-ite m.level_1.current-menu-item> .w-nav-anchor, .menu-item.level_1.current-menu-parent> .w-nav-anchor, .menu-item.level_1.current-menu-ancestor> .w-nav-anchor {background-color:; color: # e4013b} .l-header.bg_transparent: not (.sticky) .type_desktop .menu-item.level_1.current-menu-item> .w-nav-anchor , .l-header.bg_transparent: not (.sticky) .type_desktop .menu-item.level_1.current-menu-ancestor> .w-nav-anchor {color: # ff6ba9} .w-nav-list: not (. level_1) {background-color: # 00529e; color: #ffffff} .no-touch .menu-item: not (.level_1): hover> .w-nav-anchor {background-color: # e4013b; color: #ffffff } .menu-item: not (.level_1) .current-menu-item> .w-nav-anchor, .menu-item: not (.level_1) .current-menu-parent> .w-nav-anchor ,. menu-item: not (.level_1) .current-menu-ancestor> .w-nav-anchor {background-color: # d3e2ef; color: # 00529e} .w-cart-quantity, .btn.w-menu-item , .btn.menu-item.level_1> a, .l-footer .vc_wp_custommenu.layout_hor .btn> a {background-color: # e4013b! important; color: #ffffff! important} .no-touch .btn.w- menu-item: hover, .no-touch .btn.menu- item.level_1> a: hover, .no-touch .l-footer .vc_wp_custommenu.layout_hor .btn> a: hover {background-color: # e4013b! important; color: #ffffff! important} body.us_iframe, .l- preloader, .l-canvas, .l-footer, .l-popup-box-content, .w-blog.layout_flat .w-blog-post-h, .w-blog.layout_cards .w-blog-post-h , .g-filters.style_1 .g-filters-item.active, .no-touch .g-filters-item.active: hover, .w-portfolio-item-anchor, .w-tabs.layout_default .w-tabs -item.active, .w-tabs.layout_ver .w-tabs-item.active, .no-touch .w-tabs.layout_default .w-tabs-item.active: hover, .no-touch .w-tabs. layout_ver .w-tabs-item.active: hover, .w-tabs.layout_timeline .w-tabs-item, .w-tabs.layout_timeline .w-tabs-section-header-h, .wpml-ls-statics-footer , .select2-selection__choice, .select2-search input {background-color: #ffffff} .w-tabs.layout_modern .w-tabs-item: after {border-bottom-color: #ffffff} .w-iconbox.style_circle. color_contrast .w-iconbox-icon, .tribe-events-calendar thead th {color: #ffffff} .w-btn.color_contrast.style_solid, .no-touch .btn_hov_fade .w -btn.color_contrast.style_outlined: hover, .no-touch .btn_hov_slide .w-btn.color_contrast.style_outlined: hover, .no-touch .btn_hov_reverse .w-btn.color_contrast.style_outlined: hover {color: #ffffff! important} input, textarea, select, .l-section.for_blogpost .w-blog-post-preview, .w-actionbox.color_light, .g-filters.style_1, .g-filters.style_2 .g-filters-item.active, .w-iconbox.style_circle.color_light .w-iconbox-icon, .g-loadmore-btn, .w-pricing-item-header, .w-progbar-bar, .w-progbar.style_3 .w-progbar-bar : before, .w-progbar.style_3 .w-progbar-bar-count, .w-socials.style_solid .w-socials-item-link, .w-tabs.layout_default .w-tabs-list, .w-tabs .layout_ver .w-tabs-list, .w-testimonials.style_4 .w-testimonial-h: before, .w-testimonials.style_6 .w-testimonial-text, .no-touch .l-main .widget_nav_menu a: hover , .wp-caption-text, .smile-icon-timeline-wrap .timeline-wrapper .timeline-block, .smile-icon-timeline-wrap .timeline-feature-item.feat-item, .wpml-ls-legacy -dropdown a, .wpml-ls-legacy-dropdown-click a, .tablepress. row-hover tr: hover td, .select2-selection, .select2-dropdown {background-color:}. timeline-wrapper .timeline-post-right .ult-timeline-arrow l, .timeline-wrapper .timeline-post- left .ult-timeline-arrow l, .timeline-feature-item.feat-item .ult-timeline-arrow l {border-color:} hr, td, th, .l-section, .vc_column_container, .vc_column-inner , .w-author, .w-btn.color_light, .w-comments-list, .w-image, .w-pricing-item-h, .w-profile, .w-separator, .w-sharing-item , .w-tabs-list, .w-tabs-section, .w-tabs-section-header: before, .w-tabs.layout_timeline.accordion .w-tabs-section-content, .w-testimonial-h, .widget_calendar # calendar_wrap, .l-main .widget_nav_menu .menu, .l-main .widget_nav_menu .menu-item a, .smile-icon-timeline-wrap .timeline-line {border-color:}. w-separator ,. w-iconbox.color_light .w-iconbox-icon {color:}. w-btn.color_light.style_solid, .w-btn.color_light.style_outlined: before, .no-touch .btn_hov_reverse .w-btn.color_light.style_outlined: hover, .w-iconbox.style_circle.color_light .w-iconbox-icon, .no-touch .g-loadmore- btn: hover, .no-touch .wpml-ls-sub-menu a: hover {background-color:}. w-iconbox.style_outlined.color_light .w-iconbox-icon, .w-person-links-item ,. w-socials.style_outlined .w-socials-item-link, .pagination .page-numbers {box-shadow: 0 0 0 2pxinset} .w-tabs.layout_trendy .w-tabs-list {box-shadow: 0 -1px 0inset} h1, h2, h3, h4, h5, h6, .w-counter.color_heading .w-counter-number {color: # 00529e} .w-progbar.color_heading .w-progbar-bar-h {background-color : # 00529e} input, textarea, select, .l-canvas, .l-footer, .l-popup-box-content, .w-blog.layout_flat .w-blog-post-h, .w-blog.layout_cards .w-blog-post-h, .w-form-row-field: before, .w-iconbox.color_light.style_circle .w-iconbox-icon, .w-tabs.layout_timeline .w-tabs-item, .w -tabs.layout_timeline .w-tabs-section-header-h, .bbpress .button, .select2-dropdown {color: # 00529e} .w-btn.color_contrast.style_outlined, .no-touch .btn_hov_reverse .w-btn. color_contrast.style_solid: hover {color: # 00529e! important} .w-btn.color_contrast.style_solid, .w-btn.color_contrast.style_outlined: before, .n o-touch .btn_hov_reverse .w-btn.color_contrast.style_outlined: hover, .w-iconbox.style_circle.color_contrast .w-iconbox-icon, .w-progbar.color_text .w-progbar-bar-h, .w-scroller -dot span {background-color: # 00529e} .w-btn.color_contrast {border-color: # 00529e} .w-iconbox.style_outlined.color_contrast .w-iconbox-icon {box-shadow: 0 0 0 2px # 00529e inset} .w-scroller-dot span {box-shadow: 0 0 0 2px # 00529e} a {color: # e4013b} .no-touch a: hover, .no-touch a: hover + .w-blog-post -body .w-blog-post-title a, .no-touch .tablepress .sorting: hover, .no-touch .w-blog-post-title a: hover {color: # 266cac} .highlight_primary, .g- preloader, .l-main .w-contacts-item: before, .w-counter.color_primary .w-counter-number, .g-filters-item.active, .no-touch .g-filters.style_1 .g- filters-item.active: hover, .no-touch .g-filters.style_2 .g-filters-item.active: hover, .w-form-row.focused .w-form-row-field: before, .w -iconbox.color_primary .w-iconbox-icon, .w-separator.color_primary, .w-sharing.type_outlined.color_primary .w-sharing-item, .no-touch .w -sharing.type_simple.color_primary .w-sharing-item: hover .w-sharing-icon, .w-tabs.layout_default .w-tabs-item.active, .w-tabs.layout_trendy .w-tabs-item.active , .w-tabs.layout_ver .w-tabs-item.active, .w-tabs-section.active .w-tabs-section-header, .w-testimonials.style_2 .w-testimonial-h: before, .tablepress .sorting_asc, .tablepress .sorting_desc, .no-touch .owl-prev: hover, .no-touch .owl-next: hover {color: # 266cac} .w-btn.color_primary.style_outlined, .no-touch .btn_hov_reverse .w-btn.color_primary.style_solid: hover {color: # 266cac! important} .l-section.color_primary, .l-titlebar.color_primary, .no-touch .l-navigation-item: hover .l-navigation-item -arrow, .highlight_primary_bg, .w-actionbox.color_primary, .w-blog-post-preview-icon, .w-blog.layout_cards .format-quote .w-blog-post-h, input [type = "button" ], input [type = "submit"] ,. w-btn.color_primary.style_solid, .w-btn.color_primary.style_outlined: before, .no-touch .btn_hov_reverse .w-btn.color_primary.style_outlined: hover, .no -touch .g-filters-item: hover, .w-iconbox .style_circle.color_primary .w-iconbox-icon, .no-touch .w-iconbox.style_circle .w-iconbox-icon: before, .no-touch .w-iconbox.style_outlined .w-iconbox-icon: before ,. no-touch .w-person-links-item: before, .w-pricing-item.type_featured .w-pricing-item-header, .w-progbar.color_primary .w-progbar-bar-h, .w-sharing .type_solid.color_primary .w-sharing-item, .w-sharing.type_fixed.color_primary .w-sharing-item, .w-sharing.type_outlined.color_primary .w-sharing-item: before, .w-socials-item- link-hover, .w-tabs.layout_modern .w-tabs-list, .w-tabs.layout_trendy .w-tabs-item: after, .w-tabs.layout_timeline .w-tabs-item: before, .w- tabs.layout_timeline .w-tabs-section-header-h: before, .no-touch .w-testimonials.style_6 .w-testimonial-h: hover .w-testimonial-text, .no-touch .w-header- show: hover, .no-touch .w-toplink.active: hover, .no-touch .pagination .page-numbers: before, .pagination .page-numbers.current, .l-main .widget_nav_menu .menu-item. current-menu-item> a, .rsThumb.rsNavSelected, .no-touch .tp-leftarrow.custom: before, .n o-touch .tp-rightarrow.custom: before, .smile-icon-timeline-wrap .timeline-separator-text .sep-text, .smile-icon-timeline-wrap .timeline-wrapper .timeline-dot, .smile -icon-timeline-wrap .timeline-feature-item .timeline-dot, .select2-results__option - highlighted, .l-body .cl-btn {background-color: # 266cac} blockquote, .w-btn.color_primary, .g-filters.style_3 .g-filters-item.active, .no-touch .owl-prev: hover, .no-touch .owl-next: hover, .no-touch .w-logos.style_1 .w- logos-item: hover, .w-separator.color_primary, .w-tabs.layout_default .w-tabs-item.active, .w-tabs.layout_ver .w-tabs-item.active, .no-touch .w- testimonials.style_1 .w-testimonial-h: hover, .owl-dot.active span, .rsBullet.rsNavSelected span, .tp-bullets.custom .tp-bullet {border-color: # 266cac} .l-main .w -contacts-item: before, .w-iconbox.color_primary.style_outlined .w-iconbox-icon, .w-sharing.type_outlined.color_primary .w-sharing-item, .w-tabs.layout_timeline .w-tabs-item, .w-tabs.layout_timeline .w-tabs-section-header-h {box-shadow: 0 0 0 2px # 266cac inse t} input: focus, textarea: focus, select: focus {box-shadow: 0 0 0 2px # 266cac} .no-touch .w-blognav-item: hover .w-blognav-title, .w-counter.color_secondary .w-counter-number, .w-iconbox.color_secondary .w-iconbox-icon, .w-separator.color_secondary, .w-sharing.type_outlined.color_secondary .w-sharing-item, .no-touch .w-sharing .type_simple.color_secondary .w-sharing-item: hover .w-sharing-icon, .highlight_secondary {color: # 00529e} .w-btn.color_secondary.style_outlined, .no-touch .btn_hov_reverse .w-btn.color_secondary .style : hover {color: # 00529e! important} .l-section.color_secondary, .l-titlebar.color_secondary, .no-touch .w-blog.layout_cards .w-blog-post-meta-category a: hover, .no -touch .w-blog.layout_tiles .w-blog-post-meta-category a: hover, .no-touch .l-section.preview_trendy .w-blog-post-meta-category a: hover, .no-touch body: not (.btn_hov_none) .button: hover, .no-touch body: not (.btn_hov_none) input [type = "button"]: hover, .no-touch body: not (.btn_hov_none) input [type = " submit "]: hover, .w-btn.color_secondary.st yle_solid, .w-btn.color_secondary.style_outlined: before, .no-touch .btn_hov_reverse .w-btn.color_secondary.style_outlined: hover, .w-actionbox.color_secondary, .w-iconbox.style_circle.color_secondary-. icon, .w-progbar.color_secondary .w-progbar-bar-h, .w-sharing.type_solid.color_secondary .w-sharing-item, .w-sharing.type_fixed.color_secondary .w-sharing-item, .w- sharing.type_outlined.color_secondary .w-sharing-item: before, .highlight_secondary_bg {background-color: # 00529e} .w-btn.color_secondary, .w-separator.color_secondary {border-color: # 00529e} .w-iconbox. color_secondary.style_outlined .w-iconbox-icon, .w-sharing.type_outlined.color_secondary .w-sharing-item {box-shadow: 0 0 0 2px # 00529e inset} .l-main .w-author-url, .l -main .w-blog-post-meta> * ,. l-main .w-profile-link.for_logout, .l-main .w-testimonial-author-role, .l-main .w-testimonials.style_4. w-testimonial-h: before, .l-main .widget_tag_cloud, .highlight_faded {color: # 266cac} .w-blog.layout_latest .w-blog-post-meta-date {border-color: # 266cac} .l -section.color_alternate, .l-titlebar.color_alternate, .color_alternate .g-filters.style_1 .g-filters-item.active, .no-touch .color_alternate .g-filters-item.active: hover, .color_alternate .w -tabs.layout_default .w-tabs-item.active, .no-touch .color_alternate .w-tabs.layout_default .w-tabs-item.active: hover, .color_alternate .w-tabs.layout_ver .w-tabs-item .active, .no-touch .color_alternate .w-tabs.layout_ver .w-tabs-item.active: hover, .color_alternate .w-tabs.layout_timeline .w-tabs-item, .color_alternate .w-tabs.layout_timeline. w-tabs-section-header-h {background-color: # f5f5f5} .color_alternate .w-iconbox.style_circle.color_contrast .w-iconbox-icon {color: # f5f5f5} .color_alternate .w-btn.color_contrast.style_solid, .no-touch .btn_hov_fade .color_alternate .w-btn.color_contrast.style_outlined: hover, .no-touch .btn_hov_slide .color_alternate .w-btn.color_contrast.style_outlined: hover, .no-touch .btn_hov_reverse .w_hov_reverse .color_contrast.style_outlined: hover {color: # f5f5f5! important} .colo r_alternate .w-tabs.layout_modern .w-tabs-item: after {border-bottom-color: # f5f5f5} .color_alternate input, .color_alternate textarea, .color_alternate select, .color_alternate .w-blog-post-preview-icon, .color_alternate .w-blog.layout_flat .w-blog-post-h, .color_alternate .w-blog.layout_cards .w-blog-post-h, .color_alternate .g-filters.style_1, .color_alternate .g-filters. style_2 .g-filters-item.active, .color_alternate .w-iconbox.style_circle.color_light .w-iconbox-icon, .color_alternate .g-loadmore-btn, .color_alternate .w-pricing-item-header, .color_alternate. w-progbar-bar, .color_alternate .w-socials.style_solid .w-socials-item-link, .color_alternate .w-tabs.layout_default .w-tabs-list, .color_alternate .w-testimonials.style_4 .w-testimonial -h: before, .color_alternate .w-testimonials.style_6 .w-testimonial-text, .color_alternate .wp-caption-text, .color_alternate .ginput_container_creditcard {background-color: #ffffff} .l-section.color_alternate, .l -section.color_alternate * ,. l-section.color_alternate. w-btn.color_light {border-color:}. color_alternate .w-separator, .color_alternate .w-iconbox.color_light .w-iconbox-icon {color:}. color_alternate .w-btn.color_light.style_solid, .color_alternate. w-btn.color_light.style_outlined: before, .no-touch .btn_hov_reverse .color_alternate .w-btn.color_light.style_outlined: hover, .color_alternate .w-iconbox.style_circle.color_light .w-iconbox-icon, .no-touch .color_alternate .g-loadmore-btn: hover {background-color:}. color_alternate .w-iconbox.style_outlined.color_light .w-iconbox-icon, .color_alternate .w-person-links-item, .color_alternate .w-socials .style_outlined .w-socials-item-link, .color_alternate .pagination .page-numbers {box-shadow: 0 0 0 2pxinset} .color_alternate .w-tabs.layout_trendy .w-tabs-list {box-shadow: 0 - 1px 0inset} .l-titlebar.color_alternate h1, .l-section.color_alternate h1, .l-section.color_alternate h2, .l-section.color_alternate h3, .l-section.color_alternate h4, .l-section.color_alternate h5 , .l-section.color_alternate h6, .l-section.color_al ternate .w-counter-number {color: # 333333} .color_alternate .w-progbar.color_contrast .w-progbar-bar-h {background-color: # 333333} .l-titlebar.color_alternate, .l-section.color_alternate , .color_alternate input, .color_alternate textarea, .color_alternate select, .color_alternate .w-iconbox.color_contrast .w-iconbox-icon, .color_alternate .w-iconbox.color_light.style_circle .w-iconbox-icon, .color_alternate .w- tabs.layout_timeline .w-tabs-item, .color_alternate .w-tabs.layout_timeline .w-tabs-section-header-h {color: # 666666} .color_alternate .w-btn.color_contrast.style_outlined, .no-touch. btn_hov_reverse .color_alternate .w-btn.color_contrast.style_solid: hover {color: # 666666! important} .color_alternate .w-btn.color_contrast.style_solid, .color_alternate .w-btn.color_contrast.style_out-touch. before, .no btn_hov_reverse .color_alternate .w-btn.color_contrast.style_outlined: hover, .color_alternate .w-iconbox.style_circle.color_contrast .w-iconbox-icon {background-color: # 666666} .color_alternate .w-btn.co lor_contrast {border-color: # 666666} .color_alternate .w-iconbox.style_outlined.color_contrast .w-iconbox-icon {box-shadow: 0 0 0 2px # 666666 inset} .color_alternate a {color: # e4013b} .no- touch .color_alternate a: hover, .no-touch .color_alternate a: hover + .w-blog-post-body .w-blog-post-title a, .no-touch .color_alternate .w-blog-post-title a : hover {color: # e4013b} .color_alternate .highlight_primary, .l-main .color_alternate .w-contacts-item: before, .color_alternate .w-counter.color_primary .w-counter-number, .color_alternate .g-filters- item.active, .no-touch .color_alternate .g-filters-item.active: hover, .color_alternate .w-form-row.focused .w-form-row-field: before, .color_alternate .w-iconbox.color_primary .w-iconbox-icon, .no-touch .color_alternate .owl-prev: hover, .no-touch .color_alternate .owl-next: hover, .color_alternate .w-separator.color_primary, .color_alternate .w-tabs.layout_default .w-tabs-item.active, .color_alternate .w-tabs.layout_trendy .w-tabs-item.active, .color_alternate .w-tabs.layout_ver .w-tabs-item.active, .color_alternate .w-tabs-section.active .w-tabs-section-header, .color_alternate .w-testimonials.style_2 .w-testimonial-h: before {color: # 266cac} .color_alternate .w-btn.color_primary.style_outlined, .no-touch .btn_hov_reverse .color_alternate .w-btn.color_primary.style_solid: hover {color: # 266cac! important} .color_alternate .highlight_primary_bg, .color_primary_action , .color_alternate .w-blog-post-preview-icon, .color_alternate .w-blog.layout_cards .format-quote .w-blog-post-h, .color_alternate input [type = "button"] ,. color_alternate input [ type = "submit"] ,. color_alternate .w-btn.color_primary.style_solid, .color_alternate .w-btn.color_primary.style_outlined: before, .no-touch .btn_hov_reverse .color_alternate .w-btn.color_primary.style, hover: hover: .no-touch .color_alternate .g-filters-item: hover, .color_alternate .w-iconbox.style_circle.color_primary .w-iconbox-icon, .no-touch .color_alternate .w-iconbox.style_circle .w-iconbox-icon : before, .no-touch .color_ alternate .w-iconbox.style_outlined .w-iconbox-icon: before, .color_alternate .w-pricing-item.type_featured .w-pricing-item-header, .color_alternate .w-progbar.color_primary .w-progbar-bar- h, .color_alternate .w-tabs.layout_modern .w-tabs-list, .color_alternate .w-tabs.layout_trendy .w-tabs-item: after, .color_alternate .w-tabs.layout_timeline .w-tabs-item: before , .color_alternate .w-tabs.layout_timeline .w-tabs-section-header-h: before, .no-touch .color_alternate .pagination .page-numbers: before, .color_alternate .pagination .page-numbers.current {background- color: # 266cac} .color_alternate .w-btn.color_primary, .color_alternate .g-filters.style_3 .g-filters-item.active, .color_alternate .g-preloader, .no-touch .color_alternate .owl-prev: hover , .no-touch .color_alternate .owl-next: hover, .no-touch .color_alternate .w-logos.style_1 .w-logos-item: hover, .color_alternate .w-separator.color_primary, .color_alternate .w-tabs .layout_default .w-tabs-item.active, .color_alternate .w-tabs.layout_ver .w-tabs-item.ac tive, .no-touch .color_alternate .w-tabs.layout_default .w-tabs-item.active: hover, .no-touch .color_alternate .w-tabs.layout_ver .w-tabs-item.active: hover, .no -touch .color_alternate .w-testimonials.style_1 .w-testimonial-h: hover {border-color: # 266cac} .l-main .color_alternate .w-contacts-item: before, .color_alternate .w-iconbox.color_primary. style_outlined .w-iconbox-icon, .color_alternate .w-tabs.layout_timeline .w-tabs-item, .color_alternate .w-tabs.layout_timeline .w-tabs-section-header-h {box-shadow: 0 0 0 2px # 266cac inset} .color_alternate input: focus, .color_alternate textarea: focus, .color_alternate select: focus {box-shadow: 0 0 0 2px # 266cac} .color_alternate .highlight_secondary, .color_alternate .w-counter.color_secondary .w-counter -number, .color_alternate .w-iconbox.color_secondary .w-iconbox-icon, .color_alternate .w-separator.color_secondary {color: # 266cac} .color_alternate .w-btn.color_secondary.style_outlined, .no-touch .btn_hov_reverse. color_alternate .w-btn.color_secondary.style_solid: h over {color: # 266cac! important} .color_alternate .highlight_secondary_bg, .no-touch .color_alternate input [type = "button"]: hover, .no-touch .color_alternate input [type = "submit"]: hover, .color_alternate .w-btn.color_secondary.style_solid, .color_alternate .w-btn.color_secondary.style_outlined: before, .no-touch .btn_hov_reverse .color_alternate .w-btn.color_secondary.style_outlined: hover ,_ws-action_boxalternate,. .color_alternate .w-iconbox.style_circle.color_secondary .w-iconbox-icon, .color_alternate .w-progbar.color_secondary .w-progbar-bar-h {background-color: # 266cac} .color_alternate .w-btn.color_secondary, .color_alternate .w-separator.color_secondary {border-color: # 266cac} .color_alternate .w-iconbox.color_secondary.style_outlined .w-iconbox-icon {box-shadow: 0 0 0 2px # 266cac inset} .color_alternate .highlight_faded, .color_alternate .w-blog-post-meta> * ,. color_alternate .w-profile-link.for_logout, .color_alternate .w-testimonial-author-role, .color_alternate .w-testimonials.style _4 .w-testimonial-h: before {color: # 999999} .color_alternate .w-blog.layout_latest .w-blog-post-meta-date {border-color: # 999999} .color_footer-top {background-color: # 1a1a1a} .color_footer-top input, .color_footer-top textarea, .color_footer-top select, .color_footer-top .w-socials.style_solid .w-socials-item-link {background-color: # 222222} .color_footer- top, .color_footer-top * ,. color_footer-top .w-btn.color_light {border-color: # 282828} .color_footer-top .w-btn.color_light.style_solid, .color_footer-top .w-btn.color_light. style_outlined: before {background-color: # 282828} .color_footer-top .w-separator {color: # 282828} .color_footer-top .w-socials.style_outlined .w-socials-item-link {box-shadow: 0 0 0 2px # 282828 inset} .color_footer-top, .color_footer-top input, .color_footer-top textarea, .color_footer-top select {color: # 808080} .color_footer-top a {color: #cccccc} .no-touch. color_footer-top a: hover, .no-touch .color_footer-top a: hover + .w-blog-post-body .w-blog-post-title a, .no-touch .color_footer-top .w-form- row.f ocused .w-form-row-field: before {color: #ffffff} .color_footer-top input: focus, .color_footer-top textarea: focus, .color_footer-top select: focus {box-shadow: 0 0 0 2px # ffffff} .color_footer-bottom {background-color: # 222222} .color_footer-bottom input, .color_footer-bottom textarea, .color_footer-bottom select, .color_footer-bottom .w-socials.style_solid .w-socials-item-link {background-color: # 1a1a1a} .color_footer-bottom, .color_footer-bottom * ,. color_footer-bottom .w-btn.color_light {border-color: # 333333} .color_footer-bottom .w-btn.color_light.style_solid, .color_footer-bottom .w-btn.color_light.style_outlined: before {background-color: # 333333} .color_footer-bottom .w-separator {color: # 333333} .color_footer-bottom .w-socials.style_outlined .w-socials -item-link {box-shadow: 0 0 0 2px # 333333 inset} .color_footer-bottom, .color_footer-bottom input, .color_footer-bottom textarea, .color_footer-bottom select {color: # 666666} .color_footer-bottom a {color: # 999999} .no-touch .color_footer-bottom a: hover, .no-touch .color_fo oter-bottom a: hover + .w-blog-post-body .w-blog-post-title a, .no-touch .color_footer-bottom .w-form-row.focused .w-form-row-field: before {color: #ffffff} .color_footer-bottom input: focus, .color_footer-bottom textarea: focus, .color_footer-bottom select: focus {box-shadow: 0 0 0 2px #ffffff} .w-nav.type_desktop .menu -item-6082 .w-nav-list.level_2 {padding: 0px; background-size: cover; background-repeat: repeat; background-position: top left}
+      </style>
+      <style id = "us-header-css" type = "text / css">
+       @media (min-width: 901px) {. hidden_for_default {display: none! important} .l-subheader.at_bottom {display: none} .header_hor .l-subheader.at_top {line-height: 40px; height: 40px}. header_hor .l-header.sticky .l-subheader.at_top {line-height: 36px; height: 36px} .header_hor .l-subheader.at_middle {line-height: 118px; height: 118px} .header_hor .l-header. sticky .l-subheader.at_middle {line-height: 105px; height: 105px} .header_hor .l-subheader.at_bottom {line-height: 40px; height: 40px} .header_hor .l-header.sticky .l-subheader. at_bottom {line-height: 40px; height: 40px} .header_hor .l-header.pos_fixed + .l-titlebar, .header_hor .sidebar_left .l-header.pos_fixed + .l-main, .header_hor .sidebar_right .l-header .pos_fixed + .l-main, .header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section: first-child, .header_hor .sidebar_none .l-header.pos_fixed + .l-main .l- section-gap: nth-child (2) ,. header_hor.header_inpos_below .l-header.pos_fixed ~ .l-main .l-section: nth-child (2) ,. header_hor .l-header.pos_static.bg_transparent +. l-titl ebar, .header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main, .header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main, .header_hor.hor .sidebar_none .l-header.pos .sidebar_none .l-header.pos + .l-main .l-section: first-child {padding-top: 158px} .header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blog-post-preview { top: -158px} .header_hor.header_inpos_bottom .l-header.pos_fixed ~ .l-main .l-section: first-child {padding-bottom: 158px} .header_hor .l-header.bg_transparent ~ .l-main .l -section.valign_center: first-child> .l-section-h {top: -79px} .header_hor.header_inpos_bottom .l-header.pos_fixed.bg_transparent ~ .l-main .l-section.valign_center: first-child>. l-section-h {top: 79px} .header_hor .l-header.pos_fixed ~ .l-main .l-section.height_full: not (: first-child) {min-height: calc (100vh - 141px)}. admin-bar.header_hor .l-header.pos_fixed ~ .l-main .l-section.height_full: not (: first-child) {min-height: calc (100vh - 173px)}. header_hor .l-header.pos_fixed ~ .l-main .l-section .sticky {top: 141px} .admin-bar.header_hor .l-header.pos_fixed ~ .l-main .l-section.sticky {top: 173px} .header_hor .sidebar_none .l-header.pos_fixed.sticky + .l -main .l-section.type_sticky: first-child {padding-top: 141px} .header_hor.header_inpos_below .l-header.pos_fixed: not (.sticky) {position: absolute; top: 100%}. header_hor.header_inpos_bottom. l-header.pos_fixed: not (.sticky) {position: absolute; bottom: 0} .header_inpos_below .l-header.pos_fixed ~ .l-main .l-section: first-child, .header_inpos_bottom .l-header.pos_fixed ~ .l-main .l-section: first-child {padding-top: 0! important} .header_hor.header_inpos_below .l-header.pos_fixed ~ .l-main .l-section.height_full: nth-child (2) {min-height: 100vh} .admin-bar.header_hor.header_inpos_below .l-header.pos_fixed ~ .l-main .l-section.height_full: nth-child (2) {min-height: calc (100vh - 32px) } .header_inpos_bottom .l-header.pos_fixed: not (.sticky) .w-cart-dropdown, .header_inpos_bottom .l-header.pos_fixed: not (.sticky) .w-nav.type_desktop .w-nav-list.level_2 {bottom: 100%; transform-ori gin: 0 100%}. header_inpos_bottom .l-header.pos_fixed: not (.sticky) .w-nav.type_mobile.m_layout_dropdown .w-nav-list.level_1 {top: auto; bottom: 100%; box-shadow: 0 -3px 3px rgba (0,0,0,0.1)}. Header_inpos_bottom .l-header.pos_fixed: not (.sticky) .w-nav.type_desktop .w-nav-list.level_3, .header_inpos_bottom .l-header .pos_fixed: not (.sticky) .w-nav.type_desktop .w-nav-list.level_4 {top: auto; bottom: 0; transform-origin: 0 100%}} @ media (min-width: 601px) and (max-width: 900px) {. hidden_for_tablets {display: none! important} .l-subheader.at_top {display: none} .header_hor .l-subheader.at_top {line-height: 40px; height: 40px} .header_hor. l-header.sticky .l-subheader.at_top {line-height: 40px; height: 40px} .header_hor .l-subheader.at_middle {line-height: 101px; height: 101px} .header_hor .l-header.sticky. l-subheader.at_middle {line-height: 101px; height: 101px} .header_hor .l-subheader.at_bottom {line-height: 50px; height: 50px} .header_hor .l-header.sticky .l-subheader.at_bottom { line-height: 50px; height: 50px} .header_hor .l-header.pos_fixed + .l-titlebar, .header_hor .sidebar_left .l-header.pos_fixed + .l-main, .header_hor .sidebar_right .l-header.pos_fixed + .l-main, .header_hor .sidebar_none .l-header.pos_fixed +. l-main .l-section: first-child, .header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section-gap: nth-child (2) ,. header_hor .l-header.pos_static. bg_transparent + .l-titlebar, .header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main, .header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main, .header_hor .sidebar header.pos_static.bg_transparent + .l-main .l-section: first-child {padding-top: 151px} .header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blog -post-preview {top: -151px} .header_hor .l-header.pos_fixed ~ .l-main .l-section.sticky {top: 151px} .header_hor .sidebar_none .l-header.pos_fixed.sticky + .l- main .l-section.type_sticky: first-child {padding-top: 151px}} @ media (max-width: 600px) {. hidden_for_mobiles {display: none! important} .l-subheader.at_top {displ ay: none} .header_hor .l-subheader.at_top {line-height: 40px; height: 40px} .header_hor .l-header.sticky .l-subheader.at_top {line-height: 0px; height: 0px; overflow: hidden} .header_hor .l-subheader.at_middle {line-height: 80px; height: 80px} .header_hor .l-header.sticky .l-subheader.at_middle {line-height: 80px; height: 80px} .header_hor .l -subheader.at_bottom {line-height: 70px; height: 70px} .header_hor .l-header.sticky .l-subheader.at_bottom {line-height: 60px; height: 60px} .header_hor .l-header.pos_fixed +. l-titlebar, .header_hor .sidebar_left .l-header.pos_fixed + .l-main, .header_hor .sidebar_right .l-header.pos_fixed + .l-main, .header_hor .sidebar_none .l-header.pos_fixed + .l- main .l-section: first-child, .header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section-gap: nth-child (2) ,. header_hor .l-header.pos_static.bg_transparent + .l-titlebar, .header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main, .header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main, .header_hor .sidebar _none .l-header.pos_static.bg_transparent + .l-main .l-section: first-child {padding-top: 150px} .header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blog-post-preview {top: -150px} .header_hor .l-header.pos_fixed ~ .l-main .l-section.sticky {top: 140px} .header_hor .sidebar_none .l-header.pos_fixed.sticky + .l-main .l-section.type_sticky: first-child {padding-top: 140px}} @ media (min-width: 901px) {. ush_image_1 {height: 30px} .l-header.sticky .ush_image_1 {height : 30px}} @ media (min-width: 601px) and (max-width: 900px) {. Ush_image_1 {height: 30px} .l-header.sticky .ush_image_1 {height: 30px}} @ media (max-width: 600px) {. Ush_image_1 {height: 20px} .l-header.sticky .ush_image_1 {height: 20px}} @ media (min-width: 901px) {. Ush_image_2 {height: 79px} .l-header.sticky .ush_image_2 { height: 65px}} @ media (min-width: 601px) and (max-width: 900px) {. ush_image_2 {height: 70px} .l-header.sticky .ush_image_2 {height: 65px}} @ media (max-width : 600px) {. Ush_image_2 {height: 65px} .l-header.sticky .ush_image_2 {height: 65px}}. Ush_text_ 3 .w-text-value {color:} @ media (min-width: 901px) {. Ush_text_3 {font-size: 12px}} @ media (min-width: 601px) and (max-width: 900px) {. ush_text_3 {font-size: 12px}} @ media (max-width: 600px) {. ush_text_3 {font-size: 12px}}. ush_text_3 {white-space: nowrap} .ush_text_1 .w-text-value {color:} @media (min-width: 901px) {. ush_text_1 {font-size: 12px}} @ media (min-width: 601px) and (max-width: 900px) {. ush_text_1 {font-size: 12px}} @ media (max-width: 600px) {. ush_text_1 {font-size: 12px}}. ush_text_1 {white-space: nowrap} .ush_text_2 .w-text-value {color:} @ media (min-width: 901px) {. ush_text_2 {font-size: 12px}} @ media (min-width: 601px) and (max-width: 900px) {. ush_text_2 {font-size: 12px}} @ media (max-width: 600px) {. ush_text_2 { font-size: 12px}}. ush_text_2 {white-space: nowrap} @media (min-width: 901px) {. ush_btn_1 .w-btn {font-size: 11px}} @ media (min-width: 601px) and (max-width: 900px) {. ush_btn_1 .w-btn {font-size: 11px}} @ media (max-width: 600px) {. ush_btn_1 .w-btn {font-size: 11px}}. ush_btn_1 .w -btn, .no-touch .btn_hov_none .ush_btn_1 .w-btn: hover {border-col or: # 00519e; color: #ffffff} .ush_btn_1 .w-btn.style_solid {background-color: # 00519e} .no-touch .btn_hov_fade .ush_btn_1 .w-btn: before, .no-touch .btn_hov_slide .ush_btn_1. w-btn: before, .no-touch .btn_hov_reverse .ush_btn_1 .w-btn.style_outlined: hover {background-color: # e5083c} .no-touch body: not (.btn_hov_none) .ush_btn_1 .w-btn: hover { border-color: # e5083c; color: #ffffff} .header_hor .ush_menu_1.type_desktop .w-nav-list.level_1> .menu-item> a {padding: 0 20px} .header_ver .ush_menu_1.type_desktop {line-height: 40px} .ush_menu_1.type_desktop .btn.menu-item.level_1> .w-nav-anchor {margin: 10px} .ush_menu_1.type_desktop .w-nav-list> .menu-item.level_1 {font-size: 16px} .ush_menu_1.type_desktop .w-nav-list> .menu-item: not (.level_1) {font-size: 15px} .ush_menu_1.type_mobile .w-nav-anchor.level_1 {font-size: 15px} .ush_menu_1. type_mobile .w-nav-anchor: not (.level_1) {font-size: 14px} @media (min-width: 901px) {. ush_menu_1 .w-nav-icon {font-size: 20px}} @ media (min -width: 601px) and (max-width: 900px) {. ush_menu_1 .w-nav-icon {font-size: 20 px}} @ media (max-width: 600px) {. ush_menu_1 .w-nav-icon {font-size: 20px}} @ media screen and (max-width: 899px) {. ush_menu_1 .w-nav-list { display: none} .ush_menu_1 .w-nav-control {display: block}} @ media (min-width: 901px) {. ush_dropdown_1 .w-dropdown-h {font-size: 13px}} @ media (min-width : 601px) and (max-width: 900px) {. Ush_dropdown_1 .w-dropdown-h {font-size: 13px}} @ media (max-width: 600px) {. Ush_dropdown_1 .w-dropdown-h {font-size : 13px}}
+      </style>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class = "home page-template-default page page-id-8 l-body Impreza_4.10.3 HB_2.0.6 header_hor header_inpos_top btn_hov_slide rounded_none state_default _masterslider _msp_version_3.2.2 wpb-js-composer js-comp-ver-5.4.5 vc "itemscope =" "itemtype =" https://schema.org/WebPage ">
+  <div class = "l-canvas sidebar_none type_wide">
+   <header class = "l-header pos_fixed bg_solid shadow_thin" itemscope = "" itemtype = "https://schema.org/WPHeader">
+    <div class = "l-subheader at_top">
+     <div class = "l-subheader-h">
+      <div class = "l-subheader-cell at_left">
+       <div class = "w-text ush_text_1 font_regular">
+        <div class = "w-text-h">
+         <span class = "w-text-value">
+          junited AUTOGLAS Leipzig | Dresden
+         </span>
+        </div>
+       </div>
+       <div class = "w-text ush_text_3 font_regular">
+        <div class = "w-text-h">
+         <i class = "fa fa-phone-square">
+         </i>
+         <span class = "w-text-value">
+          LEIPZIG: 0341 9011373
+         </span>
+        </div>
+       </div>
+       <div class = "w-text ush_text_2 font_regular">
+        <div class = "w-text-h">
+         <i class = "fa fa-phone-square">
+         </i>
+         <span class = "w-text-value">
+          DRESDEN: 0351 4819 7931
+         </span>
+        </div>
+       </div>
+       <div class = "w-btn-wrapper ush_btn_1">
+        <a class="w-btn style_solid color_custom icon_atleft" href="https://junited-autoglas-leipzig.de/kontakt/">
+         <i class = "fa fa-clock-o">
+         </i>
+         <span class = "w-btn-label">
+          make an appointment
+         </span>
+        </a>
+       </div>
+       <div class = "w-dropdown source_own ush_dropdown_1">
+        <div class = "w-dropdown-h">
+         <div class = "w-dropdown-list">
+          <a class="w-dropdown-item" href="https://junited-autoglas-leipzig.de/kontakt/#1517810056752-b3cbaf97-e750">
+           <span class = "w-dropdown-item-title">
+            LEIPZIG STATION
+           </span>
+          </a>
+          <a class="w-dropdown-item" href="https://junited-autoglas-leipzig.de/kontakt/#1518851354971-ac4006c7-cfe2">
+           <span class = "w-dropdown-item-title">
+            DRESDEN STATION
+           </span>
+          </a>
+          <a class="w-dropdown-item" href="//">
+           <span class = "w-dropdown-item-title">
+           </span>
+          </a>
+         </div>
+         <div class = "w-dropdown-current">
+          <a class="w-dropdown-item" href="javascript:void(0)">
+           <span class = "w-dropdown-item-title">
+            SELECT STATION
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "l-subheader-cell at_center">
+      </div>
+      <div class = "l-subheader-cell at_right">
+      </div>
+     </div>
+    </div>
+    <div class = "l-subheader at_middle">
+     <div class = "l-subheader-h">
+      <div class = "l-subheader-cell at_left">
+       <div class = "w-img ush_image_2">
+        <a class="w-img-h" href="https://junited-autoglas-leipzig.de">
+         <img alt = "" class = "for_default" height = "142" src = "https://junited-autoglas-leipzig.de/wp-content/uploads/logo.png" width = "600" />
+        </a>
+       </div>
+      </div>
+      <div class = "l-subheader-cell at_center">
+      </div>
+      <div class = "l-subheader-cell at_right">
+       <nav class = "w-nav height_full type_desktop dropdown_height m_align_left m_layout_dropdown ush_menu_1" itemscope = "" itemtype = "https://schema.org/SiteNavigationElement">
+        <a aria-label="Menu" class="w-nav-control" href="javascript:void(0);">
+         <div class = "w-nav-icon">
+          <i>
+          </i>
+         </div>
+         <span>
+          menu
+         </span>
+        </a>
+        <ul class = "w-nav-list level_1 hide_for_mobiles hover_simple">
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item w-nav-item level_1 menu-item-6532 "id =" menu-item-6532 ">
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/">
+           <span class = "w-nav-title">
+            HOME
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children w-nav-item level_1 menu-item-6082" id = "menu-item-6082" >
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/leistungen/scheibe-reparieren/">
+           <span class = "w-nav-title">
+            SERVICES
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+          <ul class = "w-nav-list level_2">
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-6948" id = "menu-item-6948">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/leistungen/platten-reparieren/">
+             <span class = "w-nav-title">
+              REPAIR DISCS
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-6950" id = "menu-item-6950">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/dienstleistungen/scheibe-tauschen/">
+             <span class = "w-nav-title">
+              REPLACE DISCS
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-7061" id = "menu-item-7061">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/leistungen/kalibrieren/">
+             <span class = "w-nav-title">
+              CALIBRATE
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-6947" id = "menu-item-6947">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/leistungen/platten-folieren/">
+             <span class = "w-nav-title">
+              FILM DISCS
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-6949" id = "menu-item-6949">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/leistungen/firmenkunden/">
+             <span class = "w-nav-title">
+              CORPORATE BANKING
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+           <li class = "menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_2 menu-item-7060" id = "menu-item-7060">
+            <a class="w-nav-anchor level_2" href="https://junited-autoglas-leipzig.de/leistungen/weiter-leistungen/">
+             <span class = "w-nav-title">
+              ADDITIONAL SERVICES
+             </span>
+             <span class = "w-nav-arrow">
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6952" id = "menu-item-6952">
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/service/">
+           <span class = "w-nav-title">
+            SERVICE
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6951" id = "menu-item-6951">
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/versicherungsinfos/">
+           <span class = "w-nav-title">
+            INSURANCE INFO
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6550" id = "menu-item-6550">
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/ueber-uns/">
+           <span class = "w-nav-title">
+            ABOUT US
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+         </li>
+         <li class = "menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-6553" id = "menu-item-6553">
+          <a class="w-nav-anchor level_1" href="https://junited-autoglas-leipzig.de/kontakt/">
+           <span class = "w-nav-title">
+            CONTACT
+           </span>
+           <span class = "w-nav-arrow">
+           </span>
+          </a>
+         </li>
+         <div class = "w-nav-close">
+         </div>
+        </ul>
+        <div class = "w-nav-options hidden" onclick = 'return {"mobileWidth": 900, "mobileBehavior": 1}'>
+        </div>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <div class = "l-subheader at_bottom">
+     <div class = "l-subheader-h">
+      <div class = "l-subheader-cell at_left">
+      </div>
+      <div class = "l-subheader-cell at_center">
+      </div>
+      <div class = "l-subheader-cell at_right">
+      </div>
+     </div>
+    </div>
+    <div class = "l-subheader for_hidden hidden">
+    </div>
+   </header>
+   <div class = "l-main">
+    <div class = "l-main-h i-cf">
+     <main class = "l-content" itemprop = "mainContentOfPage">
+      <section class = "l-section wpb_row height_auto width_full color_primary" id = "Start">
+       <div class = "l-section-h i-cf">
+        <div class = "g-cols vc_row type_default valign_top">
+         <div class = "vc_col-sm-12 wpb_column vc_column_container">
+          <div class = "vc_column-inner">
+           <div class = "wpb_wrapper">
+            <div class = "cl-popup align_left">
+             <span class = "cl-popup-trigger type_load" data-delay = "1">
+             </span>
+             <div class = "cl-popup-overlay" style = "background-color: rgba (0,38,76,0.66);">
+             </div>
+             <div class = "cl-popup-wrap">
+              <div class = "cl-popup-box size_l animation_fadeIn">
+               <div class = "cl-popup-box-h">
+                <div class = "cl-popup-box-title" style = "color: # 666666; background-color: # f2f2f2;">
+                 Current
+                </div>
+                <div class = "cl-popup-box-content" style = "color: # 333333; background-color: #ffffff;">
+                 <h3 class = "w-iconbox-title">
+                  <span style = "color: # e4013b;">
+                   <strong>
+                    We make it easy for you: Rely on our pick-up / delivery service
+                   </strong>
+                  </span>
+                 </h3>
+                 <p>
+                  We pick up your car and bring it back. Free. Call us and make an appointment!
+                 </p>
+                 <h3>
+                  <span style = "color: # e4013b;">
+                   <strong>
+                    We take care of: Our current hygiene measures
+                   </strong>
+                  </span>
+                 </h3>
+                 <p>
+                  In order to protect you and our employees in the best possible way and at the same time to professionally implement your order as usual, we have important current issues
+                  <strong>
+                   Hygiene measures
+                  </strong>
+                  introduced.
+                 </p>
+                 <p>
+                  <strong>
+                   Customer acceptance
+                  </strong>
+                 </p>
+                 <ol>
+                  <li>
+                   We hold
+                   <strong>
+                    more distance from you
+                   </strong>
+                   and renounce z. B. on shaking hands. This is not meant to be impolite. It is a hygiene measure for your and our protection.
+                  </li>
+                  <li>
+                   Please understand that im
+                   <strong>
+                    Waiting area at most one customer
+                   </strong>
+                   should stay together with the staff. Otherwise we ask you
+                   <strong>
+                    waiting just outside the door.
+                   </strong>
+                  </li>
+                  <li>
+                   If the
+                   <strong>
+                    Door to waiting area open
+                   </strong>
+                   we ask you to leave it open too.
+                   <br/>
+                   Because we ventilate our premises regularly.
+                  </li>
+                 </ol>
+                 <p>
+                  <strong>
+                   All about the vehicle
+                  </strong>
+                 </p>
+                 <ol>
+                  <li>
+                   Our replacement cars are in the used places
+                   <strong>
+                    thoroughly cleaned
+                   </strong>
+                   (e.g. steering wheel, switch, gear lever, door handles)
+                  </li>
+                  <li>
+                   We bet on your vehicle
+                   <strong>
+                    Steering wheel protectors and gear lever protectors
+                   </strong>
+                   to avoid fingerprints.
+                  </li>
+                  <li>
+                   When working in your vehicle, we carry
+                   <strong>
+                    Disposable gloves.
+                   </strong>
+                  </li>
+                 </ol>
+                 <p>
+                  <strong>
+                  </strong>
+                  We thank you for your understanding. And:
+                  <strong>
+                   Stay healthy!
+                  </strong>
+                 </p>
+                </div>
+                <div class = "cl-popup-box-closer" style = "color: # 666666;">
+                </div>
+               </div>
+              </div>
+              <div class = "cl-popup-closer">
+              </div>
+             </div>
+            </div>
+            <div class = "avt_masterslider_el">
+             <! - MasterSlider ->
+             <div class = "master-slider-parent ms-parent-id-33" id = "P_MS5fa7bb66a2f8a">
+              <! - MasterSlider Main ->
+              <div class = "master-slider ms-skin-light-3" id = "MS5fa7bb66a2f8a">
+               <div class = "ms-slide" data-delay = "6.7" data-fill-mode = "fill">
+                <img alt = "" data-src = "https://junited-autoglas-leipzig.de/wp-content/uploads/autoglas-scheibentausch.jpg" src = "https://junited-autoglas-leipzig.de/ wp-content / plugins / masterslider / public / assets / css / blank.gif "title =" "/>
+                <a class = "ms-layer ms-btn ms-btn-box ms-btn-n msp-preset-btn-84" data-delay = "1762" data-duration = "2450" data-ease = "easeOutQuint" data-offset-x = "344" data-offset-y = "376" data-origin = "tl" data-position = "normal" data-type = "button" href = "https: // junited-autoglas- leipzig.de/leistungen/platten-tauschen/ "target =" _ self ">
+                 LEARN MORE
+                </a>
+                <div class = "ms-layer msp-cn-25-93" data-delay = "700" data-duration = "3487" data-ease = "easeOutQuint" data-effect = "t (true, -150, n , n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 342 "data-offset-y =" 306 "data-origin =" tl "data-position =" normal "style =" ">
+                 at junited AUTOGLAS Leipzig | Dresden
+                </div>
+                <div class = "ms-layer msp-cn-25-92" data-duration = "4175" data-ease = "easeOutExpo" data-effect = "t (true, -150, n, n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 251 "data-offset-y =" 216 "data-origin =" tl "data-position =" normal "style =" ">
+                 <p>
+                  CHANGE DISCS
+                 </p>
+                </div>
+               </div>
+               <div class = "ms-slide" data-delay = "6.7" data-fill-mode = "fill">
+                <img alt = "" data-src = "https://junited-autoglas-leipzig.de/wp-content/uploads/steinschlag-reparatur-1.jpg" src = "https: // junited-autoglas-leipzig. de / wp-content / plugins / masterslider / public / assets / css / blank.gif "title =" "/>
+                <a class = "ms-layer ms-btn ms-btn-box ms-btn-n msp-preset-btn-84" data-delay = "1762" data-duration = "2450" data-ease = "easeOutQuint" data-offset-x = "344" data-offset-y = "376" data-origin = "tl" data-position = "normal" data-type = "button" href = "https: // junited-autoglas- leipzig.de/leistungen/platten-reparieren/ "target =" _ self ">
+                 LEARN MORE
+                </a>
+                <div class = "ms-layer msp-cn-33-133" data-delay = "700" data-duration = "3487" data-ease = "easeOutQuint" data-effect = "t (true, -150, n , n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 342 "data-offset-y =" 306 "data-origin =" tl "data-position =" normal "style =" ">
+                 at junited AUTOGLAS Leipzig | Dresden
+                </div>
+                <div class = "ms-layer msp-cn-33-132" data-duration = "4175" data-ease = "easeOutExpo" data-effect = "t (true, -150, n, n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 251 "data-offset-y =" 216 "data-origin =" tl "data-position =" normal "style =" ">
+                 <p>
+                  REPAIR DISCS
+                 </p>
+                </div>
+               </div>
+               <div class = "ms-slide" data-delay = "6.7" data-fill-mode = "fill">
+                <img alt = "" data-src = "https://junited-autoglas-leipzig.de/wp-content/uploads/kalibrierung-aschaffenburg.jpg" src = "https://junited-autoglas-leipzig.de/ wp-content / plugins / masterslider / public / assets / css / blank.gif "title =" "/>
+                <a class = "ms-layer ms-btn ms-btn-box ms-btn-n msp-preset-btn-84" data-delay = "1762" data-duration = "2450" data-ease = "easeOutQuint" data-offset-x = "344" data-offset-y = "376" data-origin = "tl" data-position = "normal" data-type = "button" href = "https: // junited-autoglas- leipzig.de/leistungen/kalibrieren/ "target =" _ self ">
+                 LEARN MORE
+                </a>
+                <div class = "ms-layer msp-cn-33-136" data-delay = "700" data-duration = "3487" data-ease = "easeOutQuint" data-effect = "t (true, -150, n , n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 342 "data-offset-y =" 306 "data-origin =" tl "data-position =" normal "style =" ">
+                 at junited AUTOGLAS Leipzig | Dresden
+                </div>
+                <div class = "ms-layer msp-cn-33-135" data-duration = "4175" data-ease = "easeOutExpo" data-effect = "t (true, -150, n, n, n, n, n, n, n, n, n, n, n, n, n) "data-offset-x =" 251 "data-offset-y =" 216 "data-origin =" tl "data-position =" normal "style =" ">
+                 <p>
+                  CALIBRATE
+                 </p>
+                </div>
+               </div>
+              </div>
+              <! - END MasterSlider Main ->
+             </div>
+             <! - END MasterSlider ->
+             <script>
+              (window.MSReady = window.MSReady || []) .push (function ($) {
+
+"use strict";
+var masterslider_2f8a = new MasterSlider ();
+
+// slider controls
+// slider setup
+masterslider_2f8a.setup ("MS5fa7bb66a2f8a", {
+width: 1700,
+height: 500,
+minHeight: 0,
+space: 0,
+start: 1,
+grabCursor: true,
+swipe: true,
+mouse: true,
+keyboard: false,
+layout: "fullwidth",
+wheel: false,
+autoplay: true,
+                instantStartLayers: false,
+mobileBGVideo: false,
+loop: true,
+shuffle: false,
+preload: 2,
+heightLimit: true,
+autoHeight: false,
+smoothHeight: true,
+				endPause        : false,
+				overPause       : false,
+				fillMode        : "fill",
+				centerControls  : false,
+				startOnAppear   : false,
+				layersMode      : "center",
+				autofillTarget  : "",
+				hideLayers      : false,
+				fullscreenMargin: 0,
+				speed           : 20,
+				dir             : "h",
+				parallaxMode    : 'swipe',
+				view            : "basic"
+});
+
+
+			$("head").append( "<link rel='stylesheet' id='ms-fonts'  href='//fonts.googleapis.com/css?family=Open+Sans:600,regular' type='text/css' media='all' />" );
+
+window.masterslider_instances = window.masterslider_instances || [];
+			window.masterslider_instances.push( masterslider_2f8a );
+});
+             </script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section class="l-section wpb_row height_auto width_full color_custom with_overlay type_sticky" data-sticky-disable-width="900" style="background-color: #266cac; color: #ffffff;">
+       <div class="l-section-overlay" style="background-color: #ffffff">
+       </div>
+       <div class="l-section-h i-cf">
+        <div class="g-cols vc_row type_default valign_top">
+         <div class="vc_col-sm-12 wpb_column vc_column_container">
+          <div class="vc_column-inner">
+           <div class="wpb_wrapper">
+            <div class="w-tabs layout_default accordion title_center icon_triangle iconpos_right">
+             <div class="w-tabs-list items_1">
+              <div class="w-tabs-list-h">
+               <div class="w-tabs-item">
+                <a class="w-tabs-item-h" href="#1518171968987-feb10ce0-7cc1">
+                 <span class="w-tabs-item-title">
+                  KONTAKT ZUR STATION IN LEIPZIG ODER DRESDEN: HIER KLICKEN
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="w-tabs-sections">
+              <div class="w-tabs-sections-h">
+               <div class="w-tabs-section color_custom" id="1518171968987-feb10ce0-7cc1" style="background-color: #266cac;">
+                <a class="w-tabs-section-header" href="#1518171968987-feb10ce0-7cc1">
+                 <div class="w-tabs-section-header-h">
+                  <h5 class="w-tabs-section-title">
+                   KONTAKT ZUR STATION IN LEIPZIG ODER DRESDEN: HIER KLICKEN
+                  </h5>
+                  <div class="w-tabs-section-control">
+                  </div>
+                 </div>
+                </a>
+                <div class="w-tabs-section-content">
+                 <div class="w-tabs-section-content-h i-cf">
+                  <div class="g-cols wpb_row type_default valign_top vc_inner">
+                   <div class="vc_col-sm-3 wpb_column vc_column_container">
+                    <div class="vc_column-inner">
+                     <div class="wpb_wrapper">
+                      <div class="wpb_widgetised_column wpb_content_element">
+                       <div class="wpb_wrapper">
+                        <div class = "widget widget_text" id = "text-2">
+                         <div class = "textwidget">
+                          <h5>
+                           JUNITED AUTOGLAS LEIPZIG
+                          </h5>
+                          <p>
+                           Autoglas-Zentrum Leipzig GmbH
+                           <br/>
+                           Landsberger Straße 128
+                           <br/>
+                           04157 Leipzig
+                           <br/>
+                           Telefon: 0341 9011373
+                           <br/>
+                           Fax: 0341 9011598
+                           <br/>
+                           E-Mail: autoglas-zentrum-leipzig@arcor.de
+                          </p>
+                          <p>
+                           <b>
+                            OPENING HOURS
+                           </b>
+                           <br/>
+                           Montag bis Freitag 08:00-17.00 Uhr
+                           <br/>
+                           Samstag nach Vereinbarung
+                           <br/>
+                           Termine auch nach Vereinbarung
+                          </p>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                   <div class="vc_col-sm-3 wpb_column vc_column_container">
+                    <div class="vc_column-inner">
+                     <div class="wpb_wrapper">
+                      <div class="wpb_text_column">
+                       <div class="wpb_wrapper">
+                        <div class="BorlabsCookie">
+                         <div class="_brlbs-content-blocker">
+                          <div class="_brlbs-embed _brlbs-google-maps">
+                           <img alt="Google Maps" class="_brlbs-thumbnail" src="https://junited-autoglas-leipzig.de/wp-content/plugins/borlabs-cookie/images/cb-maps.png"/>
+                           <div class="_brlbs-caption">
+                            <p>
+                             By loading the card, you accept the Google Privacy Policy
+                             <br/>
+                             <a href="https://policies.google.com/privacy" rel="nofollow noopener noreferrer" target="_blank">
+                              Learn more
+                             </a>
+                            </p>
+                            <p>
+                             <a class="_brlbs-btn" data-borlabs-cookie-unblock="" href="#" role="button">
+                              Karte laden
+                             </a>
+                            </p>
+                            <p>
+                             <label>
+                              <input checked="" name="unblockAll" type="checkbox" value="1"/>
+                              <small>
+                               Always unlock Google Maps
+                              </small>
+                             </label>
+                            </p>
+                           </div>
+                          </div>
+                         </div>
+                         <div class="borlabs-hide" data-borlabs-cookie-id="googlemaps" data-borlabs-cookie-type="content-blocker">
+                          <script type="text/template">
+                           PHA+PGlmcmFtZSBzdHlsZT0iYm9yZGVyOiAwOyIgc3JjPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvZW1iZWQ/cGI9ITFtMTghMW0xMiExbTMhMWQyNDkwLjE4NDQyNzEyNTA2MTYhMmQxMi4zNTQzNTM5MTYxMjQyNyEzZDUxLjM4MTI4ODM3OTYxNDQ3ITJtMyExZjAhMmYwITNmMCEzbTIhMWkxMDI0ITJpNzY4ITRmMTMuMSEzbTMhMW0yITFzMHg0N2E2NTg2ZDJlYjkzZDQxJTNBMHg5NzJmNDdmZjViNjRjNWI3ITJzanVuaXRlZCtBVVRPR0xBUyslMjYrQXV0b2dsYXMtWmVudHJ1bStMZWlwemlnK0dtYkghNWUwITNtMiExc2RlITJzZGUhNHYxNTIwODY4MTg1MDMxIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZnJhbWVib3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj0iYWxsb3dmdWxsc2NyZWVuIj48L2lmcmFtZT48L3A+
+                          </script>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                   <div class="vc_col-sm-3 wpb_column vc_column_container">
+                    <div class="vc_column-inner">
+                     <div class="wpb_wrapper">
+                      <div class="wpb_widgetised_column wpb_content_element">
+                       <div class="wpb_wrapper">
+                        <div class = "widget widget_text" id = "text-3">
+                         <div class = "textwidget">
+                          <h5>
+                           JUNITED AUTOGLAS DRESDEN
+                          </h5>
+                          <p>
+                           Autoglas-Zentrum Leipzig GmbH
+                           <br>
+                            Wachsbleichstraße 32
+                            <br/>
+                            01067 Dresden
+                            <br/>
+                            Telefon: 0351 4819 7931
+                            <br/>
+                            Fax: 0351 4819 7932
+                            <br/>
+                            E-Mail: junited-autoglas-dresden@t-online.de
+                           </br>
+                          </p>
+                          <p>
+                           <b>
+                            OPENING HOURS
+                           </b>
+                           <br/>
+                           Montag bis Freitag 08:00-17.00 Uhr
+                           <br/>
+                           Samstag nach Vereinbarung
+                           <br/>
+                           Termine auch nach Vereinbarung
+                          </p>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                   <div class="vc_col-sm-3 wpb_column vc_column_container">
+                    <div class="vc_column-inner">
+                     <div class="wpb_wrapper">
+                      <div class="wpb_text_column">
+                       <div class="wpb_wrapper">
+                        <div class="BorlabsCookie">
+                         <div class="_brlbs-content-blocker">
+                          <div class="_brlbs-embed _brlbs-google-maps">
+                           <img alt="Google Maps" class="_brlbs-thumbnail" src="https://junited-autoglas-leipzig.de/wp-content/plugins/borlabs-cookie/images/cb-maps.png"/>
+                           <div class="_brlbs-caption">
+                            <p>
+                             By loading the card, you accept the Google Privacy Policy
+                             <br/>
+                             <a href="https://policies.google.com/privacy" rel="nofollow noopener noreferrer" target="_blank">
+                              Learn more
+                             </a>
+                            </p>
+                            <p>
+                             <a class="_brlbs-btn" data-borlabs-cookie-unblock="" href="#" role="button">
+                              Karte laden
+                             </a>
+                            </p>
+                            <p>
+                             <label>
+                              <input checked="" name="unblockAll" type="checkbox" value="1"/>
+                              <small>
+                               Always unlock Google Maps
+                              </small>
+                             </label>
+                            </p>
+                           </div>
+                          </div>
+                         </div>
+                         <div class="borlabs-hide" data-borlabs-cookie-id="googlemaps" data-borlabs-cookie-type="content-blocker">
+                          <script type="text/template">
+                           PHA+PGlmcmFtZSBzdHlsZT0iYm9yZGVyOiAwOyIgc3JjPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvZW1iZWQ/cGI9ITFtMTghMW0xMiExbTMhMWQyNTA3LjY1NDM0MTQyMTUzODQhMmQxMy43MDkyOTEzMTYxMTUwNTghM2Q1MS4wNTk0Njk5Nzk1NjM5ODUhMm0zITFmMCEyZjAhM2YwITNtMiExaTEwMjQhMmk3NjghNGYxMy4xITNtMyExbTIhMXMweDQ3MDljZjkyZjFkNDA5ODUlM0EweDdiZDBiNDMwMWMyZTlhMzkhMnNqdW5pdGVkK0FVVE9HTEFTK0RyZXNkZW4hNWUwITNtMiExc2RlITJzZGUhNHYxNTIwODY4MDc4NDkwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZnJhbWVib3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj0iYWxsb3dmdWxsc2NyZWVuIj48L2lmcmFtZT48L3A+
+                          </script>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <div class="l-section-gap">
+      </div>
+      <section class="l-section wpb_row height_medium color_custom">
+       <div class="l-section-h i-cf">
+        <div class="g-cols vc_row type_default valign_top vc_column-gap-20">
+         <div class="vc_col-sm-12 wpb_column vc_column_container">
+          <div class="vc_column-inner">
+           <div class="wpb_wrapper">
+            <div class="g-cols wpb_row type_default valign_top vc_column-gap-20 vc_inner">
+             <div class="vc_col-sm-9 wpb_column vc_column_container">
+              <div class="vc_column-inner">
+               <div class="wpb_wrapper">
+                <div class="wpb_text_column">
+                 <div class="wpb_wrapper">
+                  <h1>
+                   welcome
+                   <br>
+                    bei junited AUTOGLAS
+                    <br/>
+                    in Leipzig und Dresden.
+                   </br>
+                  </h1>
+                  <p>
+                   Wir sind Ihr Autoglas-Spezialbetrieb in Leipzig und Dresden für die professionelle Reparatur beim Steinschlag und den Austausch der Scheiben an Ihrem Auto. junited AUTOGLAS Leipzig | Dresden ist Partner von junited AUTOGLAS, dem größten Netzwerk unabhängiger Fachbetriebe für Autoglas in Deutschland mit über 240 TÜV-geprüften Stationen.
+                  </p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="vc_col-sm-3 wpb_column vc_column_container has-fill">
+              <div class="vc_column-inner vc_custom_1519390715649 color_custom" style="color:#ffffff;">
+               <div class="wpb_wrapper">
+                <div class="wpb_text_column">
+                 <div class="wpb_wrapper">
+                  <h4>
+                   news
+                  </h4>
+                 </div>
+                </div>
+                <div class="w-blog layout_compact type_grid" itemscope="" itemtype="https://schema.org/Blog">
+                 <div class="w-blog-list">
+                  <article class="w-blog-post news uncategorized drivernews-werkstatt post-7450 post type-post status-publish format-standard hentry category-news category-uncategorized category-drivernews-werkstatt" data-categories="news,uncategorized,drivernews-werkstatt" data-id="7450">
+                   <div class="w-blog-post-h">
+                    <div class="w-blog-post-body">
+                     <h2 class="w-blog-post-title" style="font-size:17px">
+                      <a class="entry-title" href="https://junited-autoglas-leipzig.de/hol-bring-service-aktuelle-hygienemassnahmen/" rel="bookmark">
+                       Hol-/Bring-Service | Aktuelle Hygienemaßnahmen
+                      </a>
+                     </h2>
+                     <div class="w-blog-post-meta">
+                      <time class="w-blog-post-meta-date date updated" datetime="2020-03-24 13:30:19">
+                       24. März 2020
+                      </time>
+                      <span class="w-blog-post-meta-author vcard author hidden">
+                       <a class="fn" href="https://junited-autoglas-leipzig.de/author/agzleipzig/">
+                        agzleipzig
+                       </a>
+                      </span>
+                     </div>
+                     <a class="w-blog-post-more w-btn color_light style_outlined" href="https://junited-autoglas-leipzig.de/hol-bring-service-aktuelle-hygienemassnahmen/">
+                      <span class="w-btn-label">
+                       Continue reading
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </article>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section class="l-section wpb_row height_auto width_full color_custom" style="background-color: #00529e; color: #ffffff;">
+       <div class="l-section-h i-cf">
+        <div class="g-cols vc_row type_default valign_middle">
+         <div class="vc_col-sm-6 wpb_column vc_column_container">
+          <div class="vc_column-inner">
+           <div class="wpb_wrapper">
+            <div class="w-portfolio type_grid style_11 cols_3 align_center ratio_4x3">
+             <div class="w-portfolio-list" data-preloader_type="1">
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="6799">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/scheiben-reparieren/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/scheiben-reparieren-1.jpg)">
+                 <img alt="SCHEIBEN REPARIEREN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/scheiben-reparieren-1.jpg" width="500">
+                 </img>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   SCHEIBEN REPARIEREN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="6503">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/scheiben-tauschen/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/scheiben-austauschen.jpg)">
+                 <img alt="SCHEIBEN AUSTAUSCHEN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/scheiben-austauschen.jpg" width="500">
+                 </img>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   SCHEIBEN AUSTAUSCHEN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="7033">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/kalibrieren/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/kalibrierung-assistenzsystem.jpg)">
+                 <img alt="KALIBRIEREN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/kalibrierung-assistenzsystem.jpg" width="500"/>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   KALIBRIEREN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="6830">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/scheiben-folieren/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/scheibenfolien-auto.jpg)">
+                 <img alt="SCHEIBEN FOLIEREN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/scheibenfolien-auto.jpg" width="500"/>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   SCHEIBEN FOLIEREN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="6777">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/firmenkunden/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/autoglas-firmenkunden.jpg)">
+                 <img alt="FIRMENKUNDEN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/autoglas-firmenkunden.jpg" width="500"/>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   FIRMENKUNDEN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+              <div class="w-portfolio-item leistungen size_1x1" data-categories="leistungen" data-id="7044">
+               <a class="w-portfolio-item-anchor" href="https://junited-autoglas-leipzig.de/leistungen/weitere-leistungen/" style="background-color: #00529e;">
+                <div class="w-portfolio-item-image" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/extras-sondergroeßen-1.jpg)">
+                 <img alt="WEITERE LEISTUNGEN" height="500" src="https://junited-autoglas-leipzig.de/wp-content/uploads/extras-sondergroeßen-1.jpg" width="500"/>
+                </div>
+                <div class="w-portfolio-item-meta">
+                 <div class="w-portfolio-item-meta-h">
+                  <h2 class="w-portfolio-item-title" style="font-size:20px">
+                   WEITERE LEISTUNGEN
+                  </h2>
+                  <span class="w-portfolio-item-arrow">
+                  </span>
+                 </div>
+                </div>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="vc_col-sm-6 wpb_column vc_column_container">
+          <div class="vc_column-inner">
+           <div class="wpb_wrapper">
+            <div class="wpb_text_column vc_custom_1520504086675">
+             <div class="wpb_wrapper">
+              <h1>
+               Strong performance
+               <br/>
+               vom Spezialisten für Autoglas
+              </h1>
+              <p>
+               Reparatur der Windschutzscheibe, Austausch von Frontscheibe, Seitenscheibe, Heckscheibe, Scheibentönung, Kalibrierung, Lösungen für gewerbliche Kunden und vieles mehr. What can we do for you?
+              </p>
+             </div>
+            </div>
+            <div class="w-separator type_invisible size_small thick_1 style_solid color_border cont_none">
+             <span class="w-separator-h">
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </main>
+    </div>
+   </div>
+  </div>
+  <footer class="l-footer" itemscope="" itemtype="https://schema.org/WPFooter">
+   <section class="l-section wpb_row height_medium color_custom">
+    <div class="l-section-h i-cf">
+     <div class="g-cols vc_row type_default valign_top vc_column-gap-4">
+      <div class="vc_col-sm-12 wpb_column vc_column_container">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="g-cols wpb_row type_default valign_top vc_inner">
+          <div class="vc_col-sm-3 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="w-iconbox iconpos_top style_default color_custom">
+              <div class="w-iconbox-icon" style="font-size:68px;color:#e4013b;">
+               <i class="fa fa-check-square-o">
+               </i>
+              </div>
+              <h3 class="w-iconbox-title">
+               HOL-/BRING-SERVICE
+              </h3>
+              <div class="w-iconbox-text">
+               We pick up your car and bring it back. Free.
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="vc_col-sm-3 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="w-iconbox iconpos_top style_default color_custom">
+              <div class="w-iconbox-icon" style="font-size:68px;color:#e4013b;">
+               <i class="fa fa-check-square-o">
+               </i>
+              </div>
+              <h3 class="w-iconbox-title">
+               MOBILITÄTS-
+               <br/>
+               SERVICE
+              </h3>
+              <div class="w-iconbox-text">
+               Ersatzfahrzeug während des Werkstattaufenthaltes. Gratis.
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="vc_col-sm-3 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="w-iconbox iconpos_top style_default color_custom">
+              <div class="w-iconbox-icon" style="font-size:68px;color:#e4013b;">
+               <i class="fa fa-check-square-o">
+               </i>
+              </div>
+              <h3 class="w-iconbox-title">
+               VOR-ORT-
+               <br/>
+               SERVICE
+              </h3>
+              <div class="w-iconbox-text">
+               Wir vereinbaren mit Ihnen einen Vor-Ort-Termin. Kostenfrei.
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="vc_col-sm-3 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="w-iconbox iconpos_top style_default color_custom">
+              <div class="w-iconbox-icon" style="font-size:68px;color:#e4013b;">
+               <i class="fa fa-check-square-o">
+               </i>
+              </div>
+              <h3 class="w-iconbox-title">
+               SCHADEN-
+               <br/>
+               SERVICE
+              </h3>
+              <div class="w-iconbox-text">
+               Direkte Abwicklung des Schadenfalls mit Ihrer Versicherung.
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section wpb_row height_medium color_custom with_img parallax_ver with_overlay" style=" color: #ffffff;">
+    <div class="l-section-img" data-img-height="500" data-img-width="1700" style="background-image: url(https://junited-autoglas-leipzig.de/wp-content/uploads/steinschlag-reparatur.jpg);background-position: top center;">
+    </div>
+    <div class="l-section-overlay" style="background-color: rgba(0,82,158,0.71)">
+    </div>
+    <div class="l-section-h i-cf">
+     <div class="g-cols vc_row type_default valign_top vc_column-gap-20">
+      <div class="vc_col-sm-4 wpb_column vc_column_container">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <h4>
+            <span style = "color: #ffffff;">
+             about us
+            </span>
+           </h4>
+          </div>
+         </div>
+         <div class="g-cols wpb_row type_default valign_top vc_inner">
+          <div class="vc_col-sm-4 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="w-image">
+              <div class="w-image-h">
+               <img alt="" class="attachment-full size-full" height="150" src="https://junited-autoglas-leipzig.de/wp-content/uploads/Servicestarker_Schadendienstleister_2017_2.png" width="100"/>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="vc_col-sm-8 wpb_column vc_column_container">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="wpb_text_column">
+              <div class="wpb_wrapper">
+               <p>
+                Die Autoglas-Zentrum Leipzig GmbH ist Ihr Autoglas Spezialbetrieb in Leipzig und Dresden. Wir sind Partner von junited AUTOGLAS, dem größten Netzwerk unabhängiger Fachbetriebe für Autoglas in Deutschland.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="vc_col-sm-4 wpb_column vc_column_container">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <h4>
+            <span style = "color: #ffffff;">
+             news
+            </span>
+           </h4>
+          </div>
+         </div>
+         <div class="w-blog layout_compact type_grid" itemscope="" itemtype="https://schema.org/Blog">
+          <div class="w-blog-list">
+           <article class="w-blog-post news uncategorized drivernews-werkstatt post-7450 post type-post status-publish format-standard hentry category-news category-uncategorized category-drivernews-werkstatt" data-categories="news,uncategorized,drivernews-werkstatt" data-id="7450">
+            <div class="w-blog-post-h">
+             <div class="w-blog-post-body">
+              <h2 class="w-blog-post-title">
+               <a class="entry-title" href="https://junited-autoglas-leipzig.de/hol-bring-service-aktuelle-hygienemassnahmen/" rel="bookmark">
+                Hol-/Bring-Service | Aktuelle Hygienemaßnahmen
+               </a>
+              </h2>
+              <div class="w-blog-post-meta">
+               <time class="w-blog-post-meta-date date updated" datetime="2020-03-24 13:30:19">
+                24. März 2020
+               </time>
+               <span class="w-blog-post-meta-author vcard author hidden">
+                <a class="fn" href="https://junited-autoglas-leipzig.de/author/agzleipzig/">
+                 agzleipzig
+                </a>
+               </span>
+              </div>
+             </div>
+            </div>
+           </article>
+           <article class="w-blog-post drivernews-werkstatt post-7441 post type-post status-publish format-standard hentry category-drivernews-werkstatt" data-categories="drivernews-werkstatt" data-id="7441">
+            <div class="w-blog-post-h">
+             <div class="w-blog-post-body">
+              <h2 class="w-blog-post-title">
+               <a class="entry-title" href="https://junited-autoglas-leipzig.de/service-von-junited-autoglas-erneut-ausgezeichnet/" rel="bookmark">
+                Service von junited AUTOGLAS erneut ausgezeichnet
+               </a>
+              </h2>
+              <div class="w-blog-post-meta">
+               <time class="w-blog-post-meta-date date updated" datetime="2019-08-12 12:42:59">
+                12. August 2019
+               </time>
+               <span class="w-blog-post-meta-author vcard author hidden">
+                <a class="fn" href="https://junited-autoglas-leipzig.de/author/drivernews/">
+                 drivernews
+                </a>
+               </span>
+              </div>
+             </div>
+            </div>
+           </article>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="vc_col-sm-4 wpb_column vc_column_container">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <h4>
+            <span style = "color: #ffffff;">
+             CONTACT
+            </span>
+           </h4>
+          </div>
+         </div>
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <p>
+            <b>
+             JUNITED AUTOGLAS LEIPZIG
+            </b>
+            <br/>
+            Landsberger Straße 128
+            <br/>
+            04157 Leipzig
+            <br/>
+            Telefon: 0341 9011373
+            <br/>
+            Fax: 0341 9011598
+            <br/>
+            E-Mail: autoglas-zentrum-leipzig@arcor.de
+           </p>
+          </div>
+         </div>
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <p>
+            <b>
+             JUNITED AUTOGLAS DRESDEN
+            </b>
+            <br/>
+            Wachsbleichstraße 32
+            <br/>
+            01067 Dresden
+            <br/>
+            Telefon: 0351 4819 7931
+            <br/>
+            Fax: 0351 4819 7932
+            <br/>
+            E-Mail: junited-autoglas-dresden@t-online.de
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="l-section wpb_row height_small color_custom align_center_xs" style="background-color: #00529e;">
+    <div class="l-section-h i-cf">
+     <div class="g-cols vc_row type_default valign_top">
+      <div class="vc_col-sm-12 wpb_column vc_column_container">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_text_column">
+          <div class="wpb_wrapper">
+           <p style = "text-align: center;">
+            <span style = "color: #ffffff;">
+             © Autoglas-Zentrum Leipzig GmbH
+            </span>
+            <a href="https://junited-autoglas-leipzig.de/impressum/">
+             imprint
+            </a>
+            <a href="https://junited-autoglas-leipzig.de/datenschutz/">
+             data protection
+            </a>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </footer>
+  <a aria-hidden="true" class="w-toplink pos_right" href="#" title="Zurück nach oben">
+  </a>
+  <a class="w-header-show" href="javascript:void(0);">
+   <span>
+    menu
+   </span>
+  </a>
+  <div class="w-header-overlay">
+  </div>
+  <script type = "text / javascript">
+   // Store some global theme options used in JS
+	if (window.$us === undefined) window.$us = {};
+	$us.canvasOptions = ($us.canvasOptions || {});
+	$us.canvasOptions.disableEffectsWidth = 1025;
+	$us.canvasOptions.responsive = true;
+	$us.canvasOptions.backToTopDisplay = 100;
+
+	$us.langOptions = ($us.langOptions || {});
+	$us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
+	$us.langOptions.magnificPopup.tPrev = 'Zurück (linke Cursortaste)';
+	$us.langOptions.magnificPopup.tNext = 'Weiter (rechte Cursortaste)';
+	$us.langOptions.magnificPopup.tCounter = '%curr% von %total%';
+
+	$us.navOptions = ($us.navOptions || {});
+	$us.navOptions.mobileWidth = 1111;
+	$us.navOptions.togglable = true;
+	$us.ajaxLoadJs = true;
+	$us.templateDirectoryUri = 'https://junited-autoglas-leipzig.de/wp-content/themes/Impreza';
+  </script>
+  <script type = "text / javascript">
+   $us.headerSettings = {"default":{"options":{"breakpoint":900,"orientation":"hor","sticky":true,"scroll_breakpoint":100,"transparent":"0","width":300,"elm_align":"center","shadow":"thin","top_show":1,"top_height":"40","top_sticky_height":"36","top_fullwidth":0,"middle_height":"118","middle_sticky_height":"105","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bgimage_wrapper_end":"","bottom_show":"0","bottom_height":"40","bottom_sticky_height":40,"bottom_fullwidth":0},"layout":{"top_left":["text:1","text:3","text:2","btn:1","dropdown:1"],"top_center":[],"top_right":[],"middle_left":["image:2"],"middle_center":[],"middle_right":["menu:1"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":["image:1"]}},"tablets":{"options":{"breakpoint":900,"orientation":"hor","sticky":true,"scroll_breakpoint":100,"transparent":0,"width":300,"elm_align":"center","shadow":"thin","top_show":"0","top_height":40,"top_sticky_height":"40","top_fullwidth":0,"middle_height":"101","middle_sticky_height":"101","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bgimage_wrapper_end":"","bottom_show":"1","bottom_height":50,"bottom_sticky_height":50,"bottom_fullwidth":0},"layout":{"top_left":["text:3","text:2","text:1","dropdown:1"],"top_center":[],"top_right":[],"middle_left":["image:2"],"middle_center":[],"middle_right":["menu:1"],"bottom_left":[],"bottom_center":[],"bottom_right":["btn:1"],"hidden":["image:1"]}},"mobiles":{"options":{"breakpoint":600,"orientation":"hor","sticky":true,"scroll_breakpoint":50,"transparent":0,"width":300,"elm_align":"center","shadow":"thin","top_show":0,"top_height":40,"top_sticky_height":0,"top_fullwidth":0,"middle_height":"80","middle_sticky_height":"80","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bgimage_wrapper_end":"","bottom_show":"1","bottom_height":"70","bottom_sticky_height":"60","bottom_fullwidth":0},"layout":{"top_left":["text:3","text:2","text:1","dropdown:1"],"top_center":[],"top_right":[],"middle_left":["image:2"],"middle_center":[],"middle_right":["menu:1"],"bottom_left":[],"bottom_center":[],"bottom_right":["btn:1"],"hidden":["image:1"]}}};
+  </script>
+  <! - googleoff: all ->
+  <script id = "BorlabsCookieBoxWrap" type = "text / template">
+   <div id="BorlabsCookieBox" class="BorlabsCookie">
+    <div class="top-center" style="display: none;">
+        <div class="_brlbs-box-wrap">
+            <div class="_brlbs-box _brlbs-box-advanced">
+                <div class = "cookie-box">
+                    <div class = "container">
+                        <div class = "row">
+                            <div class = "col-12">
+                                <div class="_brlbs-flex-center">
+                                                                        <h3>Datenschutzeinstellungen</h3>
+                                </div>
+                                <p>Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und ihre Bedienung zu verbessern.</p>
+                                <ul><li>
+                                            <label for="checkbox-essential" class="_brlbs-checkbox">
+                                                Essenziell                                                <input id="checkbox-essential" type="checkbox" name="cookieGroup[]" value="essential" checked disabled data-borlabs-cookie-checkbox>
+                                                <div class="_brlbs-checkbox-indicator"></div>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label for="checkbox-external-media" class="_brlbs-checkbox">
+                                                Externe Medien                                                <input id="checkbox-external-media" type="checkbox" name="cookieGroup[]" value="external-media" checked data-borlabs-cookie-checkbox>
+                                                <div class="_brlbs-checkbox-indicator"></div>
+                                            </label>
+                                        </li>
+                                        </ul>                                <p class="_brlbs-accept"><a class="_brlbs-btn _brlbs-btn-accept-all cursor" data-cookie-accept-all>Alle akzeptieren</a></p>
+                                <p class="_brlbs-accept"><a class="_brlbs-btn cursor" data-cookie-accept>Speichern</a></p>
+                                                                                                <p class="_brlbs-manage"><a class="cursor" data-cookie-individual>Individuelle Datenschutzeinstellungen</a></p>
+                                <p class = "_ brlbs-legal">
+                                    <a class="cursor" data-cookie-individual>Cookie-Details</a><span class="_brlbs-separator"></span><a href="https://junited-autoglas-leipzig.de/datenschutz/">Datenschutzerklärung</a><span class="_brlbs-separator"></span><a href="https://junited-autoglas-leipzig.de/impressum/">Impressum</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cookie-preference">
+    <div class = "container not-visible">
+        <div class = "row no-gutters">
+            <div class = "col-12">
+                <div class = "row no-gutters align-items-top">
+                                        <div class = "col-12">
+                        <h3>Datenschutzeinstellungen</h3>
+                        <p>Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.</p>
+
+                        <div class = "row no-gutters align-items-center">
+                            <div class = "col-12 col-sm-7">
+                                <p class = "_ brlbs-accept">
+                                                                <a class="_brlbs-btn _brlbs-btn-accept-all cursor" data-cookie-accept-all>Alle akzeptieren</a>
+                                                                <a class="_brlbs-btn cursor" data-cookie-accept>Speichern</a></p>
+                            </div>
+                            <div class = "col-12 col-sm-5">
+                                <p class = "_ brlbs-refuse">
+                                    <a class="cursor" data-cookie-back>Zurück</a>                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-cookie-accordion>
+                                    <div class = "bcac-item">
+                        <div class = "d-flex flex-row">
+                            <div class="w-75">
+                                <h4>Essenziell (1)</h4>
+                            </div>
+                            <div class = "w-25 text-right">
+                                                            </div>
+                        </div>
+                        <div class = "d-block">
+                            <p> Essential cookies enable basic functions and are necessary for the website to function properly. </p>
+                            <p class = "text-center">
+                                <a class="cursor d-block" data-cookie-accordion-target="essential">
+                                    <span data-cookie-accordion-status="show">Cookie-Informationen anzeigen</span>
+                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">Cookie-Informationen ausblenden</span>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="borlabs-hide" data-cookie-accordion-parent="essential">
+                                                        <table>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Borlabs Cookie</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Owner of this website </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Saves the settings of the visitors selected in the Borlabs Cookie cookie box. </td>
+                                </tr>
+                                                                                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td> borlabs-cookie </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 1 year </td>
+                                </tr>
+                                                            </table>
+                                                    </div>
+                    </div>
+                                        <div class = "bcac-item">
+                        <div class = "d-flex flex-row">
+                            <div class="w-75">
+                                <h4>Externe Medien (1)</h4>
+                            </div>
+                            <div class = "w-25 text-right">
+                                                                <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                <label for="borlabs-cookie-group-external-media" class="_brlbs-btn-switch">
+                                    <input id="borlabs-cookie-group-external-media" type="checkbox" name="cookieGroup[]" value="external-media" checked data-borlabs-cookie-switch>
+                                    <span class = "_ brlbs-slider"> </span>
+                                </label>
+                                                            </div>
+                        </div>
+                        <div class = "d-block">
+                            <p> Content from video platforms and social media platforms is blocked by default. If cookies from external media are accepted, access to this content no longer requires manual consent. </p>
+                            <p class = "text-center">
+                                <a class="cursor d-block" data-cookie-accordion-target="external-media">
+                                    <span data-cookie-accordion-status="show">Cookie-Informationen anzeigen</span>
+                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">Cookie-Informationen ausblenden</span>
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="borlabs-hide" data-cookie-accordion-parent="external-media">
+                                                        <table>
+                                                                <tr>
+                                    <th> Accept </th>
+                                    <td>
+                                        <label for="borlabs-cookie-googlemaps" class="_brlbs-btn-switch">
+                                            <input id="borlabs-cookie-googlemaps" type="checkbox" data-cookie-group="external-media" name="cookies[external-media][]" value="googlemaps" checked data-borlabs-cookie-switch>
+                                            <span class = "_ brlbs-slider"> </span>
+                                        </label>
+                                        <span class="_brlbs-btn-switch-status"><span>An</span><span>Aus</span></span>
+                                    </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Name </th>
+                                    <td>Google Maps</td>
+                                </tr>
+                                <tr>
+                                    <th> Provider </th>
+                                    <td> Google </td>
+                                </tr>
+                                                                <tr>
+                                    <th> Purpose </th>
+                                    <td> Used to unblock Google Maps content. </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Privacy Policy </th>
+                                    <td class="_brlbs-pp-url"><a href="https://policies.google.com/privacy" target="_blank" rel="nofollow noopener noreferrer">https://policies.google.com/privacy</a></td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Host (s) </th>
+                                    <td> .google.com </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie Name </th>
+                                    <td> NID </td>
+                                </tr>
+                                                                                                <tr>
+                                    <th> Cookie runtime </th>
+                                    <td> 6 months </td>
+                                </tr>
+                                                            </table>
+                                                    </div>
+                    </div>
+                                    </div>
+                <div class = "d-flex justify-content-between">
+                    <p class = "_ brlbs-branding flex-fill">
+                                            </p>
+                    <p class="_brlbs-legal flex-fill"><a href="https://junited-autoglas-leipzig.de/datenschutz/">Datenschutzerklärung</a><span class="_brlbs-separator"></span><a href="https://junited-autoglas-leipzig.de/impressum/">Impressum</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+  </script>
+  <! - googleon: all ->
+  <link href="https://junited-autoglas-leipzig.de/wp-content/plugins/codelights-shortcodes-and-widgets/css/cl-core.css?ver=1.3" id="cl-core-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://junited-autoglas-leipzig.de/wp-content/plugins/codelights-shortcodes-and-widgets/css/cl-popup.css?ver=1.3" id="cl-popup-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://junited-autoglas-leipzig.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/themes/Impreza/framework/js/us.core.min.js?ver=4.10.3" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/plugins/codelights-shortcodes-and-widgets/js/cl-core.js?ver=1.3" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/plugins/codelights-shortcodes-and-widgets/js/cl-popup.js?ver=1.3" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/plugins/masterslider/public/assets/js/jquery.easing.min.js?ver=3.2.2" type="text/javascript">
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/plugins/masterslider/public/assets/js/masterslider.min.js?ver=3.2.2" type="text/javascript">
+  </script>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/junited-autoglas-leipzig.de\/wp-admin\/admin-ajax.php","language":"de","animation":"","animationDelay":"","animationIn":"fadeInDown","animationOut":"flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"","cookieDomain":"junited-autoglas-leipzig.de","cookiePath":"\/","cookieLifetime":"365","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"4","hideCookieBoxOnPages":[],"respectDoNotTrack":"","reloadAfterConsent":"","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie"],"statistics":[],"marketing":[],"external-media":["googlemaps"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0"}}},"external-media":{"googlemaps":{"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/ *]]> * /
+  </script>
+  <script src="https://junited-autoglas-leipzig.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js?ver=2.1.15" type="text/javascript">
+  </script>
+  <script type = "text / javascript">
+   jQuery (document) .ready (function () {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof FB === "object") {FB.XFBML.parse (el.parentElement); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "default": {"id": "default", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "googlemaps": {"id": "googlemaps", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "instagram": {"id": "instagram", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {if (typeof instgrm === "object") {instgrm.Embeds.process (); }}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "openstreetmap": {"id": "openstreetmap", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "twitter": {"id": "twitter", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false}}, "vimeo": {"id": "vimeo", "global": function (contentBlockerData) {}, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "saveThumbnails": false, "videoWrapper": false}}, "youtube": {"id": "youtube", "global": function (contentBlockerData) { }, "init": function (el, contentBlockerData) {}, "settings": {"executeGlobalCodeBeforeUnblocking": false, "changeURLToNoCookie": true, "saveThumbnails": false, "thumbnailQuality": "maxresdefault", "videoWrapper": false}}};
+(function () { var borlabsCookieLoaded = null;var borlabsCookieInit = false;var borlabsCookieCheck = function () { if (typeof window.BorlabsCookie === "object" && borlabsCookieInit === false) { borlabsCookieInit = true; clearInterval(borlabsCookieLoaded); window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker); } };borlabsCookieLoaded = setInterval(borlabsCookieCheck, 50); borlabsCookieCheck();})();});
+  </script>
+  <script type = "text / javascript">
+   /* Impreza elements customizations */
+
+	(function($){
+		"use strict";
+
+		$.fn.wSearch = function(){
+			return this.each(function(){
+				var $this = $(this),
+					$input = $this.find('input[name="s"]'),
+					focusTimer = null;
+
+				var show = function(){
+					$this.addClass('active');
+					focusTimer = setTimeout(function(){
+						$input.focus();
+					}, 300);
+};
+
+				var hide = function(){
+					clearTimeout(focusTimer);
+					$this.removeClass('active');
+					$input.blur();
+};
+
+				$this.find('.w-search-open').click(show);
+				$this.find('.w-search-close').click(hide);
+				$input.keyup(function(e){
+					if (e.keyCode == 27) hide();
+});
+
+});
+};
+
+		$(function(){
+			jQuery('.w-search').wSearch();
+});
+}) (jQuery);
+
+	jQuery('.w-tabs').wTabs();
+
+	jQuery(function($){
+		$('.w-blog').wBlog();
+});
+
+	jQuery(function($){
+		$('.w-portfolio').wPortfolio();
+});
+  </script>
+ </body>
+</html>

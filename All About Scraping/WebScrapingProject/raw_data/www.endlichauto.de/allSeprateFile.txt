@@ -1,0 +1,497 @@
+<! DOCTYPE html>
+<html class = "no-js" lang = "en">
+ <head>
+  <title>
+   Home | FinallyAuto.de - master company | Car trade, car electrics and car service
+  </title>
+  <base href = "https://www.endetauto.de/" />
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, maximum-scale = 1.0, initial-scale: 1.0, orientation: portrait" name = "viewport">
+   <meta content = "Home | FinallyAuto.de - master company | Car trade, car electrics and car service" name = "DC.Title" />
+   <meta content = "Vehicle trade, new vehicles, used vehicles, vehicle service" name = "keywords" />
+   <meta content = "FinallyAuto.de - your partner for new and used vehicles in Dresden" name = "description" />
+   <meta content = "FinallyAuto.de - your partner for new and used vehicles in Dresden" name = "DC.Description" />
+   <meta content = "Detlef Lommatzsch" name = "author" />
+   <meta content = "index, follow" name = "robots" />
+   <link href = "favicon.ico? 1527160103" rel = "shortcut icon" type = "image / x-icon" />
+   <link href = "https://fonts.googleapis.com/css?family=Roboto:400,100,300,500" rel = "stylesheet" type = "text / css" />
+   <link href = "assets / css / normalize.css? 1527160103" rel = "stylesheet" type = "text / css">
+    <link href = "assets / css / foundation.css? 1527160103" rel = "stylesheet" type = "text / css" />
+    <link href = "assets / css / fancybox / jquery.fancybox-1.3.4.css? 1527160103" media = "screen" rel = "stylesheet" type = "text / css" />
+    <link href = "style.css? 1527160103" rel = "stylesheet" type = "text / css" />
+    <link href = "assets / js / divascookies / css / divascookies_style_custom.css" media = "screen" rel = "stylesheet" type = "text / css" />
+   </link>
+  </meta>
+ </head>
+ <body lang = "de">
+  <header class = "fullWidth">
+   <div class = "row" data-equalizer = "" id = "header">
+    <a class="large-4 medium-4 small-9 columns" data-equalizer-watch="" href="https://www.endetauto.de/" id="logo">
+     <img alt = "logo lastAuto.de" src = "assets / images / logo_endetAuto.png" />
+    </a>
+    <a class = "small-3 column sm all-offset-1" data-equalizer-watch = "" href = "#!" id = "toggleMenu">
+     <img alt = "Menu" src = "assets / css / img / menu.png" />
+    </a>
+    <nav class = "large-6 large-offset-2 medium-6 medium-offset-2 small-12 small-offset-0 columns" id = "submenu">
+     <ul>
+      <li>
+       <a href="ueber-uns-/-team">
+        About us / team
+       </a>
+      </li>
+      <li>
+       <a href="kontakt">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+   <div class = "fullWidth menuStart" id = "menu">
+    <nav>
+     <ul class = "row">
+      <li class = "large-4 medium-4 small-12 columns">
+       <a class="gn -4- border button small-12" href="neuwagen" title="Neuwagen / Tageszulassungen">
+        NEW EU CAR
+       </a>
+      </li>
+      <li class = "large-4 medium-4 small-12 columns">
+       <a class="bl -5- border button small-12" href="used-car" title="Used-car">
+        USED ​​CARS
+       </a>
+      </li>
+      <li class = "large-4 medium-4 small-12 columns">
+       <a class="gr -6- border button small-12" href="fahrzeugservice" title="Werkstatt &amp; Service">
+        SERVICE & amp; WORKSHOP
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+  </header>
+  <div class = "fullWidth" id = "slider-wrapper">
+   <div class = "large-12" id = "slider">
+    <div data-u = "slides" style = "cursor: move; position: absolute; left: 0px; top: 0px; width: 640px; height: 256px; overflow: hidden;">
+     <div>
+      <img alt = "slider_image_39" data-u = "image" src = "assets / images / slider / audi_s4_v2.jpg" />
+     </div>
+     <div>
+      <img alt = "slider_image_33" data-u = "image" src = "assets / images / slider / audi_s4_v1.jpg" />
+     </div>
+     <div>
+      <a href="neuwagen/ford-b-max-1.0l-ecoboost">
+       <img alt = "slider_image_32" data-u = "image" src = "" />
+      </a>
+     </div>
+     <div>
+      <img alt = "slider_image_9" data-u = "image" src = "assets / images / slider / a3_v1.jpg" />
+     </div>
+     <div>
+      <img alt = "slider_image_8" data-u = "image" src = "assets / images / slider / hof_v1.jpg" />
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "row" data-equalizer = "" id = "wrapper">
+   <article class = "large-4 medium-4 small-12 columns">
+    <nav class = "menu">
+     <a class="gn border button small-12" href="neuwagen" title="EU-NEUWAGEN">
+      NEW EU CAR
+     </a>
+    </nav>
+    <a href="neuwagen" title="EU-NEUWAGEN">
+     <img alt = "EU-NEUWAGEN" src = "assets / cache / images / IMG_8966-600x360-dc8.jpg" />
+     <section class = "gn panel border" data-equalizer-watch = "">
+      <header>
+       Sales of new vehicles
+      </header>
+      <ul>
+       <li>
+        EU new vehicles / daily registrations with full manufacturer warranty
+       </li>
+       <li>
+        Up to 38% cheaper compared to the manufacturer's UPE
+       </li>
+       <li>
+        freely orderable and configurable
+       </li>
+       <li>
+        All-round service for financing, approval and delivery
+       </li>
+       <li>
+        Trade-in for the old vehicle is quick and easy
+       </li>
+       <li>
+        Service and care from a single source
+       </li>
+       <li>
+        Financing from 1.11% even without a down payment
+       </li>
+       <li>
+        Extended warranty from € 109
+       </li>
+      </ul>
+      <br/>
+      <strong>
+      </strong>
+      <footer>
+       more »
+      </footer>
+     </section>
+    </a>
+   </article>
+   <article class = "large-4 medium-4 small-12 columns">
+    <nav class = "menu">
+     <a class="bl border button small-12" href="usedwagen" title="GEBRAUCHTWAGEN">
+      USED ​​CARS
+     </a>
+    </nav>
+    <a href="usedwagen" title="GEBRAUCHTWAGEN">
+     <img alt = "GEBRAUCHTWAGEN" src = "assets / cache / images / FullSizeRender% 282% 29-600x360-276.jpg" />
+     <section class = "bl panel border" data-equalizer-watch = "">
+      <header>
+       Sale of selected used vehicles
+      </header>
+      <ul>
+       <li>
+        All-round service for your new rumored vehicle
+       </li>
+       <li>
+        full workshop service
+       </li>
+       <li>
+        100 points check / TÜV support point
+       </li>
+       <li>
+        Wheel service with storage service
+       </li>
+       <li>
+        Cover letter possible for up to 24 months
+       </li>
+       <li>
+        Financing from 2.9% eff. ANNUAL INTEREST
+       </li>
+       <li>
+        Desired car procurement throughout Germany / US-CAR import mediation
+       </li>
+       <li>
+        Approval service throughout Germany
+       </li>
+       <li>
+        Vehicle delivery throughout Germany
+       </li>
+      </ul>
+      <footer>
+       more »
+      </footer>
+     </section>
+    </a>
+   </article>
+   <article class = "large-4 medium-4 small-12 columns">
+    <nav class = "menu">
+     <a class="gr border button small-12" href="fahrzeugservice" title="SERVICE &amp; WORKSHOP">
+      SERVICE & amp; WORKSHOP
+     </a>
+    </nav>
+    <a href="fahrzeugservice" title="SERVICE &amp; WORKSHOP">
+     <img alt = "SERVICE & amp; WORKSHOP" src = "assets / cache / images / IMG_3854-600x360-b24.jpg" />
+     <section class = "gr panel border" data-equalizer-watch = "">
+      <header>
+       Our services at a glance
+      </header>
+      <ul>
+       <li>
+        Motor vehicle master workshop
+       </li>
+       <li>
+        recognized test base for general inspection
+       </li>
+       <li>
+        Service and inspection
+       </li>
+       <li>
+        Repairs for cars and commercial vehicles up to 4500 kg
+       </li>
+       <li>
+        Wheel alignment
+       </li>
+       <li>
+        Wheel change
+       </li>
+       <li>
+        Brake test bench
+       </li>
+       <li>
+        Air conditioning maintenance
+       </li>
+       <li>
+        Accessory sales
+       </li>
+       <li>
+        trailer hitch
+       </li>
+       <li>
+        Foil work
+       </li>
+       <li>
+        Classic car restoration
+       </li>
+       <li>
+        Vehicle preparation
+       </li>
+      </ul>
+      <footer>
+       more »
+      </footer>
+     </section>
+    </a>
+   </article>
+  </div>
+  <footer class = "fullWidth">
+   <div class = "row" id = "footer">
+    <div class = "large-2 medium-3 small-6 columns" id = "footer-adresse">
+     <h4>
+      FINALLY CAR
+     </h4>
+     <p>
+      Nickerner Weg 8
+      <br/>
+      01257 Dresden
+     </p>
+     <p>
+      Tel: 0351/4215763
+      <br/>
+      Fax: 0351/2881108
+     </p>
+     <p>
+      info@endetAuto.de
+      <br/>
+      www.endetAuto.de
+     </p>
+    </div>
+    <div class = "large-2 medium-3 small-6 columns" id = "footer-opening times">
+     <h4>
+      opening hours
+     </h4>
+     <p>
+      Mon - Fri:
+      <br/>
+      8 a.m. - 6 p.m.
+     </p>
+     <p>
+      Sa .:
+      <br/>
+      by arrangement
+     </p>
+    </div>
+    <div class = "large-2 large-offset-2 medium-3 columns toggleFooter" id = "footer-firma">
+     <h4>
+      Companies
+     </h4>
+     <ul>
+      <li>
+       <a href="neuwagen">
+        New cars / daily registrations
+       </a>
+      </li>
+      <li>
+       <a href="usedwagen">
+        used cars
+       </a>
+      </li>
+      <li>
+       <a href="fahrzeugservice">
+        Workshop & amp; service
+       </a>
+      </li>
+      <li>
+       <a href="ueber-uns-/-team">
+        About us / team
+       </a>
+      </li>
+      <li>
+       <a href="anfahrt">
+        Directions
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class = "large-2 medium-3 columns toggleFooter" id = "footer-service">
+     <h4>
+      service
+     </h4>
+     <ul>
+      <li>
+       <a href="kontakt">
+        Contact
+       </a>
+      </li>
+      <li>
+       <a href="impressum">
+        imprint
+       </a>
+      </li>
+      <li>
+       <a href="agb">
+        Conditions
+       </a>
+      </li>
+      <li>
+       <a href="datenschutz">
+        Data protection
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class = "large-2 medium-3 columns toggleFooter" id = "footer-links">
+     <h4>
+      partner
+     </h4>
+     <ul>
+      <li>
+       <a href="http://www.acr-dresden.de">
+        ACR Dresden
+       </a>
+      </li>
+      <li>
+       <a href="http://akkurat-fahrzeugpflege.de">
+        Accurate vehicle care
+       </a>
+      </li>
+      <li>
+       <a href="http://www.digi-tec.de">
+        Digi-Tec Dresden
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </footer>
+  <script src = "assets / js / vendor / modernizr.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / js / jquery.1.8.2.min.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / js / jssor.core.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / js / jssor.utils.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / js / jssor.slider.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / css / fancybox / jquery.fancybox-1.3.4.js? 1527160103" type = "text / javascript">
+  </script>
+  <script type = "text / javascript">
+   jQuery (document) .ready (function ($) {
+var _SlideshowTransitions = [{
+$ Duration: 1200, $ Cols: 2, $ FlyDirection: 1, $ ChessMode: {$ Column: 3}, $ Easing: {$ Left: $ JssorEasing $. $ EaseInOutCubic},
+$ ScaleHorizontal: 0.5, $ Opacity: 2, $ Brother: {$ Duration: 1200, $ Opacity: 2}
+}];
+var options = {
+$ SlideDuration: 1300, // [Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+$ DragOrientation: 3, // [Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $ DragOrientation should be the same as $ PlayOrientation when $ DisplayPieces is greater than 1, or parking position is not 0)
+$ AutoPlay: true, // [Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+$ AutoPlayInterval: 3500, // [Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+$ SlideshowOptions: {// [Optional] Options to specify and enable slideshow or not
+$ Class: $ JssorSlideshowRunner $, // [Required] Class to create an instance of slideshow
+$ Transitions: _SlideshowTransitions, // [Required] An array of slideshow transitions to play slideshow
+// $ Transitions: 'Door', // [Required] An array of slideshow transitions to play slideshow
+$ TransitionsOrder: 1, // [Optional] The way to choose transition to play slide, 1 Sequence, 0 Random
+$ ShowLink: true // [Optional] Whether to bring slide link on top of the slider when slideshow is running, default value is false
+}
+};
+
+var jssor_slider = new $ JssorSlider $ ("slider", options);
+
+function ScaleSlider () {
+var bodyWidth = document.body.clientWidth;
+if (bodyWidth)
+jssor_slider. $ SetScaleWidth (Math.min (bodyWidth, 2800));
+else
+window.setTimeout (ScaleSlider, 30);
+}
+
+ScaleSlider ();
+
+// if (! navigator.userAgent.match (/ (iPhone | iPod | iPad | BlackBerry | IEMobile) /)) {
+//$(window).bind('resize ', ScaleSlider);
+//}
+
+$ (window) .bind ('resize', function (e) {
+$ ('# page'). css ({'width': $ (window) .width ()});
+ScaleSlider ();
+});
+});
+  </script>
+  <script src = "javascript.js? 1527160103" type = "text / javascript">
+  </script>
+  <script src = "assets / js / foundation.min.js? 1527160103">
+  </script>
+  <script src = "assets / js / foundation / foundation.clearing.js? 1527160103">
+  </script>
+  <script>
+   $ (document) .foundation ();
+  </script>
+  <style>
+   #modalInfo {
+position: fixed;
+left: 50%;
+bottom: 100px;
+border: 0.35rem solid # f00;
+box-shadow: 3px 3px 1rem rgba (0,0,0,0.45);
+padding: 1.5rem 1rem 1rem;
+width: 560px;
+background: #fff;
+z-index: 99999;
+max-height: 95vw;
+height: auto;
+margin-left: -280px;
+color: # f00;
+font-size: 1.5rem;
+line-height: 1.25em;
+}
+#modalInfo p span {
+text-decoration: underline;
+font-weight: bold;
+font-style: italic;
+}
+#modalInfoClose {
+position: absolute;
+top: 0;
+right: 0;
+border: none;
+background: #fff;
+height: 2rem;
+width: 2rem;
+font-size: 1.5rem;
+cursor: pointer;
+color: # 333;
+}
+  </style>
+  <script src = "assets / js / divascookies / js / jquery.divascookies-0.6.min.js">
+  </script>
+  <script>
+   (function ($) {
+$ .DivasCookies ({
+bannerText: "Cookies help us to provide our services. By using our offer, you agree that we may set cookies.",
+cookiePolicyLink: "data protection",
+cookiePolicyLinkText: "More information",
+thirdPartyPolicyWidget: "",
+acceptButtonText: "OK",
+acceptButtonSrc: "",
+openEffect: "slideUp",
+openEffectDuration: 1000,
+openEffectEasing: "swing",
+closeEffect: "slideDown",
+closeEffectDuration: 1000,
+closeEffectEasing: "swing",
+debugMode: false,
+saveUserPreferences: true,
+cookieDuration: 30,
+blockScripts: true,
+pageReload: true,
+acceptOnScroll: false,
+acceptOnClick: false
+});
+} (jQuery));
+  </script>
+ </body>
+</html>

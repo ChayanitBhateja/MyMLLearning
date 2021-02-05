@@ -1,0 +1,582 @@
+<! DOCTYPE html>
+<html>
+ <head>
+  <title>
+   About KS AUTOGLAS | KS car glass
+  </title>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1.0" name = "viewport">
+   <meta content = "car glass, car glass partner system, bus glass, car glass repair, car window repair" name = "keywords" />
+   <meta content = "KS AUTOGLAS is the leading auto glass specialist for the automotive industry with around 600 partner companies" name = "description" />
+   <meta content = "index, follow" name = "robots" />
+   <meta content = "de" name = "language" />
+   <meta content = "KS AUTOGLAS / promuro" name = "author" />
+   <meta content = "rapidCMS V4.3 - rapidcms.de" name = "generator" />
+   <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type">
+    <script src = "wrapper.php? w = jquery" type = "text / javascript">
+    </script>
+    <script src = "wrapper.php? w = datepicker" type = "text / javascript">
+    </script>
+    <script src = "wrapper.php? w = core" type = "text / javascript">
+    </script>
+    <script src = "template / ks / layout / js / fancybox / jquery.fancybox.pack.js" type = "text / javascript">
+    </script>
+    <script src = "template / ks / layout / js / jquery-editable-select.js" type = "text / javascript">
+    </script>
+    <script src = "template / ks / layout / js / rapid.js" type = "text / javascript">
+    </script>
+    <! - [if lt IE 9]>
+  <meta http-equiv = "X-UA-Compatible" content = "IE = edge">
+  <script src = "js / html5shiv.js"> </script>
+<! [endif] ->
+    <link href = "template / ks / layout / css / rapid.css" media = "all" rel = "stylesheet" type = "text / css" />
+    <link href = "template / ks / layout / css / jquery-editable-select.css" media = "all" rel = "stylesheet" type = "text / css" />
+    <link href = "template / ks / frontend / templates / networks / themes / standard / css / style.css" media = "all" rel = "stylesheet" type = "text / css" />
+    <script src = "template / ks / frontend / templates / networks / themes / standard / js / r4Social.js" type = "text / javascript">
+    </script>
+    <script type = "text / javascript">
+     $ (document) .ready (function () {
+
+$ sPlugin = $ .fn.r4Social ();
+
+$ ('# btn_share'). click (function () {
+$ .fn.r4SocialShow ();
+});
+
+});
+    </script>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <img class = "wallpaper" src = "template / ks / layout / pics / bg5.jpg" />
+  <script type = "application / ld + json">
+   {
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+  "name": "KS Partnersystem GmbH",
+  "alternateName": "KS AUTOGLAS",
+  "url": "https://ksautoglas.de",
+  "logo": "https://ksautoglas.de/template/ks/layout/pics/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Werkstrasse 14",
+    "addressLocality": "Bühl-Vimbuch",
+    "addressRegion": "Baden-Württemberg",
+    "postalCode": "77815"
+  },
+  "telephone": "0800-4488488",
+  "sameAs": [
+    "https://www.facebook.com/ksautoglas.de",
+    "https://www.youtube.com/channel/UCJpDEvTGuiPgOpSTFJ_-pIg"
+  ]
+}
+  </script>
+  <div class = "header shadow">
+   <div class = "grid clearfix">
+    <div class = "col_4 logo">
+     <a href="index.php">
+      <img src = "template / ks / layout / pics / logo.png" />
+     </a>
+     <div class = "mobile-only">
+      <nav>
+       <ul>
+        <ul class = "">
+         <li>
+          <a href="index.php?s=scheibe-kaputt">
+           Broken window?
+          </a>
+          <ul>
+           <li>
+            <a href="index.php?s=werkstattsuche">
+             Workshop search
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="index.php?s=autoglas-kosten">
+           costs
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=versicherungen-9497">
+           Insurance
+          </a>
+          <ul>
+           <li>
+            <a href="index.php?s=schadenmeldung">
+             Online claim notification
+            </a>
+           </li>
+           <li>
+            <a href="medien/dokumente/pdf/agentur-schadensmeldung.pdf" target="_blank">
+             Fax damage report
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class = "active">
+          <a href="index.php?s=ueber-ks-autoglas">
+           about us
+          </a>
+          <ul class = "show">
+           <li>
+            <a href="index.php?s=aktuelles">
+             History
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=our-suppliers">
+             Our suppliers
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="index.php?s=will-partner">
+           Become a partner
+          </a>
+          <ul>
+           <li>
+            <a href="index.php?s=das-system">
+             The system
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=5-entscheidende- advantages">
+             5 key advantages
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=5-important-questions">
+             5 important questions
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=iso-und-tuev">
+             ISO and TÜV?
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=zentrale-abrechnung">
+             Central billing
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=workshops">
+             Workshops
+            </a>
+           </li>
+           <li>
+            <a href="index.php?s=partner-frage">
+             Partner request
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.ks-autoglas.de" target="_blank">
+           Agencies
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=stellenportal">
+           Jobs
+          </a>
+         </li>
+        </ul>
+        <ul class = "">
+         <li>
+          <a href="index.php?s=impressum-26124">
+           imprint
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=datenschutz">
+           data protection
+          </a>
+         </li>
+        </ul>
+       </ul>
+      </nav>
+     </div>
+    </div>
+    <div class = "col_8 menu desktop-only">
+     <div class = "loginlink right">
+      <span>
+       <a class="button small ksautoglas inline" href="#user_login">
+        Partner login
+       </a>
+       <div style = "display: none">
+        <div id = "user_login">
+         <form action = "login.php" class = "vertical" method = "POST">
+          <input name = "action" type = "hidden" value = "member_area" />
+          <input name = "rdb_s" type = "hidden" value = "about-ks-autoglas" />
+          <input name = "rdb_region" type = "hidden" value = "ks" />
+          <label>
+           User name
+          </label>
+          <input class = "text-input" id = "input_login" name = "login" type = "text" />
+          <label>
+           password
+          </label>
+          <input class = "text-input" name = "password" type = "password" />
+          <div class = "clear">
+          </div>
+          <input class = "button small" type = "submit" value = "Register" />
+          <p>
+           <a class="iframe" href="recover.php">
+            Forgot Password?
+           </a>
+          </p>
+         </form>
+        </div>
+       </div>
+      </span>
+      <span class = "social">
+       <a href="https://www.facebook.com/KS-Autoglas-Zentrum-2256906724556363/">
+        <i class = "icon-facebook" target = "_ blank" title = "KS AUTOGLAS on Facebook">
+        </i>
+       </a>
+       <a href="https://www.youtube.com/channel/UCJpDEvTGuiPgOpSTFJ_-pIg" target="_blank" titel="KS AUTOGLAS on YouTube">
+        <i class = "icon-youtube">
+        </i>
+       </a>
+      </span>
+     </div>
+     <nav class = "standard right">
+      <ul class = "sf-menu">
+       <li>
+        <a href="index.php?s=scheibe-kaputt">
+         Broken window?
+        </a>
+        <ul>
+         <li>
+          <a href="index.php?s=werkstattsuche">
+           Workshop search
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="index.php?s=autoglas-kosten">
+         costs
+        </a>
+       </li>
+       <li>
+        <a href="index.php?s=versicherungen-9497">
+         Insurance
+        </a>
+        <ul>
+         <li>
+          <a href="index.php?s=schadenmeldung">
+           Online claim notification
+          </a>
+         </li>
+         <li>
+          <a href="medien/dokumente/pdf/agentur-schadensmeldung.pdf" target="_blank">
+           Fax damage report
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class = "active">
+        <a href="index.php?s=ueber-ks-autoglas">
+         about us
+        </a>
+        <ul class = "show">
+         <li>
+          <a href="index.php?s=aktuelles">
+           History
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=our-suppliers">
+           Our suppliers
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="index.php?s=will-partner">
+         Become a partner
+        </a>
+        <ul>
+         <li>
+          <a href="index.php?s=das-system">
+           The system
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=5-entscheidende- advantages">
+           5 key advantages
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=5-important-questions">
+           5 important questions
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=iso-und-tuev">
+           ISO and TÜV?
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=zentrale-abrechnung">
+           Central billing
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=workshops">
+           Workshops
+          </a>
+         </li>
+         <li>
+          <a href="index.php?s=partner-frage">
+           Partner request
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="https://www.ks-autoglas.de" target="_blank">
+         Agencies
+        </a>
+       </li>
+       <li>
+        <a href="index.php?s=stellenportal">
+         Jobs
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+  </div>
+  <div class = "grid clearfix page main">
+   <div class = "row module standard about us">
+    <div class = "head col_12">
+     <h1>
+      About KS AUTOGLAS
+     </h1>
+    </div>
+    <div class = "col_12">
+     <a class="single_image" href="medien/ks-autoglas-zentrale.jpg">
+      <img class = "align-left" src = "medien / ks-autoglas-Zentrale.jpg" />
+     </a>
+    </div>
+    <div class = "col_12 two areas">
+     <div class = "col_12">
+      <h2>
+       KS Partnersystem GmbH
+      </h2>
+      <div class = "col_8">
+       <p>
+        KS Partnersystem GmbH emerged from KS AUTOGLAS Zentrum GmbH, which had existed since 1990. The company was founded in 2008 by the two owners Gerhard Steinko (GF) and the management consultant Alexander Wolf and expanded into one of the largest automotive glass networks in Germany with over 600 partner companies (as of 2015).
+       </p>
+       <p>
+        The partner companies in this system, which continues to grow dynamically, are almost without exception motor vehicle master craftsmen who have not only recognized the "car glass" business area as an additional source of income, but also see themselves as experts with a holistic understanding of the "car system".
+       </p>
+       <p>
+        As members of a strong system, the companies benefit from effective advertising measures, a central online accounting system, insurance listing and wholesale purchasing conditions.
+       </p>
+      </div>
+      <div class = "col_4 right">
+       <img src = "medien / 2014 / Partnersystem.jpg" />
+      </div>
+     </div>
+     <div class = "col_12">
+      <h2>
+       The KS AUTOGLAS idea
+      </h2>
+      <div class = "col_8">
+       <p>
+        Auto glass is an interesting and lucrative niche in the automotive market, but it is largely processed by specialists. KS AUTOGLAS has therefore made it its business to steer this business back into the automotive industry. KS AUTOGLAS offers its partners the necessary prerequisites: technical know-how, top purchase prices, insurance partners, marketing and customer acquisition.
+       </p>
+      </div>
+      <div class = "col_4 right">
+       <img src = "medien / 2014 / Idee.jpg" />
+      </div>
+     </div>
+     <div class = "col_12">
+      <h2>
+       The KS AUTOGLAS history
+      </h2>
+      <div class = "col_8">
+       <ul>
+        <li class = "first">
+         In 1992, KS AUTOGLAS Zentrum GmbH was founded by Gerhard Steinko.
+        </li>
+        <li>
+         In 2002 he developed the idea of ​​the partner system with the current co-owner, Alexander Wolf.
+         <br/>
+         In the first few years the network grew slowly but steadily and
+        </li>
+        <li>
+         In 2008 KS Partnersystem GmbH was finally founded.
+        </li>
+        <li>
+         KS has been a premium partner of many motor insurance companies since 2009,
+        </li>
+        <li>
+         In 2010 a nationwide sales force network was set up.
+        </li>
+        <li class = "last">
+         2013 is marked by the introduction of a new billing platform, ISO certification and the construction of an administration and training center in Bühl with completion in spring 2014.
+        </li>
+       </ul>
+      </div>
+      <div class = "col_4 right">
+       <img src = "medien / 2014 / Historie.jpg" />
+      </div>
+     </div>
+     <div class = "col_12">
+      <h2>
+       The KS AUTOGLAS philosophy
+      </h2>
+      <div class = "col_8">
+       <p>
+        KS AUTOGLAS sees itself as a counterweight to chains such as CarGlass or A.T.U. and figuratively represents the cooperative idea: many small "Davids" against one big "Goliath"!
+       </p>
+       <p>
+        As a licensor, KS AUTOGLAS mainly addresses master car dealerships in order to provide you with a significantly improved competitive position compared to pure car glass through its market presence as a car glass specialist.
+       </p>
+       <p>
+        KS AUTOGLAS attaches great importance to working at the highest quality level. Windows and accessories exclusively in OEM quality, ISO certification according to DIN9001: 2008 * in the automotive glass sector and constant further development of the system, but also fair and trusting interaction with one another are guarantees of success for KS.
+       </p>
+       <p>
+        <em>
+         * TÜV certification according to DIN9001: 2008 for the scope of auto glass repair and replacement. You can find more information on
+         <a href="http://www.tuev-sued.de/" target="_blank">
+          http://www.tuev-sued.de/
+         </a>
+        </em>
+       </p>
+      </div>
+      <div class = "col_4 right">
+       <img src = "medien / 2014 / Philospohie.jpg" />
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "footer" id = "footer">
+   <div id = "footerButton">
+    Contact / Imprint / Data protection
+   </div>
+   <div class = "grid">
+    <div class = "col_4 footer_kontakt">
+     <h4>
+      Contact
+     </h4>
+     <address>
+      <p>
+       KS Partnersystem GmbH
+       <br/>
+       Werkstrasse 14
+       <br/>
+       D-77815 Bühl-Vimbuch
+       <br/>
+       <br/>
+       Tel: +49 (0) 7223/95 15 80 - 0
+       <br/>
+       Fax: +49 (0) 7223/95 15 80 - 90
+       <br/>
+       Free hotline: 0800 4 488 488
+      </p>
+     </address>
+    </div>
+    <div class = "col_4">
+    </div>
+    <div class = "col_4">
+     <h4>
+      Legal
+     </h4>
+     <nav class = "simple vertical right desktop-only">
+      <ul class = "">
+       <li>
+        <a href="index.php?s=impressum-26124">
+         imprint
+        </a>
+       </li>
+       <li>
+        <a href="index.php?s=datenschutz">
+         data protection
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div class = "col_12">
+     © 2020 KS-Partnersystem GmbH | Realization:
+     <a class="graylink" href="" target="_blank" title="Internetagentur Mönchengladbach">
+      promuro
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class = "footer-mobile mobile-only">
+   <div class = "grid">
+    <div class = "col_12 center">
+     <address>
+      <p>
+       KS Partnersystem GmbH
+       <br/>
+       Werkstrasse 14
+       <br/>
+       D-77815 Bühl-Vimbuch
+       <br/>
+       <br/>
+       Tel: +49 (0) 7223/95 15 80 - 0
+       <br/>
+       Fax: +49 (0) 7223/95 15 80 - 90
+       <br/>
+       Free hotline: 0800 4 488 488
+      </p>
+     </address>
+    </div>
+    <div class = "col_12 center">
+     <a class="button medium" href="index.php?s=impressum-26124">
+      imprint
+     </a>
+     <a class="button medium" href="index.php?s=agb">
+      Conditions
+     </a>
+     <a class="button medium" href="index.php?s=datenschutz">
+      data protection
+     </a>
+    </div>
+    <div class = "col_12 center">
+     © 2020 KS-Partnersystem GmbH | Realization:
+     <a class="graylink" href="" target="_blank" title="Internetagentur Mönchengladbach">
+      promuro
+     </a>
+    </div>
+   </div>
+  </div>
+  <div style = "display: none">
+   <div id = "login">
+    <h2>
+     Partner login
+    </h2>
+    <label>
+     User name:
+    </label>
+    <input />
+    <br>
+     <label>
+      Password:
+     </label>
+     <input />
+     <br>
+      <button>
+       Log in
+      </button>
+     </br>
+    </br>
+   </div>
+  </div>
+ </body>
+</html>

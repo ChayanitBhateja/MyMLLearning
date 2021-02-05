@@ -1,0 +1,1173 @@
+<! DOCTYPE html>
+<html class = "no-js" lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <! -
+TYPO3 CMS supported by mehrwert - https://www.mehrwert.de/
+
+This website is powered by TYPO3 - inspiring people to share!
+TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU / GPL.
+TYPO3 is copyright 1998-2020 by Kasper Skaarhoj. Extensions are copyright of their respective owners.
+Information and contribution at https://typo3.org/
+->
+  <base href = "https://www.junited-autoglas.de/" />
+  <meta content = "TYPO3 CMS" name = "generator" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "no" name = "apple-mobile-web-app-capable" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "telephone = no" name = "format-detection" />
+  <meta content = "10 days" name = "revisit-after" />
+  <meta content = "notranslate" name = "google" />
+  <meta content = "junited AUTOGLAS is a nationally operating certified company with over 240 workshops: All specialists in the field of car glass, with top customer service, a wide range of free services and numerous extra services." name = "abstract" />
+  <meta content = "Car glass, customer service, free service, window repair" name = "keywords" />
+  <meta content = "With 300 nationwide locations, we are the most recommended partner for insurance companies for stone chip repairs and windshield replacement." name = "description" />
+  <link href = "/ typo3temp / assets / compressed / merged-8de8dd82cfc1e9da266fe3a0c62c61fa-e0c3bcc6fb0d9a8d33761cd2249db85f.css? 1604491878" media = "all" rel = "styles css" type = "text /
+  <link href = "/ typo3temp / assets / compressed / merged-be690cf171dbade304e3a897d1c24bf5-b12d96a95b5242f0d81893cfe2d61667.css? 1604491878" media = "print" rel = "stylesheet" type = ">. / css" /
+  <meta content = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / windows-tile-70x70.png" name = "msapplication-square70x70logo" />
+  <meta content = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / windows-tile-150x150.png" name = "msapplication-square150x150logo" />
+  <meta content = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / windows-tile-310x310.png" name = "msapplication-square310x310logo" />
+  <meta content = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / windows-tile-144x144.png" name = "msapplication-TileImage" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-180x180-precomposed.png" rel = "apple-touch-icon-precomposed" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon.png" rel = "apple-touch-icon-precomposed" sizes = "57x57" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-60x60-precomposed.png" rel = "apple-touch-icon-precomposed" sizes = "60x60" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-76x76-precomposed.png" rel = "apple-touch-icon-precomposed" sizes = "76x76" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-120x120-precomposed.png" rel = "apple-touch-icon-precomposed" sizes = "120x120" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-152x152-precomposed.png" rel = "apple-touch-icon-precomposed" sizes = "152x152" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / apple-touch-icon-180x180-precomposed.png" rel = "apple-touch-icon-precomposed" sizes = "180x180" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / favicon.ico" rel = "shortcut icon" />
+  <link href = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Icons / Generated / favicon.png" rel = "icon" sizes = "64x64" type = "image / png" />
+  <script type = "text / javascript">
+   var html = document.getElementsByTagName ('html') [0];
+        html.setAttribute ('class', 'js');
+  </script>
+  <title>
+   Rockfall Repair & amp; Window replacement - junited AUTOGLAS
+  </title>
+  <meta content = "With 300 nationwide locations, we are the most recommended partner for insurance companies for stone chip repairs and windshield replacement." name = "description" />
+  <link href = "https://www.junited-autoglas.de/" rel = "canonical">
+   <meta content = "index, follow" name = "robots" />
+   <meta content = "website" property = "og: type">
+    <meta content = "Rockfall? We'll help immediately! - junited AUTOGLAS" property = "og: title">
+     <meta content = "With 300 nationwide locations, we are the most recommended partner for insurance companies for stone chip repairs and windshield replacement." property = "og: description">
+      <meta content = "https://www.junited-autoglas.de/" property = "og: url">
+       <meta content = "junited AUTOGLAS" property = "og: site_name">
+        <meta content = "https://www.junited-autoglas.de/typo3temp/assets/_processed_/9/4/csm_junited-autoglas-logo-social-media_0eec04f298.png" property = "og: image">
+         <meta content = "summary_large_image" name = "twitter: card">
+          <meta content = "Rockfall? We'll help immediately! - junited AUTOGLAS" name = "twitter: title">
+           <meta content = "https://www.junited-autoglas.de/typo3temp/assets/_processed_/9/4/csm_junited-autoglas-logo-social-media_0eec04f298.png" name = "twitter: image">
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body class = "page-81 pagelevel-0 language-0 backendlayout-pagets__start_website layout-0 startpage" data-page-uid = "81" id = "p81">
+  <a class="sr-only sr-only-focusable onfocus-top-left" href="#content">
+   Go to the content
+  </a>
+  <header class = "site-header site-header-top">
+   <div class = "container-fixed">
+    <div class = "brand brand-website">
+     <div class = "site-logo">
+      <a class="logo" href="/" title="To the homepage">
+       <img alt = "" class = "navbar-brand-logo-normal" src = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / junited-autoglas-logo.svg" />
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class = "main-nav-wrapper">
+    <div class = "container-fixed">
+     <div class = "row">
+      <div class = "col-12 col-lg order-2 order-lg-1">
+       <nav class = "navbar navbar-expand-lg navbar-main">
+        <button aria-controls = "main-navigation" aria-expanded = "false" aria-label = "expand / collapse navigation" class = "btn small navbar-toggle icon-btn" data-target = "# main-navigation "data-toggle =" collapse "type =" button ">
+         <span class = "btntxt">
+          menu
+         </span>
+         <span class = "icon">
+         </span>
+        </button>
+        <div class = "collapse navbar-collapse" id = "main-navigation">
+         <ul class = "navbar-nav mr-auto level-1 order-md-1">
+          <li class = "nav-item dropdown">
+           <a aria-expanded="false" aria-haspopup="true" class="nav-link" href="/kosten/" role="button">
+            <span>
+             costs
+            </span>
+           </a>
+           <a aria-expanded = "false" aria-haspopup = "true" aria-label = "expand / collapse sub-navigation" class = "btn icon-btn btn-clean no-txt sub-navigation-trigger d-lg-none "href =" # "role =" button ">
+            <span aria-hidden = "true" class = "icon">
+            </span>
+           </a>
+           <ul class = "dropdown-menu level-2">
+            <li class = "nav-item">
+             <a class="nav-link" href="/kosten/versicherungen/" title="Versicherungen">
+              <span>
+               Insurance
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/kosten/flotten/" title="Leasing und Flotte">
+              <span>
+               Leasing and fleet
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/kosten/selbstzahler/" title="Selbstzahler">
+              <span>
+               Self-payers
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "nav-item dropdown">
+           <a aria-expanded="false" aria-haspopup="true" class="nav-link" href="/reparatur-und-exchange/" role="button">
+            <span>
+             Repair and replacement
+            </span>
+           </a>
+           <a aria-expanded = "false" aria-haspopup = "true" aria-label = "expand / collapse sub-navigation" class = "btn icon-btn btn-clean no-txt sub-navigation-trigger d-lg-none "href =" # "role =" button ">
+            <span aria-hidden = "true" class = "icon">
+            </span>
+           </a>
+           <ul class = "dropdown-menu level-2">
+            <li class = "nav-item">
+             <a class="nav-link" href="/reparatur-und-exchange/steinschlag-reparieren/" title="Steinschlagreparatur">
+              <span>
+               Rockfall repair
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/repair-and-exchange/windshield/" title="Windshield">
+              <span>
+               Windshield
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/reparatur-und-wechsel/seitenscheibe/" title="Seitenscheibe">
+              <span>
+               Side window
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/reparatur-und- Austausch/heckscheibe/" title="Heckscheibe">
+              <span>
+               rear window
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/reparatur-und-wechsel/wohnmobile/" title="Other disks">
+              <span>
+               Other discs
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "nav-item dropdown">
+           <a aria-expanded="false" aria-haspopup="true" class="nav-link" href="/our-service/" role="button">
+            <span>
+             our service
+            </span>
+           </a>
+           <a aria-expanded = "false" aria-haspopup = "true" aria-label = "expand / collapse sub-navigation" class = "btn icon-btn btn-clean no-txt sub-navigation-trigger d-lg-none "href =" # "role =" button ">
+            <span aria-hidden = "true" class = "icon">
+            </span>
+           </a>
+           <ul class = "dropdown-menu level-2">
+            <li class = "nav-item">
+             <a class="nav-link" href="/our-service/replacement-car-free-service/" title="Ersatzwagen &amp; free service">
+              <span>
+               Replacement car & amp; Free service
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/our-service/service-champion/" title="Service Champion">
+              <span>
+               Service champion
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/our-service/free-spancheck/" title="Scheibencheck">
+              <span>
+               Disc check
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/our-service/schadenabteilung/" title="Schadenabteilung">
+              <span>
+               Claims settlement
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/our-service/qualitaet-und-garantie/" title="Qualität und Garantie">
+              <span>
+               Quality and Guarantee
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "nav-item dropdown">
+           <a aria-expanded="false" aria-haspopup="true" class="nav-link" href="/zubehoer-und-zusatzleistungen/" role="button">
+            <span>
+             Additional services and accessories
+            </span>
+           </a>
+           <a aria-expanded = "false" aria-haspopup = "true" aria-label = "expand / collapse sub-navigation" class = "btn icon-btn btn-clean no-txt sub-navigation-trigger d-lg-none "href =" # "role =" button ">
+            <span aria-hidden = "true" class = "icon">
+            </span>
+           </a>
+           <ul class = "dropdown-menu level-2">
+            <li class = "nav-item">
+             <a class="nav-link" href="/zubehoer-und-zusatzleistungen/scheibenkalibrierung/" title="Fahrerassistentsysteme">
+              <span>
+               Driver assistance systems
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/zubehoer-und-zusatzdienste/notverglasung/" title="Notverglasung">
+              <span>
+               Emergency glazing
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/zubehoer-und-zusatzleistungen/scheibentoenung/" title="Diskentönung">
+              <span>
+               Window tinting
+              </span>
+             </a>
+            </li>
+            <li class = "nav-item">
+             <a class="nav-link" href="/zubehoer-und-zusatzleistungen/zubehoer/" title="Accessories">
+              <span>
+               equipment
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "nav-item">
+           <a class="nav-link" href="/schaden-melden/" title="Nav-link">
+            <span>
+             Report damage
+            </span>
+           </a>
+          </li>
+          <li class = "nav-item">
+           <a class="nav-link icon-external-link" href="http://schadenmelder.junited-autoglas.de/" target="_blank" title="For Agencies">
+            <span aria-hidden = "true" class = "icon">
+            </span>
+            <span>
+             For agencies
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </nav>
+      </div>
+      <div class = "col-auto order-1 order-lg-2 justify-content-start justify-content-md-end header-cta-col">
+       <a class="cta-wrapper cta-hover" href="/termin-buchen/" title="Booking an appointment">
+        <svg class = "cta-svg-left" preserveaspectratio = "none" viewbox = "0 0 100 31" xmlns = "http://www.w3.org/2000/svg">
+         <path d = "M0 30 L0 31 L100 31 L100 0 Z" fill = "none">
+         </path>
+        </svg>
+        <svg class = "cta-svg-right" viewbox = "0 0 31 12.6" xmlns = "http://www.w3.org/2000/svg">
+         <path d = "M0 0 L0 12.6 L31 12.6 L31 11.6Z" fill = "none">
+         </path>
+        </svg>
+        <span class = "btntxt">
+         book an appointment
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "website-header-call-us">
+    <div class = "website-header-call-us-inner">
+     <span>
+      Call for free
+     </span>
+     <a href="tel:+498005864833">
+      0800 - 586 48 33
+     </a>
+     <span>
+      24 hours / 365 days
+     </span>
+    </div>
+   </div>
+  </header>
+  <main class = "main" id = "content">
+   <div class = "startpage-teaser">
+    <div class = "startpage-teaser-inner">
+     <div class = "startpage-teaser-content">
+      <div class = "startpage-teaser-content-inner">
+       <h2>
+        <span>
+         Glass damage?
+        </span>
+        We help immediately
+        <br/>
+        contactless and secure.
+       </h2>
+       <form action = "/ appointment-book /" method = "post" name = "branch-search">
+        <div>
+         <input name = "__ referrer [@extension]" type = "hidden" value = "JaSitepackage" />
+         <input name = "__ referrer [@controller]" type = "hidden" value = "Standard" />
+         <input name = "__ referrer [@action]" type = "hidden" value = "index" />
+         <input name = "__ referrer [arguments]" type = "hidden" value = "YTowOnt936b3543c221f3315249f4a3926abda9a90da98cf" />
+         <input name = "__ referrer [@request]" type = "hidden" value = 'a: 3: {s: 10: "@ extension"; s: 13: "JaSitepackage"; s: 11: "@ controller"; s: 8: "Standard"; s: 7: "@ action"; s: 5: "index";} 5e05a3d8529852538575fec567bce450984592ea '/>
+         <input name = "__ trustedProperties" type = "hidden" value = 'a: 1: {s: 9: "tx_jamaps"; a: 1: {s: 10: "searchTerm"; i: 1;}} 882733382b08f8e410b26d01522c45aa7e461940' / >
+        </div>
+        <label>
+         Where should the window be repaired?
+         <input name = "tx_jamaps [searchTerm]" placeholder = "Search for zip code, city ..." type = "text" value = "" />
+        </label>
+        <button>
+         <span class = "btntxt">
+          Look for workshops
+         </span>
+        </button>
+       </form>
+      </div>
+      <svg class = "keyvisual-svg" viewbox = "0 0 830 300" xmlns = "http://www.w3.org/2000/svg">
+       <path class = "keyvisual-svg-bottom" d = "M120 0 L120 80 L830 300 L830 0Z" fill = "none">
+       </path>
+       <path class = "keyvisual-svg-top" d = "M0 0 L830 0 L830 260 L0 1Z" fill = "none">
+       </path>
+      </svg>
+     </div>
+    </div>
+   </div>
+   <div class = "container-fixed">
+    <div class = "module module-teasers module-teaser-group module-icon-teasers teaser-background-blue">
+     <div class = "row ml-0 mr-0">
+      <div class = "col-sm-6 p-0 col-md-4">
+       <div class = "teaser teaser-group-item">
+        <div class = "a-helper">
+         <div class = "teaser-icon teaser-icon-phone 10">
+         </div>
+         <div class = "teaser-text followed-by-read-more-arrow">
+          <div class = "frame frame-default frame-type-form_formframework frame-layout-0" id = "c360">
+           <div class = "tx_form_formframework">
+            <form action = "/? tx_form_formframework% 5Baction% 5D = perform & amp; tx_form_formframework% 5Bcontroller% 5D = FormFrontend & amp; cHash = bb0b93fe56f81e9cf07f4c9122073e08 # requestCall2073e08 # requestCall-data =" requestCall-data "post. =" requestCall-data "post "">
+             <div>
+              <Input name = "tx_form_formframework [request call back] [__ state]" type = "hidden" value = "TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ == 97959eafc758caa5bf897b8d59d51d61f8fc5578" />
+              <input name = "tx_form_formframework [__ trustedProperties]" type = "hidden" value = 'a: 1: {s: 15: "requestCallBack"; a: 5: {s: 9: "timeframe"; i: 1; s: 4: "name"; i: 1; s: 5: "phone"; i: 1; s: 13: "LjvyKPfpHaS1V"; i: 1; s: 13: "__ currentPage"; i: 1;}} 11f63374ced5be765fd94d8821f9a8ff1e055e45 ' />
+             </div>
+             <h3>
+              Do you prefer to make a phone call? Request a free callback!
+             </h3>
+             <div>
+              <p>
+               When does it work for you?
+              </p>
+             </div>
+             <div class = "form-group">
+              <label class = "control-label" for = "requestCallBack-timeframe">
+               Period
+               <span class = "required">
+                *
+               </span>
+              </label>
+              <div class = "input">
+               <input class = "form-control" id = "requestCallBack-timeframe" maxlength = "250" minlength = "1" name = "tx_form_formframework [requestCallBack] [timeframe]" required = "required" type = "text" value = " "/>
+              </div>
+             </div>
+             <div class = "form-group">
+              <label class = "control-label" for = "requestCallBack-name">
+               Surname
+               <span class = "required">
+                *
+               </span>
+              </label>
+              <div class = "input">
+               <input class = "form-control" id = "requestCallBack-name" maxlength = "250" minlength = "1" name = "tx_form_formframework [requestCallBack] [name]" placeholder = "your name" required = "required" type = "text" value = "" />
+              </div>
+             </div>
+             <div class = "form-group">
+              <label class = "control-label" for = "requestCallBack-phone">
+               phone
+               <span class = "required">
+                *
+               </span>
+              </label>
+              <div class = "input">
+               <input class = "form-control" id = "requestCallBack-phone" maxlength = "250" minlength = "1" name = "tx_form_formframework [requestCallBack] [phone]" placeholder = "your phone number" required = "required" type = "text" value = "" />
+              </div>
+             </div>
+             <input aria-hidden = "true" autocomplete = "off" id = "requestCallBack-LjvyKPfpHaS1V" name = "tx_form_formframework [requestCallBack] [LjvyKPfpHaS1V]" style = "position: absolute; margin: 0 0 0 -999em;" tabindex = "- 1" type = "text" />
+             <div class = "form-privacy-info">
+              Informs about the handling of personal data
+              <a href="/datenschutz/" target="_blank">
+               Data protection
+              </a>
+              .
+             </div>
+             <div class = "actions">
+              <nav class = "form-navigation">
+               <div class = "btn-toolbar" role = "toolbar">
+                <div class = "btn-group" role = "group">
+                 <span class = "field-wrap field-wrap-submit next submit float-md-right">
+                  <button class = "btn icon-chevron-right btn-primary icon-btn" id = "requestCallBack-button-next" name = "tx_form_formframework [requestCallBack] [__ currentPage]" type = "submit" value = "1">
+                   <span class = "btntxt">
+                    Request a call back now!
+                   </span>
+                   <span class = "icon">
+                   </span>
+                  </button>
+                 </span>
+                </div>
+               </div>
+              </nav>
+             </div>
+            </form>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "col-sm-6 p-0 col-md-4">
+       <div class = "teaser teaser-group-item read-more-link">
+        <a href="https://www.junited-autoglas.de/aktuelles/meldung/wir-sind-weiterhin-geoeffnet/" target="_top" title="Link to the news: We are still open !">
+         <div class = "teaser-icon teaser-icon-exclamation-mark 1">
+         </div>
+         <div class = "teaser-text followed-by-read-more-arrow">
+          <h3>
+           <span class = "read-more-headline">
+            Current information on the coronavirus
+           </span>
+          </h3>
+          <span>
+           The health of our fellow human beings is our top priority. We have taken some measures so that you can rely on our service in these turbulent times. Please note the information so that we can continue to ensure your safety on the road.
+          </span>
+         </div>
+        </a>
+       </div>
+      </div>
+      <div class = "col-sm-6 p-0 col-md-4">
+       <div class = "teaser teaser-group-item read-more-link">
+        <a href="/kosten/">
+         <div class = "teaser-icon teaser-icon-car-care 3">
+         </div>
+         <div class = "teaser-text followed-by-read-more-arrow">
+          <h3>
+           <span class = "read-more-headline">
+            We are partners of almost all insurance companies
+           </span>
+          </h3>
+          <span>
+           We are a recommended partner of almost all insurance companies in Germany. Your advantage: In the event of damage, you can leave all paperwork to us. We take care of the entire process with the insurance company.
+          </span>
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "startpage-unwrapped">
+    <div class = "module module-teasers module-teaser-group module-small-icon-teasers teaser-background-blue">
+     <div class = "container-fixed">
+      <div class = "row ml-0 mr-0">
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-car-care 3">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Technology & amp; Know-how
+            </span>
+           </h3>
+           <span>
+            Special systems are required to properly calibrate windscreen cameras. junited AUTOGLAS has modern tools with which an exact adjustment of the window camera can be carried out for every car brand.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-check 7">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             First-class quality auto glass
+            </span>
+           </h3>
+           <span>
+            Not only with our multiple award-winning service, but also with the material, we are only satisfied with the best. That is why we only use OEM quality auto glass in our workshops. We are happy to provide you with a 10 year guarantee!
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-location 8">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Over 300x nationwide
+            </span>
+           </h3>
+           <span>
+            junited AUTOGLAS is also in your area! We have over 300 partner companies throughout Germany who are happy to repair car glass damage at your location.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-euro 4">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Low cost
+            </span>
+           </h3>
+           <span>
+            Rockfall repairs are usually free of charge with us. When replacing the windshield, you usually only pay your deductible with partial coverage.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-car 2">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Replacement car free
+            </span>
+           </h3>
+           <span>
+            Should the windshield need to be replaced, you can stay mobile at all times with our free replacement car offer (excluding fuel costs)!
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-12 p-0 col-sm-6 col-xl-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-icon teaser-icon-check 7">
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Service champion
+            </span>
+           </h3>
+           <span>
+            Service? Proven to be excellent with us! In the largest German customer survey, the "Service Champions", we have had a "Gold" rank since 2011.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "module module-teasers module-teaser-group module-image-teasers teaser-background-blue-svg">
+     <svg class = "teaser-group-svg" viewbox = "0 0 1850 790" xmlns = "http://www.w3.org/2000/svg">
+      <path class = "teaser-group-svg-bottom" d = "M1100 20 L1100 586 L1850 790 L1850 20 Z" fill = "none">
+      </path>
+      <path class = "teaser-group-svg-top" d = "M0 0 L0 222 L1850 730 L1850 0 L0 0 Z" fill = "none">
+      </path>
+     </svg>
+     <div class = "container-fixed">
+      <header>
+       <div class = "kicker">
+        Your advantages with junited AUTOGLAS:
+       </div>
+       <h2>
+        Free service from the specialist without waiting!
+       </h2>
+      </header>
+      <div class = "row">
+       <div class = "col-md-4 pb-4 col-md-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-image">
+           <img alt = "" class = "lazyload" data-sizes = "(max-width: 450px) 100vw, 1920px" data-src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 0104f6d4a741dfc3fb52f5c9bd5408db28974ea2 & amp; file = / media / Redaktion_Website / 2018_01_25_Junited-1630.jpg / Redaktion "Redaktion data-srcset =" / media / Redaktion_Website_25 /. jpg 1920w, /media/Redaktion_Website/2018_01_25_Junited-1630.jpg 1920w "src =" / typo3conf / ext / ja_sitepackage / Resources / Public / Images / blank.gif "title =" Service acceptance junited AUTOGLAS ">
+            <noscript>
+             <img alt = "" sizes = "(max-width: 450px) 100vw, 1920px" src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 0104f6d4a741dfc3fb52f5c9bd5408db28974ea2 & amp; file = / media / Redaktion_Website / 2018_01_25_Junited-1630.jpg "srcset =" / media / Redaktion_Website / 2018_01_25_JunitedJunited / 2018_01_25_JunitedJunaktion / 2018_01_25_JunitedJunaktion / 2018_01_25_JunitedJunaktion .jpg 1920w "/>
+            </noscript>
+           </img>
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Free service
+            </span>
+           </h3>
+           <span>
+            Replacement car or mobile service? Free of charge for you! Vacuuming the vehicle, replacing the fine dust sticker and handling the damage with your insurance company (no legal advice) are also included with us.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-md-4 pb-4 col-md-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-image">
+           <img alt = "" class = "lazyload" data-sizes = "(max-width: 450px) 100vw, 1920px" data-src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 5e4acecbaa84004225106c025a3466aa33100ec7 & amp; file = / media / Redaktion_Website / 2018_01_25_Junited-483.jpg "data-srcset =", / media / Redaktion_Website / 2018_01_25_Jpg "data-srcset =", / media / Redaktion_Website 1920_web3. jpg 1920w, /media/Redaktion_Website/2018_01_25_Junited-483.jpg 1920w "src =" / typo3conf / ext / ja_sitepackage / Resources / Public / Images / blank.gif "/>
+           <noscript>
+            <img alt = "" sizes = "(max-width: 450px) 100vw, 1920px" src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 5e4acecbaa84004225106c025a3466aa33100ec7 & amp; file = / media / Redaktion_Website / 2018_01_25_Junited-483.jpg "srcset =" / media / Redaktion_Website / 2018_01_25_Junited-483.jpg 1920Jw, /wited_25Redaktion_Website / 2018_01_25_Junited-483.jpg 1920Jw, /wited_25_Website / .jpg 1920w "/>
+           </noscript>
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             State-of-the-art technology
+            </span>
+           </h3>
+           <span>
+            You can trust our experts not only when installing windows. With our diagnostic and calibration tools, we ensure that your journey continues safely and that your driver assistance systems are set correctly.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "col-md-4 pb-4 col-md-4">
+        <div class = "teaser teaser-group-item">
+         <div class = "a-helper">
+          <div class = "teaser-image">
+           <img alt = "junited AUTOGLAS wishes you a good trip" class = "lazyload" data-sizes = "(max-width: 450px) 100vw, 1920px" data-src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 4167b1fc6f14c376af0c00d74ff7cb7b341dc9d1 & amp; file = / media / Redaktion_Website / Reparatur_Austausch / 2018_01_25_Junited-1491.jpg = Redaktion_Website / Reparatur_Austausch / 2018_01_25_Junited-1491. /media/Redaktion_Website/Reparatur_Austausch/2018_01_25_Junited-1491.jpg 1920w, /media/Redaktion_Website/Reparatur_Austausch/2018_01_25_Junited-1491.jpg 1920w "src =" / typo3conf / ext / yes_sitepackage / Images / Resources / Images / = "junited AUTOGLAS wishes you a good trip" />
+           <noscript>
+            <img alt = "junited AUTOGLAS wishes you a good trip" sizes = "(max-width: 450px) 100vw, 1920px" src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 4167b1fc6f14c376af0c00d74ff7cb7b341dc9d1 & amp; file = / media / Redaktion_Website / Reparatur_Austausch / 2018_01_25_Junited-1491.jpg "srcset =" / media / Redaktion_Website / Reparatur_Austausch / 2018_01_25_Junited-1491.jpg "srcset =" / media / Redaktion_Website / Reparatur_Austausch /. jpg 1920w, /media/Redaktion_Website/Reparatur_Austausch/2018_01_25_Junited-1491.jpg 1920w "/>
+           </noscript>
+          </div>
+          <div class = "teaser-text followed-by-read-more-arrow">
+           <h3>
+            <span class = "read-more-headline">
+             Quick and easy
+            </span>
+           </h3>
+           <span>
+            Long waiting times? Not with us! We carry out stone chip repairs within 24 hours, window changes are possible on the day after tomorrow at the latest.
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class = "container-fixed">
+    <div class = "frame frame-default frame-type-list frame-layout-0 frame-list-type-news_pi1" id = "c355">
+     <header class = "ce-header">
+      <h2 class = "">
+       Latest news
+      </h2>
+     </header>
+     <div class = "news">
+      <div class = "news-list-view-start">
+       <div class = "module-teasers news-list-view row">
+        <div class = "col-lg-9">
+         <div class = "row">
+          <div class = "col-md-6">
+           <div class = "teaser teaser-news first-or-second-news-item">
+            <div class = "news-list-item read-more-link">
+             <a href="/aktuelles/meldung/seit-10-jahren-service-champion/" title="Service champion for 10 years !">
+              <img alt = "" class = "lazyload" data-sizes = "(max-width: 450px) 100vw, 504px" data-src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 87cd9f5a6c9cfdb8ae01b941d2abb130e845e59c & amp; file = / media / _processed_ / b / 7 / csm_121531732_2749433031826428_2294283046177849337_o_2e4b834013.jpg "data-srcset =" / media / _processed_ / b / 7 / csm_121531732_2749433031826428_2294283046177849337_o_2e4b834013.jpg 504w / media / _processed_ / b / 7 / csm_121531732_2749433031826428_2294283046177849337_o_71ca1a8e7e.jpg 1008w, /media/_processed_/b/7/csm_121531732_2749433031826428_2294283031826428_2294283046177849337_f / "Resources.o / blank / blank
+              <noscript>
+               <img alt = "" sizes = "(max-width: 450px) 100vw, 504px" src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 87cd9f5a6c9cfdb8ae01b941d2abb130e845e59c & amp; file = / media / _processed_ / b / 7 / csm_121531732_2749433031826428_2294283046177849337_o_2e4b834013.jpg "srcset =" / media / _processed_ / b / 7 / csm_121531732_2749433031826428_2294283046177849337_o_2e4b834013.jpg 504w, 1008w /media/_processed_/b/7/csm_121531732_2749433031826428_2294283046177849337_o_71ca1a8e7e.jpg, / media /_processed_/b/7/csm_121531732_2749433031826428_2294283046177849337_o_2e4b834013.jpg 504w "/>
+              </noscript>
+              <div class = "teaser-text followed-by-read-more-arrow">
+               <div class = "extra">
+                <time datetime = "2020-10-13" itemprop = "datePublished">
+                 October 13, 2020
+                </time>
+               </div>
+               <h4 itemprop = "headline">
+                <span class = "read-more-headline">
+                 Service champion for 10 years!
+                </span>
+               </h4>
+               <p>
+                Who is one of Germany's “service champions?” This year, the daily newspaper “Die Welt”, together with the research company Service Value and Goethe University Frankfurt, is investigating this question in the largest consumer survey in Germany.
+               </p>
+               <p>
+                <span class = "read-more">
+                 Learn more
+                </span>
+               </p>
+              </div>
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class = "col-md-6 second-start-news-col">
+           <div class = "teaser teaser-news first-or-second-news-item">
+            <div class = "news-list-item read-more-link">
+             <a href="/aktuelles/meldung/wir-iegen-freiwillig-zum-tuev/" title="We go to the TÜV voluntarily !">
+              <img alt = "" class = "lazyload" data-sizes = "(max-width: 450px) 100vw, 504px" data-src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 21f2129f167b68555ef749ed4879082db6108163 & amp; file = / media / _processed_ / b / 3 / csm_TR-Testmark_9000006799_DE_CMYK_without-QR-Code_9aed_processed_without-QR-Code_EN_CMYK_without-QR-Code_9aed_process_without-QR-Code_9aed_process_without-QR-Code_9aed_without-QR-Code_9aed000_without-QR-Code_9aed_without-QR-Code_9aed000_without-QR-Code_9aed_without-QR-Code_9aed-3 / c QR-Code_9aed381406.jpg 504w, /media/_processed_/b/3/csm_TR-Testmark_9000006799_DE_CMYK_without-QR-Code_282263d9ee.jpg 1008w, /media/_processed_/b/3/csm_TR-Testmark_900000 " /typo3conf/ext/ja_sitepackage/Resources/Public/Images/blank.gif "/>
+              <noscript>
+               <img alt = "" sizes = "(max-width: 450px) 100vw, 504px" src = "/ index.php? eID = tx_securedownloads & amp; p = 81 & amp; u = 0 & amp; g = 0 & amp; t = 1604830764 & amp; hash = 21f2129f167b68555ef749ed4879082db6108163 & amp; file = / media / _processed_ / b / 3 / csm_TR-Testmark_9000006799_DE_CMYK_without-QR-Code_9aed381406.jpg "srcset-50" srcset_50 / media / _processed_out_9.jpg "srcset =" / media / _processed_out_9-code, 50/50 / media / 3-process_out_9 / b /b/3/csm_TR-Testmark_9000006799_DE_CMYK_without-QR-Code_282263d9ee.jpg 1008w, /media/_processed_/b/3/csm_TR-Testmark_9000006799_DE_CMYK_without-QR-Code_9aed "/> .381406" /> .381406 "/> .381406"
+              </noscript>
+              <div class = "teaser-text followed-by-read-more-arrow">
+               <div class = "extra">
+                <time datetime = "2020-09-24" itemprop = "datePublished">
+                 24. 9. 2020
+                </time>
+               </div>
+               <h4 itemprop = "headline">
+                <span class = "read-more-headline">
+                 We go to the TÜV voluntarily!
+                </span>
+               </h4>
+               <p>
+                Regular checks by an independent testing service provider create trust and security - for you as a customer, but also for us as your customer service provider in the automotive glass sector.
+               </p>
+               <p>
+                <span class = "read-more">
+                 Learn more
+                </span>
+               </p>
+              </div>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "col-lg-3 news-start-small-items">
+         <div class = "teaser teaser-news other-news-items">
+          <div class = "teaser-text row">
+           <div class = "col-md-4 col-lg-12">
+            <div class = "news-list-item read-more-link followed-by-read-more-arrow">
+             <a href="/aktuelles/meldung/junited-zum-8-times-in-sequence-servicestarker-schad servicer/" title="junited for the 8th time in a row “Strongly serviced claims service provider”! ">
+              <div class = "extra">
+               <time datetime = "2020-07-27" itemprop = "datePublished">
+                27. 7. 2020
+               </time>
+              </div>
+              <h3 itemprop = "headline">
+               <span class = "read-more-headline">
+                junited for the 8th time in a row "Strong service provider"!
+               </span>
+              </h3>
+             </a>
+            </div>
+           </div>
+           <div class = "col-md-4 col-lg-12">
+            <div class = "news-list-item read-more-link followed-by-read-more-arrow">
+             <a href="/aktuelles/meldung/michael-schnitzler-ist-neuer-geschaeftsfuehrer-1/" title="Michael Schnitzler is the new managing director">
+              <div class = "extra">
+               <time datetime = "2020-06-08" itemprop = "datePublished">
+                June 8, 2020
+               </time>
+              </div>
+              <h3 itemprop = "headline">
+               <span class = "read-more-headline">
+                Michael Schnitzler is the new managing director
+               </span>
+              </h3>
+             </a>
+            </div>
+           </div>
+           <div class = "col-md-4 col-lg-12">
+            <div class = "news-list-item read-more-link followed-by-read-more-arrow">
+             <a href="/aktuelles/meldung/our-massätze- gegen-covid-19/" title="Our measures against Covid-19">
+              <div class = "extra">
+               <time datetime = "2020-05-05" itemprop = "datePublished">
+                May 5, 2020
+               </time>
+               <span class = "news-list-category">
+                |
+        
+                Coronavirus
+               </span>
+              </div>
+              <h3 itemprop = "headline">
+               <span class = "read-more-headline">
+                Our measures against Covid-19
+               </span>
+              </h3>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class = "text-center continue-button">
+        <a class="btn" href="/aktuelles/">
+         All the news
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <div class = "link-to-top-wrapper">
+   <a class="link-to-top icon-btn icon-chevron-up" href="#" id="link_to_top" role="button" title="">
+    <span aria-hidden = "true" class = "icon">
+    </span>
+    <span class = "btntxt">
+     Top
+    </span>
+   </a>
+  </div>
+  <footer class = "site-footer">
+   <section class = "section-get-in-touch">
+    <div class = "container-fixed">
+     <div class = "get-in-touch justify-content-center">
+      <span>
+       Get in contact:
+      </span>
+      <a href="tel:+498005864833">
+       <span class = "linktext">
+        0800 - 586 48 33
+       </span>
+      </a>
+      <a class="footer-email" href="javascript:linkTo_UnCryptMailto('cqybje0ydveQzkdyjut4tu');">
+       <span class = "linktext">
+        info
+        <span>
+         @
+        </span>
+        junited
+        <span>
+         .
+        </span>
+        de
+       </span>
+      </a>
+      <a class="get-in-touch-contact icon-arrow-right" href="/kontakt/">
+       To contact form
+       <span class = "icon">
+       </span>
+      </a>
+     </div>
+    </div>
+   </section>
+   <div class = "container-fixed footer-background">
+    <section class = "section-quick-nav">
+     <div class = "container-fixed-small">
+      <div class = "row">
+       <div class = "col-sm-4 col-md-4 footercontent">
+        <div class = "frame frame-default frame-type-text frame-layout-0" id = "c1217">
+         <header class = "ce-header">
+          <h4 class = "">
+           Our services
+          </h4>
+         </header>
+         <div class = "ce-bodytext">
+          <ul class = "list-normal">
+           <li>
+            <a href="/reparatur-und- Austausch/steinschlag-reparieren/">
+             <span class = "linktext">
+              Rockfall repair
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/reparatur-und-exchange/windshield/">
+             <span class = "linktext">
+              Window replacement
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/zubehoer-und-zusatzleistungen/scheibentoenung/">
+             <span class = "linktext">
+              Window tinting
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/accessories-and-additional services/ disc calibration/">
+             <span class = "linktext">
+              Calibration of FAS
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class = "col-sm-4 col-md-4 mt-4 mt-sm-0 footercontent">
+        <div class = "frame frame-default frame-type-text frame-layout-0" id = "c351">
+         <header class = "ce-header">
+          <h4 class = "">
+           My service is crystal clear
+          </h4>
+         </header>
+         <div class = "ce-bodytext">
+          <ul class = "list-normal">
+           <li>
+            <a href="/our-service/ Ersatzwagen-gratis-service/">
+             <span class = "linktext">
+              Replacement car free
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/our-service/ Ersatzwagen-gratis-service/">
+             <span class = "linktext">
+              "Mobile Service" free of charge
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/our-service/qualitaet-und-garantie/">
+             <span class = "linktext">
+              TÜV-certified workshops
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/kosten/">
+             <span class = "linktext">
+              Fair prices
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class = "col-sm-4 col-md-4 mt-4 mt-sm-0 footercontent">
+        <h4>
+         Companies
+        </h4>
+        <ul class = "list-normal nav-footercontent">
+         <li>
+          <a href="/ueber-us/" title="About us">
+           <span>
+            about us
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/aktuelles/" title="Aktuelles">
+           <span>
+            Current
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/karriere/" title="Karriere">
+           <span>
+            Career
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class = "section-buttons">
+     <div class = "container-fixed-small">
+      <div class = "horizontal-divider">
+       <div class = "row">
+        <div class = "col-sm-6 col-md-4 footercontent">
+         <h5>
+          Find stations
+         </h5>
+         <p>
+          <a class="btn btn-highlighted" href="/termin-buchen/" title="Search for zip code, city ...">
+           <span class = "btntxt">
+            book an appointment
+           </span>
+          </a>
+         </p>
+        </div>
+        <div class = "col-sm-6 col-md-4 mt-4 mt-sm-0 footercontent">
+         <h5>
+          We are committed
+         </h5>
+         <p>
+          <a href="http://www.kinderprojekt-arche.eu/" rel="noopener noreferrer" target="_blank">
+           <img alt = "Die Arche" src = "/ typo3conf / ext / ja_website_base / Resources / Public / Die_Arche_Logo_weiss.png" />
+          </a>
+         </p>
+        </div>
+        <div class = "col-sm-6 col-md-4 mt-4 mt-sm-0 footercontent">
+         <h5>
+          junited AUTOGLAS partner
+         </h5>
+         <p>
+          <a class="btn inverted" href="/become-partners/">
+           Become a partner?
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class = "section-social">
+     <div class = "social-links justify-content-center">
+      <a href="https://www.facebook.com/junitedAUTOGLAS/" rel="noopener noreferrer" target="_blank" title="junited AUTOGLAS on Facebook">
+       <img alt = "" class = "svg-icon" src = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Frontend / SocialMediaLinks / facebook.svg" />
+       <span class = "sr-only">
+        junited AUTOGLAS on Facebook
+       </span>
+      </a>
+      <a href="https://www.xing.com/companies/junitedautoglasdeutschlandgmbh&amp;co.kg" rel="noopener noreferrer" target="_blank" title="junited AUTOGLAS on Xing">
+       <img alt = "" class = "svg-icon" src = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Frontend / SocialMediaLinks / xing.svg" />
+       <span class = "sr-only">
+        junited AUTOGLAS on Xing
+       </span>
+      </a>
+      <a href="http://www.youtube.com/junitedautoglasde" rel="noopener noreferrer" target="_blank" title="junited AUTOGLAS on YouTube">
+       <img alt = "" class = "svg-icon" src = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Frontend / SocialMediaLinks / youtube.svg" />
+       <span class = "sr-only">
+        junited AUTOGLAS on YouTube
+       </span>
+      </a>
+      <a href="https://www.instagram.com/junitedautoglas/" rel="noopener noreferrer" target="_blank" title="junited AUTOGLAS on Instagram">
+       <img alt = "" class = "svg-icon" src = "/ typo3conf / ext / ja_sitepackage / Resources / Public / Images / Frontend / SocialMediaLinks / instagram.svg" />
+       <span class = "sr-only">
+        junited AUTOGLAS on Instagram
+       </span>
+      </a>
+     </div>
+    </section>
+    <section class = "section-slogan">
+     <div class = "footer-slogan justify-content-center">
+      <span>
+       junited AUTOGLAS - my service is crystal clear.
+      </span>
+     </div>
+    </section>
+    <section class = "section-meta-nav">
+     <div class = "container-fixed-small">
+      <div class = "row">
+       <div class = "col">
+        <ul class = "nav nav-meta justify-content-center">
+         <li class = "nav-item">
+          <a class="nav-link" href="/impressum/" title="Impressum">
+           <span>
+            imprint
+           </span>
+          </a>
+         </li>
+         <li class = "nav-item">
+          <a class="nav-link" href="/datenschutz/" title="Datenschutz">
+           <span>
+            data protection
+           </span>
+          </a>
+         </li>
+         <li class = "nav-item">
+          <a class="nav-link" href="/termin-buchen/" title="Our partners">
+           <span>
+            Our partners
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </section>
+    <svg class = "footer-svg" viewbox = "0 0 1800 485" xmlns = "http://www.w3.org/2000/svg">
+     <mask id = "footer_svg_mask">
+      <path class = "footer-svg-white" d = "M0 485 L1800 485 L1800 0" fill = "none">
+      </path>
+     </mask>
+     <g mask = "url (#footer_svg_mask)">
+      <rect class = "footer-svg-white" fill = "none" height = "485" width = "1800" x = "0" y = "0">
+      </rect>
+      <path class = "footer-svg-blue" d = "M0 485 L0 532 L570 380 L570 0Z" fill = "none">
+      </path>
+     </g>
+    </svg>
+   </div>
+  </footer>
+  <div class = "outer cookie-notice" data-cookie-notice = "" id = "cookie_note">
+   <div class = "container">
+    <h4>
+     Data protection notice
+    </h4>
+    <p>
+     You can find out more about the scope of data collection through the use of our website in our
+     <a href="/datenschutz/">
+      Data protection
+     </a>
+     .
+    </p>
+    <button class = "btn-primary icon-btn no-txt small icon-close" data-cookie-accept = "" value = "cookie_accept">
+     <span class = "icon">
+     </span>
+     <span class = "btntxt">
+      Conclude
+     </span>
+    </button>
+   </div>
+  </div>
+  <script type = "text / javascript">
+   / * <! [CDATA [* /
+var TYPO3 = TYPO3 || {};
+TYPO3.lang = {"privacy.privacy_headline": [{"source": "Privacy", "target": "Datenschutz"}], "privacy.privacy_info_youtube": [{"source": "<p> <strong> Please confirm video activation. <\ / Strong> <\ / p> <p> After activation, cookies will be set and data is sent to YouTube \ / Google. <\ / P> <p> <a class = \ "external -link \ "href = \" https: \ / \ / www.google.de \ / intl \ / en \ / policies \ / privacy \ / \ "target = \" _ blank \ "> To the Google Privacy Policy <\ / a> <\ / p> "," target ":" <p> <strong> Please confirm the activation of the video. <\ / strong> <\ / p> <p> Cookies are set after activation and transfer information to YouTube \ / Google. <\ / p> <p> <a class = \ "external-link \" href = \ "https: \ / \ / policies.google.com \ / privacy? hl = de & gl = de \ "target = \" _ blank \ "> To the data protection declaration from Google <\ / a> <\ / p>"}], "privacy.privacy_button_youtube_yes": [{"source": "Yes, play the video! "," target ":" Yes, play the video! "}]," privacy.privacy_button_youtube_no ": [{" source ":" No, do not play the video. "," target ":" No, not video. " play."}] , "privacy.privacy_cookie_youtube": [{"source": "Activate all videos on this page", "target": "Play all videos on this page directly"}], "close": [{"source": "Close "," target ":" Schliedfen "}]," googlemaps.access.link.label ": [{" source ":" How to find us "," target ":" Your way to us "}], "form.appointment.data.label": [{"source": "", "target": "Your personal data"}], "tx_jamaps.error.noResults": [{"source": "", "target": "No station was found within% s km of% s. The next station is% s km away in% s. "}]," Tx_jamaps.error.1523342964 ": [{" source ":" "," target ":"% s was not found. You may have made a mistake. Please search again for a place or a postcode in Germany. "}]," Tx_jamaps.damagetype-windscreen ": [{" source ":" "," target ":" Windshield "}]," tx_jamaps.damagetype- notWindscreen ": [{" source ":" "," target ":" Other disk "}]," tx_jamaps.damagetype-smallDamage ": [{" source ":" "," target ":" Rockfall, smaller than one Two euro coin "}]," tx_jamaps.damagetype-biggerDamage ": [{" source ":" "," target ":" Larger damage "}]," tx_jamaps.damagetype-inFieldOfVision " : [{"source": "", "target": "In the driver's field of vision"}], "tx_jamaps.damagetype-notInFieldOfVision": [{"source": "", "target": "Out of the field of vision "}]," tx_jamaps.damagetype-inWindowEdge ": [{" source ":" "," target ":" In the edge of the pane "}]," tx_jamaps.damagetype-notInWindowEdge ": [{" source ":" " , "target": "Outside the edge"}], "tx_jamaps.damagetype-rearWindow": [{"source": "", "target": "Rear window"}], "tx_jamaps.damagetype-sideWindow": [{"source": "", "target": "Side window"}], "tx_jamaps.damagetype-otherWindow": [{" source ":" "," target ":" Other "}]," tx_jamaps.damagetype-rearWindow-selected ": [{" source ":" "," target ":" Your selection: rear window "}]," tx_jamaps .damagetype-sideWindow-selected ": [{" source ":" "," target ":" Your selection: side window "}]," tx_jamaps.damagetype-otherWindow-selected ": [{" source ":" "," target ":" Your selection: Different windshield "}]," tx_jamaps.damagetype-exchangeWindscreen-selected ": [{" source ":" "," target ":" The windshield will probably need to be replaced. "}]," tx_jamaps .damagetype-repairWindscreen-selected ": [{" source ":" "," target ":" A repair of the windshield is probably possible. "}]," tx_jamaps.back ": [{" source ":" " , "target": "Back"}]}; / *]]> * /
+  </script>
+  <script src = "/ typo3temp / assets / compressed / merged-270bbaaf593a22f43af3345aa30f7466-a2e6278809b56eb70bd958a7207e25f1.js? 1604491878" type = "text / javascript">
+  </script>
+  <script src = "/ typo3temp / assets / compressed / merged-5f8d2863ba6afcf1c8c1902af01665cc-9467492c7c0cc5544eaf6c2ced0905a3.js? 1604491878" type = "text / javascript">
+  </script>
+  <! - Piwik ->
+  <script type = "text / javascript">
+   var _paq = _paq || [];
+                _paq.push (["setDomains", ["* .www.junited-autoglas.de"]]);
+                _paq.push (['disableCookies']); _ paq.push (['setCustomDimension', 1, 'not-logged-in']); _paq.push (['trackPageView']);
+            _paq.push (['enableLinkTracking']);
+            (function () {
+                var u = "// metrics.mehrwert.de/piwik/";
+                _paq.push (['setTrackerUrl', u + 'piwik.php']);
+                _paq.push (['setSiteId', '61']);
+                var d = document, g = d.createElement ('script'), s = d.getElementsByTagName ('script') [0];
+                g.type = 'text / javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore (g, s);
+            }) ();
+  </script>
+  <noscript>
+   <p>
+    <img alt = "" src = "// metrics.mehrwert.de/piwik/piwik.php?idsite=61" style = "border: 0;" />
+   </p>
+  </noscript>
+  <! - End Piwik Code ->
+  <link href = "/ typo3conf / ext / ja_maps / Resources / Public / Stylesheets / leaflet.css" rel = "prefetch" />
+  <link href = "/ typo3conf / ext / ja_maps / Resources / Public / JavaScripts / leaflet.js" rel = "prefetch" />
+ </body>
+</html>

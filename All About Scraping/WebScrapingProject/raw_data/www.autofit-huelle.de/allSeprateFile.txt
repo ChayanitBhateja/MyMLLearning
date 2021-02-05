@@ -1,0 +1,677 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "REPPAGE 3.50.3" name = "Generator" />
+  <meta content = "3.50.3" name = "RPP-V" />
+  <title>
+   Car service Heiko & amp; Rico Shell, your friendly car workshop in 01109 Dresden - We are still there for you! Customer information on COVID-19
+  </title>
+  <! - [if lt IE 9]>
+<script src = "js / html5shiv.min.js"> </script>
+<script src = "js / respond.min.js"> </script>
+<! [endif] ->
+  <link href = "css / main4.min.css? v = 202011031624531" media = "all" rel = "stylesheet" />
+  <script src = "js / jquery-3.4.1.min.js">
+  </script>
+  <link href = "index.php" rel = "canonical" />
+  <meta content = "AUTOFIT CASE" name = "apple-mobile-web-app-title" />
+  <meta content = "AUTOFIT HELL" name = "application-name" />
+  <link href = "apple-touch-icon-57x57.png" rel = "apple-touch-icon" sizes = "57x57" />
+  <link href = "apple-touch-icon-60x60.png" rel = "apple-touch-icon" sizes = "60x60" />
+  <link href = "apple-touch-icon-72x72.png" rel = "apple-touch-icon" sizes = "72x72" />
+  <link href = "apple-touch-icon-76x76.png" rel = "apple-touch-icon" sizes = "76x76" />
+  <link href = "apple-touch-icon-114x114.png" rel = "apple-touch-icon" sizes = "114x114" />
+  <link href = "apple-touch-icon-120x120.png" rel = "apple-touch-icon" sizes = "120x120" />
+  <link href = "apple-touch-icon-144x144.png" rel = "apple-touch-icon" sizes = "144x144" />
+  <link href = "apple-touch-icon-152x152.png" rel = "apple-touch-icon" sizes = "152x152" />
+  <link href = "apple-touch-icon-180x180.png" rel = "apple-touch-icon" sizes = "180x180" />
+  <link href = "favicon-32x32.png" rel = "icon" sizes = "32x32" type = "image / png" />
+  <link href = "favicon-194x194.png" rel = "icon" sizes = "194x194" type = "image / png" />
+  <link href = "favicon-96x96.png" rel = "icon" sizes = "96x96" type = "image / png" />
+  <link href = "android-chrome-192x192.png" rel = "icon" sizes = "192x192" type = "image / png" />
+  <link href = "favicon-16x16.png" rel = "icon" sizes = "16x16" type = "image / png" />
+  <link href = "manifest.json" rel = "manifest" />
+  <link color = "# c43a30" href = "safari-pinned-tab.svg" rel = "mask-icon" />
+  <link href = "favicon.ico" rel = "shortcut icon" />
+  <meta content = "# da532c" name = "msapplication-TileColor" />
+  <meta content = "mstile-144x144.png" name = "msapplication-TileImage" />
+  <meta content = "# da532c" name = "theme-color" />
+  <meta content = "We are still here for you! Customer information on COVID-19" name = "description" />
+  <meta content = "AUTOFIT, Autoservice Heiko & amp; Rico Cover, We are still here for you! Customer information on COVID-19,
+Spare parts, tires, envelope, Dresden, 01109, car, automobile, used car, new car, used, workshop, auto repair shop, repair, repair shop, repair, accidental damage, body, accident, free, repair, passenger car, auto accessories, exhaust, battery, car battery, Battery service, oil change, filter, oil filter, air filter, cooler, accessories, accident repairs, special exhaust gas inspection, ASU, TUeV, TÜV, vehicle, brake service, brake, exhaust service, inspection, vehicle repairs, vehicle repairs, HU, AU, accident damage repair, exhaust system "name = "keywords" />
+  <meta content = "index, follow, noimageindex" name = "robots" />
+ </head>
+ <body class = "page">
+  <div class = "wrapper">
+   <div class = "container">
+    <div class = "row">
+     <div class = "col-xs-12">
+      <nav class = "navbar navbar-default" id = "autocollapse">
+       <div class = "container-fluid">
+        <div class = "navbar-header" id = "autocolheader">
+         <a aria-label="AUTOFIT Logo" class="navbar-brand" href="/">
+          <span class = "sprite autofit_logo">
+          </span>
+         </a>
+         <a class="navbar-brand navbar-brand-text" id="hidbrand">
+          <span class = "vcenter">
+           CASE
+          </span>
+         </a>
+         <button class = "navbar-toggle collapsed" data-target = "# navbarCollapse" data-toggle = "collapse" type = "button">
+          <span class = "sr-only">
+           Toggle navigation
+          </span>
+          <span class = "icon-bar">
+          </span>
+          <span class = "icon-bar">
+          </span>
+          <span class = "icon-bar">
+          </span>
+         </button>
+        </div>
+        <div class = "collapse navbar-collapse" id = "navbarCollapse">
+         <ul class = "nav navbar-nav navbar-right">
+          <li class = "menu-item active">
+           <a href="index.php" title="Home">
+            Home
+           </a>
+          </li>
+          <li class = "menu-item dropdown">
+           <a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" title="ABOUT US">
+            ABOUT US
+            <span class = "caret">
+            </span>
+           </a>
+           <ul class = "dropdown-menu" role = "menu">
+            <li class = "menu-item">
+             <a href="Anfahrtsskizze.php#headline" title="Anfahrtsskizze">
+              DIRECTIONS MAP
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="Unser_Haus.php#headline" title="Our house">
+              OUR HOUSE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="Das_Team.php#headline" title="The Team">
+              THE TEAM
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="impressum.php#headline" title="Impressum">
+              IMPRINT
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="datenschutz.php#headline" title="Datenschutzerklärung">
+              DATA PROTECTION
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "menu-item dropdown">
+           <a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" title="LEISTUNGEN">
+            SERVICES
+            <span class = "caret">
+            </span>
+           </a>
+           <ul class = "dropdown-menu" role = "menu">
+            <li class = "menu-item">
+             <a href="inspektion.php#headline" title="Inspektion">
+              INSPECTION
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="oelwechsel.php#headline" title="Ölwechsel">
+              OIL CHANGE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="huau.php#headline" title="HU/AU">
+              HU / AU
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="systemdiagnose.php#headline" title="Systemdiagnose">
+              SYSTEM DIAGNOSTICS
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="bremsenservice.php#headline" title="Bremsenservice">
+              BRAKE SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="reifenservice.php#headline" title="Tire service">
+              TIRE SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="klimaservice.php#headline" title="Klimaservice">
+              AIR CONDITIONING SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="stossdaempfer.php#headline" title="Fahrwerkservice">
+              CHASSIS SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="scheibentausch.php#headline" title="Scheibenservice">
+              DISC SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="batterieservice.php#headline" title="Batterieservice">
+              BATTERY SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="auspuffservice.php#headline" title="Auspuffservice">
+              EXHAUST SERVICE
+             </a>
+            </li>
+            <li class = "menu-item">
+             <a href="lichtservice.php#headline" title="Lichtservice">
+              LIGHTING SERVICE
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "menu-item dropdown">
+           <a aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" title="TIRE CHANGE APPOINTMENT">
+            TIRE CHANGE DATE
+            <span class = "caret">
+            </span>
+           </a>
+           <ul class = "dropdown-menu" role = "menu">
+            <li class = "menu-item">
+             <a href="Ihr_Termin_fuer_Ihren_Reifenwechsel.php#headline" title="Your appointment for your tire change">
+              YOUR APPOINTMENT FOR YOUR TIRE CHANGE
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </nav>
+     </div>
+    </div>
+   </div>
+   <div class = "split">
+   </div>
+   <div class = "jumbotron-header">
+    <div class = "jumbotron" style = "background-image: url (https://cms.sss-edv.de/media/header/16943.jpg);">
+     <! - <div class = "jumbotron jumbotron-fix"> <img class = "img-responsive img-block" src = "fix / werkstatt_lead_image3.jpg"> ->
+     <div class = "container-fluid overlay">
+      <div class = "container">
+       <div class = "row">
+        <div class = "col-xs-12">
+         <h1>
+          AUTOFIT COVER
+         </h1>
+         <p>
+          Keulenbergstrasse 63
+          <br/>
+          01109 Dresden
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "jumbotron-info">
+     <p>
+      <strong>
+       <a href="index.php#kpv-anchor" title="COMPETENCE PERSONALITY TRUST">
+        <i class = "fa fa-angle-down">
+        </i>
+        COMPETENCE PERSONALITY TRUST
+       </a>
+      </strong>
+     </p>
+    </div>
+   </div>
+   <div class = "container page garage-details column">
+    <div class = "row contact-block">
+     <div class = "col-xs-12 col-sm-12 col-md-5">
+      <ul class = "list-group">
+       <li class = "list-group-item">
+        <i class = "sprite icon-clock">
+        </i>
+        <div>
+         <table>
+          <tr>
+           <td colspan = "7">
+            <h5>
+             opening hours
+            </h5>
+           </td>
+          </tr>
+          <tr>
+           <td class = "times">
+            Mon-Fri:
+           </td>
+           <td class = "zeitenv">
+            7:00
+           </td>
+           <td class = "zeiteni">
+            to
+           </td>
+           <td class = "timesb">
+            18:00
+           </td>
+           <td>
+           </td>
+           <td class = "zeitenv">
+           </td>
+           <td>
+           </td>
+           <td class = "timesb">
+           </td>
+          </tr>
+         </table>
+        </div>
+       </li>
+       <li class = "list-group-item">
+        <i class = "sprite icon-phone">
+        </i>
+        <div>
+         <h5>
+          phone
+         </h5>
+         <div>
+          <p>
+           <a href="tel:0351-8808428">
+            Tel: 0351 - 880 84 28
+           </a>
+          </p>
+          <p>
+           <a href="tel:0351-8902594">
+            Fax: 0351 - 890 25 94
+           </a>
+          </p>
+          <p>
+           <a href="mailto:info@autofit-huelle.de">
+            Mail: info@autofit-huelle.de
+           </a>
+          </p>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <div class = "col-xs-12 col-sm-12 col-md-7">
+      <div class = "carousel-inner carousel-fixedheight">
+       <ul class = "sliderPic">
+        <li>
+         <div class = "item">
+          <img alt = "" class = "img-block" src = "images / home-1.jpg" style = "max-width: 467px" />
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class = "row">
+     <div class = "col-xs-12">
+      <hr />
+     </div>
+    </div>
+    <div class = "container-fluid horizontal-entry-item rare">
+     <div class = "row">
+      <div class = "col-xs-12 text-center">
+       <h1>
+        We are still there for you!
+        <br/>
+        Customer information on COVID-19
+        <br/>
+       </h1>
+       <div style = "max-width: 90%; margin-left: 5%; margin-right: 5%">
+        <div>
+         <font style = "font-size: 18px">
+          <b>
+           <br/>
+          </b>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <b>
+           Car service Heiko & amp; Rico Shell, your fair, kind & amp; Free master car workshop in 01109 Dresden
+          </b>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <b>
+           <br/>
+          </b>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <br/>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          It is very important to us to protect the health and safety of our customers, employees and suppliers. We have implemented extensive measures to keep the risk as low as possible.
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          We hung up a protective screen at our order acceptance point and provided hygiene items for you. We also ask you to only enter our repair shop individually.
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          Our 24-hour acceptance mailbox is also available to you as usual.
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <br/>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          We firmly believe that we will face the situation together and
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          thank you for your understanding and trust.
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <br/>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <b>
+           Stay healthy!
+          </b>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <br/>
+         </font>
+        </div>
+        <div>
+         <font style = "font-size: 18px">
+          <br/>
+         </font>
+        </div>
+       </div>
+       <br/>
+       <br/>
+       <h2>
+        We look forward to your call or visit!
+       </h2>
+      </div>
+     </div>
+    </div>
+    <a name="kpv-anchor">
+    </a>
+    <div class = "row">
+     <div class = "col-xs-12">
+      <div class = "row">
+       <div class = "col-xs-12 col-sm-4 text-block">
+        <div class = "dark-heading">
+         competence
+        </div>
+        <p class = "western">
+         <span style = "color: # 222222;">
+          <span style = "font-family: Verdana, sans-serif;">
+           <span style = "font-size: small;">
+            We impart competence to our customers through the best work and product performance in everything to do with cars. We carry out repairs with spare parts in original equipment quality.
+           </span>
+          </span>
+         </span>
+         <span style = "color: # 222222;">
+          <span style = "font-family: Verdana, sans-serif;">
+           <span style = "font-size: small;">
+           </span>
+          </span>
+         </span>
+        </p>
+       </div>
+       <div class = "col-xs-12 col-sm-4 text-block">
+        <div class = "dark-heading">
+         personality
+        </div>
+        <p class = "western">
+         <span style = "color: # 222222;">
+          <span style = "font-family: Verdana, sans-serif;">
+           <span style = "font-size: small;">
+            Personal advice is our top priority. We respond to your individual wishes. After all, we know your make of car and repair it by a master craftsman.
+           </span>
+          </span>
+         </span>
+         <span style = "color: # 222222;">
+          <span style = "font-family: Verdana, sans-serif;">
+           <span style = "font-size: small;">
+           </span>
+          </span>
+         </span>
+        </p>
+       </div>
+       <div class = "col-xs-12 col-sm-4 text-block">
+        <div class = "dark-heading">
+         trust
+        </div>
+        <p class = "western">
+         <span style = "color: # 222222;">
+          <span style = "font-family: Verdana, sans-serif;">
+           <span style = "font-size: small;">
+            AUTOFIT is the service brand for motorists that creates trust through the unique combination of the highest level of competence with personal appreciation. As a fair partner, you can always rely on us. You can rely on it.
+           </span>
+          </span>
+         </span>
+        </p>
+       </div>
+      </div>
+      <div class = "row">
+       <div class = "col-xs-12">
+        <div class = "service_grid">
+         <header>
+          <h1>
+           What do we offer?
+          </h1>
+          <p>
+           Select the service you want.
+          </p>
+         </header>
+         <div class = "row">
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="inspektion.php#headline">
+            <span style = "background-image: url (fix / icon_inspektion.png);">
+            </span>
+            <h6>
+             inspection
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="oelwechsel.php#headline">
+            <span style = "background-image: url (fix / icon_olwechsel.png);">
+            </span>
+            <h6>
+             Oil change
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="huau.php#headline">
+            <span style = "background-image: url (fix / icon_hu_au.png);">
+            </span>
+            <h6>
+             HU / AU
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="systemdiagnose.php#headline">
+            <span style = "background-image: url (fix / diag_icon.png);">
+            </span>
+            <h6>
+             System diagnostics
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="bremsenservice.php#headline">
+            <span style = "background-image: url (fix / icon_bremsenservice.png);">
+            </span>
+            <h6>
+             Brake service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="klimaservice.php#headline">
+            <span style = "background-image: url (fix / icon_klimaservice.png);">
+            </span>
+            <h6>
+             Air conditioning service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="stossdaempfer.php#headline">
+            <span style = "background-image: url (fix / icon_stossdampfer.png);">
+            </span>
+            <h6>
+             Landing gear service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="scheibentausch.php#headline">
+            <span style = "background-image: url (fix / icon_scheibentausch.png);">
+            </span>
+            <h6>
+             Target service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="batterieservice.php#headline">
+            <span style = "background-image: url (fix / icon_batterieservice.png);">
+            </span>
+            <h6>
+             Battery service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="auspuffservice.php#headline">
+            <span style = "background-image: url (fix / icon_auspuffreperatur.png);">
+            </span>
+            <h6>
+             Exhaust service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="lichtservice.php#headline">
+            <span style = "background-image: url (fix / light_icon.png);">
+            </span>
+            <h6>
+             Light service
+            </h6>
+           </a>
+          </div>
+          <div class = "item col-xs-12 col-sm-4 col-md-3 col-lg-2 col-centered NoPaddingLeftRight">
+           <a class="border" href="Ihr_Termin_fuer_Ihren_Reifenwechsel.php#headline">
+            <span style = "background-image: url (fix / icon_reifendienst.png);">
+            </span>
+            <h6>
+             Your appointment for your tire change
+            </h6>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style = "clear: both">
+   </div>
+   <div class = "footer">
+    <div class = "container-fluid subfooter">
+     <div class = "container">
+      <div class = "row">
+       <div class = "col-xs-5 col-md-5">
+        <small>
+         © 2020 Autoservice Heiko & amp; Rico Case | All rights reserved.
+        </small>
+       </div>
+       <div class = "col-xs-7 col-sm-7 col-md-7">
+        <ul class = "nav nav-pills">
+         <li class = "menu-item">
+          <a href="index.php">
+           Home
+          </a>
+         </li>
+         <li class = "menu-item">
+          <a href="E-Mail.php">
+           Contact
+          </a>
+         </li>
+         <li class = "menu-item">
+          <a href="impressum.php">
+           imprint
+          </a>
+         </li>
+         <li class = "menu-item">
+          <a href="datenschutz.php">
+           data protection
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <link href = "css / fontawesome.css" media = "all" rel = "stylesheet" />
+  <link href = "css / fa-brands.css" media = "all" rel = "stylesheet" />
+  <link href = "css / additional.min.css? v = 202011031624531" media = "all" rel = "stylesheet" />
+  <link href = "css / jquery.bxslider-4.2.15.min.css" media = "screen" rel = "stylesheet" />
+  <link href = "css / jquery.fancybox.min.css" media = "screen" rel = "stylesheet" />
+  <script src = "js / bootstrap-3.4.1.min.js">
+  </script>
+  <script src = "js / jquery.bxslider-4.2.15.min.js">
+  </script>
+  <script src = "js / jquery.fancybox.min.js">
+  </script>
+  <script src = "js / jquery.matchHeight.min.js">
+  </script>
+  <script src = "js / script.min.js? v = 202011031624531">
+  </script>
+  <link href = "css / cookieconsent.min.css" rel = "stylesheet" type = "text / css" />
+  <script src = "js / cookieconsent.min.js">
+  </script>
+  <script>
+   window.addEventListener ("load", function () {window.cookieconsent.initialize ({"palette": {"popup": {"background": "# eee"}, "button": {"background": "transparent "," text ":" # 000 "," border ":" # 000 "}}," position ":" top "," static ": true," content ": {" message ":" To our website for We use cookies to optimize your design. By continuing to use the website, you agree to the use of cookies. \ NFor more information on cookies, see our "," dismiss ":" OK "," link ":" Privacy Policy "," href ":" datenschutz.php "}})});
+  </script>
+  <script>
+   $ (document) .ready (function () {
+var sliderPic = $ (". sliderPic"). bxSlider ({auto: false, autoStopWhenControlled: false, speed: 0, hideControlOnEnd: true, pager: false, controls: false});
+});
+  </script>
+ </body>
+</html>

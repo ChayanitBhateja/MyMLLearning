@@ -1,0 +1,550 @@
+<! DOCTYPE html>
+<html data-countrycode = "de_DE" data-currency = "EUR" data-lang = "de" data-rhash = "32a8056a943a018febb8c09d049e2597" dir = "auto" lang = "de">
+ <head>
+  <meta charset = "utf-8" />
+  <script>
+   window.isCookieOptIn = true; window.whitelistedDomains = ["cdnmns \\. com", "recaptcha", "youtube \\. com", "ytimg \\. com"];
+  </script>
+  <script>
+   var doNoTrack = localStorage.getItem ('mono_donottrack'); window.YETT_WHITELIST = [/.*/]; window.YETT_UNBLOCKINLINE = true; if (window.isCookieOptIn && doNoTrack === null || String (doNoTrack) === 'true') {window.YETT_WHITELIST = [new RegExp ('(' + window.location.host + '| ^) / assets / js (?! / reseller / padigital (-test)?) '),] .concat (window.whitelistedDomains.map (function (domain) {return new RegExp (domain);})); }! function (t, e) {"object" == typeof exports && "undefined"! = typeof module? e (exports): "function" == typeof define && define.amd? define (["exports"], e): e ((t = t || self) .yett = {})} (this, function (t) {"use strict"; window.MutationObserver || (window.MutationObserver = function (m) {function a (t) {this.i = [], this.m = t} function w (t) {var e, n = {type: null, target: null, addedNodes: [], removedNodes: [], previousSibling: null, nextSibling: null, attributeName: null, attributeNamespace: null, oldValue: null}; for (e in t) n [e]! == m && t [e]! == m && (n [e] = t [e]); return n } function o (r, i) {var a = l (r, i); return function (t) {var e = t.length; if (i.a && 3 === r.nodeType && r.nodeValue! == a. a && t.push (new w ({type: "characterData", target: r, oldValue: aa})), i.b && a.b && k (t, r, ab, if), ic || ig) var n = function ( b, t, e, h) {function v (t, e, n, r, i) {var a, o, l, c = t.length-1; for (i = - ~ ((ci) / 2 ); l = t.pop ();) a = n [lj], o = r [ll], h.c && i && Math.abs (lj-ll)> = c && (b.push (w ({type: "childList ", target: e, addedNodes: [a], removedNodes: [a], nextSibling: a.nextSibling, previousSibling: a.previousSibling})), i -), h.b & & o.b && k (b, a, ob, hf), h.a && 3 === a.nodeType && a.nodeValue! == o.a && b.push (w ({type: "characterData", target: a, oldValue: oa}) )), h.g && g (a, o)} function g (t, e) {for (var n, r, i, a, o, l = t.childNodes, c = ec, u = l.length, s = c? c.length: 0, d = 0, p = 0, f = 0; p <u || f <s;) (a = l [p]) === (o = (i = c [ f]) && i.node)? (h.b && i.b && k (b, a, ib, hf), h.a && i.a! == m && a.nodeValue! == i.a && b.push (w ({type: " characterData ", target: a, oldValue: ia})), r && v (r, t, l, c, d), h.g && (a.childNodes.length || i.c && i.c.length) && g (a, i), p ++, f ++) :( y =! 0, n || (n = {}, r = []), a && (n [i = S (a)] || (n [i] =! 0 , -1 === (i = x (c, a, f, "node"))? H.c && (b.push (w ({type: "childList", target: t, addedNodes: [a], nextSibling: a.nextSibling, previousSibling: a.previousSibling})), d ++): r.push ({j: p, l: i})), p ++), o && o! == l [p] && (n [i = S (o)] || (n [i] =! 0, -1 === (i = x (l, o, p))? H.c && (b.push (w ({type: "childList ", target: e.node, removedNodes: [o], nextSibling: c [f + 1], previousSibling: c [f-1]})), d -): r.push ({j: i, l : f})), f ++)); r && v (r, t, l, c, d)} var y; return g (t, e), y} (t, r, a, i) ;! n && t.length === e || (a = l (r, i))}} function k (t, e, n, r) {for (var i, a, o = {}, l = e.attributes, c = l. length; c -;) a = (i = l [c]). name, r && r [a] === m || (u (e, i)! == n [a] && t.push (w ( {type: "attributes", target: e, attributeName: a, oldValue: n [a], attributeNamespace: i.namespaceURI})), o [a] =! 0); for (a in n) o [a] || t.push (w ({target: e, type: "attributes", attributeName: a, oldValue: n [a]}))} function l (t, r) {var i =! 0; return function t (n) {var e = {node: n}; return! ra || 3! == n.nodeType && 8! == n.nodeType? (r.b && i && 1 === n.nodeType && (eb = c (n.attributes , function (t, e) {return r.f &&! rf [e.name] || (t [e.name] = u (n, e)), t}, {})), i && (rc || ra || r.b && r.g) && (ec = function (t, e) {for (var n = [], r = 0; r <t.length; r ++) n [r] = e (t [r ], r, t); return n} (n.childNodes, t)), i = rg): ea = n.nodeValue, e} (t)} function S (e) {try {return e.id || (e.mo_id = e.mo_id || n ++)} catch (t) {try {return e.nodeValue} catch (t) {return n ++}}} function c (t, e, n) {for (var r = 0; r <t.length; r ++) n = e (n, t [r], r, t); return n} function x (t, e, n, r) {for (; n <t.length; n ++) if ((r? t [n] [r]: t [n]) === e) return n; return-1} a._period = 30, a.prototype = {observe: function (t, e ) {for (var n = {b: !! (e.attributes || e.attributeFilter || e.attributeOldValue), c: !! e.childList, g: !! e.subtree, a:! (! e.characterData &&! e.characterDataOldValue)}, r = this.i, i = 0; i <r.length; i ++) r [i] .s === t && r.splice (i, 1); e.attributeFilter && (nf = c (e.attributeFilter, function (t, e) {return t [e] =! 0, t}, {} )), r.push ({s: t, o: o (t, n)}), this.h || function (n) {! function t () {var e = n.takeRecords (); e. length && n.m (e, n), nh = setTimeout (t, a._period)} ()} (this)}, takeRecords: function () {for (var t = [], e = this.i, n = 0; n <e.length; n ++) e [n] .o (t); return t}, disconnect: function () {this.i = [], clearTimeout (this.h), this.h = null} }; var t = document.createElement ("i"); t.style.top = 0; var u = (t = "null"! = t.attributes.style.value)? function (t, e) {return e.value}: function (t, e) {return "style"! == e.name?e.value:t.style.cssText},n=1;return a} (void 0)); function a ( e, t) {var n = e && (! t || t! == b) && (! v.blacklist || v.blacklist.some (function (t) {return t.test (e)})) && (! v.whitelist || v.whitelist.every (function (t) {return! t.test (e)})); return n && - 1 === r.indexOf (e) && (r.push (e ), console.info ("Script src '" .concat (e, "' is blocked"))), n} function f (t) {var e = t.getAt tribute ("src"); return v.blacklist && v.blacklist.every (function (t) {return! t.test (e)}) || v.whitelist && v.whitelist.some (function (t) {return t.test (e)})} var b = "javascript / blocked", h = window.YETT_UNBLOCKINLINE ||! 1, v = {blacklist: window.YETT_BLACKLIST, whitelist: window.YETT_WHITELIST}, g = {blacklisted: []}, r = [], y = new MutationObserver (function (t) {for (var e = 0; e <t.length; e ++) for (var i = t [e] .addedNodes, n = function (t) {var n = i [t]; if (1 === n.nodeType && "SCRIPT" === n.tagName &&! n.hasAttribute ("data-noblock")) {var e = n.src, r = n.type ; if (a (e, r)) {g.blacklisted.push (n.cloneNode ()), n.type = b; n.addEventListener ("beforescriptexecute", function t (e) {n.getAttribute ("type ") === b && e.preventDefault (), n.removeEventListener (" beforescriptexecute ", t)}), n.parentElement && n.parentElement.removeChild (n)}}}, r = 0; r <i.length; r ++) n (r)}); y.observe (document.documentElement, {childList:! 0, subtree:! 0}); var o = document.createElement; document.createElement = function () {for (var t = arguments. length, e = new Array (t), n = 0; n <t; n ++) e [n] = arguments [n]; if ("script"! == e [ 0] .toLowerCase ()) return o.bind (document) .apply (void 0, e); var r = o.bind (document) .apply (void 0, e), i = r.setAttribute.bind (r ); try {Object.defineProperties (r, {src: {get: function () {return r.getAttribute ("src")}, set: function (t) {return a (t, r.type) &&! r .hasAttribute ("data-noblock") && i ("type", b), i ("src", t),! 0}}, type: {set: function (t) {var e = a (r.src , r.type) &&! r.hasAttribute ("data-noblock")? b: t; return i ("type", e),! 0}}}), r.setAttribute = function (t, e) { "type" === t || "src" === t? r [t] = e: HTMLScriptElement.prototype.setAttribute.call (r, t, e)}} catch (t) {console.warn (" Yett: unable to prevent script execution for script src ", r.src,". \ N ", 'A likely cause would be because you are using a third-party browser extension that monkey patches the" document.createElement "function.' )} return r}; var m = new RegExp ("[| \\ {} () [\\] ^ $ + * ?.]", "g"); t.unblock = function () {for (var t = arguments.length, n = new Array (t), e = 0; e <t; e ++) n [e] = arguments [e]; n.length <1? (v.blacklist = [], v. whitelist = []) :( v.blacklist && (v.blacklist = v.blacklist.filter (function (e) {r eturn n.every (function (t) {return "string" == typeof t?! e.test (t): t instanceof RegExp? e.toString ()! == t.toString (): void 0})} )), v.whitelist && (v.whitelist = v.whitelist.concat (n.map (function (e) {if ("string" == typeof e) {var n = ". *" + e.replace (m , "\\ $ &") + ". *"; if (v.whitelist.every (function (t) {return t.toString ()! == n.toString ()})) return new RegExp (n) } else if (e instanceof RegExp && v.whitelist.every (function (t) {return t.toString ()! == e.toString ()})) return e; return null}). filter (Boolean)))); for (var r = document.querySelectorAll ('script [type = "'. concat (b, '"]')), i = 0; i <r.length; i ++) {var a = r [i]; f (a) && (a.type = "application / javascript", g.blacklisted.push (a), a.parentElement.removeChild (a))} for (var o = g.blacklisted.length-1; 0 <= o; - o) {var l = g.blacklisted [o]; if (f (l)) {var c = document.createElement ("script"); c.setAttribute ("src", l.src), c.setAttribute ("type", "application / javascript"), document.head.appendChild (c), g.blacklisted.splice (o, 1)}} if (v.blacklist && v.blacklist.length <1 && y.disconnect ( ), h) for (var u = document.querySelectorAl l ('script [type = "javascript / inlineblocked"]'), s = 0; s <u.length; s ++) {var d = u [s], p = document.createElement ("script"); p. type = "text / javascript", p.innerText = d.innerText, d.parentNode.replaceChild (p, d)}}, Object.defineProperty (t, "__ esModule", {value:! 0})});
+  </script>
+  <title>
+   Independent car workshop - master workshop in Dresden
+  </title>
+  <meta content = "Kaditz humus management, civil engineering, container service, humus management, vehicle workshop, demolition, waste, waste container, waste disposal, excavation, biowaste, construction pit, rubble, building materials, soil preparation, containers, fertilizer, disposal, disposal, earthworks, earth, Green waste, compost, composting, topsoil, recycling, bulk goods, substrates, transports, waste yards, waste transports, waste recycling, waste management, car repairs, construction machinery, construction site waste disposal, building material delivery, organic waste recycling, organic waste bin, container operation, container disposal, electrical construction, electrical installation, disposal companies, disposal services, waste management Excavated earth, earth, commercial waste disposal, green waste disposal, wood disposal, land machines, utility vehicles, AU, tachograph, vehicle diagnosis, Tüv, general inspection, air conditioning service, tire service, demolition work, container services, electrical installations, earthworks, independent vehicle workshop, earth production, peat " name = "keywords" />
+  <meta content = "Independent vehicle workshop: Maintenance of agricultural technology, municipal technology, composting technology | Workshop & amp; Service for trucks, vans, cars | Container service" name = "description" />
+  <meta content = "website" property = "og: type" />
+  <meta content = "Free vehicle workshop - master workshop in Dresden" property = "og: title" />
+  <meta content = "https://www.humuswirtschaft.de/dienstleistungen/frei-kfz-werkstatt" property = "og: url" />
+  <meta content = "Independent vehicle workshop: Maintenance of agricultural technology, municipal technology, composting technology | Workshop & amp; Service trucks, vans, cars | Container service" property = "og: description" />
+  <meta content = "https://www.humuswirtschaft.de" property = "og: image" />
+  <link href = "https://www.humuswirtschaft.de/dienstleistungen/frei-kfz-werkstatt" rel = "canonical" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <link href = "/ uploads / IGi3zm2E / favicon.ico" rel = "shortcut icon" type = "image / x-icon" />
+  <style>
+   @import url ("https://fonts.googleapis.com/css?family=Roboto:300,500&display=swap"); article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {display: block} audio, canvas, video {display: inline-block} audio: not ([controls]) {display: none; height: 0} [hidden] {display: none} html {font-size: 100 %; - ms-text-size-adjust: 100%; - webkit-text-size-adjust: 100%} html, button, input, select, textarea {font-family: inherit} body {margin: 0} a: focus {outline-width: thin} a: active, a: hover {outline: 0} h1 {font-size: 2em; margin: 0.67em 0} h2 {font-size: 1.5em; margin: 0.83em 0} h3 {font-size: 1.17em; margin: 1em 0} h4 {font-size: 1em; margin: 1.33em 0} h5 {font-size: 0.83em; margin: 1.67em 0} h6 {font-size: 0.67em ; margin: 2.33em 0} abbr [title] {border-bottom: 1px dotted} b, strong {font-weight: bold} blockquote {margin: 1em 40px} dfn {font-style: italic} hr {-moz-box -sizing: content-box; box-sizing: content-box; height: 0} mark {background: # ff0; color: # 000} p, pre {margin: 1em 0} code, kbd, pre, samp {font- family: monospace, serif; _font-family: 'courier new', monosp ace; font-size: 1em} pre {white-space: pre; white-space: pre-wrap; word-wrap: break-word} q {quotes: none} q: before, q: after {content: '' ; content: none} small {font-size: 80%} sub, sup {font-size: 75%; line-height: 0; position: relative; vertical-align: baseline} sup {top: -0.5em} sub {bottom: -0.25em} dl, menu, ol, ul {margin: 1em 0} dd {margin: 0 0 0 40px} menu, ol, ul {padding: 0 0 0 40px} nav ul, nav ol {list- style: none; list-style-image: none} img {-ms-interpolation-mode: bicubic} svg: not (: root) {overflow: hidden} figure {margin: 0} form {margin: 0} fieldset {border : 1px solid # c0c0c0; margin: 0 2px; padding: 0.35em 0.625em 0.75em} legend {border: 0; padding: 0; white-space: normal; * margin-left: -7px} button, input, select, textarea {font-size: 100%; margin: 0; vertical-align: baseline; * vertical-align: middle} button, input {line-height: normal} [type = "submit"] {background-color: transparent} button, select {text-transform: none} button, html input [type = "button"], input [type = "reset"], input [type = "submit"] {- webkit-appearance: button; cursor: pointer ; * overflow: visible} button [disabled], html i nput [disabled] {cursor: default} input [type = "checkbox"], input [type = "radio"] {box-sizing: border-box; padding: 0; * height: 13px; * width: 13px} input [type = "search"] {- webkit-appearance: textfield; -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box} input [type = " search "] :: - webkit-search-cancel-button, input [type =" search "] :: - webkit-search-decoration {-webkit-appearance: none} button :: - moz-focus-inner, input: : -moz-focus-inner {border: 0; padding: 0} textarea {overflow: auto; vertical-align: top} table {border-collapse: collapse; border-spacing: 0} * ,: before,: after { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box} @ font-face {font-family: 'FontAwesome'; src: url ("https: //site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/fonts/fontawesome-webfont.eot");src:url("https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/c .eot ") format (" embedded-opentype "), url (" https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/fonts /fontawesome-webfont.woff2 ") format (" woff2 "), url (" https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/fonts/fontawesome-webfont.woff ") format (" woff "), url ("https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/fonts/fontawesome-webfont.ttf") format ("truetype"), url ("https://site-assets.cdnmns.com/ c8c5d261fbad1bdf153555ed14242305 / css / fonts / fontawesome-webfont.svg # fontawesomeregular ") format (" svg "); font-weight: normal; font-style: normal} header [data-underheaderrow] {position: absolute; top: 0; left : 0; right: 0; z-index: 5} header.headerFixed {position: fixed; top: 0; z-index: 5} header # shrunkImage {max-width: 100%} header # shrunkImage> div.row { padding-top: 8px; padding-bottom: 8px} header.shrinking img, header.shrinking> div.row {transition: all 0.3s ease} .row {position: relative; width: 100%}. row [data-attr -hide] {display: none} .rowGroup {width: 100%; white-space: nowrap; overflow: hidden; display: -ms-flexbox; display: -webkit-flex; display: flex} .rowGroup.rowGroupFixed {width : 1170px; margin: 0 auto} .rowGroup.ro wGroupFixed .row .container-fixed {width: 100%}. rowGroup .row {vertical-align: top; white-space: normal; min-width: 100%; min-height: 100%}. rowGroup .row: last -child {margin-right: 0} .no-flexbox .rowGroup .row {display: inline-block} .container {display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex- direction: row; -moz-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-flex-wrap: wrap; -moz-flex-wrap: wrap; -ms-flex -wrap: wrap; flex-wrap: wrap} .no-flexbox .container {display: block} .no-flexbox .container: before, .no-flexbox .container: after {display: table; content: ""}. no-flexbox .container: after {clear: both} .container-fluid {width: 100%}. container-fixed {width: 100%} @ media only screen and (min-width: 1200px) {. container-fixed { width: 1170px; margin: 0 auto} .rowGroup.fullScreenRow .row {min-height: 100vh; display: flex} .rowGroup.fullScreenRow.verticalAlignRowTop .row {align-items: flex-start} .rowGroup.fullScreenRow.verticalAlignRowCenter. row {align-items: center} .rowGroup.fullScreenRow.verticalAlignRow Bottom .row {align-items: flex-end} .rowGroup .row {height: auto} .row.fullScreenRow {min-height: 100vh; display: flex} .row.fullScreenRow.verticalAlignRowTop {align-items: flex-start ! important} .row.fullScreenRow.verticalAlignRowCenter {align-items: center! important} .row.fullScreenRow.verticalAlignRowBottom {align-items: flex-end! important}}. container-fixed .container {width: 100%} body. designRow {padding: 0; margin: 0; background-color: transparent} body .designRow> .container> .col {padding: 0; margin: 0} .col {position: relative; padding-left: 15px; padding-right : 15px} .no-flexbox .col {float: left; display: block} .col: after {content: ""; visibility: hidden; display: block; height: 0; clear: both} .col.flexCol {display : -ms-flexbox; display: flex; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; flex-direction: column} [data-hideheader] header { margin-top: -99999px; position: absolute} [data-hidefooter] footer {margin-top: -99999px; position: absolute} .col-sm-12 {width: 100%}. col-sm-11 {width: 91.66667%}. Col-sm-10 {widt h: 83.33333%}. col-sm-9 {width: 75%}. col-sm-8 {width: 66.66667%}. col-sm-7 {width: 58.33333%}. col-sm-6 {width: 50%}. Col-sm-5 {width: 41.66667%}. Col-sm-4 {width: 33.33333%}. Col-sm-3 {width: 25%}. Col-sm-2 {width: 16.66667% } .col-sm-1 {width: 8.33333%} @ media only screen and (min-width: 768px) {. col-md-12 {width: 100%}. col-md-11 {width: 91.66667%} .col-md-10 {width: 83.33333%}. col-md-9 {width: 75%}. col-md-8 {width: 66.66667%}. col-md-7 {width: 58.33333%}. col -md-6 {width: 50%}. col-md-5 {width: 41.66667%}. col-md-4 {width: 33.33333%}. col-md-3 {width: 25%}. col-md -2 {width: 16.66667%}. Col-md-1 {width: 8.33333%}} @ media only screen and (min-width: 1200px) {. Col-lg-12 {width: 100%}. Col-lg -11 {width: 91.66667%}. Col-lg-10 {width: 83.33333%}. Col-lg-9 {width: 75%}. Col-lg-8 {width: 66.66667%}. Col-lg-7 {width: 58.33333%}. col-lg-6 {width: 50%}. col-lg-5 {width: 41.66667%}. col-lg-4 {width: 33.33333%}. col-lg-3 {width : 25%}. Col-lg-2 {width: 16.66667%}. Col-lg-1 {width: 8.33333%}}. Clear: after, .clear: before {display: table; content: ''; flex- basis: 0; order: 1} .clear: after {clear: both} .lt-ie8 .clear {zoom: 1} .hide-overflow {overflow: hidden} .hide-visibility {opacity: 0; visibility: hidden} .hidden {display: none! important} .hiddenBG {background-image: none! important} @ media only screen and (min-width: 0px) and (max-width: 767px) {. hidden-sm {display: none! important}} @ media only screen and (min-width: 768px) and (max-width: 1199px) {. Hidden-md {display: none! Important}} @ media only screen and (min-width: 1200px) {. Hidden-lg {display: none! Important}}. Text-left {text-align: left } .text-center {text-align: center} .text-right {text-align: right} .margin-bottom {margin-bottom: 20px} .no-lat-padding {padding-left: 0px; padding-right : 0px} .no-left-padding {padding-left: 0px} .no-right-padding {padding-right: 0px} nav .closeBtn {color: #FFF} nav a {display: block} nav .dropIco {border : none; background: transparent; top: 0} nav .navIcon {vertical-align: middle} @media only screen and (min-width: 768px) {nav: before {color: #FFF; font-size: 40px; line -height: 1em} nav ul {margin: 0; padding: 0; position: relative} nav ul li {list-style: none; display: inlin e-block; text-align: left; position: relative} nav ul li a {display: inline-block} nav ul li a: after {content: ""; font-family: "FontAwesome"; font-size: 0.8em; line-height: 0.8em} nav ul li a: only-child: after {display: none} nav ul li a.dropIco {display: none} nav ul li: hover> ul, nav ul li.hover> ul {display: block} [data-enablefocusindication] nav ul li a.dropIco {display: inline-block; padding: 0; margin: 0} [data-enablefocusindication] nav ul li a.dropIco: after {display: none} [data-enablefocusindication] nav ul li.hasChildren> ul> li.hasChildren a.dropIco {position: absolute; display: inline-block; top: calc (50% - 0.5em); right: 0; width: 1em; height : 1em} [data-enablefocusindication] nav ul li.hasChildren> ul> li.hasChildren a.dropIco: after {content: ""; font-family: "FontAwesome"} [data-enablefocusindication] nav ul li.hasChildren. showChildren a.dropIco: after {content: ""} [data-enablefocusindication] nav ul li.hasChildren.showChildren> ul {opacity: 1; transition: 0.5s ease-in-out; max-height: 1500px} nav ul > li> a: after {margin-left: 5px} nav ul> li: focus {z-index: 999} nav ul .closeBtn {display: none} nav> ul ul {display: none; position: absolute; left: auto; top: 100%; margin-top: 0; z-index: 5 ; width: auto} footer nav> ul ul {top: auto; bottom: 100%} nav> ul ul li {float: none; display: block; margin-left: 0; min-width: 220px; position: relative} nav> ul ul li a: after {content: ""; position: absolute; right: 10px; top: 50%; - webkit-transform: translate (0, -50%); - moz-transform: translate (0 , -50%); - o-transform: translate (0, -50%); - ms-transform: translate (0, -50%); transform: translate (0, -50%)} nav> ul ul a {white-space: normal; display: block} nav> ul ul ul {left: 100%; top: 0px; padding-left: 3px}} @ media (min-width: 768px) and (max-width: 1199px) {nav [data-settings * = "verticalNav-md = true"]: before {content: ""; font-family: "FontAwesome"} nav [data-settings * = "verticalNav-md = true"] ul { margin: 0; padding: 0} nav [data-settings * = "verticalNav-md = true"] ul li {text-align: left; position: relative; display: block; width: 100%} nav [data-settings * = "verticalNav-md = true"] ul li.hasChildren a.dropIco {position: absolute; display: i nline-block; margin-top: 0! important; margin-bottom: 0! important; right: 1em} nav [data-settings * = "verticalNav-md = true"] ul li.hasChildren a.dropIco: before {content : ""; font-family: "FontAwesome"} nav [data-settings * = "verticalNav-md = true"] ul li.hasChildren a.dropIco: after {content: ''! Important; display: block; position : absolute; margin: 0; width: 40px; height: 40px; top: 50%; left: 50%; background: transparent; -webkit-transform: translate (-50%, -50%); - moz-transform: translate (-50%, -50%); - o-transform: translate (-50%, -50%); - ms-transform: translate (-50%, -50%); transform: translate (-50% , -50%); z-index: 2} nav [data-settings * = "verticalNav-md = true"] ul li.hasChildren.showChildren> .dropIco: before {content: ""} nav [data-settings * = "verticalNav-md = true"] ul a {text-decoration: none; display: block; line-height: 1} nav [data-settings * = "verticalNav-md = true"] ul a: after {display : none} nav [data-settings * = "verticalNav-md = true"]> ul {position: fixed; top: 0; right: 100%; width: 20%; height: 100%; z-index: 99999; background: rgba (0,0,0,0.9); padding-top: 50px; overflow-y: scroll} nav [data-settings * = "verticalNav-md = true"]> ul ul {max-height: 0; margin-left: 10px; transition: 0.5s cubic-bezier (0, 1, 0.5 , 1); overflow: hidden; display: block; position: relative; top: auto; left: auto} nav [data-settings * = "verticalNav-md = true"]> ul .hasChildren.showChildren> ul {opacity: 1; transition: 0.5s ease-in-out; max-height: 1500px} nav [data-settings * = "verticalNav-md = true"]> ul .closeBtn {position: absolute; top: 10px; right: 10px; font-size: 2em; display: inline; width: auto} nav [data-settings * = "verticalNav-md = true"]> ul .closeBtn: before {content: "×"; font-family: "FontAwesome"} nav [data-settings * = "verticalNav-md = true"] [data-settings * = "direction = right"]> ul {right: auto; left: 100%} nav [data-settings * = "verticalNav-md = true "]> ul {width: 50%}} @ media (min-width: 1200px) {nav [data-settings * =" verticalNav-lg = true "]: before {content:"  "; font-family : "FontAwesome"} nav [data-settings * = "verticalNav-lg = true"] ul {margin: 0; padding: 0} nav [data-settings * = "verticalNav-lg = true"] ul li {text- align: left; position: relative; display: block; w idth: 100%} nav [data-settings * = "verticalNav-lg = true"] ul li.hasChildren a.dropIco {position: absolute; display: inline-block; margin-top: 0! important; margin-bottom: 0! Important; right: 1em} nav [data-settings * = "verticalNav-lg = true"] ul li.hasChildren a.dropIco: before {content: ""; font-family: "FontAwesome"} nav [data -settings * = "verticalNav-lg = true"] ul li.hasChildren a.dropIco: after {content: ''! important; display: block; position: absolute; margin: 0; width: 40px; height: 40px; top : 50%; left: 50%; background: transparent; -webkit-transform: translate (-50%, -50%); - moz-transform: translate (-50%, -50%); - o-transform: translate (-50%, -50%); - ms-transform: translate (-50%, -50%); transform: translate (-50%, -50%); z-index: 2} nav [data- settings * = "verticalNav-lg = true"] ul li.hasChildren.showChildren> .dropIco: before {content: ""} nav [data-settings * = "verticalNav-lg = true"] ul a {text-decoration : none; display: block; line-height: 1} nav [data-settings * = "verticalNav-lg = true"] ul a: after {display: none} nav [data-settings * = "verticalNav-lg = true "]> ul {posit ion: fixed; top: 0; right: 100%; width: 20%; height: 100%; z-index: 99999; background: rgba (0,0,0,0.9); padding-top: 50px; overflow- y: scroll} nav [data-settings * = "verticalNav-lg = true"]> ul ul {max-height: 0; margin-left: 10px; transition: 0.5s cubic-bezier (0, 1, 0.5, 1 ); overflow: hidden; display: block; position: relative; top: auto; left: auto} nav [data-settings * = "verticalNav-lg = true"]> ul .hasChildren.showChildren> ul {opacity: 1; transition: 0.5s ease-in-out; max-height: 1500px} nav [data-settings * = "verticalNav-lg = true"]> ul .closeBtn {position: absolute; top: 10px; right: 10px; font- size: 2em; display: inline; width: auto} nav [data-settings * = "verticalNav-lg = true"]> ul .closeBtn: before {content: "×"; font-family: "FontAwesome"} nav [ data-settings * = "verticalNav-lg = true"] [data-settings * = "direction = right"]> ul {right: auto; left: 100%}} nav [data-settings * = "vertical = true" ]: before {content: ""; font-family: "FontAwesome"} nav [data-settings * = "vertical = true"] ul {margin: 0; padding: 0} nav [data-settings * = "vertical = true "] ul li {text-align: left; position: relative; display: block; width: 100%} nav [data-settings * = "vertical = true"] ul li.hasChildren a.dropIco {position: absolute; display: inline-block; margin-top: 0! important; margin-bottom: 0! Important; right: 1em} nav [data-settings * = "vertical = true"] ul li.hasChildren a.dropIco: before {content: ""; font-family: "FontAwesome"} nav [data-settings * = "vertical = true"] ul li.hasChildren a.dropIco: after {content: ''! important; display: block; position: absolute; margin: 0; width: 40px; height: 40px; top: 50%; left: 50%; background: transparent; -webkit-transform: translate (-50%, -50%); - moz-transform: translate (-50%, -50%); - o-transform: translate (-50 %, -50%); - ms-transform: translate (-50%, -50%); transform: translate (-50%, -50%); z-index: 2} nav [data-settings * = " vertical = true "] ul li.hasChildren.showChildren> .dropIco: before {content:"  "} nav [data-settings * =" vertical = true "] ul a {text-decoration: none; display: block; line -height: 1} nav [data-settings * = "vertical = true"] ul a: after {display: none} nav [data-settings * = "vertical = true"]> ul {position: fixed; top: 0 ; right: 100%; width: 20 %; height: 100%; z-index: 99999; background: rgba (0,0,0,0.9); padding-top: 50px; overflow-y: scroll} nav [data-settings * = "vertical = true" ]> ul ul {max-height: 0; margin-left: 10px; transition: 0.5s cubic-bezier (0, 1, 0.5, 1); overflow: hidden; display: block; position: relative; top: auto; left: auto} nav [data-settings * = "vertical = true"]> ul .hasChildren.showChildren> ul {opacity: 1; transition: 0.5s ease-in-out; max-height: 1500px} nav [data- settings * = "vertical = true"]> ul .closeBtn {position: absolute; top: 10px; right: 10px; font-size: 2em; display: inline; width: auto} nav [data-settings * = "vertical = true "]> ul .closeBtn: before {content:" × "; font-family:" FontAwesome "} nav [data-settings * =" vertical = true "] [data-settings * =" direction = right "]> ul {right: auto; left: 100%} @ media only screen and (max-width: 767px) {nav: before, nav [data-settings * = "vertical = true"]: before {content: ""; font-family: "FontAwesome"; padding: 10px; line-height: 1em} nav ul, nav [data-settings * = "vertical = true"] ul {margin: 0; padding: 0} nav ul li, nav [ data-settings * = "vertical = true"] ul li {text-alig n: left; position: relative} nav ul li.hasChildren .dropIco, nav [data-settings * = "vertical = true"] ul li.hasChildren .dropIco {position: absolute; right: 1em; padding-left: 15px; padding-right: 15px} nav ul li.hasChildren .dropIco: before, nav [data-settings * = "vertical = true"] ul li.hasChildren .dropIco: before {content: ""; font-family: "FontAwesome "} nav ul li.hasChildren .dropIco: after, nav [data-settings * =" vertical = true "] ul li.hasChildren .dropIco: after {display: none} nav ul li.hasChildren.showChildren> .dropIco: before , nav [data-settings * = "vertical = true"] ul li.hasChildren.showChildren> .dropIco: before {content: ""} nav ul li.active> a, nav [data-settings * = "vertical = true "] ul li.active> a {font-weight: 600} nav ul a, nav [data-settings * =" vertical = true "] ul a {text-decoration: none; line-height: 1} nav> ul, nav [data-settings * = "vertical = true"]> ul {position: fixed; right: 100%; top: 0; width: 100%; height: 100%; z-index: 99999; background: rgba (0,0,0,0.9); padding: 50px 0 0 20px; overflow-y: scroll} nav> ul ul, nav [data-settings * = "vertical = true"]> ul ul { max-height: 0; margin-left: 10px; transition: 0.5s cubic-bezier (0, 1, 0.5, 1); overflow: hidden} nav> ul ul li a, nav [data-settings * = "vertical = true "]> ul ul li a {line-height: 1} nav> ul .hasChildren.showChildren> ul, nav [data-settings * =" vertical = true "]> ul .hasChildren.showChildren> ul {opacity: 1 ; transition: 0.5s ease-in-out; max-height: 1500px} nav> ul .closeBtn, nav [data-settings * = "vertical = true"]> ul .closeBtn {position: absolute; top: 19px; right : 21px; font-size: 2em; display: inline; z-index: 1} nav> ul .closeBtn: before, nav [data-settings * = "vertical = true"]> ul .closeBtn: before {content: " × "; font-family:" FontAwesome "} nav [data-settings * =" direction = right "]> ul, nav [data-settings * =" vertical = true "] [data-settings * =" direction = right "]> ul {left: 100%; right: auto}}. locale ul {margin: 0; padding: 0; display: inline-block; white-space: nowrap; position: relative; z-index: 2}. locale ul a {text-decoration: none} .locale ul li {display: none; list-style: none; position: absolute; width: 100%}. locale ul li a: before {content: ""; font- family: "FontAwesome"; font-size: 0.8 em; margin-right: 5px; display: none; vertical-align: bottom} .locale ul li.active {display: block; position: static} .locale ul li.active a: before {display: inline-block}. locale ul li.active: only-child a: before {display: none} .locale ul: hover {z-index: 11} .locale ul: hover li {display: block} .locale .locale_touch li: not (.active ) {display: block} body.noScroll {overflow: hidden; position: fixed} body.safariNoScroll {overflow: hidden} .image {max-width: 100%}. row.brandfooter .col {display: block} .row. brandfooter .brandLogoContainer {text-align: right} .row.brandfooter .brandLogoContainer .footerlogo {vertical-align: middle} .row.brandfooter .brandLogoContainer .brandText {display: inline-block; vertical-align: middle} @media only screen and (max-width: 768px) {. row.brandfooter .brandLogoContainer {text-align: center}}. row.brandfooter.noPadding {height: 40px; display: table; padding: 0} .row.brandfooter.noPadding img, .row.brandfooter.noPadding span {display: table-cell; vertical-align: middle} .row.brandfooter.noPadding img.brandingText, .row.brandf ooter.noPadding span.brandingText {padding-left: 5px} .row.brandfooter .brandedInnerRow {padding: 0} .row.brandfooter .brandedTopColumn {margin-bottom: 25px} .infobar-wrapper {position: fixed; top: 0; left: 0; display: block; z-index: 20; width: 100vw; padding: 32px; background: rgba (27,27,27,0.95); font-size: 13px} .infobar-wrapper .infobar {font- family: 'Roboto'; width: 100vw; text-align: left; display: flex; flex-direction: column; justify-content: center; height: 100%}. infobar-wrapper .infobar a {color: #fff} .infobar-wrapper .infobar p {color: #fff; text-align: left; line-height: 18px} .infobar-wrapper .infobar .cookie-row {width: calc (100% - 64px); padding: 0} .infobar-wrapper .infobar .cookie-row.cookie-row-text {overflow: auto} .infobar-wrapper .infobar h1.cookie-headline, .infobar-wrapper .infobar h4.cookie-headline {color: #fff; font-size: 18px; font-weight: 500; margin-bottom: 8px} .infobar-wrapper .infobar h1.cookie-headline.push-top, .infobar-wrapper .infobar h4.cookie-headline.push-top { margin-top: 24px} .infobar-wrapper .infobar p.cookie-descr iption {text-align: left; line-height: 1.36; font-size: 14px; font-weight: 300; max-width: 1040px; width: 100%; margin-bottom: 16px} .infobar-wrapper .infobar p .cookie-readmore {font-size: 14px; text-align: left; padding-bottom: 12px} .infobar-wrapper .infobar .cookie-checkboxes {width: 50%; min-height: 47px; padding: 16px 0; float: left} .infobar-wrapper .infobar .cookie-checkboxes label {color: #fff; font-size: 16px; font-weight: 300; margin-right: 16px} .infobar-wrapper .infobar .cookie-checkboxes label input {margin-right: 8px} .infobar-wrapper .infobar .cookie-buttons {font-weight: 500; width: 50%; min-height: 47px; float: left; text-align: right} .infobar-wrapper .infobar .cookie-buttons a {cursor: pointer} .infobar-wrapper [data-settings * = "bottom"] {bottom: 0; top: inherit} @media only screen and (max-width: 1199px) {. infobar -wrapper .infobar {width: 100%}}. infobar-wrapper .infobar-close {position: absolute; top: 15px; right: 20px; font-size: 25px; color: #FFF} .infobar-wrapper a # revoke -consent {font-size: 13px; padding: 13px 24px; border: 1px solid #fff; backg round: #fff; color: # 181818; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px} .infobar-wrapper a # infobar -acceptCookiesBtn {display: inline-block; font-size: 13px; padding: 13px 24px; border: 1px solid #fff; background: #fff; color: # 181818; -webkit-border-radius: 3px; -moz-border -radius: 3px; -o-border-radius: 3px; border-radius: 3px} .infobar-wrapper a # infobar-acceptSelectedCookiesBtn {display: inline-block; font-size: 13px; padding: 13px 24px; border: 1px solid #fff; margin-right: 16px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px} .infobar-wrapper a # infobar -donottrack {font-size: 13px; padding: 13px 24px; border: 1px solid #fff; background: #fff; color: # 181818; margin-left: 18px; float: right; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px} @media only screen and (max-width: 992px) {. infobar-wrapper {height: 100%; overflow: scroll } .infobar-wrapper .infobar .cookie-row {width: 100%}. infobar-wrapper .infobar .cookie-check boxes {float: none; width: 100%}. infobar-wrapper .infobar .cookie-checkboxes label {display: block} .infobar-wrapper .infobar .cookie-checkboxes label: first-of-type {margin-bottom: 16px } .infobar-wrapper .infobar .cookie-buttons {float: none; width: 100%; text-align: left}}. optout-button {position: fixed; bottom: 0px; left: 2%; z-index: 5; width: 100px; height: 50px; background-color: rgba (163,163,163,0.4); color: white} .rowGroup .row.normalizeSize, .imagelist .slide.normalizeSize, .gallery .slide.normalizeSize, .catalog .slide .normalizeSize, .blog .slide.normalizeSize {opacity: 0; padding-left: 0; padding-right: 0; min-width: 0; max-width: 0; max-height: 0; border: 0} @media only screen and (max-width: 768px) {. rowGroup .row.normalizeSize, .imagelist .slide.normalizeSize, .gallery .slide.normalizeSize, .catalog .slide.normalizeSize, .blog .slide.normalizeSize {padding-left: 0; padding-right: 0; min-width: 0; max-width: 0; border: 0}}. Osmap .osmap-container, .osmap .map-container {z-index: 0} .singleProduct .shopQuantity { float: left; display: inline-block; p adding: 5px 0} .singleProduct .shopQuantity .description {margin-right: 5px} .singleProduct .shopQuantity .decreaseQuantity, .singleProduct .shopQuantity .increaseQuantity {cursor: pointer; width: 20px; padding: 0 10px; -moz-user- select: -moz-none; -khtml-user-select: none; -webkit-user-select: none; user-select: none} .singleProduct .shopQuantity .decreaseQuantity.outOfStock, .singleProduct .shopQuantity .increaseQuantity.outOfStock {color : # 333333; cursor: auto} .singleProduct .shopQuantity .quantity {width: 40px; display: inline-block; text-align: center} .cart .prodDetails> span {overflow: visible} .cart .prodDetails .prodQuant ,. cart .prodDetails .prodQuantity, .cart .prodDetails .prodPrice {display: inline-block} .cart .prodDetails .prodQuant {padding-right: 10px} .cart .prodDetails input.prodQuantity {width: 20px; text-align: center; border-radius: 3px} .cart .prodDetails .prodPrice {float: right; line-height: 2.2em} .cart .prodRemove {padding-top: 1em} .checkout .products .product-row .qty {width: auto}
+  </style>
+  <! - [if IE 8]> <link rel = "stylesheet" href = "https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/grids.css?1604394807174"> <! [endif] - >
+  <style id = "style_site">
+   .headline {font-size: 45px; line-height: 1.2em; letter-spacing: 0em; margin-bottom: 20px; color: rgb (0, 129, 67);} .headline a: hover {text-decoration: underline;} nav {text-align: center;} nav> ul li> a {transition: all 0.25s ease-in 0s ; color: rgb (255, 255, 255); font-size: 23px;} nav: before {font-size: 30px; color: rgb (69, 69, 69);} nav> ul> li> ul a {font-size: 18px; color: rgb (255, 255, 255);} nav> ul li a: hover {background-color: rgb (0, 129, 67); border-color: rgb (204, 230, 217);} nav> ul li a {padding-top: 10px; padding-right: 14px; padding-bottom: 10px; padding-left: 14px; margin-top: 0px; margin-right: 2px; margin-left: 2px; background-color: rgb (0, 129, 67); border-color: transparent; border-bottom-width: 2px;} nav> ul> li> ul li a {background-color: rgb (0, 129, 67); padding top: 20px; padding-bottom: 20px; margin-bottom: 0px;} nav> ul> li> ul li a: hover {background-color: rgb (234, 234, 234);} nav> ul> li> ul li.active> a {background-color: rgb (234, 234, 234); color: rgb (0, 129, 67);} nav> ul li.active> a {background-color: rgb (0, 129, 67); color: rgb (255, 255, 255); font-weight: 400; border-color: rgb (204, 230, 217);} nav> ul li> a: hover {color: rgb (255, 255, 255);} nav> ul> li> ul a: hover {color: rgb ( 0, 129, 67);} .subtitle {font-size: 31px; line-height: 1.2em; letter-spacing: 0em; margin-bottom: 20px; color: rgb (0, 129, 67);} .preamble {font-size: 22px; line-height: 1.5em; letter-spacing: 0em; margin-bottom: 5px; color: rgb (255, 255, 255);} .bodytext {line-height: 1.6em; margin-bottom: 10px; text-align: justify;} .smalltext {line-height: 1.2em; letter-spacing: 0em; font-size: 11px; margin-bottom: 5px;} .smalltext a {} .smalltext a: hover {} body {color: rgb (30, 30, 30); font-size: 20px; font-family: Abel; line-height: 1.2em; font-weight: 400; background-color: rgb (255, 255, 255);} body a {text-decoration: none; color: rgb (0, 129, 67);} body a: hover {color: rgb (0, 129, 67);} .button {margin-bottom: 40px; border-radius: 3px; border-width: 0px; font-weight: 400; color: rgb (255, 255, 255); background-color: rgb (69, 69, 69); padding top: 15px; padding-right: 25px; padding-bottom: 15px; padding-left: 25px;} .button: hover {background-color: rgb (53, 53, 53);} .form {margin-bottom: 40px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;} .form label {padding-bottom: 0px; margin-bottom: 10px; line-height: 1.2em; font-size: 24px;} .form input [type = checkbox] + span, .form input [type = radio] + span {margin-left: 10px; margin-right: 20px; margin-bottom: 20px; line-height: 1.6em;} .form input [type = text] ,. form textarea, .form select {border-radius: 3px; border-color: rgb (204, 204, 204); color: rgb (69, 69, 69); font-size: 20px; padding top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; margin-top: 0px; margin-right: 0px; margin-bottom: 20px; margin-left: 0px; border-top-width: 1px; border-left-width: 1px; border-bottom-width: 1px; border-right-width: 1px;} .form input [type = submit] {margin-top: 20px; margin-bottom: 0px; font-size: 24px; background-color: rgb (0, 129, 67);} .form input [type = submit]: hover {background-color: rgb (0, 129, 67); color: rgba (255, 255, 255, 0.8);} .text {margin-bottom: 40px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;} .text table thead th {padding-left: 10px; padding-right: 10px; padding top: 10px; padding-bottom: 10px; border-bottom-width: 2px; border-color: rgb (0, 129, 67); background-color: rgb (204, 230, 217);} .text table td {border-left-width: 5px; border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; padding-left: 5px; padding top: 5px; padding-right: 5px; padding-bottom: 5px;} .image {margin-bottom: 40px;} .map {margin-bottom: 40px;} .gallery {margin-bottom: 40px;} .row {padding-top: 100px; padding-right: 30px; padding-bottom: 60px; padding-left: 30px;} .col {margin-bottom: 0px; padding-left: 15px; padding-right: 15px; margin-top: 0px; padding-bottom: 0px;} .custom1 {font-weight: 800; color: rgb (255, 255, 255); line-height: 1.40em; font-size: 20px; padding-left: 5px; padding-right: 5px; text-align: center; padding top: 5px; padding-bottom: 10px;} .custom2 {} .custom4 {} .custom5 {} .custom3 {} .smallsubtitle {font-size: 18px; line-height: 1.2em; margin-bottom: 5px;} .spottext {font-size: 36px; color: rgb (255, 255, 255); line-height: 1.60em; text-align: left; margin-bottom: 0px; text-decoration: none; text-transform: uppercase; font-weight: 800; letter-spacing: 0.05em;} .footertext {font-size: 18px; line-height: 1.60em; margin-bottom: 0px; color: rgb (255, 255, 255);} .footertext a {color: rgb (230, 230, 230);} .footertext a: hover {color: rgb (230, 230, 230);} .companyname {font -size: 22px; text-align: left; line-height: 1.2em;} .companyname a {color: rgb (96, 96, 96);} .smallspottext {line-height: 1.5em; color: rgb (255, 255, 255); text-align: center; font-size: 22px; margin-bottom: 5px;} .locale {text-align: right;} .locale ul li a {transition: all 0.25s ease-in 0s; color: rgb (255, 255, 255);} .locale ul li {background-color: rgb (69, 69, 69); padding top: 5px; padding-right: 15px; padding-bottom: 5px; padding-left: 15px;} .button2 {font-size: 21px; border-width: 2px; line-height: 1em; margin-bottom: 40px; border-radius: 3px; border-color: rgb (255, 255, 255); margin-right: auto; padding top: 20px; padding-right: 30px; padding-bottom: 20px; padding-left: 30px;} .button2: hover {border-color: rgba (255, 255, 255, 0.498039);} .button2 .buttonIcon.fa {margin-right: 10px;} .divider {display: table; margin-left: auto; margin-right: auto; border-top-width: 1px; border-color: rgba (0, 0, 0, 0.0980392); width: 100%;} .socialmedia {text-align: right; font-size: 19px;}. socialmedia li {margin-left: 10px; margin-bottom: 10px;} .paymenticons li {margin-left: 5px; margin-bottom: 5px; padding-bottom: 40px;} .linklist a {margin-bottom: 1px; padding top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; color: rgb (0, 129, 67);} .linklist .listIcon {color: rgb (0, 129, 67); font-size: 25px; width: 25px; height: 23px; margin-top: 0px; margin-bottom: 0px; margin-right: 10px;} .linklist .smalltext {margin-bottom: 0px;} .linklist .itemLabel {font-size: 25px;} .breadcrumb li a {margin-bottom: 10px; margin-left: 10px; margin-right: 10px;} .blog .title {color: rgb (0, 129, 67); margin-bottom: 10px; padding-left: 0px; padding-top: 0px; padding-right: 0px; font-size: 24px; font-weight: 800;} .blog .title: hover {color: rgb (0, 129, 67);} .blog .shortDescription {margin-bottom: 30px; padding-left: 0px; padding-top: 0px; padding-right: 0px; line-height: 1.40em;} .blog li {background-color: transparent;} .blog li .textContainer {padding-left: 20px; padding-right: 20px; padding-top: 20px;} .blog .readMore {margin-bottom: 10px; background-color: rgb (0, 129, 67); padding-left: 10px; padding top: 10px; padding-right: 10px; padding-bottom: 10px;} .blog .dots li {width: 10px; border-color: rgb (0, 129, 67); border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-top-left-radius: 100px; border-top-right-radius: 100px; border-bottom-right-radius: 100px; border-bottom-left-radius: 100px;} .blog .dots li: hover {border-color: rgb (0, 129, 67); background-color: rgb (0, 129, 67);} .blog .dots li.active {border-color: rgb (0, 129, 67); background-color: rgb (0, 129, 67);} .blog .details {font-size: 12px; color: rgb (30, 30, 30); line-height: 1.40em;} .blog .details: hover {color: rgb (30, 30, 30);} .blog .readMore: hover {background-color: rgb (0, 129, 67); color: rgba (255, 255, 255, 0.8);} .hoverOverlay .hoverText {color: rgb (0, 129, 67); font-size: 45px; text-align: center; font-weight: 800;} .accordion .itemTitle {background-color: rgb (0, 129, 67); padding-left: 10px; padding top: 5px; padding-right: 10px; padding-bottom: 5px; color: rgb (255, 255, 255); border-top-right-radius: 500px; border-bottom-right-radius: 500px;} .accordion li.active .itemTitle {background-color: rgb (0, 129, 67);} .accordion li {margin-bottom: 10px; margin-top: 0px; margin-right: 0px;} .accordion .itemContent {margin-top: 10px; margin-left: 10px;} .lightpreamble {color: rgb (255, 255, 255); font-size: 26px; line-height: 1.4em; padding-bottom: 5px; padding-top: 3px;} .lightpreamble a {color: rgb (157, 156, 156);} .lightsubtitle {font-size: 22px; font-weight: 800; color: rgb (157, 156, 156);} .button3 {display: table; margin-left: auto; margin-right: auto; width: 0%; text-align: center; border-top-left-radius: 500px; border-top-right-radius: 500px; border-bottom-right-radius: 500px; border-bottom-left-radius: 500px; background-color: rgb (0, 129, 67); border-color: rgb (204, 230, 217); margin-bottom: 20px; padding-left: 5px; padding top: 5px; padding-right: 5px; padding-bottom: 5px;} .button3 .buttonIcon.fa {margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; color: rgb (255, 255, 255);} .button3: hover {background-color: rgb (0, 129, 67); border-color: rgb (204, 230, 217);} .scrollIcon {width: 30px; height: 30px; border-top-left-radius: 100px; border-top-right-radius: 100px; border-bottom-right-radius: 100px; border-bottom-left-radius: 100px; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-color: rgb (255, 255, 255); background-color: rgb (0, 129, 67);} .scrollIcon: hover {border-color: rgb (255, 255, 255); background-color: rgb (0, 129, 67);} .scrollIcon span: before {color: rgb (255, 255, 255);} .custom10 {color: rgb (255, 255, 255); text-align: center;} .custom10 a {color: rgb (255, 255, 255);} .custom10 a: hover {color: rgb (255, 255, 255);} @media only screen and (max-width : 1199px) {nav {} nav> ul li> a: hover {} nav> ul li.active> a {} nav> ul> li> ul a {} nav> ul> li> ul li.active> a { } nav: before {color: rgb (69, 69, 69); font-size: 30px;} .col {padding-bottom: 30px;} .row {padding-top: 70px; padding-bottom: 0px;} .custom4 {} .custom4 a {} .custom4 a: hover {} .custom1 {line-height: 1.2em;} .custom1 a {} .custom1 a: hover {} .custom3 {} .custom3 a {} .custom3 a: hover {} body {} body a {} body a: hover {} .text {} .headline {font-size: 37px;} .headline a {} .headline a: hover { } .subtitle {font-size: 28px;} .subtitle a {} .subtitle a: hover {} .preamble {font-size: 18px;} .preamble a {} .preamble a: hover {} .bodytext {}. bodytext a {} .bodytext a: hover {} .smallsubtitle {} .smallsubtitle a {} .smallsubtitle a: hover {} .smalltext {font-size: 12px;} .smalltext a {} .smalltext a: hover {}. spottext {font-size: 50px;} .spottext a {} .spottext a: hover {} .smallspottext {font-size: 18px;} .smallspottext a {} .smallspottext a: hover {} .companyname {font-size: 18px;} .companyname a {} .companyname a: hover {} .footertext {font-size: 12px;} .footertext a {} .footertext a: hover {}} @media only screen and (max-width: 767px) {nav {} nav> ul li> a {font-size: 18px;} nav> ul li> a: hover {} nav> ul li.active> a {} nav> ul> li> ul a {font-size: 15px;} nav> ul> li> ul li.active> a {} nav: before {font-size: 21px;} nav> ul li a {padding-top: 10px; padding-bottom: 10px; padding-left: 0px;} nav> ul> li> ul li a {background-color: rgba (255, 255, 255, 0); padding top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;} .headline {font-size: 31px;} .headline a {} .headline a: hover {} .subtitle {font-size: 22px;} .preamble {font-size: 20px;}. preamble a {} .preamble a: hover {} .bodytext {font-size: 17px;} .smalltext {} .smalltext a {} .smalltext a: hover {} .text {margin-bottom: 20px; padding-right: 0px; padding-left: 0px;} .col {padding-bottom: 20px;} .row {padding-top: 40px; padding-left: 0px; padding-right: 0px;} .form {margin-bottom: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;} .form label {} .form input [type = checkbox] + span, .form input [type = radio] + span {margin-right: 10px; margin-bottom: 10px;} .form input [type = submit] {} .form input [type = submit]: hover {} .form input [type = text] ,. form textarea, .form select {} .form. thankYou {} .gallery {margin-bottom: 20px;} .map {margin-bottom: 20px;} .image {margin-bottom: 20px;} .button {margin-bottom: 20px;} .button: hover {}. custom1 {} .custom1 a {} .custom1 a: hover {} .custom2 {} .custom2 a {} .custom2 a: hover {} .custom3 {} .custom3 a {} .custom3 a: hover {} .custom4 { } .custom4 a {} .custom4 a: hover {} .custom5 {} .custom5 a {} .custom5 a: hover {} .spottext {font-size: 28px;} body {} body a {} body a: hover {} .locale {} .locale ul li a {} .locale ul li a: hover {} .locale ul li.active a {} .locale ul li {} .locale ul li: hover {} .locale ul li. active {} .smallsubtitle {} .smallsubtitle a {} .smallsubtitle a: hover {} .smallspottext {font-size: 20px;} .smallspottext a {} .smallspottext a: hover {} .companyname {font-size: 20px; } .companyname a {} .companyname a: hover {} .footertext {font-size: 16px;} .button2 {margin-b ottom: 20px;} .button2: hover {} .socialmedia {text-align: center; font-size: 22px;}. social media li a {width: 45px; height: 45px;}. social media li a: hover {}. social media li {margin-left: 5px; margin-right: 5px;} .socialmedia li: hover {} .accordion .itemTitle {color: rgb (255, 255, 255); background-color: rgb (0, 129, 67);} .accordion .itemTitle: hover {background-color: rgb (0, 129, 67);} .accordion li.active .itemTitle {background-color: rgb (0 , 129, 67);}} # r5001 {padding-left: 0px; padding-right: 0px; background-image: none; background-size: contain; background-repeat: no-repeat; background position: 50% 100%; padding-bottom: 0px;} # r5000 {background-color: rgba (255, 255, 255, 0.85); background position: 50% 100%; background-repeat: no-repeat; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 15px; border-color: rgb (0, 129, 67);} # c5000 {margin-top: 20px;} # m3088 {margin-bottom: 10px; margin-right: auto;} # c4354 {padding-top: 14px; padding-left: 0px; padding-right: 0px;} # c3493 {padding-top: 0px;} # m4662 {margin-bottom: 10px;} # m4208 {padding-right: 7px; padding-left: 7px;} # m3234 {margin-bottom: 25px;} # r3990 {padding-top: 10px; padding-bottom: 10px; background-color: rgb (0, 129, 67);} # m1166 {margin-bottom: 0px;} # m3104 {margin-bottom: 0px;} # m4224 {margin-bottom: 0px;} # r5002 {background-position : 50% 0%; background-repeat: repeat-y;} # r5002> .container {} # r2223 {background-color: rgb (0, 129, 67); padding top: 30px; padding-bottom: 0px;} # c5144 {padding-left: 0px; padding-right: 0px;} # m3143 {margin-bottom: 0px;} # r1074 {background-color: rgb (0, 129, 67); padding-top: 0px; padding-bottom: 50px;} # m1028 {margin-bottom: 0px;} # m3183 {margin-bottom: 0px;} # m3996 {margin-bottom: 0px;} # m4735 {margin-bottom: 5px;} # m2962 { background-color: rgb (255, 255, 255); border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-color: rgb (255, 255, 255);} # p8901 # r2802 {padding-top: 905px; padding-bottom: 0px; background-color: rgba (0, 0, 0, 0.45098); background-image: url (/uploads/Qb597oyQ/767x0_2560x0/DSCN6451.JPG); background-repeat: no-repeat; background-size: cover; background position: 50% 50%; padding-right: 0px; padding-left: 700px;} # p8901 # c3725 {background-color: rgba (0, 129, 67, 0.8); padding-left: 40px; padding top: 40px; padding-right: 40px; padding-bottom: 40px;} # p8901 # m2610 {margin-bottom: 0px;} # p8901 # r1625 {padding-bottom: 0px;} # p8901 # r3312 {border-color: rgb (157, 156, 156); padding-bottom: 0px; padding-top: 0px;} # p8901 # c9792 {margin-left: 0px; margin-right: 0px;} # p8901 # m7784 {margin-bottom: 0px;} # p8901 # r2373 {padding-top: 60px;} # p8901 # r4099 {padding-top: 0px;} @media only screen and (max -width: 1199px) {# c5000 {padding-bottom: 0px;} # m3088 {margin-left: auto; margin-right: auto;} # c4354 {padding-left: 0px; padding top: 12px; padding-bottom: 0px;} # m5000 {text-align: left;} # m5000> ul> li> ul li a {padding-left: 10px; padding-right: 10px;} # m5000> ul> li> ul a {font-size: 16px;} # m5000> ul li> a {font-size: 20px;} # c3493 {padding-top: 10px; padding-bottom: 10px;} # m4662 {float: right; margin-left: 15px; margin-bottom: 0px;} # m3234 {float: right; margin-bottom: 0px; margin-left: auto;} # c4198 {padding-bottom: 5px;} # c3492 {padding-bottom: 5px;} # c4649 {padding-bottom: 5px;} # r5002 {margin-bottom: 0px; margin-top: 0px;} # r1074 {padding-top: 20px; padding-bottom: 20px;} # c3869 {padding-bottom: 0px;} # c3786 {padding-bottom: 0px;} # c4267 {padding-bottom: 0px;} # p8901 # r2802 {padding-left: 0px; padding top: 430px; padding-bottom: 80px;}} @media only screen and (max-width: 767px) {# r5000 {padding-top: 5px; padding-bottom: 5px; padding-right: 15px;} # c5000 {padding-right: 0px; padding-left: 0px;} # c4354 {padding-top: 8px; padding-right: 5px; margin-bottom: 0px;} # m5000 {text-align: right; float: right; padding-bottom: 45px;} # m5000: before {color: rgb (0, 129, 67); font-size: 30px;} # m5000.opened-menu> ul {background-color: rgb (0, 129, 67);} # c3493 {padding-left: 0px; padding top: 2px; padding-bottom: 2px;} # m4662 {float: left;} # m4208 {float: left; margin-bottom: 0px; border-color: rgb (255, 255, 255);} # m3234 {margin-left: auto;} # r1074 {padding-bottom: 15px; padding-top: 30px;} # r1074> .container {} # m1028 {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;} # p8901 # r2802 {padding-top: 125px; padding-bottom: 135px; margin-left: 0px; margin-top: 250px; margin-right: 0px;} # p8901 # c3725 {padding-left: 15px; padding top: 15px; padding-bottom: 15px; padding-right: 15px;} # p8901 # c9792 {padding-bottom: 0px;}}
+  </style>
+  <link href = "https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/css/external-libs.css?1604394807174" rel = "stylesheet" />
+  <! - [if lt IE 9]> <script src = "https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/js/html5shiv.js"> </script> <script src = "https: // site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/js/respond.js "> </script> <! [endif] ->
+  <script>
+   if ('serviceWorker' in navigator) {navigator.serviceWorker.getRegistrations (). then (function (registrations) {for (registration in registrations) {registration.unregister ();}}); }
+  </script>
+  <link crossorigin = "" href = "https://site-assets.cdnmns.com/" rel = "preconnect" />
+  <link crossorigin = "" href = "// fonts.gstatic.com/" rel = "preconnect" />
+  <link crossorigin = "" href = "// fonts.googleapis.com/" rel = "preconnect" />
+  <style id = "globalCSS">
+   # m4387 {box-shadow: 0 0 5px # 000; }
+  </style>
+  <meta content = "This website was created by SELLWERK - a new brand of your SachsenVerlag, Seidnitzer Weg 5, DE-01237 Dresden, www.sellwerk.de" name = "author">
+   <script>
+    window.ASSETSURL = 'https: //site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305';
+   </script>
+  </meta>
+ </head>
+ <body data-dateformat = "d / m / Y" id = "p8901">
+  <div class = "row designRow" id = "r5001">
+   <div class = "container container-fluid">
+    <div class = "col col-sm-12">
+     <header data-underheaderrow = "">
+      <div class = "row" id = "r5000">
+       <div class = "container container-fluid colsStack">
+        <div class = "col col-sm-10 col-lg-3 col-md-12" id = "c5000">
+         <a aria-label="" class="imageModuleWrap" data-track-action="internal_link_clicked" data-track-event="click" href="/" id="w_m3088" title="">
+          <img alt = "Humuswirtschaft Kaditz GmbH" class = "module image" data-req = "" data-settings = "enablehover = false, showelement = none, hovertransition = slowFadeIn" id = "m3088" src = "/ uploads / wmXVAiE2 /614x0_1154x0/Logo.png "/>
+         </a>
+        </div>
+        <div class = "col col-sm-2 col-md-9 col-lg-6 flexCol" id = "c4354">
+         <div class = "module autospacer">
+         </div>
+         <div class = "flexWrap">
+          <nav class = "module nav" data-settings = "vertical = false, direction = left, push = true, activeParent = true, verticalNav-md = false, verticalNav-sm = false" id = "m5000" tabindex = "- 1 ">
+           <ul class = "navContainer">
+            <li class = "">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/">
+              Home
+             </a>
+            </li>
+            <li class = "">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/unternehmen/ueber-uns" rel="nofollow noopener">
+              Companies
+             </a>
+             <ul>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/unternehmen/ueber-uns">
+                About us
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/unternehmen/stellenangebote">
+                Job offers
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/unternehmen/vermietung">
+                Rental
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "active">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen">
+              Services
+             </a>
+             <ul>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/dienstleistungen/entsorgung-containerdienst-dresden">
+                Disposal / container service
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/services/composting">
+                Composting
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/erdensubstrate-transport">
+                Soil / substrate transport
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/dienstleistungen/tiefbau-abbruch">
+                Civil engineering / demolition
+               </a>
+              </li>
+              <li class = "active">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/dienstleistungen/frei-kfz-werkstatt">
+                Free car workshop
+               </a>
+              </li>
+              <li class = "">
+               <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/elektrobau">
+                Electrical engineering
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class = "">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/standorte">
+              Locations
+             </a>
+            </li>
+            <li class = "">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/kontakt">
+              Contact
+             </a>
+            </li>
+            <li class = "hidden-lg hidden-md hidden-sm">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/impressum">
+              imprint
+             </a>
+            </li>
+            <li class = "hidden-lg hidden-md hidden-sm">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/datenschutz">
+              data protection
+             </a>
+            </li>
+            <li class = "hidden-lg hidden-md hidden-sm">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/agb">
+              Conditions
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </div>
+        </div>
+        <div class = "col col-md-12 hidden-md col-sm-2 col-lg-2">
+        </div>
+        <div class = "col col-md-3 col-sm-8 col-lg-1 flexCol" id = "c3493">
+         <div class = "module autospacer">
+         </div>
+         <div class = "flexWrap">
+          <a class="module button button3" data-track-action="internal_link_clicked" data-track-event="click" href="/kontakt" id="m4662" role="button" title="">
+           <i class = "buttonIcon fa fa-envelope">
+           </i>
+           <span class = "buttonLabel labelRight">
+           </span>
+          </a>
+          <a class = "module button button button3 hidden-lg hidden-md" data-global = "phone" data-track-action = "phone_link" data-track-event = "click" href = "tel: 0351839360" id = "m4208" role = "button" title = "">
+           <i class = "buttonIcon fa fa-phone">
+           </i>
+           <span class = "buttonLabel labelRight">
+           </span>
+          </a>
+          <a class="module button button3" data-track-action="internal_link_clicked" data-track-event="click" href="/locations" id="m3234" role="button" title="">
+           <i class = "buttonIcon fa fa-map-o">
+           </i>
+           <span class = "buttonLabel labelRight">
+           </span>
+          </a>
+         </div>
+         <div class = "module autospacer">
+         </div>
+        </div>
+        <div class = "col col-md-12 hidden-md col-lg-1 hidden-lg col-sm-2">
+        </div>
+       </div>
+      </div>
+      <div class = "row" id = "r3990">
+       <div class = "container container-fixed">
+        <div class = "col col-md-4 col-lg-4 col-sm-12" id = "c4198">
+         <div class = "module text" id = "m1166">
+          <p class = "custom10">
+           <a data-track-action="link_clicked" data-track-event="click" href="https://www.humuswirtschaft.de/#aktuelles">
+            <span class = "iconfont">
+             
+            </span>
+            Current
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class = "col col-md-4 col-lg-4 col-sm-12" id = "c3492">
+         <div class = "module text" id = "m3104">
+          <p class = "custom10">
+           <a data-track-action="link_clicked" data-track-event="click" href="https://www.humuswirtschaft.de/dienstleistungen/entsorgung-containerdienst-dresden#containerbestellung">
+            <span class = "iconfont">
+             
+            </span>
+            Request container
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class = "col col-md-4 col-lg-4 col-sm-12" id = "c4649">
+         <div class = "module text" id = "m4224">
+          <p class = "custom10">
+           <a data-track-action="link_clicked" data-track-event="click" href="https://www.humuswirtschaft.de/leistungen/erdensubstrate-transport#schuttgut">
+            <span class = "iconfont">
+             
+            </span>
+            Request bulk goods
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </header>
+     <div class = "row designRow" id = "r5002">
+      <div class = "container container-fluid">
+       <div class = "col col-sm-12">
+        <div class = "row" id = "r2802">
+         <div class = "container container-fluid">
+          <div class = "col col-sm-12" id = "c3725">
+           <div class = "module text" id = "m2610">
+            <p class = "spottext">
+             opening hours
+            </p>
+            <p class = "preamble">
+             Mon-Fri 6.30 a.m. - 6 p.m., Sat. 6.30 a.m. - 12 p.m. |
+             <span class = "iconfont">
+              
+             </span>
+             0351 8393650 |
+             <span class = "redactor-invisible-space">
+              <span class = "iconfont">
+               
+              </span>
+              0351 8393659
+             </span>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "row" id = "r1625">
+         <div class = "container container-fixed">
+          <div class = "col col-sm-12">
+           <div class = "module text">
+            <h1 class = "headline">
+             Your master company for commercial vehicles, construction machinery, agricultural and forestry technology as well as cars
+            </h1>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "row" id = "r3312">
+         <div class = "container container-fixed">
+          <div class = "col col-sm-12 flexCol" id = "c9792">
+           <div class = "flexWrap">
+            <div class = "module text" id = "m7784">
+             <p class = "bodytext" style = "text-align: justify;">
+              As a master vehicle workshop, the Humuswirtschaft workshop carries out all kinds of maintenance and repair work for commercial vehicles, agricultural and municipal technology, construction machinery and cars. In addition, we offer the implementation of all mandatory, statutory inspections.
+             </p>
+            </div>
+           </div>
+           <div class = "module autospacer">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "row" id = "r2373">
+         <div class = "container container-fixed">
+          <div class = "col col-sm-12">
+           <div class = "module accordion" data-req = "accordion" id = "m3052" role = "presentation">
+            <ul>
+             <li class = "active">
+              <p class = "subtitle itemTitle" id = "our-services">
+               <i class = "itemIcon fa fa-" role = "link">
+               </i>
+               <span>
+                Our services
+               </span>
+               <i class = "fa itemClose" role = "link" tabindex = "0">
+               </i>
+              </p>
+              <div class = "itemContent" role = "region">
+               <div class = "bodytext">
+                <ul>
+                 <li>
+                  Maintenance and repair work for commercial vehicles, agricultural / communal technology, shredding u. Screening machines, construction machines, vans and cars
+                 </li>
+                 <li>
+                  Checking the vehicle electronics with modern diagnostic systems
+                 </li>
+                 <li>
+                  Wheel alignment with laser axis measurement system
+                 </li>
+                 <li>
+                  Air conditioning service
+                 </li>
+                 <li>
+                  Accident repairs
+                 </li>
+                 <li>
+                  Complete tire service for commercial vehicles and passenger cars including tire storage, sale of new tires and disposal of old tires
+                 </li>
+                 <li>
+                  Implementation of all recurring statutory inspections such as general inspection, safety inspection, emissions inspection, tachograph inspection and UVV
+                 </li>
+                 <li>
+                  Vehicle conversions such as Towing devices, container bodies, ...
+                 </li>
+                 <li>
+                  Repair of deposit and roll-off containers as well as self-pressing containers
+                 </li>
+                 <li>
+                  Service partner for JENZ and BayWa
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class = "row" id = "r4099">
+         <div class = "container container-fixed">
+          <div class = "col col-sm-12">
+           <div class = "module text">
+            <p class = "bodytext">
+             Our workshop is open Monday to Friday from 6:30 a.m. to 6:00 p.m. On Saturday we are open for you from 6:30 a.m. to 12:00 p.m. You can contact the workshop by phone 0351 8393650 or fax 0351 8393659 to make an appointment or for other inquiries.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <footer>
+      <div class = "row" id = "r2223">
+       <div class = "container container-fixed">
+        <div class = "col col-sm-12 col-md-12" id = "c5144">
+         <div class = "module text" id = "m3143">
+          <p class = "bodytext">
+           <span style = "color: #ffffff;">
+            Humuswirtschaft Kaditz GmbH is your strong partner for
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/dienstleistungen/tiefbau-abbruch" style="color: #ffffff;">
+             <span style = "color: #ffffff; font-weight: bold;">
+              Demolition and civil engineering
+             </span>
+            </a>
+            <span style = "color: #ffffff; font-weight: bold;">
+             ,
+            </span>
+            <span style = "font-weight: bold;">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/entsorgung-containerdienst-dresden" style="color: #ffffff;">
+              Disposal and container service
+             </a>
+            </span>
+            ,
+            <span style = "font-weight: bold;">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/services/composting" style="color: #ffffff;">
+              Composting
+             </a>
+            </span>
+            ,
+            <span style = "font-weight: bold;">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/services/erdensubstrate-transport" style="color: #ffffff;">
+              Delivery of bulk goods
+             </a>
+            </span>
+            , Production of
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/erdensubstrate-transport">
+             <span style = "color: #ffffff;">
+              <span style = "font-weight: bold;">
+               Soils and substrates
+              </span>
+             </span>
+            </a>
+            . Unser Leistungsportfolio rundet eine
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/freie-kfz-werkstatt">
+             <span style="font-weight: bold; color: #ffffff;">
+              Freie KFZ-Werkstatt
+             </span>
+            </a>
+            mit Wartungs- und Reparaturarbeiten aller Art und eine Abteilung für
+            <span style="font-weight: bold;">
+             <a data-track-action="internal_link_clicked" data-track-event="click" href="/leistungen/elektrobau" style="color: #ffffff;">
+              Elektrobau
+             </a>
+            </span>
+            ab.
+           </span>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="row" id="r1074">
+       <div class="container container-fixed">
+        <div class="col col-md-3 col-sm-12 col-lg-3 flexCol" id="c3869">
+         <div class="module autospacer">
+         </div>
+         <div class="flexWrap">
+          <div class="module text" id="m1028">
+           <p class="footertext">
+            Humuswirtschaft Kaditz GmbH
+           </p>
+           <p class="footertext">
+            Spitzhausstraße 40
+           </p>
+           <p class="footertext">
+            01139 Dresden
+           </p>
+          </div>
+         </div>
+         <div class="module autospacer">
+         </div>
+        </div>
+        <div class="col col-sm-12 col-md-4 col-lg-4 flexCol" id="c3786">
+         <div class="module autospacer">
+         </div>
+         <div class="flexWrap">
+          <div class="module text" id="m3183">
+           <p class="footertext">
+            Phone:
+            <a data-global="phone" data-track-action="phone_link" data-track-event="click" href="tel:0351839360">
+             <span class="monoglobalWrap">
+              0351 839360
+             </span>
+            </a>
+           </p>
+           <p class="footertext">
+            Telefax: 0351 8393618
+           </p>
+           <p class="footertext">
+            E-mail:
+            <a data-track-action="email_link" data-track-event="click" href="mailto:info@humuswirtschaft.de">
+             <span class="monoglobalWrap">
+              info@humuswirtschaft.de
+             </span>
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="module autospacer">
+         </div>
+        </div>
+        <div class="col col-sm-12 col-md-2 col-lg-3 flexCol" id="c4267">
+         <div class="module autospacer">
+         </div>
+         <div class="flexWrap">
+          <div class="module text" id="m3996">
+           <p class="footertext">
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/kontakt">
+             Contact
+            </a>
+           </p>
+           <p class="footertext">
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/impressum">
+             imprint
+            </a>
+           </p>
+           <p class="footertext">
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/datenschutz">
+             data protection
+            </a>
+           </p>
+           <p class="footertext">
+            <a data-track-action="internal_link_clicked" data-track-event="click" href="/agb">
+             Conditions
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="module autospacer">
+         </div>
+        </div>
+        <div class="col col-md-3 col-lg-2 col-sm-8">
+         <div class="module text" id="m4735">
+          <p class="footertext">
+           Unsere Zertifikate
+          </p>
+         </div>
+         <div class="module imagelist" data-after-text="Nachher" data-before-text="Vorher" data-req="gallery" data-settings="imagecols=2,imagecols-md=2,imagecols-sm=2,arrows=true,margin-md=2,margin-sm=6,dontcrop=true,imagenr=2,margin=4,interval=5000" id="m2962">
+          <div class="slides">
+           <div class="slide">
+            <ul class="pics clear">
+             <li>
+              <a data-track-action="internal_link_clicked" data-track-event="click" download="" href="/uploads/8uE76JDK/Humuswirtschaft-Kaditz-Guetezeichen-Kompost.pdf" rel="noopener" target="_blank" title="Gütezeichen Kompost">
+               <span class="thumb">
+                <img alt="Gütezeichen Kompost" src="/uploads/2ut92LTu/231x0_124x0/RALGtezeichenKompost.png"/>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a data-track-action="internal_link_clicked" data-track-event="click" download="" href="/uploads/RTH1BPer/ZertifikatEntsorgerfachbetriebHWK2020-2021.pdf" rel="noopener" target="_blank" title="Zertifikat Entsorgungsfachbetrieb">
+               <span class="thumb">
+                <img alt="Zertifikat Entsorgungsfachbetrieb" src="/uploads/OVQ4JYXo/231x0_124x0/EfbV_farbe_single.png"/>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </footer>
+    </div>
+   </div>
+  </div>
+  <a class="scrollIcon hidden bottom_right" data-req="scrollTop" data-track-action="internal_link_clicked" data-track-event="click" href="#">
+   <span>
+   </span>
+  </a>
+  <script async="" defer="" src="https://site-assets.cdnmns.com/c8c5d261fbad1bdf153555ed14242305/js/loader.js?1604394807174">
+  </script>
+  <script type = "application / ld + json">
+   {"@context":"http://schema.org","@type":"LocalBusiness","@id":"https://www.humuswirtschaft.de/#global_business","name":"Humuswirtschaft Kaditz GmbH","address":{"@type":"PostalAddress","streetAddress":"Spitzhausstra\u00dfe 40","addressLocality":"Dresden","addressRegion":"Sachsen","postalCode":"01139","addressCountry":"DE"},"email":"info@humuswirtschaft.de","faxNumber":"0351 8393618","telephone":"0351 839360","url":"https://www.humuswirtschaft.de","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Monday","opens":"07:00","closes":"16:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Tuesday","opens":"07:00","closes":"16:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Wednesday","opens":"07:00","closes":"16:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Thursday","opens":"07:00","closes":"16:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"http://schema.org/Friday","opens":"07:00","closes":"16:00"}]}
+  </script>
+  <script data-req="cookie">
+   _monoCookie = {"topbar":{"type":"optIn","position":"bottom","texts":{"headline":"Wir respektieren Ihre Privatsph\u00e4re","description":"Auf unserer Seite kommen Cookies von uns und Drittanbietern zum Einsatz. Dazu z\u00e4hlen Cookies, die zur optimalen Ausgestaltung der Website, zu Tracking- und Statistikzwecken oder f\u00fcr Werbung genutzt werden. Weitergehende Informationen erhalten Sie in unserer Datenschutzerkl\u00e4rung. F\u00fcr alle Cookies, die nicht zum Betrieb der Seite essentiell notwendig sind, ben\u00f6tigen wir Ihre Einwilligung. Details zu diesen Cookies finden Sie unter \u201eMehr Details\u201c. Mit Anhaken von \u201eDrittanbieter Cookies\u201c und \u201eAuswahl speichern\u201c, geben Sie uns die erforderliche Einwilligung, um diese Cookies nutzen zu k\u00f6nnen. Bitte beachten Sie, dass bei Einwilligung in die Verwendung von Cookies von Drittanbietern auch Cookies von Google Analytics geschrieben und somit Daten auch von Google LLC verarbeitet werden. Diese Daten werden von Google zu verschiedenen Zwecken wie zum Beispiel der der Profilbildung in den USA verarbeitet, sodass auch staatliche Beh\u00f6rden Zugriff auf diese Daten haben.","acceptBtnText":"Cookies freigeben","acceptSelectedBtnText":"Auswahl speichern","agreeBtnText":"OK","checkbox-necessary":"Notwendig","checkbox-thirdparty":"Cookies von Drittanbietern","general-cookies":"Cookies","withdraw-headline-1":"Zustimmungs-ID","withdraw-description-1":"Wir speichern eine Zustimmungs-ID, um die Einwilligung der Besucher zu dokumentieren und nachverfolgen zu k\u00f6nnen. Diese ID ist zuf\u00e4llig und vollst\u00e4ndig anonymisiert. Falls Sie f\u00fcr diese Webseite einen Nachweis Ihrer Zustimmung anfordern m\u00f6chten, geben Sie bitte die Zustimmungs-ID an. Bitte beachten Sie, dass wenn Sie Cookies in Ihrem Browser l\u00f6schen, diese ID ebenfalls gel\u00f6scht wird und wir Ihre eindeutige Zustimmung nicht mehr nachvollziehen k\u00f6nnen.","withdraw-uuid-1":"Ihre Zustimmungs-ID:","withdraw-headline-2":"R\u00fccknahme der Zustimmung","withdraw-description-2":"Durch Klicken des Buttons auf diesem Banner widerrufen Sie Ihre Zustimmung, die Sie zuvor zum Laden von Cookies auf dieser Webseite gegeben haben. Wenn Sie die Webseite das n\u00e4chste Mal besuchen, wird der Cookie-Benachrichtigungsbanner erneut angezeigt und Sie k\u00f6nnen Ihre Cookie-Einstellungen ausw\u00e4hlen.","withdraw-consent-button":"Cookie-Zustimmung widerrufen"},"privacyLink":"<a href=\"\/datenschutz\" target=\"_blank\">Mehr Details<\/a>"},"enableOptOut":"true","consent":{"authorization":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNlbGxlck5hbWUiOiJhZHZhbnRhZ28iLCJzaXRlSWQiOiIxMTMzNzA3In0.SVqygcsqjwRUvj4tHoyrexSdzkj4rr_2KvXXGv99Boo","url":"https:\/\/r71mn9p6ie.execute-api.eu-central-1.amazonaws.com\/prod\/"}};
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','_mga'); _mga('create', 'UA-60605173-22', 'auto'); _mga('set', 'anonymizeIp', true); _mga('set', 'dimension1', '1133707'); _mga('set', 'dimension2', 'website'); _mga('send', 'pageview'); var _mtr = _mtr || []; _mga(function() { _mtr.push(['addTracker', function (action) { _mga('send', 'event', 'monoAction', action); }]); _mtr.push(['addRawTracker', function() { _mga.apply(_mga,arguments); }]); });
+  </script>
+  <script data-allow="necessary">
+   var cb=function(){var l=document.createElement('link'); l.rel='stylesheet'; var h=document.getElementById('style_site'); h.parentNode.insertBefore(l, h); l.href='/assets/user-style.css?1604299427';};var raf=window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;if (typeof raf !=='undefined'){raf(cb);}else{if(window.addEventListener){window.addEventListener('load', cb);}else{window.attachEvent('onload', cb);}}
+  </script>
+ </body>
+</html>

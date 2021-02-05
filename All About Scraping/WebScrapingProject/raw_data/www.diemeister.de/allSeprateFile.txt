@@ -1,0 +1,52 @@
+<head>
+ <style type = "text / css">
+  .auto-style1 {
+text-align: center;
+}
+ </style>
+</head>
+<body>
+ <p class = "auto-style1">
+  <span lang = "de">
+   This page is under construction
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   We therefore ask for your understanding
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   KFZ Betrieb Die Meister
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   Löbtauer Strasse 54 - 01159 Dresden
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   Phone: 0351-4824588
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   Fax: 0351-4824599
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   E-mail:
+   <a href="mailto:info@diemeister.de">
+    info@diemeister.de
+   </a>
+  </span>
+ </p>
+ <p class = "auto-style1">
+  <span lang = "de">
+   Managing Director: Michael Schulz e.K.
+  </span>
+ </p>
+</body>

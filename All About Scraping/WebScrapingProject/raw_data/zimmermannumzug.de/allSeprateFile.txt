@@ -1,0 +1,1309 @@
+<! DOCTYPE html>
+<html dir = "ltr" lang = "de-de">
+ <head>
+  <meta charset = "utf-8" />
+  <! - This website is powered by TYPO3 - inspiring people to share! TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU / GPL. TYPO3 is copyright 1998-2020 by Kasper Skaarhoj. Extensions are copyright of their respective owners. Information and contribution at https://typo3.org/ ->
+  <title>
+   Moving company Zimmermann GmbH Dresden
+  </title>
+  <meta content = "TYPO3 CMS" name = "generator">
+   <meta content = "Relocation stressful and expensive? It doesn't have to be, with our all-round service - transport, assembly, storage, clearing and much more." name = "description" />
+   <meta content = "website" property = "og: type" />
+   <meta content = "summary" name = "twitter: card" />
+   <link href = "/ typo3temp / assets / compressed / merged-514ec8f91fcbc65aa40c9e2719e563f0-min.css? 1603462450" media = "all" rel = "stylesheet" type = "text / css" />
+   <script src = "/ typo3temp / assets / compressed / merged-6367f6b3c41d0e790f26e402c68ea6b4-min.js? 1603462449" type = "text / javascript">
+   </script>
+   <script type = "text / javascript">
+    / * <! [CDATA [* / / * _ scriptCode * / function decryptCharcode (n, start, end, offset) {n = n + offset; if (offset> 0 && n> end) {n = start + (n-end-1 )} else if (offset <0 && n <start) {n = end- (start-n-1)} return String.fromCharCode (n)} function decryptString (enc, offset) {var dec = ""; var len = enc .length; for (var i = 0; i <len; i ++) {var n = enc.charCodeAt (i); if (n> = 0x2B && n <= 0x3A) {dec + = decryptCharcode (n, 0x2B, 0x3A, offset) } else if (n> = 0x40 && n <= 0x5A) {dec + = decryptCharcode (n, 0x40,0x5A, offset)} else if (n> = 0x61 && n <= 0x7A) {dec + = decryptCharcode (n, 0x61,0x7A, offset) } else {dec + = enc.charAt (i)}} return dec} function linkTo_UnCryptMailto (s) {location.href = decryptString (s, -2)}; / *]]> * /
+   </script>
+   <meta content = "width = device-width, initial-scale = 1, shrink-to-fit = no" name = "viewport" />
+   <meta content = "telephone = no" name = "format-detection" />
+   <link href = "/ fileadmin / admin / img / favicon / apple-touch-icon.png" rel = "apple-touch-icon" sizes = "180x180" />
+   <link href = "/ fileadmin / admin / img / favicon / favicon-32x32.png" rel = "icon" sizes = "32x32" type = "image / png" />
+   <link href = "/ fileadmin / admin / img / favicon / favicon-16x16.png" rel = "icon" sizes = "16x16" type = "image / png" />
+   <link color = "# e9600f" href = "/ fileadmin / admin / img / favicon / safari-pinned-tab.svg" rel = "mask-icon" />
+   <link href = "/ fileadmin / admin / img / favicon / favicon.ico" rel = "shortcut icon" />
+   <meta content = "# ffffff" name = "msapplication-TileColor" />
+   <meta content = "/ fileadmin / admin / img / favicon / browserconfig.xml" name = "msapplication-config" />
+   <meta content = "# ffffff" name = "theme-color" />
+   <meta content = "2020-10-23T13: 26: 14 + 00: 00" name = "last-modified">
+    <link href = "https://www.zimmermannumzug.de/index.html" rel = "canonical" />
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class = "startsite" id = "mainsite">
+   <div id = "wrap">
+    <div id = "main">
+     <header class = "normal d-print-none" id = "header">
+      <div class = "container">
+       <div class = "d-none d-md-block">
+        <div class = "row">
+         <div class = "col-4 col-md-4 col-lg-3">
+          <div class = "logo">
+           <a href = "https://www.zimmermannumzug.de/" onfocus = "blur (this);" target = "_ top">
+            <img alt = "Homepage" class = "img-responsive" height = "102" src = "/ fileadmin / admin / img / logo.svg" title = "Call up the homepage of the website" width = "600" />
+           </a>
+          </div>
+          <div class = "image">
+           <div class = "frame frame-default frame-type-image frame-layout-0" id = "c9">
+            <div class = "ce-image ce-center ce-above">
+             <div class = "ce-gallery" data-ce-columns = "1" data-ce-images = "1">
+              <div class = "ce-outer">
+               <div class = "ce-inner">
+                <div class = "ce-row">
+                 <div class = "ce-column">
+                  <figure class = "image">
+                   <img alt = "" class = "image-embed-item" height = "390" sizes = "(min-width: 493px) 493px, 100vw" src = "/ fileadmin / admin / img / truck_logo.png" srcset = "/fileadmin/_processed_/f/7/csm_truck_logo_e1afa6bbac.png 400w, /fileadmin/_processed_/f/7/csm_truck_logo_e7f1629fc1.png 600w, /fileadmin/_processed_/f/7/csm_truck_logo / f / _eadmin /_processed_ / f / 7 / csm_truck_logdo / 800 7 / csm_truck_logo_c1b58e3224.png 1000w, /fileadmin/_processed_/f/7/csm_truck_logo_1a0edda020.png 1200w, /fileadmin/admin/img/truck_logo.png 493w "width =" 493 "/>
+                  </figure>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "d-none d-lg-block col-lg-1">
+         </div>
+         <div class = "mainnav col-8 col-md-8 col-lg-8">
+          <nav class = "navbar-expand-lg" id = "navbar">
+           <ul class = "nav nav-pills nav-fill">
+            <li class = "first nav-item navi_30" data-src = "30">
+             <a href="/home.html">
+              <span class = "bg">
+               Home
+              </span>
+             </a>
+            </li>
+            <li class = "dopdown navi_3 nav-item">
+             <a href="/umzuege.html">
+              <span class = "bg">
+               Removals
+              </span>
+             </a>
+             <ul class = "sub">
+              <li class = "subcontainer">
+               <ul class = "row">
+                <li class = "nav_box">
+                 <span>
+                  <a href="/umzuege/privatumzuege.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Private removals
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/mzuege/seniorenumzuege.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Senior removals
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/umzuege/firmenumzuege.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Company moves
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li class = "dopdown navi_4 nav-item">
+             <a href="/montagen.html">
+              <span class = "bg">
+               Assemblies
+              </span>
+             </a>
+             <ul class = "sub">
+              <li class = "subcontainer">
+               <ul class = "row">
+                <li class = "nav_box">
+                 <span>
+                  <a href="/montagen/kuechenmontagen.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Kitchen assemblies
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/montagen/moebelmontagen.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Furniture assemblies
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li class = "dopdown navi_5 nav-item">
+             <a href="/service.html">
+              <span class = "bg">
+               service
+              </span>
+             </a>
+             <ul class = "sub">
+              <li class = "subcontainer">
+               <ul class = "row">
+                <li class = "nav_box">
+                 <span>
+                  <a href="/service/einlagerungsservice.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Storage service
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/service/absperrservice.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Barrier service
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/service/transportservice.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Transport service
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/service/ein-/auspackservice.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Packing / unpacking service
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+                <li class = "nav_box">
+                 <span>
+                  <a href="/service/beraeumungsservice.html">
+                   <span class = "text">
+                    <span class = "title">
+                     Clearance service
+                    </span>
+                    <span class = "subtitle">
+                    </span>
+                   </span>
+                  </a>
+                 </span>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </li>
+            <li class = "last nav-item navi_6" data-src = "6">
+             <a href="/kontakt.html">
+              <span class = "bg">
+               Contact
+              </span>
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </div>
+        </div>
+       </div>
+       <div class = "d-md-none">
+        <div class = "row">
+         <div class = "col-5">
+          <div class = "logo mobile">
+           <a href = "https://www.zimmermannumzug.de/" onfocus = "blur (this);" target = "_ top">
+            <img alt = "Homepage" class = "img-responsive" height = "102" src = "/ fileadmin / admin / img / logo.svg" title = "Call up the homepage of the website" width = "600" />
+           </a>
+          </div>
+          <div class = "image">
+           <div class = "frame frame-default frame-type-image frame-layout-0" id = "c9">
+            <div class = "ce-image ce-center ce-above">
+             <div class = "ce-gallery" data-ce-columns = "1" data-ce-images = "1">
+              <div class = "ce-outer">
+               <div class = "ce-inner">
+                <div class = "ce-row">
+                 <div class = "ce-column">
+                  <figure class = "image">
+                   <img alt = "" class = "image-embed-item" height = "390" sizes = "(min-width: 493px) 493px, 100vw" src = "/ fileadmin / admin / img / truck_logo.png" srcset = "/fileadmin/_processed_/f/7/csm_truck_logo_e1afa6bbac.png 400w, /fileadmin/_processed_/f/7/csm_truck_logo_e7f1629fc1.png 600w, /fileadmin/_processed_/f/7/csm_truck_logo / 800 / f / 7 / csm_truck_logo / 800 7 / csm_truck_logo_c1b58e3224.png 1000w, /fileadmin/_processed_/f/7/csm_truck_logo_1a0edda020.png 1200w, /fileadmin/admin/img/truck_logo.png 493w "width =" 493 "/>
+                  </figure>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class = "col-7">
+          <div class = "mburgermain">
+           <div class = "mburgerbutton">
+            <a class="mburger mburger--collapse" href="#menu">
+             <b>
+              -
+             </b>
+             <b>
+              -
+             </b>
+             <b>
+              ---
+             </b>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <nav id = "menu">
+         <ul class = "nav navbar">
+          <li class = "first navi_30" data-src = "30">
+           <a href="/home.html">
+            Home
+           </a>
+          </li>
+          <li class = "navi_3" data-src = "3">
+           <a href="/umzuege.html">
+            Removals
+           </a>
+           <ul class = "sub">
+            <li class = "first2 navi_24">
+             <a href="/umzuege/privatumzuege.html">
+              Private removals
+             </a>
+            </li>
+            <li class = "navi_11">
+             <a href="/mzuege/seniorenumzuege.html">
+              Senior removals
+             </a>
+            </li>
+            <li class = "last navi_25">
+             <a href="/umzuege/firmenumzuege.html">
+              Company moves
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "navi_4" data-src = "4">
+           <a href="/montagen.html">
+            Assemblies
+           </a>
+           <ul class = "sub">
+            <li class = "first2 navi_12">
+             <a href="/montagen/kuechenmontagen.html">
+              Kitchen assemblies
+             </a>
+            </li>
+            <li class = "last navi_13">
+             <a href="/montagen/moebelmontagen.html">
+              Furniture assemblies
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "navi_5" data-src = "5">
+           <a href="/service.html">
+            service
+           </a>
+           <ul class = "sub">
+            <li class = "first2 navi_10">
+             <a href="/service/einlagerungsservice.html">
+              Storage service
+             </a>
+            </li>
+            <li class = "navi_20">
+             <a href="/service/absperrservice.html">
+              Barrier service
+             </a>
+            </li>
+            <li class = "navi_27">
+             <a href="/service/transportservice.html">
+              Transport service
+             </a>
+            </li>
+            <li class = "navi_26">
+             <a href="/service/ein-/auspackservice.html">
+              Packing / unpacking service
+             </a>
+            </li>
+            <li class = "last navi_21">
+             <a href="/service/beraeumungsservice.html">
+              Clearance service
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class = "last navi_6" data-src = "6">
+           <a href="/kontakt.html">
+            Contact
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </header>
+     <div class = "d-print-none" id = "maintrailer">
+      <div class = "trailer">
+       <div class = "frame frame-default frame-type-image frame-layout-0" id = "c10">
+        <div class = "ce-image ce-center ce-above">
+         <div class = "ce-gallery" data-ce-columns = "1" data-ce-images = "1">
+          <div class = "ce-outer">
+           <div class = "ce-inner">
+            <div class = "ce-row">
+             <div class = "ce-column">
+              <figure class = "image">
+               <img alt = "" class = "image-embed-item" height = "698" sizes = "(min-width: 2000px) 2000px, 100vw" src = "/ fileadmin / user_upload / images / trailer / home.jpg" srcset = "/ fileadmin / _processed_ / d / 0 / csm_home_29c78a8e5c.jpg 400w, /fileadmin/_processed_/d/0/csm_home_2f03f6872c.jpg 600w, /fileadmin/_processed_/d/0/csm_home, /_b97c0975 / _d8. d / 0 / csm_home_01712f4b26.jpg 1000w, /fileadmin/_processed_/d/0/csm_home_57288caf56.jpg 1200w, /fileadmin/user_upload/images/trailer/home.jpg 2000w "width =" 2000 "/>
+              </figure>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <section id = "maincontent">
+      <div class = "container">
+       <div class = "row">
+        <div class = "col-12">
+         <div class = "content wow fadeIn" data-wow-duration = "1s">
+          <div class = "frame frame-default frame-type-header frame-layout-0" id = "c11">
+           <header>
+            <h1 class = "ce-headline-center">
+             Your move in Dresden - on schedule and uncomplicated
+            </h1>
+           </header>
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c124">
+             <p>
+              Almost everyone of us has already taken part in one or the other move. So everyone knows how much effort and stress it involves.
+             </p>
+             <p>
+              All belongings must
+              <strong>
+               can be safely stowed in moving boxes
+              </strong>
+              … Cupboards, shelves and furniture have to be dismantled in the old apartment and in the new home
+              <strong>
+               be professionally reattached
+              </strong>
+              … One
+              <strong>
+               Moving truck
+              </strong>
+              must be rented ...
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c126">
+             <p>
+              This and much more will come to you when you move. No wonder that your nerves can be on the edge. But that need not be! Next time, just trust
+              <strong>
+               our experienced moving company
+              </strong>
+              . Thanks to our expertise, you can enjoy the good feeling that everything is going well
+              <strong>
+               You don't have to worry about anything else
+              </strong>
+              .
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-image frame-layout-0" id = "c144">
+           <div class = "ce-image ce-center ce-above">
+            <div class = "ce-gallery" data-ce-columns = "1" data-ce-images = "1">
+             <div class = "ce-outer">
+              <div class = "ce-inner">
+               <div class = "ce-row">
+                <div class = "ce-column">
+                 <figure class = "image">
+                  <img alt = "" class = "image-embed-item" height = "924" sizes = "(min-width: 2000px) 2000px, 100vw" src = "/ fileadmin / _processed_ / c / c / csm_home_278925ceff.jpg" srcset = "/ fileadmin / _processed_ / c / c / csm_home_686f8bd175.jpg 400w, /fileadmin/_processed_/c/c/csm_home_5f403af03a.jpg 600w, /fileadmin/_processed_/c/c/ 800w_home_processed_/c/c/csm_home_94bjapg / filed_94bjapg c / c / csm_home_c0ce34d760.jpg 1000w, /fileadmin/_processed_/c/c/csm_home_924a8cfebd.jpg 1200w, /fileadmin/_processed_/c/c/csm_home_278925ceff.jpg 2000w "width =" 2000 "/>
+                 </figure>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-medium frame-space-after-small" id = "c127">
+           <header>
+            <h2 class = "">
+             All-round service from your moving company in Dresden
+            </h2>
+           </header>
+           <p>
+            Are you or a family member planning to move? How good that in us you have found a competent partner who can give you a
+            <strong>
+             reliable all-round moving service
+            </strong>
+            offers.
+           </p>
+           <p>
+            But how does it actually work?
+           </p>
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-3 col-md-3 col-lg-2 col-xl-2">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c134">
+             <p class = "text-center">
+              <i class = "fa-calendar-alt far">
+              </i>
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-9 col-md-9 col-lg-10 col-xl-10">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c130">
+             <p>
+              <span class = "h3">
+               Step 1 - make an appointment
+              </span>
+             </p>
+             <p>
+              Pick up the phone, call our moving company and arrange one
+              <strong>
+               non-binding viewing appointment
+              </strong>
+              with us!
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-small" id = "c138">
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-3 col-md-3 col-lg-2 col-xl-2">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c135">
+             <p class = "text-center">
+              <i class = "fa-handshake far">
+              </i>
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-9 col-md-9 col-lg-10 col-xl-10">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c136">
+             <p>
+              <span class = "h3">
+               Step 2 - The viewing appointment
+              </span>
+             </p>
+             <p>
+              <strong>
+               Our relocation consultants will visit you on site
+              </strong>
+              to get an accurate picture of the situation. Which removals must be transported? Are there any disposals? How can the loading and unloading point be reached? Is a cordon necessary? Which furniture has to be dismantled / rebuilt or adapted for transport? We will clarify all of these questions with you during our appointment.
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-small" id = "c139">
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-3 col-md-3 col-lg-2 col-xl-2">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c140">
+             <p class = "text-center">
+              <i class = "fa-file-alt far">
+              </i>
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-9 col-md-9 col-lg-10 col-xl-10">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c141">
+             <p>
+              <span class = "h3">
+               Step 3 - The offer
+              </span>
+             </p>
+             <p>
+              After the viewing appointment, we will create a
+              <strong>
+               a free move offer including a list of all services
+              </strong>
+              . Our offer is
+              <strong>
+               transparent and understandable
+              </strong>
+              so you don't have to worry about unpleasant surprises!
+              <br/>
+              In addition, the offer is natural
+              <strong>
+               not binding
+              </strong>
+              : You decide whether it meets your requirements and you give us the order.
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-medium frame-space-after-small" id = "c143">
+           <header>
+            <h3 class = "">
+             Moving made easy - with our moving helpers
+            </h3>
+           </header>
+           <p>
+            Would you like to pack your household items yourself or would you prefer to have them packed? Do you assemble the living room cabinet yourself or should we do it for you? Does any furniture have to be adjusted to fit into the new rooms? All of this is no problem - our moving company in Dresden offers you individual services exactly according to your wishes. We lace you
+            <strong>
+             a moving package tailored to your personal needs
+            </strong>
+            !
+           </p>
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c16">
+             <p>
+              Regardless of whether you move just one floor up, a corner further, to another part of the city or even to another city - the stress is mostly inevitable. So that you can relax and concentrate on looking forward to your new four walls, our moving company takes over all the work for you - down to the smallest detail. If you have any questions or would like a non-binding, free offer, please contact us now. We look forward to working for you soon!
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 box home">
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c17">
+             <p class = "text-center">
+              <i class = "fa-box-open fas">
+              </i>
+             </p>
+            </div>
+            <div class = "frame frame-default frame-type-text frame-layout-2" id = "c18">
+             <p class = "text-center">
+              Request your personal offer with our relocation planner in no time at all
+             </p>
+            </div>
+            <div class = "frame frame-default frame-type-text frame-layout-0" id = "c19">
+             <p class = "text-center">
+              <a class="btn btn-default" href="/umzuege.html">
+               Start
+              </a>
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class = "frame frame-default frame-type-div frame-layout-0 frame-space-before-medium" id = "c117">
+           <hr class = "ce-div" />
+          </div>
+          <div class = "row">
+           <div class = "col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+            <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-medium" id = "c116">
+             <header>
+              <h2 class = "ce-headline-center">
+               recent job offers
+              </h2>
+             </header>
+             <p class = "text-center">
+              <a class="btn btn-default" href="/jobs.html">
+               Watch now
+              </a>
+             </p>
+            </div>
+           </div>
+           <div class = "col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+            <div class = "frame frame-default frame-type-text frame-layout-0 frame-space-before-medium" id = "c240">
+             <header>
+              <h2 class = "ce-headline-center">
+               Our team introduces itself
+              </h2>
+             </header>
+             <p class = "text-center">
+              <a class="btn btn-default" href="/our-team.html">
+               Watch now
+              </a>
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "mainbottom">
+       <div class = "welle_footer">
+        <img alt = "wellefooter" class = "img-responsive" height = "300" src = "/ fileadmin / admin / img / wellen_neu.svg" width = "2000" />
+       </div>
+       <div class = "content bottom wow fadeIn" data-wow-duration = "1s">
+        <div class = "container">
+         <div class = "row">
+          <div class = "col-auto col-sm-6 col-md-6 col-lg-6 col-xl-6">
+           <div class = "frame frame-default frame-type-image frame-layout-0" id = "c256">
+            <div class = "ce-image ce-center ce-above">
+             <div class = "ce-gallery" data-ce-columns = "1" data-ce-images = "1">
+              <div class = "ce-outer">
+               <div class = "ce-inner">
+                <div class = "ce-row">
+                 <div class = "ce-column">
+                  <figure class = "image">
+                   <img alt = "" class = "image-embed-item" height = "307" src = "/ fileadmin / user_upload / images / Truck_neu.svg" width = "665" />
+                  </figure>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class = "col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+           <div class = "frame frame-default frame-type-text frame-layout-2" id = "c41">
+            <header>
+             <h3 class = "ce-headline-center">
+              Seniors move
+             </h3>
+            </header>
+            <p class = "text-center">
+             We take your worries and fears seriously! We offer professional help in Dresden and the surrounding area.
+            </p>
+            <p class = "text-center">
+             <a class="btn btn-default" href="/umzuege/seniorenumzuege.html">
+              Learn more
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+   </div>
+   <footer class = "d-print-none" id = "footer">
+    <div class = "container">
+     <div class = "row">
+      <div class = "col-12">
+       <div class = "footercontent">
+        <div class = "row">
+         <div class = "col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+          <div class = "frame frame-default frame-type-text frame-layout-0" id = "c4">
+           <p>
+            <strong>
+             Contact
+            </strong>
+           </p>
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0" id = "c3">
+           <p>
+            Zimmermann GmbH
+            <br/>
+            Unkersdorfer Strasse 25
+            <br/>
+            01723 Kesselsdorf
+           </p>
+          </div>
+         </div>
+         <div class = "col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+          <div class = "frame frame-default frame-type-text frame-layout-0" id = "c7">
+          </div>
+          <div class = "frame frame-default frame-type-text frame-layout-0" id = "c8">
+           <p>
+            <span class = "telephone">
+             <a href="tel:03514113071">
+              0351 - 4 11 30 71
+             </a>
+            </span>
+            <br/>
+            <span class = "telephone">
+             035204 79 97 50
+            </span>
+            <br/>
+            <span class = "fax">
+             035204 - 79 97 519
+            </span>
+            <br/>
+            <span class = "email">
+             <a href="javascript:linkTo_UnCryptMailto(%27ocknvq%2CmqpvcmvBbkoogtocppwobwi0fg%27);">
+              contact (at) zimmermannumzug.de
+             </a>
+            </span>
+           </p>
+          </div>
+         </div>
+         <div class = "col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+          <div class = "frame frame-default frame-type-text frame-layout-0" id = "c5">
+           <p>
+            <strong>
+             Legal
+            </strong>
+           </p>
+          </div>
+          <div class = "frame frame-default frame-type-menu_pages frame-layout-0" id = "c6">
+           <ul>
+            <li>
+             <a href="/impressum.html" title="Impressum">
+              <span>
+               imprint
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/datenschutz.html" title="Datenschutz">
+              <span>
+               data protection
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/downloads.html" title="Downloads">
+              <span>
+               Downloads
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/cookie Settings.html" title="Cookie Settings">
+              <span>
+               Cookie settings
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class = "footerbottom">
+      <div class = "row">
+       <div class = "col-12 col-lg-6">
+        <div class = "click path">
+         <span>
+          You are here:
+         </span>
+         <ul class = "nav nav-pills">
+          <li class = "last navi_1" data-src = "1">
+           <a href="/index.html">
+            Home
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class = "col-12 col-lg-6">
+        <div class = "copyright">
+         <div class = "frame frame-default frame-type-text frame-layout-0" id = "c1">
+          <p>
+           © 2020 Zimmermann GmbH
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <div class = "col-12 col-xs-12 col-sm-12 col-md-12" id = "cookiebanner">
+    <div class = "frame frame-default frame-type-list frame-layout-0" id = "c55">
+     <div class = "tx-cok-cookie-consent">
+      <script data-ignore = "1">
+       window.cokcookieconsent = {color: '# e9600f', colorLight: '# f9701f'};
+      </script>
+      <div class = "cookie-set">
+       Cookie settings
+      </div>
+      <div class = "cokcookieconsent">
+       <div class = "cookiemanagement" id = "CookieBox">
+        <div class = "middle-center">
+         <div class = "intro">
+          <div class = "logo-container">
+           <img alt = "Cookiebanner Logo" class = "cookielogo" src = "/ fileadmin / admin / img / logo.svg" />
+          </div>
+          <div class = "cookieclose">
+           <i class = "fas fa-times">
+           </i>
+          </div>
+          <p class = "subheader">
+           We use cookies
+          </p>
+          <p>
+           We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience.
+          </p>
+          <div class = "cookies">
+           <div class = "checkbox disabled">
+            <input checked = "" class = "checked" disabled = "" id = "essential" name = "essential" type = "checkbox" value = "essential" />
+            <label class = "disabled" for = "essential">
+             Essential
+            </label>
+           </div>
+           <div class = "checkbox cookiemain" id = "cookiecat-s">
+            <input id = "statistics" name = "statistics" type = "checkbox" value = "statistics" />
+            <label for = "statistics">
+             statistics
+            </label>
+           </div>
+          </div>
+          <div class = "text_right">
+           <a class="cursor save cookie-save">
+            to save
+           </a>
+           <a class="cookie-btn cursor none accept cookie-accept" data-cookie-accept="">
+            Accept all
+           </a>
+          </div>
+          <hr />
+          <div class = "cookie-legal">
+           <a class="data-cookie-individual">
+            Individual cookie settings
+           </a>
+           <ul>
+            <li>
+             <a class="data-cookie-dataprotection" data-cookie-url="https://www.zimmermannumzug.de/datenschutz.html">
+              Data protection
+             </a>
+            </li>
+            <li>
+             <a class="data-cookie-imprint" data-cookie-url="https://www.zimmermannumzug.de/impressum.html">
+              imprint
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class = "box-cookie-management">
+          <div class = "logo-container">
+           <img alt = "Cookiebanner Logo" class = "cookielogo" src = "/ fileadmin / admin / img / logo.svg" />
+          </div>
+          <div class = "cookieclose">
+           <i class = "fas fa-times">
+           </i>
+          </div>
+          <div class = "box-cookie-management-in">
+           <p class = "subheader">
+            Privacy settings
+           </p>
+           <p>
+            Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and thus only select certain cookies.
+           </p>
+           <div class = "text_right">
+            <a class="cookie-back">
+             Back
+            </a>
+            <a class="cursor save cookie-save">
+             to save
+            </a>
+            <a class="cookie-btn cursor none accept cookie-accept" data-cookie-accept="">
+             Accept all
+            </a>
+           </div>
+           <br/>
+           <div class = "category">
+            <p class = "h3">
+             Essential
+            </p>
+            <p>
+             These cookies enable basic functions and are necessary for the website to function properly.
+            </p>
+            <p class = "info-show cookie-n">
+             <span class = "arrow down">
+              <i class = "fas fa-chevron-down">
+              </i>
+             </span>
+             Display cookie information
+            </p>
+            <p class = "info-hide">
+             <span class = "arrow up">
+              <i class = "fas fa-chevron-up">
+              </i>
+             </span>
+             Hide cookie information
+            </p>
+            <div class = "info-text">
+             <div class = "cookie-info">
+              <table class = "cookie-table">
+               <tbody>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Surname
+                 </td>
+                 <td>
+                  cokuna Cookie Consent
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  providers
+                 </td>
+                 <td>
+                  cokuna communication
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  purpose
+                 </td>
+                 <td>
+                  Storage of cookie preferences.
+                 </td>
+                </tr>
+                <tr class = "cookiename">
+                 <td class = "cookie-cellwidth">
+                  Cookie name
+                 </td>
+                 <td>
+                  cokcookieconsent
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  running time
+                 </td>
+                 <td>
+                  365 days
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+           </div>
+           <div class = "category">
+            <div class = "checkbox cookiecat cookiecat-s">
+             <input id = "statistik1" name = "statistik1" type = "checkbox" value = "statistik1" />
+             <label for = "statistik1">
+             </label>
+            </div>
+            <p class = "h3">
+             statistics
+            </p>
+            <p>
+             Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.
+            </p>
+            <p class = "info-show cookie-s">
+             <span class = "arrow down">
+              <i class = "fas fa-chevron-down">
+              </i>
+             </span>
+             Display cookie information
+            </p>
+            <p class = "info-hide">
+             <span class = "arrow up">
+              <i class = "fas fa-chevron-up">
+              </i>
+             </span>
+             Hide cookie information
+            </p>
+            <div class = "info-text">
+             <div class = "cookie-info">
+              <table class = "cookie-table">
+               <tbody>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Accept
+                 </td>
+                 <td>
+                  <div class = "checkbox cookie2">
+                   <input id = "cookie2" name = "cookie2" type = "checkbox" value = "cookie2" />
+                   <label for = "cookie2">
+                   </label>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Surname
+                 </td>
+                 <td>
+                  Cokuna Analytics Matomo ID
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  providers
+                 </td>
+                 <td>
+                  cokuna communication
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  purpose
+                 </td>
+                 <td>
+                  Alternative to Google Analytics, which only registers page views for statistical purposes. With the ID, some details about the user are saved, such as a unique visitor ID.
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Privacy link
+                 </td>
+                 <td>
+                  https://www.zimmermannumzug.de/datenschutz.html
+                 </td>
+                </tr>
+                <tr class = "cookiename">
+                 <td class = "cookie-cellwidth">
+                  Cookie name
+                 </td>
+                 <td>
+                  _pk_id
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  running time
+                 </td>
+                 <td>
+                  13 months
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Host
+                 </td>
+                 <td>
+                  https://analytics.cokuna.com
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+             <div class = "cookie-info">
+              <table class = "cookie-table">
+               <tbody>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Accept
+                 </td>
+                 <td>
+                  <div class = "checkbox cookie3">
+                   <input id = "cookie3" name = "cookie3" type = "checkbox" value = "cookie3" />
+                   <label for = "cookie3">
+                   </label>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Surname
+                 </td>
+                 <td>
+                  Cokuna Analytics Matomo Session
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  providers
+                 </td>
+                 <td>
+                  cokuna communication
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  purpose
+                 </td>
+                 <td>
+                  Alternative to Google Analytics, which only registers page views for statistical purposes. This cookie temporarily saves data on the website visit.
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Privacy link
+                 </td>
+                 <td>
+                  https://www.zimmermannumzug.de/datenschutz.html
+                 </td>
+                </tr>
+                <tr class = "cookiename">
+                 <td class = "cookie-cellwidth">
+                  Cookie name
+                 </td>
+                 <td>
+                  _pk_ses
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  running time
+                 </td>
+                 <td>
+                  30 minutes
+                 </td>
+                </tr>
+                <tr>
+                 <td class = "cookie-cellwidth">
+                  Host
+                 </td>
+                 <td>
+                  https://analytics.cokuna.com
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+           </div>
+           <hr />
+           <div class = "cookie-legal">
+            <ul>
+             <li>
+              <a class="data-cookie-dataprotection" data-cookie-url="https://www.zimmermannumzug.de/datenschutz.html">
+               Data protection
+              </a>
+             </li>
+             <li>
+              <a class="data-cookie-imprint" data-cookie-url="https://www.zimmermannumzug.de/impressum.html">
+               imprint
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class = "cookie data protection">
+          <div class = "cookiebuttons-top cookiebuttons-dataprotection">
+           <div class = "logo-container">
+            <img alt = "Cookiebanner Logo" class = "cookielogo" src = "/ fileadmin / admin / img / logo.svg" />
+           </div>
+           <div class = "cookieclose">
+            <i class = "fas fa-times">
+            </i>
+           </div>
+           <div class = "text_right">
+            <a class="cookie-back">
+             Back
+            </a>
+            <a class="cursor save cookie-save">
+             to save
+            </a>
+            <a class="cookie-btn cursor none accept cookie-accept" data-cookie-accept="">
+             Accept all
+            </a>
+           </div>
+           <br/>
+          </div>
+          <div class = "cookie-dataprotection-load">
+          </div>
+          <div class = "cookiemodal">
+           <img alt = "Ajax loading icon" src = "/ typo3conf / ext / cok_cookie_consent / Resources / Public / Icons / ajax-loader.gif" />
+          </div>
+          <hr />
+          <div class = "cookie-legal">
+           <a class="data-cookie-individual">
+            Individual cookie settings
+           </a>
+           <ul>
+            <li>
+             <a class="data-cookie-imprint" data-cookie-url="https://www.zimmermannumzug.de/impressum.html">
+              imprint
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class = "cookie-imprint">
+          <div class = "cookiebuttons-top cookiebuttons-imprint">
+           <div class = "logo-container">
+            <img alt = "Cookiebanner Logo" class = "cookielogo" src = "/ fileadmin / admin / img / logo.svg" />
+           </div>
+           <div class = "cookieclose">
+            <i class = "fas fa-times">
+            </i>
+           </div>
+           <div class = "text_right">
+            <a class="cookie-back">
+             Back
+            </a>
+            <a class="cursor save cookie-save">
+             to save
+            </a>
+            <a class="cookie-btn cursor none accept cookie-accept" data-cookie-accept="">
+             Accept all
+            </a>
+           </div>
+           <br/>
+          </div>
+          <div class = "cookie-imprint-load">
+          </div>
+          <div class = "cookiemodal">
+           <img alt = "Ajax loading icon" src = "/ typo3conf / ext / cok_cookie_consent / Resources / Public / Icons / ajax-loader.gif" />
+          </div>
+          <hr />
+          <div class = "cookie-legal">
+           <a class="data-cookie-individual">
+            Individual cookie settings
+           </a>
+           <ul>
+            <li>
+             <a class="data-cookie-dataprotection" data-cookie-url="https://www.zimmermannumzug.de/datenschutz.html">
+              Data protection
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class = "frame frame-default frame-type-list frame-layout-0" id = "c270">
+     <div class = "tx-cok-cookie-consent">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "scrollToTop d-print-none">
+   <a aria-label="to top" href="#">
+    <i class = "fal fa-angle-up">
+    </i>
+   </a>
+  </div>
+  <script async = "async" src = "/ typo3temp / assets / compressed / merged-633e91fc6cf5a2736e42a187d88e5739-min.js? 1603462449">
+  </script>
+  <script src = "/ typo3temp / assets / compressed / merged-54e88061ca09bdcb12062c4955d6fbac-min.js? 1603719949">
+  </script>
+ </body>
+</html>

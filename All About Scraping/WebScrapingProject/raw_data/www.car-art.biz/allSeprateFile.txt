@@ -1,0 +1,678 @@
+<! DOCTYPE html>
+<html lang = "de">
+ <head>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1" name = "viewport" />
+  <meta content = "index, follow" name = "robots" />
+  <meta content = "1 days" name = "revisit-after" />
+  <meta content = "de" name = "language" />
+  <meta content = "All" name = "audience" />
+  <meta content = "CAR-ART: Typenoffene KFZ-Meisterwerkstatt Dresden" name = "title" />
+  <meta content = "Jens Hillig" name = "author" />
+  <meta content = "CAR-ART: Typenoffene KFZ-Meisterwerkstatt Dresden" name = "publisher" />
+  <meta content = "Creative Converter: Web - Print - Movie" name = "copyright" />
+  <meta content = "tuning, dresden, werkstatt, car-art, oldtimer, kfz, auto, freie werkstatt, meisterwerkstatt, reparaturen" name = "keywords" />
+  <meta content = "Workshop, tuning, customizing and special conversions - Create your own style: Chassis construction, individual interior design, Car Hifi, Car Navigation, Luftfahrwerke + Einbau, Bodykits, Motortuning, Chiptuning, Ölwechsel, Reparaturen, Klimaanlagenservice, Tüstungung, Achsfung, Achv , Standheizung, Webasto "name =" description "/>
+  <meta content = "https://www.car-art.biz/" property = "og: url">
+   <meta content = "Workshop, tuning, customizing and special conversions - Create your own style: Chassis construction, individual interior design, Car Hifi, Car Navigation, Luftfahrwerke + Einbau, Bodykits, Motortuning, Chiptuning, Ölwechsel, Reparaturen, Klimaanlagenservice, Tüstungung, Achsfung, Achv , Standheizung, Webasto "property =" og: description ">
+    <meta content = "https://www.car-art.biz/img/Logo_Car-Art.jpg" property = "og: image">
+     <meta content = "CAR-ART: Typenoffene KFZ-Meisterwerkstatt Dresden - Rico Wengler" property = "og: title">
+      <meta content = "no-cache" name = "cache-control" />
+      <meta content = "no-cache" name = "pragma" />
+      <meta content = "no" name = "imagetoolbar" />
+      <meta content = "telephone = no" name = "format-detection" />
+      <meta content = "kfz, werkstatt, automobil" name = "page-topic" />
+      <meta content = "CAR-ART: Typenoffene KFZ-Meisterwerkstatt Dresden" name = "application-name">
+       <title>
+        CAR-ART: Types open KFZ-Meisterwerkstatt Dresden
+       </title>
+       <! - Bootstrap ->
+       <link href = "https://www.car-art.biz/css/bootstrap.min.css" rel = "stylesheet" />
+       <link href = "https://www.car-art.biz/css/bootstrap-lightbox.min.css" rel = "stylesheet" />
+       <link href = "https://www.car-art.biz/css/half-slider.css" rel = "stylesheet" />
+       <link href = "css / demo.css" rel = "stylesheet" type = "text / css">
+        <link href = "css / style_common.css" rel = "stylesheet" type = "text / css">
+         <link href = "css / style5.css" rel = "stylesheet" type = "text / css">
+          <link href = "https://www.car-art.biz/css/carart.css" rel = "stylesheet" />
+          <! - HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries ->
+          <! - WARNING: Respond.js does not work if you view the page via file: // ->
+          <! - [if lt IE 9]>
+      <script src = "https://www.car-art.biz/js/html5shiv.min.js"> </script>
+      <script src = "https://www.car-art.biz/js/respond.min.js"> </script>
+    <! [endif] ->
+          <link href = "https://www.car-art.biz/favicon.ico" rel = "icon" type = "image / x-icon" />
+          <link href = "https://www.car-art.biz/favicon.ico" rel = "shortcut icon" type = "image / x-icon">
+           <link href = "https://www.car-art.biz/apple-touch-icon.png" rel = "apple-touch-icon">
+            <link href = "https://www.car-art.biz/css/jquery.fancybox.css?v=2.1.5" media = "screen" rel = "stylesheet" type = "text / css" />
+           </link>
+          </link>
+         </link>
+        </link>
+       </link>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class = "logo-desktop text-center" style = "background-color: #fff;">
+   <a href="https://www.KWautomotive.de" target="_blank">
+    <img alt = "KW Logo" border = "0" src = "https://www.car-art.biz/img/partner/partner_kw_start.jpg" style = "margin: 20px 30px 10px 0;" title = "KW Logo" width = "100" />
+   </a>
+   <a href="https://www.car-art.biz">
+    <img alt = "CAR-ART Logo" border = "0" src = "https://www.car-art.biz/img/Logo_Car-Art.jpg" style = "margin: 20px 0 10px 0;" title = "CAR-ART Home" width = "208" />
+   </a>
+   <a href="https://mtm-online.de/" target="_blank">
+    <img alt = "MTM Logo" border = "0" src = "https://www.car-art.biz/img/partner/partner_mtm_start.png" style = "margin: 20px 0 10px 30px;" title = "MTM Logo" width = "120" />
+   </a>
+  </div>
+  <nav class = "navbar navbar-default">
+   <div class = "container-fluid">
+    <! - Brand and toggle get grouped for better mobile display ->
+    <div class = "navbar-header logo-mobile">
+     <button class = "navbar-toggle collapsed" data-target = "# bs-example-navbar-collapse-1" data-toggle = "collapse" style = "margin: top: 10px;" type = "button">
+      <span class = "sr-only">
+       Toggle navigation
+      </span>
+      <span class = "icon-bar">
+      </span>
+      <span class = "icon-bar">
+      </span>
+      <span class = "icon-bar">
+      </span>
+     </button>
+     <a class="navbar-brand" href="#">
+      <img border = "0" height = "50" src = "https://www.car-art.biz/img/Logo_Car-Art_mobile.jpg" style = "margin: 0px;" />
+     </a>
+    </div>
+    <! - Collect the nav links, forms, and other content for toggling ->
+    <div class = "collapse navbar-collapse text-center" id = "bs-example-navbar-collapse-1">
+     <ul class = "nav navbar-nav">
+      <li>
+       <a href="https://www.car-art.biz">
+        Home page
+       </a>
+       <div class = "active">
+       </div>
+      </li>
+      <li>
+       <a href="https://www.car-art.biz/Leistungen.html">
+        Achievements
+       </a>
+      </li>
+      <li class = "dropdown">
+       <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+        References
+       </a>
+       <ul class = "dropdown-menu" role = "menu">
+        <li>
+         <a href="https://www.car-art.biz/References.html">
+          CARS
+         </a>
+        </li>
+        <li>
+         <a href="https://www.car-art.biz/Oldtimer.html">
+          OLDTIMER
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="https://www.car-art.biz/Angebote.html">
+        Offers
+       </a>
+      </li>
+      <li>
+       <a href="https://www.car-art.biz/Jobs.html">
+        Jobs
+       </a>
+      </li>
+      <li>
+       <a href="https://www.car-art.biz/Contact.html">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </div>
+    <! - /.navbar-collapse ->
+   </div>
+   <! - /.container-fluid ->
+  </nav>
+  <! - Half Page Image Background Carousel Header ->
+  <header class = "carousel slide" id = "myCarousel">
+   <! - Indicators ->
+   <ol class = "carousel-indicators">
+    <li class = "active" data-slide-to = "0" data-target = "# myCarousel">
+    </li>
+    <li data-slide-to = "1" data-target = "# myCarousel">
+    </li>
+    <li data-slide-to = "2" data-target = "# myCarousel">
+    </li>
+    <li data-slide-to = "3" data-target = "# myCarousel">
+    </li>
+    <li data-slide-to = "4" data-target = "# myCarousel">
+    </li>
+   </ol>
+   <! - Wrapper for Slides ->
+   <div class = "carousel-inner">
+    <div class = "item active">
+     <! - Set the first background image using inline CSS below. ->
+     <div class = "fill" style = "background-image: url ('https://www.car-art.biz/img/wechsler/werkstatt.jpg');">
+     </div>
+     <div class = "carousel-caption">
+      <h1 class = "changer">
+       Typenoffen KFZ-Meisterwerkstatt
+      </h1>
+     </div>
+    </div>
+    <div class = "item">
+     <! - Set the second background image using inline CSS below. ->
+     <div class = "fill" style = "background-image: url ('https://www.car-art.biz/img/referenzen/20170216-193029_1_gr.jpg');">
+     </div>
+     <div class = "carousel-caption">
+      <h1 class = "changer">
+       Porsche 964 RWB
+      </h1>
+     </div>
+    </div>
+    <div style = "display: none;">
+     <img src = "https://www.car-art.biz/img/referenzen/20170216-193029_1_gr.jpg" />
+    </div>
+    <div class = "item">
+     <! - Set the second background image using inline CSS below. ->
+     <div class = "fill" style = "background-image: url ('https://www.car-art.biz/img/referenzen/20151219-102631_1_gr.jpg');">
+     </div>
+     <div class = "carousel-caption">
+      <h1 class = "changer">
+       Mercedes-Benz W124 Coupe 300CE
+      </h1>
+     </div>
+    </div>
+    <div style = "display: none;">
+     <img src = "https://www.car-art.biz/img/referenzen/20151219-102631_1_gr.jpg" />
+    </div>
+    <div class = "item">
+     <! - Set the second background image using inline CSS below. ->
+     <div class = "fill" style = "background-image: url ('https://www.car-art.biz/img/oldtimer/20150424124219/20150424124219_0.jpg');">
+     </div>
+     <div class = "carousel-caption">
+      <h1 class = "changer">
+       Riley
+      </h1>
+     </div>
+    </div>
+    <div style = "display: none;">
+     <img src = "https://www.car-art.biz/img/oldtimer/20150424124219/20150424124219_0.jpg" />
+    </div>
+    <div class = "item">
+     <! - Set the second background image using inline CSS below. ->
+     <div class = "fill" style = "background-image: url ('https://www.car-art.biz/img/oldtimer/20150625114649/20150625114649_0.jpg');">
+     </div>
+     <div class = "carousel-caption">
+      <h1 class = "changer">
+       Aston Martin 2/4
+      </h1>
+     </div>
+    </div>
+    <div style = "display: none;">
+     <img src = "https://www.car-art.biz/img/oldtimer/20150625114649/20150625114649_0.jpg" />
+    </div>
+   </div>
+   <! - Controls ->
+   <a class="left carousel-control" data-slide="prev" href="#myCarousel">
+    <span class = "icon-prev">
+    </span>
+   </a>
+   <a class="right carousel-control" data-slide="next" href="#myCarousel">
+    <span class = "icon-next">
+    </span>
+   </a>
+  </header>
+  <div class = "container">
+   <div class = "row">
+    <div class = "col-sm-1">
+    </div>
+    <div class = "col-sm-10 text-center">
+     <h1>
+      Welcome to Car-Art
+     </h1>
+     <div class = "active">
+     </div>
+     Workshop, tuning, customizing and custom conversions -
+     <b>
+      Create your own style:
+     </b>
+     Vehicle construction, individual interior design, Car Hifi, Car Navigation, Aircraft + installation, Bodykits, Engine tuning, Chip tuning, Oil change, Repairs, Air conditioning service, TÜV, Axis measurement, Accident repair
+     <br/>
+     <br/>
+     <b>
+      Opening hours:
+     </b>
+     Monday to Friday from 08:00 to 19:00 and Saturday from 09:00 to 14:00
+    </div>
+    <div class = "col-sm-1">
+    </div>
+    <div class = "col-sm-12">
+     <hr />
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_werkstatt.jpg" style = "margin-bottom: 15px;" width = "32" />
+     <h2>
+      Workshop
+     </h2>
+     We recommend the installation of original parts by the respective manufacturers and the use of branded oil. In doing so, we comply with the specifications and maintenance guidelines of the respective vehicle manufacturers.
+     <br/>
+     <a class="button" href="https://www.car-art.biz/Experiences.html" name="Exercises">
+      More
+     </a>
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_tuning.jpg" style = "margin-bottom: 15px;" width = "32" />
+     <h2>
+      Tuning
+     </h2>
+     You come to us with creative ideas or a wish list and we advise you on how and what can be done. We also assemble pre-purchased tuning parts.
+     <br/>
+     <a class="button" href="https://www.car-art.biz/Experiences.html" name="Exercises">
+      More
+     </a>
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_oldtimer.jpg" style = "margin-bottom: 15px;" width = "32" />
+     <h2>
+      Oldtimer
+     </h2>
+     Restore your vintage car and increase the value. We offer complete restorations, new upholstery and a complete new construction for your vintage car.
+     <br/>
+     <a class="button" href="https://www.car-art.biz/Leistungen.html" name="Kontakt">
+      More
+     </a>
+    </div>
+   </div>
+  </div>
+  <div style = "background-color: # 000; color: #fff; width: 100%;">
+   <div class = "container">
+    <div class = "row">
+     <div class = "col-sm-12 text-center">
+      <h1 class = "black">
+       Offers
+      </h1>
+      <div class = "active">
+      </div>
+     </div>
+    </div>
+    <div class = "col-sm-3 text-center" style = "margin: 10px 0;">
+     <div class = "references" style = "background-image: url (https://www.car-art.biz/img/Angebote/20180323-131204_1_gr.jpg);">
+      <a href="https://www.car-art.biz/Angebote/24.html">
+       <img border = "0" height = "100%" src = "https://www.car-art.biz/img/pixel.png" width = "100%" />
+      </a>
+     </div>
+     <h3 class = "black" style = "height: 40px;">
+      Webasto stand heaters
+     </h3>
+    </div>
+    <div class = "col-sm-3 text-center" style = "margin: 10px 0;">
+     <div class = "references" style = "background-image: url (https://www.car-art.biz/img/Angebote/20100325-114233_1_gr.jpg);">
+      <a href="https://www.car-art.biz/Angebote/22.html">
+       <img border = "0" height = "100%" src = "https://www.car-art.biz/img/pixel.png" width = "100%" />
+      </a>
+     </div>
+     <h3 class = "black" style = "height: 40px;">
+      NEW! MTM Products
+     </h3>
+    </div>
+    <div class = "col-sm-3 text-center" style = "margin: 10px 0;">
+     <div class = "references" style = "background-image: url (https://www.car-art.biz/img/Angebote/20091125-153444_1_gr.jpg);">
+      <a href="https://www.car-art.biz/Angebote/14.html">
+       <img border = "0" height = "100%" src = "https://www.car-art.biz/img/pixel.png" width = "100%" />
+      </a>
+     </div>
+     <h3 class = "black" style = "height: 40px;">
+      Characters for VW and Audi
+     </h3>
+    </div>
+    <div class = "col-sm-3 text-center" style = "margin: 10px 0;">
+     <div class = "references" style = "background-image: url (https://www.car-art.biz/img/Angebote/20091125-153736_1_gr.jpg);">
+      <a href="https://www.car-art.biz/Angebote/15.html">
+       <img border = "0" height = "100%" src = "https://www.car-art.biz/img/pixel.png" width = "100%" />
+      </a>
+     </div>
+     <h3 class = "black" style = "height: 40px;">
+      Kahn Design
+     </h3>
+    </div>
+    <div class = "col-sm-12 text-center">
+     <a class="button black" href="https://www.car-art.biz/Angebote.html" name="Contact">
+      Further offers
+     </a>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<div class = "container" style = "margin-bottom: 20px;">
+ <div class = "row">
+  <div class = "col-sm-1 text-center">
+  </div>
+  <div class = "col-sm-5 text-center">
+   <h1>
+    News
+   </h1>
+   <div class = "active">
+   </div>
+   <p style = "color: # 000; line-height: 20px; margin-bottom: 15px;">
+    <span class = "date">
+     03. July 2020
+    </span>
+    <a class="news" data-target="#myModal156" data-toggle="modal" href="#">
+     MTM Summer Action2020 - 25% -
+    </a>
+   </p>
+   <! - Modal ->
+   <div aria-hidden = "true" aria-labeledby = "myModalLabel" class = "modal fade" id = "myModal156" role = "dialog" tabindex = "- 1">
+    <div class = "modal-dialog">
+     <div class = "modal-content">
+      <div class = "modal-header">
+       <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+        <span aria-hidden = "true">
+         ×
+        </span>
+       </button>
+       <h1>
+        MTM Summer Action2020 - 25% -
+       </h1>
+       <div class = "active">
+       </div>
+      </div>
+      <div class = "modal-body" style = "overflow: auto; max-height: 80%;">
+       <div class = "row">
+        <div class = "col-sm-7 text-center">
+         SUMMER SALE From 01.07. - 31.07.2020 we have all tax instrument optimizations (level 1) + M-Cantronic 25% discount
+         <br/>
+         <br/>
+         More info at: url:
+         <b>
+          »
+         </b>
+         <a class"link"="" href="https://www.mtm-online.de" rel="nofollow" target="_blank" title="https://www.mtm-online.de">
+          https://www.mtm-online.de
+         </a>
+         : url
+         <br/>
+         <br/>
+        </div>
+        <div class = "col-sm-5 text-center">
+         <img alt = "CAR-ART News - MTM-Sommeraktion2020 - 25% -" border = "0" class = "news" src = "https://www.car-art.biz/img/news/20200703-112007_gr .jpg "title =" CAR-ART News - MTM-Sommeraktion2020 - 25% - "/>
+        </div>
+       </div>
+      </div>
+      <div class = "modal-footer">
+       <button class = "btn btn-default" data-dismiss = "modal" type = "button">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <p style = "color: # 000; line-height: 20px; margin-bottom: 15px;">
+    <span class = "date">
+     March 20, 2020
+    </span>
+    <a class="news" data-target="#myModal155" data-toggle="modal" href="#">
+     Important information !!!
+    </a>
+   </p>
+   <! - Modal ->
+   <div aria-hidden = "true" aria-labeledby = "myModalLabel" class = "modal fade" id = "myModal155" role = "dialog" tabindex = "- 1">
+    <div class = "modal-dialog">
+     <div class = "modal-content">
+      <div class = "modal-header">
+       <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+        <span aria-hidden = "true">
+         ×
+        </span>
+       </button>
+       <h1>
+        Important information !!!
+       </h1>
+       <div class = "active">
+       </div>
+      </div>
+      <div class = "modal-body" style = "overflow: auto; max-height: 80%;">
+       <div class = "row">
+        <div class = "col-sm-12 text-center">
+         Highly respected knowledge,
+         <br/>
+         <br/>
+         In view of the ever-expanding corona pandemic, we would like to inform you about the current situation in our company.
+         <br/>
+         <br/>
+         Our company has opened for you until further notice.
+         <b>
+          All work on the vehicle, including inspection, wheel change, repairs, etc., can currently be carried out under normal conditions and is valid according to the "Announcement of the Saxon State Ministry of Social and Social Cohesion of March 22, 2020, Az. 15-5422 / 10" as to leave the house.
+         </b>
+         <br/>
+         <br/>
+         As the current situation is developing very dynamically, we recommend that you regularly inform us about our operating situation and opening hours on our website.
+         <br/>
+         <br/>
+         For us, the health of our customers and employees comes first without restriction. That is why we have taken comprehensive hygiene measures in your company for your and our protection.
+         <br/>
+         With expanded hygiene standards, our employees make you feel comfortable during your stay with us. Door latches, coffee machines and our customer area are cleaned several times a day. All our workshop fitters wear gloves, and we use steering wheel and seat cushion protectors for the vehicles.
+         <br/>
+         <br/>
+         Upon request, we also organize a pick-up and drop-off service for your vehicle.
+         <br/>
+         <br/>
+         For all questions about your vehicle or for an appointment, we are happy to be at 0351-4861670.
+         <br/>
+         <br/>
+         On our website we keep you updated on the current status of our company.
+         <br/>
+         We thank you for your understanding and please stay healthy.
+         <br/>
+         <br/>
+         Your CAR-ART team
+         <br/>
+         <br/>
+         <br/>
+        </div>
+       </div>
+      </div>
+      <div class = "modal-footer">
+       <button class = "btn btn-default" data-dismiss = "modal" type = "button">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <p style = "color: # 000; line-height: 20px; margin-bottom: 15px;">
+    <span class = "date">
+     January 01, 2020
+    </span>
+    <a class="news" data-target="#myModal151" data-toggle="modal" href="#">
+     WE NEED REINFORCEMENT - VEHICLE MECHATRONICS (M / W / D)
+    </a>
+   </p>
+   <! - Modal ->
+   <div aria-hidden = "true" aria-labeledby = "myModalLabel" class = "modal fade" id = "myModal151" role = "dialog" tabindex = "- 1">
+    <div class = "modal-dialog">
+     <div class = "modal-content">
+      <div class = "modal-header">
+       <button aria-label = "Close" class = "close" data-dismiss = "modal" type = "button">
+        <span aria-hidden = "true">
+         ×
+        </span>
+       </button>
+       <h1>
+        WE NEED REINFORCEMENT - VEHICLE MECHATRONICS (M / W / D)
+       </h1>
+       <div class = "active">
+       </div>
+      </div>
+      <div class = "modal-body" style = "overflow: auto; max-height: 80%;">
+       <div class = "row">
+        <div class = "col-sm-7 text-center">
+         The detailed job offers can be downloaded and printed here:
+         <br/>
+         <b>
+          »
+         </b>
+         <a class "link" = "" href = "https://www.car-art.biz/downloads/CAR-ART-Stellenanzeige.pdf" rel = "nofollow" target = "_ blank" title = "https: / /www.car-art.biz/downloads/CAR-ART-Stellenanzeige.pdf ">
+          https://www.car-art.biz/downloads/CAR-ART-Stellenanzeige.pdf
+         </a>
+         <br/>
+         <br/>
+        </div>
+        <div class = "col-sm-5 text-center">
+         <img alt = "CAR-ART News - WE NEED REINFORCEMENT - CARPET MECHATRONIC (M / W / D)" border = "0" class = "news" src = "https://www.car-art.biz/ img / news / 20181212-140159_gr.jpg "title =" CAR-ART News - WE NEED STRENGTHENING - KFZ-MECHATRONIKER (M / W / D) "/>
+        </div>
+       </div>
+      </div>
+      <div class = "modal-footer">
+       <button class = "btn btn-default" data-dismiss = "modal" type = "button">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class = "col-sm-4 text-center">
+   <h1>
+    GPS location
+   </h1>
+   <div class = "active">
+   </div>
+   <! - div class = "col-sm-6 text-right gps" style = "line-height: 40px;"> Username <br /> Password </div-->
+   <div class = "col-sm-12 text-center">
+    With GPS location, you always know exactly where your fleet and your driver are.
+    <br/>
+    <! -
+                    <form action = "https://www.imetrik.com/portal/" method = "post" target = "_ blank" id = "signingForm" name = "signingForm">
+                    <input type = "text" class = "form-control" placeholder = "Benutzername" name = "json-arg-1" id = "json-arg-1">
+                    <input type = "password" class = "form-control" placeholder = "Password" id = "json-arg-2" name = "json-arg-2">
+                    <input type = "submit" class = "submit" value = "To GPS Location" id = "submitButton">
+                    <input type = "hidden" name = "bannerServer" value = "/ whitehorn / skins /" />
+                    <input type = "hidden" name = "headerFile" value = "header.css" />
+                    <input type = "hidden" name = "callback" value = "/ home" />
+                    <input type = "hidden" name = "mode" value = "1" />
+                    </form>
+                    ->
+    <a class="button" href="https://www.imetrik.com/portal/" name="GPS-Ortung" target="_blank">
+     Further to the location
+    </a>
+   </div>
+  </div>
+  <div class = "col-sm-2 text-center">
+  </div>
+ </div>
+</div>
+<div style = "width: 100%; background-color: # 000; color: #fff;">
+ <div class = "container">
+  <div class = "row">
+   <form action = "https://www.car-art.biz/Kontakt.html" enctype = "multipart / form-data" method = "post" role = "form">
+    <div class = "col-sm-2">
+    </div>
+    <div class = "col-sm-8 text-center">
+     <h1 class = "black">
+      Contact
+     </h1>
+     <div class = "active">
+     </div>
+     Do you have questions? Then get in touch with us, we look forward to your message! Your data will be treated confidentially and will not be passed on to third parties.
+    </div>
+    <div class = "col-sm-2">
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_mail.jpg" style = "margin: 15px 0;" width = "32">
+      <h3 class = "black">
+       Email: info@car-art.biz
+      </h3>
+     </img>
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_anschrift.jpg" style = "margin: 15px 0;" width = "32">
+      <h3 class = "black">
+       Löbtauer Str. 55, 01159 Dresden
+      </h3>
+     </img>
+    </div>
+    <div class = "col-sm-4 text-center">
+     <img border = "0" height = "32" src = "img / icon_telefon.jpg" style = "margin: 15px 0;" width = "32">
+      <h3 class = "black">
+       0351 - 486 16 70
+      </h3>
+     </img>
+    </div>
+    <div class = "col-sm-1">
+    </div>
+    <div class = "col-sm-5 text-center">
+     <input class = "form-control formblack" name = "name" placeholder = "Name / Company" type = "text" />
+     <input class = "form-control formblack" id = "InputEmail" name = "email" placeholder = "E-Mail Address" type = "email" />
+     <input class = "form-control formblack" name = "phone" placeholder = "Phone" type = "text" />
+    </div>
+    <div class = "col-sm-5 text-center">
+     <textarea class = "form-control formblack" name = "message" placeholder = "Your message to us ..." rows = "4"> </textarea>
+    </div>
+    <div class = "col-sm-1">
+    </div>
+    <div class = "col-sm-12 text-center" style = "margin: 20px 0;">
+     <br/>
+     <input class = "form-control" id = "exampleInputoptin" name = "optin" style = "display: inline; width: auto; height: auto;" type = "checkbox" value = "Understand data protection" />
+     I have those
+     <a class="link" href="https://www.car-art.biz/Privacy.html" title="Privacy Statement">
+      Privacy Policy
+     </a>
+     read, understand and accept these (your data will be treated confidentially and will not be passed on to third parties).
+     <br/>
+     <br/>
+     <input class = "submit black" id = "Submit" name = "Submit" type = "submit" value = "Submit" />
+    </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div style = "background-color: #fff; width: 100%;">
+ <div class = "container">
+  <div class = "row">
+   <div class = "col-sm-12 text-center" style = "margin: 20px 0;">
+    <a class="footer" href="https://www.car-art.biz/admin/" target="_blank">
+     Administrator
+    </a>
+    <a class="footer" href="https://www.car-art.biz/Impressum.html">
+     Imprint
+    </a>
+    <! - a href = "https://www.car-art.biz/Nutzungsbedingungen.html" class = "footer"> Nutzungsbedingungen </a-->
+    <a class="footer" href="https://www.car-art.biz/Privacy.html">
+     Data protection
+    </a>
+    <a class="footer" href="https://www.car-art.biz/Partner.html">
+     Partner
+    </a>
+    <br>
+     <br>
+      © Kreativwandler: Advertising Agency Dresden
+     </br>
+    </br>
+   </div>
+  </div>
+ </div>
+</div>
+<script src = "https://www.car-art.biz/js/jquery.min.js">
+</script>
+<script src = "https://www.car-art.biz/js/bootstrap.min.js">
+</script>
+<script src = "https://www.car-art.biz/js/bootstrap-lightbox.min.js">
+</script>
+<script src = "https://www.car-art.biz/js/jquery.fancybox.js?v=2.1.5" type = "text / javascript">
+</script>
+<script>
+ $ ('. carousel'). carousel ({interval: 5000})
+</script>
+<script type = "text / javascript">
+ $ (document) .ready (function () {$ ('. fancybox'). fancybox ();});
+</script>

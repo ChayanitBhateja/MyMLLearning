@@ -1,0 +1,1008 @@
+<! DOCTYPE html>
+<! - [if lt IE 7]> <html class = "nc-no-js nc-ie nc-ie6 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE 7]> <html class = "nc-no-js nc-ie nc-ie7 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE 8]> <html class = "nc-no-js nc-ie nc-ie8 nc-oldie special-styles-de"> <! [endif] ->
+<! - [if IE]> <html class = "nc-no-js nc-ie nc-oldie special-styles-de"> <! [endif] ->
+<! - [if gt IE 8]> <! ->
+<html class = "nc-no-js no-svg special-styles-de" lang = "de">
+ <! - <! [endif] ->
+ <head>
+  <script>
+   window ['adrum-start-time'] = new Date (). getTime ();
+  </script>
+  <script src = "// places.mercedes-benz.com/eMB-Retail-PROD-Publish/adrum.js">
+  </script>
+  <meta content = "text / html; charset = utf-8" http-equiv = "Content-Type" />
+  <meta content = "IE = edge" http-equiv = "X-UA-Compatible" />
+  <meta content = "width = device-width, initial-scale = 1.0, user-scalable = no" name = "viewport" />
+  <meta content = "index, follow" name = "robots" />
+  <title>
+   Home: Mercedes-Benz Auto-Schreyer GmbH & amp; Co. KG Ottendorf-Okrilla
+  </title>
+  <! - <link rel = "canonical" href = '// www.auto-schreyer.mercedes-benz.de/content/deutschland/retail-plz0/auto-schreyer/de/desktop/home.html' /> ->
+  <link href = "// www.auto-schreyer.mercedes-benz.de/de/desktop/home.html" rel = "canonical" />
+  <style type = "text / css">
+   @ font-face {
+    font-family: "Corporate S Regular";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Reg-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+@ font-face {
+    font-family: "Corporate A Condensed";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CAC-Reg-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+@ font-face {
+    font-family: "Corporate S Bold";
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.eot'); / * IE9 Compat Modes * /
+    src: url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.woff2') format ('woff2'), / * Super Modern Browsers * /
+         url ('// e-services.mercedes-benz.com/static/webfonts/Daimler-CS-Bold-eu.woff') format ('woff') / * Pretty Modern Browsers * /
+}
+  </style>
+  <link href = "/ etc / designs / embcms / style / vendor.1580375489613.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / utils.1580375489616.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / font.1580375489619.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / icon.1596097396791.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / common.1580375489625.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / base / publish.1596097396817.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / retail-widescreen / publish.1601537609358.css" rel = "stylesheet" type = "text / css" />
+  <link href = "/ etc / designs / embcms / style / retail / publish.1601537609345.css" rel = "stylesheet" type = "text / css" />
+  <script src = "/ etc.clientlibs / clientlibs / granite / jquery.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / vendor.1601537609270.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / polyfill.1580375488664.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / window.1580375488667.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / utils.1601537609167.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / service.1601537609179.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / ui.1580375488689.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / storage.1580375488682.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / base / publish.1601537609281.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / service-widescreen.1596097396748.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / retail-widescreen / publish.1601537609318.js" type = "text / javascript">
+  </script>
+  <script src = "/ etc / designs / embcms / script / retail / publish.1601537609303.js" type = "text / javascript">
+  </script>
+  <link href = "/ de / desktop / home.mblogo.css" rel = "stylesheet" type = "text / css" />
+  <link href = "https://js.api.here.com/v3/3.1/mapsjs-ui.css" rel = "stylesheet" type = "text / css">
+   <script src = "// assets.adobedtm.com/launch-ENc8175b642c2b458c9711b0796796f8e1.min.js">
+   </script>
+   <script type = "text / javascript">
+    digitalData_aem = {};
+        digitalData_aem.site = {};
+        digitalData_aem.site.siteInfo = {};
+        digitalData_aem.page = {};
+        digitalData_aem.page.pageInfo = {};
+        digitalData_aem.page.category = {};
+        digitalData_aem.page.attributes = {};
+        digitalData_aem.page.attributes.contactForms = {};
+   </script>
+   <script>
+    if (window.nc === undefined) {
+            window.nc = {};
+        }
+        nc.validLanguages ​​= ['de'];
+   </script>
+  </link>
+ </head>
+ <body class = "workbench">
+  <noscript>
+  </noscript>
+  <! - Cookie Layer ->
+  <div>
+   <div class = "layer-black-complete cookie-layer-hidden">
+   </div>
+   <div class = "cookie-layer cookie-layer-hidden">
+    <div class = "mp-legal mp-cookielayer" data-expires = "1333135" data-language = "de">
+     <div class = "mp-cookielayer-content mp-cookielayer-parsys">
+      <div>
+       <div>
+        <p class = "mp-cookielayer-headline">
+         We use cookies
+        </p>
+        <p class = "mp-cookielayer-description">
+        </p>
+        <p class = "mp-cookielayer-description">
+         We want to make our website more user-friendly and continuously improve it. If you continue to use the website, you consent to the use of cookies.
+        </p>
+        <div class = "btn btn-agree" data-goi-active = "false" id = "btn-agree">
+         <a class="btn-link">
+          I Agree
+         </a>
+        </div>
+        <div class = "clear">
+        </div>
+        <p>
+         <a href = "/ de / content-pool / legal-links / cookie-info.html" id = "mpCookieLayerOpenCookieInfoLink" onclick = "javascript: eMB.retail.publish.component.cookie.CookieLayer.prototype.openCookieInformation (this) ; return false; " target = "_ blank">
+          Further information can be found in the cookie information
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class = "mp-cookielayer-content mp-cookielayer-infolink">
+     </div>
+    </div>
+   </div>
+   <script>
+    document.addEventListener ('DOMContentLoaded', function () {
+                const cookieInstance = eMB.retail.publish.component.cookie.CookieLayer.instance;
+                if (cookieInstance) {
+                    cookieInstance.init ();
+                }
+            });
+   </script>
+  </div>
+  <div class = "container" id = "nc-globalWrap">
+   <header class = "header u-cf position-absolute position-md-relative">
+    <a href="/">
+     <div class = "tm-container">
+      <img alt = "Mercedes-Benz" class = "mb-star svg" src = "/ etc / designs / embcms / images / icon / mblogo / MB-star_n_web.svg" />
+      <div class = "mb-star no-svg">
+      </div>
+      <div class = "claim-container">
+       <img class = "mb-claim svg de" src = "/ etc / designs / embcms / images / icon / mblogo / claim.svg" />
+       <img class = "mb-claim svg en" src = "/ etc / designs / embcms / images / icon / mblogo / claim.svg" />
+       <div class = "mb-claim no-svg">
+       </div>
+      </div>
+     </div>
+    </a>
+    <div class = "header-contact">
+     <span class = "header-contact-top">
+      <a data-layertitle = "Provider and data protection" href = "javascript: void (0);" id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false)">
+       <div id = "metanav">
+        <span id = "metanav-i">
+        </span>
+        <div class = "desktop-only">
+         Provider and data protection
+        </div>
+       </div>
+      </a>
+      <div class = "language-switcher">
+      </div>
+     </span>
+     <div class = "header-contact-lower-container">
+      <div class = "header-contact-text-container">
+       <a href="/de/desktop/home.html">
+        <span class = "header-contact-slogan">
+         Auto-Schreyer GmbH & amp; Co. KG
+        </span>
+        <span class = "header-contact-tel">
+         Phone: +49 35205 6070
+        </span>
+       </a>
+      </div>
+      <div class = "header-contact-logo-container">
+       <div>
+        <div class = "global-image-tab-renderer-wrapper">
+         <div class = "global-image-tab-renderer-inner-wrapper">
+          <img src = "/ content / dam / deutschland / retailer / retail-plz0 / auto-schreyer / Logo / logo-auto-schreyer-180x36.png.asset.vtnE3Yd8K7oKSKCgRrsy_UyArznVrcBq9BBuhn8wAKg.png" />
+          <div class = "nc-dark caption-text-position-left">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class = "abstractcomponent welcomearea">
+    <div class = "cf">
+     <section class = "hero">
+      <div class = "hero-image">
+       <div class = "global-image-tab-renderer-wrapper">
+        <div class = "global-image-tab-renderer-inner-wrapper">
+         <img src = "/ content / dam / deutschland / retailer / retail-plz0 / auto-schreyer / standorte / auto-schreyer-1000x348.jpg.asset.WfpTGfwD8pT9yUxX_93bvW8nBhrqWyo1JNm4aSm4Rdw.jpg" />
+         <div class = "nc-dark caption-text-position-left">
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section class = "intro bg-white">
+      <div class = "l-inner">
+       <span class = "u-line">
+       </span>
+       <h2 class = "intro-title">
+        Welcome to SCHREYER in Dresden and Ottendorf-Okrilla
+       </h2>
+       <p>
+        Vehicle type selection:
+       </p>
+      </div>
+     </section>
+     <section class = "carousel bg-white">
+      <div class = "carousel - list js-slick u-cf">
+       <div class = "carousel - item">
+        <a href="/de/desktop/iegenger-cars.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / cars.jpg" />
+         <span class = "carousel - item - text">
+          Car
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/mpv-and-camper-vans.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / vans.jpg" />
+         <span class = "carousel - item - text">
+          Motorhomes
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/vans.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / transporters.jpg" />
+         <span class = "carousel - item - text">
+          Transporter
+         </span>
+        </a>
+       </div>
+       <div class = "carousel - item">
+        <a href="/de/desktop/trucks.html" tabindex="0">
+         <img alt = "" src = "/ etc / designs / embcms / images / retail / component / welcomearea / bu / de / trucks.jpg" />
+         <span class = "carousel - item - text">
+          truck
+         </span>
+        </a>
+       </div>
+      </div>
+     </section>
+     <section class = "teaser-group">
+      <div class = "grid-3">
+       <a href="/de/desktop/about-us/contact.html">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Contact" src = "/ etc / designs / embcms / images / retail / component / welcomearea / modules / contact_default.jpg" />
+          <h2>
+           Contact
+          </h2>
+         </div>
+        </div>
+       </a>
+       <a href="/de/desktop/iegenger-cars/actions/service-offers/angebote-des-montats.html">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Configurator" src = "/ content / dam / germany / reference / PKW / SERVICE-ZUBEHOER / AKTIONEN / MONTSANGEBOTE / mercedes-benz-service-monthly-offers-324x100.jpg.asset.d-uRyfZKfGmHmdZ7qZsQ3cHWI428R8b_Z "/>
+          <h2>
+           November offers.
+          </h2>
+         </div>
+        </div>
+       </a>
+       <a href="/de/desktop/iegenger-cars/services/garage/werkstatttermin-online-buchen.html">
+        <div class = "grid-item">
+         <div class = "group-item-border-dark">
+          <img alt = "Vehicle-Search" src = "/ content / dam / deutschland / reference / PKW / SERVICE-ZUBEHOER / WERKSTATT / ONLINE-APPOINTMENT BOOKING / mercedes-benz-pkw-service-online-appointment-booking-324x100.jpg .asset.IjiHdR8MPMMrqUWxQpwcR_LkVY2P3a_goTCmE_9jyWA.jpg "/>
+          <h2>
+           Book appointments online.
+          </h2>
+         </div>
+        </div>
+       </a>
+      </div>
+     </section>
+     <script type = "text / javascript">
+      jQuery (document) .ready (function () {
+            var welcomeAreaConfig = {
+                'slidesToShow': 4
+            };
+            var welcomeAreaInstance = new eMB.retail.publish.component.welcomearea.WelcomeArea (welcomeAreaConfig);
+            welcomeAreaInstance.init ();
+        });
+     </script>
+    </div>
+   </div>
+   <div class = "abstractcomponent seocolumncontrol">
+    <div class = "seo-column-group">
+     <section class = "nc-three-columns columns cf">
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            SCHREYER. Always a bit better. Since 1925.
+           </p>
+           <p>
+            The name SCHREYER has stood for automotive competence in Saxony since 1925 and is now in the 4th generation a real family company. Today we offer a wide range of services at our locations in Ottendorf-Okrilla and Dresden, which covers the entire automotive spectrum.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            Car
+           </p>
+           <p>
+            As an authorized Mercedes-Benz sales partner, we sell all new cars from A-Class to S-Class, just like smart and the sports cars from Brabus and AMG. You will also find a huge selection of Junge Sterne, well-maintained annual and used cars.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class = "grid-item">
+       <div>
+        <div class = "seo">
+         <div class = "nc-column">
+          <div>
+           <p class = "subheadline">
+            Van, recreational vehicles, vans, trucks and buses.
+           </p>
+           <p>
+            Regardless of whether it's the V-Class family sled, the Citan, Vito or Sprinter in the van segment. Whether Actros, Antos, Arocs, Atego, Econic or the right bus. We have something for everyone and there is also the right competent service.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+   </div>
+   <div class = "nc-clear">
+   </div>
+   <footer class = "container">
+    <section>
+     <ul class = "breadcrumb cf">
+      <span xmlns: v = "http://rdf.data-vocabulary.org/#">
+       <li typeof = "v: Breadcrumb">
+        <a href = "https://www.auto-schreyer.mercedes-benz.de/content/deutschland/retail-plz0/auto-schreyer/de/desktop/home.html" property = "v: title" rel = "v: url" title = "Auto-Schreyer GmbH & amp; Co. KG">
+         Home page
+        </a>
+       </li>
+       <li>
+        »
+       </li>
+       <li typeof = "v: Breadcrumb">
+        <span property = "v: title">
+         Home
+        </span>
+       </li>
+      </span>
+     </ul>
+    </section>
+    <section class = "information">
+     <div class = "information-wrapper row">
+      <div class = "col-sm-12 col-md-3">
+       <div class = "footer-contact-wrapper">
+        <h4 class = "h6 title">
+         Auto-Schreyer GmbH & amp; Co. KG
+        </h4>
+        <ul class = "contact-phone">
+         <li>
+          Original parts:
+          <span data-tel = "+ 493520560727">
+           <a href="tel:+493520560727">
+            +49 35205 607 27
+           </a>
+          </span>
+         </li>
+         <li>
+          Service:
+          <span data-tel = "+ 49352056070">
+           <a href="tel:+49352056070">
+            +49 35205 6070
+           </a>
+          </span>
+         </li>
+         <li>
+          E-mail:
+          <a href="mailto:info@auto-schreyer.de">
+           info@auto-schreyer.de
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div id = "footer-opening-times-wrapper">
+        <section id = "footer-location-opening-times-wrapper">
+        </section>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div>
+        <h4 class = "h6 title">
+         How to find us
+        </h4>
+        <section id = "footer-location-address-wrapper">
+        </section>
+        <a class="all-locations-link" href="/de/desktop/about-us/locations.html">
+         <i class = "icon-mb_ico_arr_thin_right">
+         </i>
+         All locations
+        </a>
+       </div>
+      </div>
+      <div class = "col-sm-12 col-md-3">
+       <div class = "footer-location-component footer-location-wrapper">
+        <div>
+         <script type = "text / javascript">
+          digitalData_aem = digitalData_aem || {};
+       digitalData_aem.components = digitalData_aem.components || [];
+       digitalData_aem.components.component = digitalData_aem.components.component || [];
+       digitalData_aem.components.component [0] = {
+           headline: "",
+           image: "no",
+           position: "footer",
+           fillerType: "nofiller",
+           eyecatcherText: "no",
+           type: "footer",
+           data_analytics_aem_linkname: "All locations",
+           data_analytics_aem_linkposition: "footer",
+           data_analytics_aem_linkdestionationURL: "/ content / deutschland / retail-plz0 / auto-schreyer / de / desktop / about-us / locations.html",
+           data_analytics_aem_component_id: "0",
+           data_analytics_aem_component_conversion: "locations",
+       };
+         </script>
+        </div>
+        <section class = "footer-dealer-dropdown" id = "footer-location-label-wrapper">
+        </section>
+        <section class = "footer-location-dealer-selection-wrapper wb-e-dropd-2">
+         <select autocomplete = "off" class = "wb-e-dropd-2__select footer-location-dealer-selection" id = "footer-location-dealer-selection" name = "footerLocationSelection">
+         </select>
+        </section>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class = "container-fluid footer-legal cf">
+     <div class = "row no-gutters">
+      <div class = "col-sm-12 col-md-8 push-md-4 float-right footer-legal-links-wrapper">
+       <nav class = "footer-legal-links">
+        <ul class = "float-right">
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0auto-schreyerdecontent-poollegal-links-provider identification" data -nc-layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / auto-schreyer / de / content-pool / legal-links / vendor identification.content.html? wcmmode = disabled "href =" javascript: void (0); " id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false)" title = "Imprint">
+           imprint
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0auto-schreyerdecontent-poollegal-linkscookie-info "data-nc-layer-type =" internal "data-nc-layer-url =" / content / germany / retail-plz0 / auto-schreyer / de / content-pool / legal-links / cookie-info.content. html? wcmmode = disabled "data-page-type =" cookieinfo "href =" javascript: void (0); " id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Cookies">
+           Cookies
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0auto-schreyerdecontent-poollegal-linksdatenschutz" data -nc-layer-type = "internal" data-nc-layer-url = "/ content / deutschland / retail-plz0 / auto-schreyer / de / content-pool / legal-links / datenschutz.content.html? wcmmode = disabled "data-page-type =" legal links "href =" javascript: void (0); " id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Data protection">
+           data protection
+          </a>
+         </li>
+         <li>
+          <a class = "nc-show-layer" data-is-publish-mode = "" data-layertitle = "Provider and data protection" data-nc-layer-id = "contentdeutschlandretail-plz0auto-schreyerdecontent-poollegal-linksrechtliches" data -nc-layer-type = "internal" data-nc-layer-url = "/ content / germany / retail-plz0 / auto-schreyer / de / content-pool / legal-links / legal.content.html? wcmmode = disabled "data-page-type =" legal links "href =" javascript: void (0); " id = "metaNav-LegalInfoLink" onclick = "javascript: eMB.retail.publish.component.legallayer.LegalLayer.showLayer (this, false, this.title)" title = "Legal information">
+           Legal Notice
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class = "col-sm-12 col-md-4 pull-md-8 footer-legal-copyright-wrapper">
+       <section class = "footer-legal-copyright">
+        ©
+        <p>
+         Copyright 2020. Mercedes-Benz AG.
+        </p>
+       </section>
+      </div>
+     </div>
+    </section>
+   </footer>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-core.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-service.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-ui.js" type = "text / javascript">
+   </script>
+   <script src = "https://js.api.here.com/v3/3.1/mapsjs-mapevents.js" type = "text / javascript">
+   </script>
+   <script data-map-id = "uxAiiT-PoxubYL-Dn_rsUN8unsAcIlXt9bO3ToWoAVo">
+    document.addEventListener ('DOMContentLoaded', function () {
+        var footerManager = new eMB.retail.publish.component.footer.FooterManager ({
+  "id": "df48be80_6d9f_4cc6_ad26_26a0e7747937",
+  "labels": {"location": {
+    "locationOpen": "Open now",
+    "locationClosed": "Now closed",
+    "closed": "Closed",
+    "description": "Choose a branch:",
+    "headline": "Dealer selection",
+    "moreDetails": "More details",
+    "locationDetailsLinkText": "All details about the location",
+    "phonePrefix": "Tel",
+    "openingTimesHeadline": "Opening times car service",
+    "generalOpeningTimesHeadline": "General opening times",
+    "we": "Wednesday",
+    "su": "Sunday",
+    "mo": "Monday",
+    "do": "Tuesday",
+    "th": "Thursday",
+    "sa": "Saturday",
+    "fr": "Friday"
+    }},
+  "map": {
+    "iso3CountryCode": "deu",
+    "isMapDisabled": true
+    },
+  "retailer": [
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 35205 6070",
+      "city": "Ottendorf-Okrilla",
+      "street": "Bergener Ring 1 - 3",
+      "postalCode": "01458",
+      "latitude": "13.841503",
+      "longitude": "51.177002"
+      },
+    "gsNumber": "GS0000404",
+    "isMainRetailer": true,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / auto-schreyer / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/auto-schreyer/de/desktop/about-us/locations/location.5020",
+    "name": "Auto-Schreyer - Ottendorf-Okrilla",
+    "contactInformation": {
+      "Service": "+49 35205 6070",
+      "Original parts": "+49 35205 607 27"
+      },
+    "email": "info@auto-schreyer.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "su": {
+          "key": "su",
+          "times": []
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "07:00",
+            "end": "18:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "13:00"
+            }]
+          }
+        }
+      },
+    "openingTimesHeadline": "Opening times car service",
+    "models": {},
+    "departmentOpeningTimes": {
+      "Opening times for car service": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "su": {
+            "key": "su",
+            "times": []
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "07:00",
+              "end": "18:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "13:00"
+              }]
+            }
+          },
+        "label": "Opening times car service"
+        },
+      "Opening times sales": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "su": {
+            "key": "su",
+            "times": []
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "09:00",
+              "end": "17:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "09:00",
+              "end": "17:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "09:00",
+              "end": "17:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "09:00",
+              "end": "17:00"
+              }]
+            },
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "09:00",
+              "end": "17:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": []
+            }
+          },
+        "label": "Opening times sales"
+        },
+      "Commercial vehicle service opening times": {
+        "order": [
+          "mo",
+          "do",
+          "we",
+          "th",
+          "fr",
+          "sa",
+          "su"
+        ],
+        "times": {
+          "su": {
+            "key": "su",
+            "times": []
+            },
+          "we": {
+            "key": "we",
+            "times": [{
+              "start": "06:30",
+              "end": "21:00"
+              }]
+            },
+          "fr": {
+            "key": "fr",
+            "times": [{
+              "start": "06:30",
+              "end": "21:00"
+              }]
+            },
+          "th": {
+            "key": "th",
+            "times": [{
+              "start": "06:30",
+              "end": "21:00"
+              }]
+            },
+          "mo": {
+            "key": "mo",
+            "times": [{
+              "start": "06:30",
+              "end": "21:00"
+              }]
+            },
+          "do": {
+            "key": "do",
+            "times": [{
+              "start": "06:30",
+              "end": "21:00"
+              }]
+            },
+          "sa": {
+            "key": "sa",
+            "times": [{
+              "start": "08:00",
+              "end": "16:00"
+              }]
+            }
+          },
+        "label": "Commercial vehicle service opening times"
+        }
+      }
+    },
+    {
+    "address": {
+      "number": "",
+      "phoneNumber": "+49 351 82919 0",
+      "city": "Dresden",
+      "street": "Hermann-Mende-Straße 3",
+      "postalCode": "01099",
+      "latitude": "13.7653",
+      "longitude": "51.086723"
+      },
+    "gsNumber": "GS0000410",
+    "isMainRetailer": false,
+    "moreDetailsPath": "/ content / deutschland / retail-plz0 / auto-schreyer / de / desktop / about-us / locations",
+    "locationDetailsPath": "/content/deutschland/retail-plz0/auto-schreyer/de/desktop/about-us/locations/location.5027",
+    "name": "Auto-Schreyer - Dresden",
+    "contactInformation": {
+      "Service": "+49 35205 6070",
+      "Original parts": "+49 35205 6070"
+      },
+    "email": "service.dd@auto-schreyer.de",
+    "openingTimes": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "su": {
+          "key": "su",
+          "times": []
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "16:00"
+            }]
+          }
+        }
+      },
+    "openingTimesHeadline": "General opening times",
+    "models": {},
+    "departmentOpeningTimes": {"Commercial vehicle service opening times": {
+      "order": [
+        "mo",
+        "do",
+        "we",
+        "th",
+        "fr",
+        "sa",
+        "su"
+      ],
+      "times": {
+        "su": {
+          "key": "su",
+          "times": []
+          },
+        "we": {
+          "key": "we",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "fr": {
+          "key": "fr",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "th": {
+          "key": "th",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "mo": {
+          "key": "mo",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "do": {
+          "key": "do",
+          "times": [{
+            "start": "06:30",
+            "end": "21:00"
+            }]
+          },
+        "sa": {
+          "key": "sa",
+          "times": [{
+            "start": "08:00",
+            "end": "16:00"
+            }]
+          }
+        },
+      "label": "Commercial vehicle service opening times"
+      }}
+    }
+  ]
+  });
+        footerManager.init ();
+    }, false);
+   </script>
+   <emb-rampup exec = "eMB.utils.icon.IconHelper.replaceSvgUseIconsInIE">
+   </emb-rampup>
+   <script>
+    document.addEventListener ('DOMContentLoaded', function () {
+    var rampupInit = setInterval (function () {
+        if (eMB && eMB.utils && eMB.utils.rampup && eMB.utils.rampup.exec) {
+            eMB.utils.rampup.exec ();
+            clearInterval (rampupInit);
+        }
+    }, 100);
+});
+   </script>
+   <script type = "text / javascript">
+    digitalData_aem = digitalData_aem || {};
+                digitalData_aem.site = {
+                                   siteInfo:
+                                   {
+                                        accountID: "dairetoneweb",
+                                        cookieLifetime: "",
+                                        language: "de",
+                                        country: "DE",
+                                        dealerName: "Auto-Schreyer GmbH & Co. KG",
+                                        dealerGCID: "GC0000389",
+                                        dealerGSID: "GS0000404",
+                                        namespace: "aem",
+                                        platformType: "marketing_suite",
+                                        platform: "ret_nr",
+                                        siteType: "single",
+                                        viewport: "desktop"
+                                   }
+                };
+                digitalData_aem.page = {
+                                   pageInfo:
+                                   {
+                                        pageName: "home",
+                                        pageNameLocal: "Home",
+                                        pageTemplate: "/ apps / embcms / retail / core / templates / landing",
+                                        pageURL: document.location.origin + document.location.pathname
+                                   },
+                                   attributes:
+                                   {
+                                       contactForms:
+                                          {
+                                              isForm: ""
+                                        }
+                                   }
+                };
+   </script>
+   <script type = "text / javascript">
+    if (typeof _satellite! == 'undefined') {
+                    jQuery (document) .ready (function () {
+                        _satellite.pageBottom ();
+                        _satellite.track ("aem_pageload");
+                    });
+                }
+   </script>
+  </div>
+ </body>
+</html>
