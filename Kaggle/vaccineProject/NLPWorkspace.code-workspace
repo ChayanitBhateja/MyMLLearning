@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../NLP Krish Naik"
+		}
+	],
+	"settings": {
+		"activestate.promptRuntimeCreation": false,
+		"python.pythonPath": "/usr/bin/python3.6"
+	}
+}
